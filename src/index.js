@@ -9,6 +9,7 @@ const sassMiddleware = require('node-sass-middleware');
 const index = require('./routes/index');
 
 const app = express();
+app.locals.pretty = true;
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
