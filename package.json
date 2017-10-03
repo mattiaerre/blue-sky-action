@@ -3,7 +3,7 @@
   "version": "1.0.0-alpha.1",
   "scripts": {
     "start": "babel-node ./src/bin/www",
-    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www --exec babel-node --presets env,react"
+    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www --exec babel-node"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",

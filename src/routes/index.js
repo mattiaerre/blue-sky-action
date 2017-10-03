@@ -7,12 +7,13 @@ const { name, version } = require('../../package.json');
 const router = express.Router();
 
 router.get('/', (req, res) => {
-  const app = renderToString(<App version={version} />);
+  const app = renderToString(<App name={name} version={version} />);
 
   const model = {
     title: name,
     app
   };
+
   res.render('index', model);
 });
 

@@ -1,8 +1,10 @@
 import React from 'react';
 
-const App = ({ version }) => { // eslint-disable-line
+const App = ({ name, version }) => { // eslint-disable-line
   return (
-    <small>v{version}</small>
+    <div>
+      <small>{(new Date()).getFullYear()} {name} v{version}</small>
+    </div>
   );
 };
 
