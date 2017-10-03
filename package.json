@@ -6,19 +6,20 @@
     "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.17.1",
+    "body-parser": "^1.18.2",
     "cookie-parser": "~1.4.3",
-    "debug": "~2.6.3",
-    "express": "~4.15.2",
-    "morgan": "~1.8.1",
-    "node-sass-middleware": "0.9.8",
+    "debug": "^3.1.0",
+    "express": "^4.16.1",
+    "morgan": "^1.9.0",
+    "node-sass-middleware": "^0.11.0",
     "pug": "~2.0.0-beta11",
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
     "eslint": "^4.8.0",
     "eslint-config-airbnb": "^15.1.0",
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.12.1",
+    "npm-check": "^5.4.5"
   },
   "description": "blue-sky-action",
   "main": "app.js",
