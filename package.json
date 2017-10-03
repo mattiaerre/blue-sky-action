@@ -1,9 +1,9 @@
 {
   "name": "blue-sky-action",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./src/bin/www",
+    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www"
   },
   "dependencies": {
     "body-parser": "~1.17.1",
@@ -14,5 +14,26 @@
     "node-sass-middleware": "0.9.8",
     "pug": "~2.0.0-beta11",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "nodemon": "^1.12.1"
+  },
+  "description": "blue-sky-action",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiaerre/blue-sky-action.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Mattia Richetto",
+    "email": "mattia.richetto@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattiaerre/blue-sky-action/issues"
+  },
+  "homepage": "https://github.com/mattiaerre/blue-sky-action#readme"
 }
