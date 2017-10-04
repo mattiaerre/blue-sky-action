@@ -2,10 +2,12 @@
   "name": "blue-sky-action",
   "version": "1.0.0-alpha.1",
   "scripts": {
+    "bundle": "npm run bundle:client && npm run bundle:server",
+    "bundle:client": "webpack --debug true --config webpack.config.client.js",
+    "bundle:server": "webpack --debug true --config webpack.config.server.js",
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
-    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www",
-    "bundle": "webpack -d"
+    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
