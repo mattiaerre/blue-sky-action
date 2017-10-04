@@ -10,7 +10,7 @@ const App = ({ name, version, imgSrc }) => { // eslint-disable-line
       </div>
       <div className="row">
         <div className="col-12 text-center">
-          <img src={imgSrc} className="img-fluid border border-dark" alt="#ABGT" />
+          <img src={imgSrc} className="img-fluid border border-dark" alt="Powered By GIPHY" />
         </div>
       </div>
       <div className="row">
