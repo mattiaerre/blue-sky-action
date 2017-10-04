@@ -8,6 +8,9 @@
     "bundle": "webpack -d"
   },
   "dependencies": {
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
     "body-parser": "^1.18.2",
     "cookie-parser": "~1.4.3",
     "debug": "^3.1.0",
@@ -20,9 +23,6 @@
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "babel-preset-react": "^6.24.1",
     "eslint": "^4.8.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
