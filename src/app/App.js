@@ -1,6 +1,6 @@
 import React from 'react';
 
-const App = ({ name, version }) => { // eslint-disable-line
+const App = ({ name, version, imgSrc }) => { // eslint-disable-line
   return (
     <div className="container-fluid">
       <div className="row">
@@ -9,8 +9,8 @@ const App = ({ name, version }) => { // eslint-disable-line
         </div>
       </div>
       <div className="row">
-        <div className="col-12">
-          Insert content here ...
+        <div className="col-12 text-center">
+          <img src={imgSrc} className="img-fluid border border-dark" alt="#ABGT" />
         </div>
       </div>
       <div className="row">

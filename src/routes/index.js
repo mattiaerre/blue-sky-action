@@ -6,20 +6,17 @@ const { name, version } = require('../../package.json');
 
 const router = express.Router();
 
+const imgSrcs = [
+  'https://media.giphy.com/media/12R8I0lZSNVgTC/giphy.gif',
+  'https://media.giphy.com/media/yrPUdkhz53RgQ/giphy.gif',
+  'https://media.giphy.com/media/KL6ZLkfw8yRNu/giphy.gif'
+];
+
 router.get('/', (req, res) => {
-  const app = renderToString(
-    React.createElement(
-      App,
-      { name, version },
-      null
-    )
-  );
-
-  const model = {
-    title: name,
-    app
-  };
-
+  const imgSrc = imgSrcs[Math.floor(Math.random() * imgSrcs.length)];
+  const props = { name, version, imgSrc };
+  const app = renderToString(React.createElement(App, props));
+  const model = { title: name, app };
   res.render('index', model);
 });
 
