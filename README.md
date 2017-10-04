@@ -22,6 +22,8 @@ npm run start:dev
 
 - React
 
+- Webpack
+
 ## Dev Dependencies
 
 - Babel
