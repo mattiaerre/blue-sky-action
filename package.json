@@ -2,13 +2,12 @@
   "name": "blue-sky-action",
   "version": "1.0.0-alpha.1",
   "scripts": {
-    "start": "babel-node ./src/bin/www",
-    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www --exec babel-node"
+    "postinstall": "npm run bundle",
+    "start": "node ./src/bin/www",
+    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www",
+    "bundle": "webpack -d"
   },
   "dependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "babel-preset-react": "^6.24.1",
     "body-parser": "^1.18.2",
     "cookie-parser": "~1.4.3",
     "debug": "^3.1.0",
@@ -21,16 +20,20 @@
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
     "eslint": "^4.8.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.4.0",
     "nodemon": "^1.12.1",
-    "npm-check": "^5.4.5"
+    "npm-check": "^5.4.5",
+    "webpack": "^3.6.0"
   },
-  "description": "blue-sky-action",
-  "main": "app.js",
+  "description": "I'd love to build a mobile website.",
+  "main": "./src/bin/www",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mattiaerre/blue-sky-action.git"
