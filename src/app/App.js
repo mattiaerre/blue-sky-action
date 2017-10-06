@@ -4,11 +4,22 @@ import PropTypes from 'prop-types';
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      imgSrc: props.imgSrc,
+      loading: false,
+      tag: props.tag,
+    };
+  }
+
+  handleOnChange = (ev) => {
+    this.setState({ tag: ev.target.value });
   }
 
   handleOnClick = () => {
-    console.log('Moar ...');
+    this.setState({ loading: true });
+    fetch(`/api/v1/images?tag=${this.state.tag}`)
+      .then(response => response.json())
+      .then(data => this.setState({ loading: false, imgSrc: data[0] }));
   }
 
   render() {
@@ -22,7 +33,7 @@ class App extends Component {
         <div className="row">
           <div className="col-12 text-center">
             <img
-              src={this.props.imgSrc}
+              src={this.state.imgSrc}
               className="img-fluid border border-dark"
               alt="Powered By GIPHY"
             />
@@ -30,9 +41,23 @@ class App extends Component {
         </div>
         <div className="row">
           <div className="col-12 text-center p-2">
-            <button type="button" className="btn btn-primary" onClick={this.handleOnClick}>
-              Moar ...
-            </button>
+            <form>
+              <div className="form-row">
+                <div className="col">
+                  <input
+                    type="text"
+                    className="form-control"
+                    value={this.state.tag}
+                    onChange={this.handleOnChange}
+                  />
+                </div>
+                <div className="col">
+                  <button type="button" className="btn btn-primary" onClick={this.handleOnClick} disabled={this.state.loading}>
+                    Moar ...
+                  </button>
+                </div>
+              </div>
+            </form>
           </div>
         </div>
         <div className="row">
@@ -42,14 +67,15 @@ class App extends Component {
             </div>
           </div>
         </div>
-      </div>
+      </div >
     );
   }
 }
 
 App.propTypes = {
-  name: PropTypes.string.isRequired,
   imgSrc: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+  tag: PropTypes.string.isRequired,
   version: PropTypes.string.isRequired
 };
 

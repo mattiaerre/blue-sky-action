@@ -8,6 +8,7 @@ const bodyParser = require('body-parser');
 const sassMiddleware = require('node-sass-middleware');
 
 const index = require('./routes/index');
+const api = require('./routes/api');
 
 const app = express();
 app.locals.pretty = true;
@@ -29,6 +30,7 @@ app.use(sassMiddleware({
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
+app.use('/api/v1', api);
 
 app.use((req, res, next) => {
   const err = new Error('Not Found');
