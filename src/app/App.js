@@ -27,7 +27,7 @@ class App extends Component {
       <div className="container-fluid">
         <div className="row">
           <div className="col-12">
-            <h1>{this.props.name}</h1>
+            <h1>WW<span className="first-character">[{this.props.who.charAt(0)}]</span>D?</h1>
           </div>
         </div>
         <div className="row">
@@ -80,8 +80,10 @@ class App extends Component {
 App.propTypes = {
   imgSrc: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
+  // sources: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   tag: PropTypes.string.isRequired,
-  version: PropTypes.string.isRequired
+  version: PropTypes.string.isRequired,
+  who: PropTypes.string.isRequired
 };
 
 export default App;
