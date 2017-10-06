@@ -37,7 +37,9 @@ class App extends Component {
         </div>
         <div className="row">
           <div className="col-12">
-            <p className="lead">{this.props.quote}</p>
+            <blockquote className="blockquote">
+              <p className="mb-0">{this.props.quote}</p>
+            </blockquote>
           </div>
         </div>
         <div className="row">
