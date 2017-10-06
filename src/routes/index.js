@@ -16,7 +16,7 @@ router.get('/', async (req, res) => {
     tag
   });
 
-  const props = { imgSrc, name, tag, version, who: process.env.WHO };
+  const props = { imgSrc, name, quote: process.env.QUOTE, tag, version, who: process.env.WHO };
   const app = renderToString(React.createElement(App, props));
   const model = { app, props, title: name };
   res.render('index', model);

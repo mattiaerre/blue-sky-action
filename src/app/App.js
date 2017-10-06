@@ -36,6 +36,11 @@ class App extends Component {
           </div>
         </div>
         <div className="row">
+          <div className="col-12">
+            <p className="lead">{this.props.quote}</p>
+          </div>
+        </div>
+        <div className="row">
           <div className="col-12 text-center">
             <img
               src={this.state.imgSrc}
@@ -98,6 +103,7 @@ class App extends Component {
 App.propTypes = {
   imgSrc: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
+  quote: PropTypes.string.isRequired,
   tag: PropTypes.string.isRequired,
   version: PropTypes.string.isRequired,
   who: PropTypes.string.isRequired
