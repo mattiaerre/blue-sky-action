@@ -7,6 +7,7 @@ class App extends Component {
     this.state = {
       imgSrc: props.imgSrc,
       loading: false,
+      progressbarWidth: 100,
       tag: props.tag,
     };
   }
@@ -16,10 +17,14 @@ class App extends Component {
   }
 
   handleOnClick = () => {
-    this.setState({ loading: true });
+    this.setState({ loading: true, progressbarWidth: 5 });
     fetch(`/api/v1/images?tag=${this.state.tag}`)
       .then(response => response.json())
-      .then(data => this.setState({ loading: false, imgSrc: data[0] }));
+      .then(data => this.setState({ imgSrc: data[0] }));
+  }
+
+  handleOnLoad = () => {
+    this.setState({ loading: false, progressbarWidth: 100 });
   }
 
   render() {
@@ -36,7 +41,20 @@ class App extends Component {
               src={this.state.imgSrc}
               className="img-fluid border border-dark"
               alt="Powered By GIPHY"
+              onError={this.handleOnLoad}
+              onLoad={this.handleOnLoad}
             />
+          </div>
+        </div>
+        <div className="row py-2">
+          <div className="col-12 text-center">
+            <div className="progress">
+              <div
+                className="progress-bar"
+                role="progressbar"
+                style={{ width: `${this.state.progressbarWidth}%`, height: '1px' }}
+              />
+            </div>
           </div>
         </div>
         <div className="row">
@@ -80,7 +98,6 @@ class App extends Component {
 App.propTypes = {
   imgSrc: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
-  // sources: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   tag: PropTypes.string.isRequired,
   version: PropTypes.string.isRequired,
   who: PropTypes.string.isRequired
