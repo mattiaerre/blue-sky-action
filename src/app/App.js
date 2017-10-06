@@ -52,7 +52,12 @@ class App extends Component {
                   />
                 </div>
                 <div className="col">
-                  <button type="button" className="btn btn-primary" onClick={this.handleOnClick} disabled={this.state.loading}>
+                  <button
+                    type="button"
+                    className="btn btn-primary"
+                    onClick={this.handleOnClick}
+                    disabled={this.state.loading}
+                  >
                     Moar ...
                   </button>
                 </div>
