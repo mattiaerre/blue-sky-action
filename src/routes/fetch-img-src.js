@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const debug = require('debug')('blue-sky-action:routes/fetch-img-src');
 
-async function fetchImgSrc({ baseUrl, apiKey, tag }) {
+async function fetchImgSrc({ apiKey, baseUrl, tag }) {
   const url = `${baseUrl}/v1/gifs/random?api_key=${apiKey}&tag=${tag}&rating=G`;
   return fetch(url)
     .then(response => response.json())

@@ -11,13 +11,13 @@ router.get('/', async (req, res) => {
   const tag = process.env.GIPHY_TAG;
 
   const imgSrc = await fetchImgSrc({
-    baseUrl: process.env.GIPHY_BASE_URL,
     apiKey: process.env.GIPHY_API_KEY,
+    baseUrl: process.env.GIPHY_BASE_URL,
     tag
   });
   const props = { imgSrc, name, tag, version };
   const app = renderToString(React.createElement(App, props));
-  const model = { title: name, app, props };
+  const model = { app, props, title: name };
   res.render('index', model);
 });
 
