@@ -31,7 +31,7 @@ app.use(sassMiddleware({
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/api/v1', api);
-if (process.env.PLAYGROUND) {
+if (process.env.PLAYGROUND === true) {
   app.use('/', playground);
 } else {
   app.use('/', index);
