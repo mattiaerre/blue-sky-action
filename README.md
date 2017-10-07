@@ -10,7 +10,7 @@ npm i
 npm run start:dev
 ```
 
-## Dependencies
+## (Main) Dependencies
 
 - Babel
 
@@ -26,7 +26,7 @@ npm run start:dev
 
 - Webpack
 
-## Dev Dependencies
+## (Main) Dev Dependencies
 
 - ESlint
 

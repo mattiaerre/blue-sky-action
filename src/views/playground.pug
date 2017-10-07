@@ -1,0 +1,6 @@
+ul
+  each key in Object.keys(categories)
+    li= key
+      ul
+        each source in categories[key]
+          li= source.id
