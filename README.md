@@ -31,3 +31,5 @@ npm run start:dev
 - ESlint
 
 - Nodemon
+
+- Prettier
