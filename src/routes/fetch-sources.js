@@ -1,5 +1,5 @@
 const appendQuery = require('append-query');
-const debug = require('debug')('blue-sky-action:routes/fetch-img-src');
+const debug = require('debug')('blue-sky-action:routes/fetch-sources');
 const fetch = require('node-fetch');
 
 async function fetchSources({ baseUrl, category }) {
