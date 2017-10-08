@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
+// This Component is obsolete. Use `containers/App/App` instead.
 class App extends Component {
   constructor(props) {
     super(props);

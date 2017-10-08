@@ -1,11 +1,11 @@
 import React from 'react';
 
-const News = () => (
+const Home = () => (
   <div className="row">
     <div className="col-12">
-      <h2>News</h2>
+      <h2>Home</h2>
     </div>
   </div>
 );
 
-export default News;
+export default Home;

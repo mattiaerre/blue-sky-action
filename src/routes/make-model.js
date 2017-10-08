@@ -2,7 +2,7 @@ const fetchImgSrc = require('./fetch-img-src');
 const { name, version } = require('../../package.json');
 const index = require('../../dist/bundle').default;
 
-async function makeModel() {
+async function makeModel(req) {
   const tag = process.env.GIPHY_TAG;
 
   const imgSrc = await fetchImgSrc({
@@ -19,7 +19,8 @@ async function makeModel() {
     version,
     who: process.env.WHO
   };
-  const app = index(props);
+
+  const app = index(req, props);
   const model = { app, props, title: name };
   return model;
 }

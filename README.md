@@ -24,6 +24,8 @@ npm run start:dev
 
 - React
 
+- React Router
+
 - Webpack
 
 ## (Main) Dev Dependencies
