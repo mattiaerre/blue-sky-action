@@ -1,8 +1,8 @@
 import React from 'react';
-import { Route, Link } from 'react-router-dom';
+import { NavLink, Route, Switch } from 'react-router-dom';
 import PropTypes from 'prop-types';
-import Home from '../../containers/Home/Home';
-import News from '../../containers/News/News';
+import Home from '../../components/Home/Home';
+import News from '../../components/News/News';
 
 const App = props => (
   <div className="container-fluid">
@@ -17,20 +17,27 @@ const App = props => (
       <div className="col-12">
         <ul className="nav">
           <li className="nav-item">
-            <Link className="nav-link" to="/">
-              Index
-            </Link>
+            <NavLink className="nav-link" activeClassName="active" exact to="/">
+              Home
+            </NavLink>
           </li>
           <li>
-            <Link className="nav-link" to="/news/cnn">
+            <NavLink
+              className="nav-link"
+              activeClassName="active"
+              exact
+              to="/news/cnn"
+            >
               CNN
-            </Link>
+            </NavLink>
           </li>
         </ul>
       </div>
     </div>
-    <Route exact path="/" component={Home} />
-    <Route exact path="/news/cnn" component={News} />
+    <Switch>
+      <Route exact path="/" component={Home} />
+      <Route exact path="/news/cnn" component={News} />
+    </Switch>
   </div>
 );
 
