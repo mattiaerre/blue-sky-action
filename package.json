@@ -5,6 +5,9 @@
     "bundle": "npm run bundle:client && npm run bundle:server",
     "bundle:client": "webpack --debug true --config webpack.config.client.js",
     "bundle:server": "webpack --debug true --config webpack.config.server.js",
+    "format":
+      "prettier --single-quote --trailing-comma none --write \"{src,__{tests,mocks}__}/**/*.js\"",
+    "precommit": "lint-staged",
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
     "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www"
@@ -21,6 +24,8 @@
     "debug": "^3.1.0",
     "dotenv": "^4.0.0",
     "express": "^4.16.1",
+    "husky": "^0.14.3",
+    "lint-staged": "^4.2.3",
     "morgan": "^1.9.0",
     "node-fetch": "^1.7.3",
     "node-sass-middleware": "^0.11.0",
@@ -62,5 +67,8 @@
   "engines": {
     "node": "8",
     "npm": "5"
+  },
+  "lint-staged": {
+    "*.{js,json,css}": ["npm run format", "git add"]
   }
 }
