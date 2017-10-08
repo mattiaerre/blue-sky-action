@@ -1,0 +1,87 @@
+{
+  "status": "ok",
+  "source": "the-huffington-post",
+  "sortBy": "top",
+  "articles": [
+    {
+      "author": "Angelina Chapin",
+      "title": "Attorney Lisa Bloom Drops Harvey Weinstein As Sexual Harassment Allegations Escalate",
+      "description": "A Friday report alleged the media mogul trapped a woman in a hallway and masturbated in front of her.",
+      "url": "https://www.huffingtonpost.com/entry/lisa-bloom-leaves-harvey-weinstein_us_59d8fd13e4b046f5ad9899be",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d8f9f41400008b23493923.jpeg?cache=odvsdmm3sv&ops=1910_1000",
+      "publishedAt": "2017-10-07T17:03:43Z"
+    },
+    {
+      "author": "Lee Moran",
+      "title": "Donald Trump Marks Hispanic Heritage Month By Mocking The Puerto Rican Accent",
+      "description": "\"Ugh. Just build the wall already... permanently around him.\"",
+      "url": "https://www.huffingtonpost.com/entry/donald-trump-puerto-rico-spanish-accent_us_59d881dee4b072637c443a6e",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d88505140000a6234938cb.png?cache=npyahlyure&ops=1910_1000",
+      "publishedAt": "2017-10-07T08:12:20Z"
+    },
+    {
+      "author": "Hilary Hanson",
+      "title": "Late Night Hosts Slammed For Relative Silence On Weinstein Allegations",
+      "description": "Prominent comedians haven't had much to say on the bombshell sexual harassment accusations.",
+      "url": "https://www.huffingtonpost.com/entry/harvey-weinstein-allegations-late-night_us_59d8f10fe4b072637c446031",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d8f24c200000093408599a.jpeg?cache=nwa8upm9p8&ops=1910_1000",
+      "publishedAt": "2017-10-07T17:19:31Z"
+    },
+    {
+      "author": "Jenna Amatulli",
+      "title": "Mitchell Sunderland Fired From Vice After BuzzFeed's Bombshell Report",
+      "description": "Vice told BuzzFeed it was \"shocked and disappointed\" by the Broadly writer's \"highly inappropriate and unprofessional conduct.”",
+      "url": "https://www.huffingtonpost.com/entry/mitchell-sunderland-fired-from-vice_us_59d7d792e4b0f6eed3503693",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d7dcf51400008b234937ee.jpeg?cache=xuqphszolm&ops=1910_1000",
+      "publishedAt": "2017-10-06T20:22:42Z"
+    },
+    {
+      "author": "Todd Van Luling",
+      "title": "'Honest Trailers' Creator Suspended After Sexual Harassment Allegations",
+      "description": "Multiple women shared harrowing stories of workplace harassment.",
+      "url": "https://www.huffingtonpost.com/entry/honest-trailers-sexual-harassment_us_59d8dd1de4b072637c444d25",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d8e1412000000e3408598a.jpeg?cache=miwbeo78ho&ops=1910_1000",
+      "publishedAt": "2017-10-07T15:59:30Z"
+    },
+    {
+      "author": "Reuters",
+      "title": "Danish Divers Find Missing Body Parts Of Swedish Journalist",
+      "description": "Kim Wall died in mysterious circumstances on an inventor’s homemade submarine.",
+      "url": "https://www.huffingtonpost.com/entry/danish-divers-find-missing-body-parts-of-swedish-journalist_us_59d8dfc6e4b072637c444e0f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d8e0c6140000a623493905.jpeg?cache=yw2l8dmyt6&ops=1910_1000",
+      "publishedAt": "2017-10-07T14:14:11Z"
+    },
+    {
+      "author": "Todd Van Luling",
+      "title": "Nelly Arrested On Accusation Of Rape",
+      "description": "\"Nelly is the victim of a completely fabricated allegation,\" Nelly's attorney tells HuffPost.",
+      "url": "https://www.huffingtonpost.com/entry/nelly-rape_us_59d8f430e4b072637c446441",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d8f728140000a62349391f.jpeg?cache=nnd5bcwvfy&ops=1910_1000",
+      "publishedAt": "2017-10-07T16:50:05Z"
+    },
+    {
+      "author": "Yahoo! News",
+      "title": "64 Hours In October: How One Weekend Blew Up The Rules Of American Politics",
+      "description": "A firsthand account of the drama that unfolded during Oct. 7-9, 2016.",
+      "url": "https://www.huffingtonpost.com/entry/yahoo-64-hours-october-american-politics_us_59d7c567e4b072637c43dd1c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d7d17c2d000097173090c5.jpeg?cache=drq2lxdga6&ops=1910_1000",
+      "publishedAt": "2017-10-06T20:30:56Z"
+    },
+    {
+      "author": "Melissa Jeltsen",
+      "title": "Portrait Of An American Mass Shooting",
+      "description": "Unlike what happened in Las Vegas, most mass killers in the U.S. target those closest to them.",
+      "url": "https://www.huffingtonpost.com/entry/mass-shooting-domestic-violence-willie-cory-godbolt_us_5989f222e4b0449ed505d656",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59d7c37a2d00009717309088.jpeg?cache=kva9ov7xeh&ops=1910_1000",
+      "publishedAt": "2017-10-07T15:15:20Z"
+    },
+    {
+      "author": "Dee J. Hall, Riley Vetterkind",
+      "title": "Undocumented Workers Are The Backbone Of Dairies. Will Trump Change That?",
+      "description": "\"A cow does not take a day off.\"",
+      "url": "https://www.huffingtonpost.com/entry/wisconsin-dairy-industry-undocumented-workers_us_59c3cfb7e4b06f93538cfd3f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/59cbf4d52d0000dd02307723.jpeg?cache=jm5fvlt9zv&ops=1910_1000",
+      "publishedAt": "2017-10-06T14:24:57Z"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ function sortByKey(a, b, key) {
 router.get('/', async (req, res) => {
   const sources = await fetchShources({
     baseUrl: process.env.NEWSAPI_BASE_URL,
-    category: req.query.category ? req.query.category : null
+    category: req.query.category ? req.query.category : 'general'
   });
 
   const model = {
