@@ -10,6 +10,7 @@ const sassMiddleware = require('node-sass-middleware');
 const api = require('./routes/api');
 const index = require('./routes/index');
 const playground = require('./routes/playground');
+const zlatan = require('./routes/zlatan');
 
 const app = express();
 app.locals.pretty = true;
@@ -38,6 +39,7 @@ if (process.env.PLAYGROUND === 'true') {
 } else {
   app.use('/', index);
 }
+app.use('/zlatan', zlatan);
 
 app.use((req, res, next) => {
   const err = new Error('Not Found');

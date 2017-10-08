@@ -1,9 +1,20 @@
 import React from 'react';
 import { hydrate } from 'react-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 import App from './App';
+import News from './containers/News/News';
 
 const root = document.getElementById('app');
 
-const props = window.__MODEL__;
+const model = window.__MODEL__;
 
-hydrate(<App {...props} />, root);
+const Router = () => (
+  <BrowserRouter>
+    <div>
+      <Route exact path="/" render={props => <App {...props} {...model} />} />
+      <Route path="/news/cnn" component={News} />
+    </div>
+  </BrowserRouter>
+);
+
+hydrate(<Router />, root);

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 class App extends Component {
@@ -37,6 +38,22 @@ class App extends Component {
                 [{this.props.who.charAt(0)}]
               </span>D?
             </h1>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-12">
+            <ul className="nav">
+              <li className="nav-item">
+                <Link className="nav-link" to="/">
+                  Index
+                </Link>
+              </li>
+              <li>
+                <Link className="nav-link" to="/news/cnn">
+                  CNN
+                </Link>
+              </li>
+            </ul>
           </div>
         </div>
         <div className="row">
