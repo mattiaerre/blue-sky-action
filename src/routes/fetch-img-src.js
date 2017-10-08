@@ -6,7 +6,7 @@ async function fetchImgSrc({ apiKey, baseUrl, tag }) {
   return fetch(url)
     .then(response => response.json())
     .then(({ data }) => data.image_url)
-    .catch((error) => {
+    .catch(error => {
       debug(error);
       return 'error';
     });

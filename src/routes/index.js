@@ -17,7 +17,14 @@ async function makeModel() {
     tag
   });
 
-  const props = { imgSrc, name, quote: process.env.QUOTE, tag, version, who: process.env.WHO };
+  const props = {
+    imgSrc,
+    name,
+    quote: process.env.QUOTE,
+    tag,
+    version,
+    who: process.env.WHO
+  };
   const app = renderToString(React.createElement(App, props));
   const model = { app, props, title: name };
   return model;
@@ -35,7 +42,6 @@ router.get('/news/:source', async (req, res) => {
 
   res.render('index', { articles, ...model });
 });
-
 
 router.get('/', async (req, res) => {
   const model = await makeModel(res);

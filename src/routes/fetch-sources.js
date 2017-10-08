@@ -13,7 +13,7 @@ async function fetchSources({ baseUrl, category }) {
   return fetch(url)
     .then(response => response.json())
     .then(({ sources }) => sources)
-    .catch((error) => {
+    .catch(error => {
       debug(error);
       return 'error';
     });

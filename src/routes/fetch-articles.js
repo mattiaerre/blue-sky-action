@@ -13,7 +13,7 @@ async function fetchArticles({ apiKey, baseUrl, sortBy, source }) {
   return fetch(url)
     .then(response => response.json())
     .then(({ articles }) => articles)
-    .catch((error) => {
+    .catch(error => {
       debug(error);
       return 'error';
     });

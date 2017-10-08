@@ -22,14 +22,14 @@ router.get('/', async (req, res) => {
   const model = {
     sources,
     categories: sources
-      .sort((a, b) => (sortByKey(a, b, 'category')))
+      .sort((a, b) => sortByKey(a, b, 'category'))
       .reduce((acc, item) => {
         if (acc[item.category]) {
           acc[item.category].push(item);
         } else {
           acc[item.category] = [item];
         }
-        acc[item.category].sort((a, b) => (sortByKey(a, b, 'id')));
+        acc[item.category].sort((a, b) => sortByKey(a, b, 'id'));
         return acc;
       }, {})
   };
