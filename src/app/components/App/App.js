@@ -36,12 +36,13 @@ const App = props => (
     </div>
     <Switch>
       <Route exact path="/" component={Home} />
-      <Route exact path="/news/cnn" component={News} />
+      <Route exact path="/news/cnn" render={_ => <News {..._} {...props} />} />
     </Switch>
   </div>
 );
 
 App.propTypes = {
+  articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   who: PropTypes.string.isRequired
 };
 

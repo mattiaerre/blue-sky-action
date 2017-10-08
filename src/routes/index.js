@@ -14,7 +14,9 @@ router.get('/news/:source', async (req, res) => {
     source: req.params.source
   });
 
-  res.render('index', { articles, ...model });
+  model.props = { articles, ...model.props };
+
+  res.render('index', model);
 });
 
 router.get('/', async (req, res) => {
