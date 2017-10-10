@@ -4,7 +4,7 @@ const makeModel = require('./make-model');
 
 const router = express.Router();
 
-router.get('/news/:source', async (req, res) => {
+router.get('/:category/:source', async (req, res) => {
   const articles = await fetchArticles({
     apiKey: process.env.NEWSAPI_API_KEY,
     baseUrl: process.env.NEWSAPI_BASE_URL,
@@ -14,6 +14,11 @@ router.get('/news/:source', async (req, res) => {
 
   const model = await makeModel(req, articles);
 
+  res.render('index', model);
+});
+
+router.get('/:category', async (req, res) => {
+  const model = await makeModel(req, []);
   res.render('index', model);
 });
 

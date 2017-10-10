@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-class News extends Component {
+class Articles extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -28,7 +28,7 @@ class News extends Component {
     return (
       <div className="row">
         <div className="col-12">
-          <h2>News</h2>
+          <h2>Articles</h2>
           <ul>
             {this.state.articles.map((article, index) => (
               <li key={index}>{article.title}</li> // eslint-disable-line react/no-array-index-key
@@ -40,9 +40,9 @@ class News extends Component {
   }
 }
 
-News.propTypes = {
+Articles.propTypes = {
   articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   match: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
 };
 
-export default News;
+export default Articles;
