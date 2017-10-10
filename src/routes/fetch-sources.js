@@ -2,11 +2,11 @@ const appendQuery = require('append-query');
 const debug = require('debug')('blue-sky-action:routes/fetch-sources');
 const fetch = require('node-fetch');
 
-async function fetchSources({ baseUrl, category }) {
+async function fetchSources({ baseUrl, category, language, country }) {
   const params = {
     category,
-    language: 'en',
-    country: 'us'
+    language,
+    country
   };
   const url = appendQuery(`${baseUrl}/v1/sources`, params);
 

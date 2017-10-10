@@ -8,9 +8,7 @@ const App = props => (
   <div className="container-fluid">
     <div className="row">
       <div className="col-12">
-        <h1>
-          WW<span className="first-character">[{props.who.charAt(0)}]</span>D?
-        </h1>
+        <h1>Blue Sky Action</h1>
       </div>
     </div>
     <div className="row">
@@ -62,8 +60,7 @@ const App = props => (
 );
 
 App.propTypes = {
-  articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
-  who: PropTypes.string.isRequired
+  articles: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
 };
 
 export default App;

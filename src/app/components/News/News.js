@@ -9,12 +9,20 @@ class News extends Component {
     };
   }
 
+  componentDidMount() {
+    this.getArticles(this.props.match.params.source);
+  }
+
   componentWillReceiveProps(props) {
+    this.getArticles(props.match.params.source);
+  }
+
+  getArticles = source => {
     // info: https://stackoverflow.com/questions/32261441/component-does-not-remount-when-route-parameters-change
-    fetch(`/api/v1/articles?source=${props.match.params.source}`)
+    fetch(`/api/v1/articles?source=${source}`)
       .then(response => response.json())
       .then(articles => this.setState({ articles }));
-  }
+  };
 
   render() {
     return (

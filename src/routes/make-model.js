@@ -1,24 +1,11 @@
-const fetchImgSrc = require('./fetch-img-src');
 const { name, version } = require('../../package.json');
 const index = require('../../dist/bundle').default;
 
 async function makeModel(req, articles) {
-  const tag = process.env.GIPHY_TAG;
-
-  const imgSrc = await fetchImgSrc({
-    apiKey: process.env.GIPHY_API_KEY,
-    baseUrl: process.env.GIPHY_BASE_URL,
-    tag
-  });
-
   const props = {
     articles,
-    imgSrc,
     name,
-    quote: process.env.QUOTE,
-    tag,
-    version,
-    who: process.env.WHO
+    version
   };
 
   const app = index(req, props);
