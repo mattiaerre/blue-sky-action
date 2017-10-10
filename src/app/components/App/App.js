@@ -6,11 +6,21 @@ import Articles from '../../components/Articles/Articles';
 import Home from '../../components/Home/Home';
 import Sources from '../../components/Sources/Sources';
 
+function numberOfSources(sources, category) {
+  return sources.filter(source => source.category === category).length;
+}
+
 const App = props => (
   <div className="container-fluid">
     <div className="row">
       <div className="col-12">
-        <h1>Blue Sky Action</h1>
+        <h1>
+          Blue{' '}
+          <a className="sky" href="/">
+            Sky
+          </a>{' '}
+          Action
+        </h1>
       </div>
     </div>
     <div className="row">
@@ -19,11 +29,14 @@ const App = props => (
           {props.categories.map(category => (
             <NavLink
               key={category}
-              className="nav-link"
+              className="nav-link btn"
               activeClassName="active"
               to={`/${category}`}
             >
-              {`${dictionary[category]}`}
+              {`${dictionary[category]} `}
+              <span className="badge badge-secondary">
+                {numberOfSources(props.sources, category)}
+              </span>
             </NavLink>
           ))}
         </nav>

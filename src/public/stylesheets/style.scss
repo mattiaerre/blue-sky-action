@@ -1,9 +1,13 @@
 body {
   font-family: 'Inconsolata', monospace;
-  background-color: palevioletred;
-  color: #f5f5f5;
+  background-color: #f5f5f5;
 }
 
-h1 {
+h1, h2 {
   text-shadow: 1px 1px #333;
+  color: #666;
+}
+
+.sky {
+  color: darkblue;
 }

@@ -22,7 +22,7 @@ class Sources extends Component {
                 .map(source => (
                   <NavLink
                     key={source.id}
-                    className="nav-link"
+                    className="nav-link btn"
                     activeClassName="active"
                     to={`/${category}/${source.id}`}
                   >

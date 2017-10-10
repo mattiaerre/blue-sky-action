@@ -29,9 +29,12 @@ class Articles extends Component {
       <div className="row">
         <div className="col-12">
           <h2>Articles</h2>
-          <ul>
-            {this.state.articles.map((article, index) => (
-              <li key={index}>{article.title}</li> // eslint-disable-line react/no-array-index-key
+          <ul className="list-unstyled">
+            {this.state.articles.map(article => (
+              <li key={article.url}>
+                <h4>{article.title}</h4>
+                <p>{article.description}</p>
+              </li>
             ))}
           </ul>
         </div>
