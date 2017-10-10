@@ -9,8 +9,9 @@ class News extends Component {
     };
   }
 
-  componentDidMount() {
-    fetch(`/api/v1/articles?source=${this.props.match.path.split('/news/')[1]}`)
+  componentWillReceiveProps(props) {
+    // info: https://stackoverflow.com/questions/32261441/component-does-not-remount-when-route-parameters-change
+    fetch(`/api/v1/articles?source=${props.match.params.source}`)
       .then(response => response.json())
       .then(articles => this.setState({ articles }));
   }
@@ -21,7 +22,9 @@ class News extends Component {
         <div className="col-12">
           <h2>News</h2>
           <ul>
-            {this.state.articles.map(article => <li>{article.title}</li>)}
+            {this.state.articles.map((article, index) => (
+              <li key={index}>{article.title}</li> // eslint-disable-line react/no-array-index-key
+            ))}
           </ul>
         </div>
       </div>

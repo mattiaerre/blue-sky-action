@@ -31,12 +31,32 @@ const App = props => (
               CNN
             </NavLink>
           </li>
+          <li>
+            <NavLink
+              className="nav-link"
+              activeClassName="active"
+              exact
+              to="/news/the-guardian-uk"
+            >
+              The Guardian (UK)
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              className="nav-link"
+              activeClassName="active"
+              exact
+              to="/news/the-huffington-post"
+            >
+              The Huffington Post
+            </NavLink>
+          </li>
         </ul>
       </div>
     </div>
     <Switch>
       <Route exact path="/" component={Home} />
-      <Route exact path="/news/cnn" render={_ => <News {..._} {...props} />} />
+      <Route path="/news/:source" render={_ => <News {..._} {...props} />} />
     </Switch>
   </div>
 );
