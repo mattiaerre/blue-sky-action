@@ -14,6 +14,9 @@ async function makeModel(req, articles) {
         return acc;
       }, []),
     name,
+    sources: sources.filter(
+      source => source.language === 'en' && source.country === 'us'
+    ),
     version
   };
 

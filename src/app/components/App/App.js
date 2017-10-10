@@ -29,42 +29,16 @@ const App = props => (
         </nav>
       </div>
     </div>
-    <Route exact path="/:category" component={Sources} />
-    <div className="row">
-      <div className="col-12">
-        <nav className="nav">
-          <NavLink
-            className="nav-link"
-            activeClassName="active"
-            exact
-            to="/general/cnn"
-          >
-            CNN
-          </NavLink>
-          <NavLink
-            className="nav-link"
-            activeClassName="active"
-            exact
-            to="/general/the-guardian-uk"
-          >
-            The Guardian (UK)
-          </NavLink>
-          <NavLink
-            className="nav-link"
-            activeClassName="active"
-            exact
-            to="/general/the-huffington-post"
-          >
-            The Huffington Post
-          </NavLink>
-        </nav>
-      </div>
-    </div>
+    <Route
+      path="/:category"
+      render={_ => <Sources {..._} sources={props.sources} />}
+    />
     <Switch>
       <Route exact path="/" component={Home} />
       <Route
+        exact
         path="/:category/:source"
-        render={_ => <Articles {..._} {...props} />}
+        render={_ => <Articles {..._} articles={props.articles} />}
       />
     </Switch>
   </div>
@@ -73,7 +47,8 @@ const App = props => (
 App.propTypes = {
   articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   categories: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
-  match: PropTypes.object // eslint-disable-line react/forbid-prop-types
+  match: PropTypes.object, // eslint-disable-line react/forbid-prop-types
+  sources: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
 };
 
 App.defaultProps = {
