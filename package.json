@@ -71,6 +71,6 @@
     "npm": "5"
   },
   "lint-staged": {
-    "*.{js,json,css}": ["npm run format", "git add"]
+    "*.{js,json}": ["npm run format", "git add"]
   }
 }
