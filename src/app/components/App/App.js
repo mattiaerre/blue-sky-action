@@ -1,47 +1,14 @@
 import React from 'react';
-import { NavLink, Route, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 import PropTypes from 'prop-types';
-import dictionary from '../../dictionary';
 import Articles from '../../components/Articles/Articles';
 import Home from '../../components/Home/Home';
+import Navbar from '../../components/Navbar/Navbar';
 import Sources from '../../components/Sources/Sources';
-
-function numberOfSources(sources, category) {
-  return sources.filter(source => source.category === category).length;
-}
 
 const App = props => (
   <div className="container-fluid">
-    <div className="row">
-      <div className="col-12">
-        <h1>
-          Blue{' '}
-          <a className="sky" href="/">
-            Sky
-          </a>{' '}
-          Action
-        </h1>
-      </div>
-    </div>
-    <div className="row">
-      <div className="col-12">
-        <nav className="nav">
-          {props.categories.map(category => (
-            <NavLink
-              key={category}
-              className="nav-link btn"
-              activeClassName="active"
-              to={`/${category}`}
-            >
-              {`${dictionary[category]} `}
-              <span className="badge badge-secondary">
-                {numberOfSources(props.sources, category)}
-              </span>
-            </NavLink>
-          ))}
-        </nav>
-      </div>
-    </div>
+    <Navbar categories={props.categories} sources={props.sources} />
     <Route
       path="/:category"
       render={_ => <Sources {..._} sources={props.sources} />}
