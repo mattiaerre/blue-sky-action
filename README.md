@@ -10,6 +10,12 @@ npm i
 npm run start:dev
 ```
 
+## Used APIs
+
+- [News API](https://newsapi.org/)
+
+- [OpenWeatherMap](https://openweathermap.org/)
+
 ## (Main) Dependencies
 
 - Babel
