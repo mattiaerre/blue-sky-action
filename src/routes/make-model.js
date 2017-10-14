@@ -2,7 +2,7 @@ const { name, version } = require('../../package.json');
 const index = require('../../dist/bundle').default;
 const sources = require('../data/sources');
 
-async function makeModel(req, articles) {
+async function makeModel(req, articles, weather) {
   const props = {
     articles,
     categories: sources
@@ -17,7 +17,8 @@ async function makeModel(req, articles) {
     sources: sources.filter(
       source => source.language === 'en' && source.country === 'us'
     ),
-    version
+    version,
+    weather
   };
 
   const app = index(req, props);

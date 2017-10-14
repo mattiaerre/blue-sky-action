@@ -5,7 +5,9 @@
     "comma-dangle": "off",
     "react/jsx-filename-extension": "off",
     "no-underscore-dangle": "off",
-    "arrow-parens": "off"
+    "arrow-parens": "off",
+    "function-paren-newline": "off",
+    "object-curly-newline": "off"
   },
   "env": {
     "browser": true

@@ -1,11 +1,15 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+import OpenWeatherMap from 'react-open-weather-map';
 import { links } from './data.json';
 
-const Home = () => (
+const Home = ({ weather }) => (
   <div className="row">
     <div className="col-12">
-      <h2>Home</h2>
-      <ul>
+      <h2>Weather</h2>
+      <OpenWeatherMap data={weather} />
+      <h2>Links</h2>
+      <ul className="list-unstyled">
         {Object.keys(links).map(key => (
           <li key={key}>
             <a href={links[key].url} target="_blank" rel="noopener noreferrer">
@@ -17,5 +21,9 @@ const Home = () => (
     </div>
   </div>
 );
+
+Home.propTypes = {
+  weather: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
+};
 
 export default Home;
