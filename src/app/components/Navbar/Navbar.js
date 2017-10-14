@@ -8,7 +8,7 @@ function numberOfSources(sources, category) {
 }
 
 const Navbar = ({ categories, sources }) => (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light">
+  <nav className="navbar navbar-expand-lg navbar-light bg-light border border-top-0 border-right-0 border-left-0">
     <a className="navbar-brand" href="/">
       Blue Sky Action
     </a>
@@ -27,9 +27,8 @@ const Navbar = ({ categories, sources }) => (
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mr-auto">
         {categories.map(category => (
-          <li className="nav-item">
+          <li key={category} className="nav-item">
             <NavLink
-              key={category}
               className="nav-link"
               activeClassName="active"
               to={`/${category}`}

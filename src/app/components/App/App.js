@@ -7,20 +7,22 @@ import Navbar from '../../components/Navbar/Navbar';
 import Sources from '../../components/Sources/Sources';
 
 const App = props => (
-  <div className="container-fluid">
+  <div>
     <Navbar categories={props.categories} sources={props.sources} />
-    <Route
-      path="/:category"
-      render={_ => <Sources {..._} sources={props.sources} />}
-    />
-    <Switch>
-      <Route exact path="/" component={Home} />
+    <div className="container-fluid">
       <Route
-        exact
-        path="/:category/:source"
-        render={_ => <Articles {..._} articles={props.articles} />}
+        path="/:category"
+        render={_ => <Sources {..._} sources={props.sources} />}
       />
-    </Switch>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route
+          exact
+          path="/:category/:source"
+          render={_ => <Articles {..._} articles={props.articles} />}
+        />
+      </Switch>
+    </div>
   </div>
 );
 
