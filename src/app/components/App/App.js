@@ -36,14 +36,12 @@ App.propTypes = {
   articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   categories: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   name: PropTypes.string.isRequired,
-  match: PropTypes.object, // eslint-disable-line react/forbid-prop-types
   sources: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   version: PropTypes.string.isRequired,
   weather: PropTypes.object // eslint-disable-line react/forbid-prop-types
 };
 
 App.defaultProps = {
-  match: { params: { category: 'general' } },
   weather: null
 };
 

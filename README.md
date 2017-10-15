@@ -38,6 +38,8 @@ npm run start:dev
 
 - ESlint
 
+- Jest
+
 - Nodemon
 
 - Prettier

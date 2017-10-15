@@ -16,15 +16,15 @@ const Navbar = ({ categories, sources }) => (
       className="navbar-toggler"
       type="button"
       data-toggle="collapse"
-      data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
+      data-target="#navbar"
+      aria-controls="navbar"
       aria-expanded="false"
       aria-label="Toggle navigation"
     >
       <span className="navbar-toggler-icon" />
     </button>
 
-    <div className="collapse navbar-collapse" id="navbarSupportedContent">
+    <div className="collapse navbar-collapse" id="navbar">
       <ul className="navbar-nav mr-auto">
         {categories.map(category => (
           <li key={category} className="nav-item">

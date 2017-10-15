@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Sources /> to match snapshot 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-12"
+    >
+      <h2>
+        Entertainment
+      </h2>
+    </div>
+  </div>
+  <div
+    className="row pb-3"
+  >
+    <div
+      className="col-12"
+    >
+      <ul
+        className="nav nav-pills"
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link"
+            href="/entertainment/buzzfeed"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Buzzfeed
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

@@ -15,11 +15,11 @@ class Articles extends Component {
   }
 
   componentWillReceiveProps(props) {
+    // info: https://stackoverflow.com/questions/32261441/component-does-not-remount-when-route-parameters-change
     this.getArticles(props.match.params.source);
   }
 
   getArticles = source => {
-    // info: https://stackoverflow.com/questions/32261441/component-does-not-remount-when-route-parameters-change
     this.setState({ loading: true });
     fetch(`/api/v1/articles?source=${source}`)
       .then(response => response.json())
