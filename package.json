@@ -10,7 +10,9 @@
     "precommit": "lint-staged",
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
-    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www"
+    "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "append-query": "^2.0.1",
