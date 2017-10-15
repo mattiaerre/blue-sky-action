@@ -2,6 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import dictionary from '../../dictionary';
+import map from './default-source-category-map.json';
 
 function numberOfSources(sources, category) {
   return sources.filter(source => source.category === category).length;
@@ -31,7 +32,7 @@ const Navbar = ({ categories, sources }) => (
             <NavLink
               className="nav-link"
               activeClassName="active"
-              to={`/${category}`}
+              to={`/${category}/${map[category]}`}
             >
               {`${dictionary[category]} `}
               <span className="badge badge-secondary">

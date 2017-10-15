@@ -36,7 +36,7 @@ exports[`<Navbar /> to match snapshot 1`] = `
         <a
           aria-current={false}
           className="nav-link"
-          href="/entertainment"
+          href="/entertainment/mashable"
           onClick={[Function]}
           style={undefined}
         >
@@ -54,7 +54,7 @@ exports[`<Navbar /> to match snapshot 1`] = `
         <a
           aria-current={false}
           className="nav-link"
-          href="/technology"
+          href="/technology/techcrunch"
           onClick={[Function]}
           style={undefined}
         >
