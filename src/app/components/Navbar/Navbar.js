@@ -8,7 +8,7 @@ function numberOfSources(sources, category) {
 }
 
 const Navbar = ({ categories, sources }) => (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light border border-top-0 border-right-0 border-left-0">
+  <nav className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0">
     <a className="navbar-brand" href="/">
       Blue Sky Action
     </a>
