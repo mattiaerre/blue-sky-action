@@ -9,7 +9,7 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
       className="navbar-brand"
       href="/"
     >
-      Blue Sky Action
+      [\`/\`]
     </a>
     <button
       aria-controls="navbar"
@@ -136,7 +136,7 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
       className="navbar-brand"
       href="/"
     >
-      Blue Sky Action
+      [\`/\`]
     </a>
     <button
       aria-controls="navbar"
@@ -235,7 +235,7 @@ exports[`<App /> location === "/" to match snapshot 3`] = `
       className="navbar-brand"
       href="/"
     >
-      Blue Sky Action
+      [\`/\`]
     </a>
     <button
       aria-controls="navbar"
