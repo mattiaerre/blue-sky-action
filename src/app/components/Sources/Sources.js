@@ -12,22 +12,23 @@ const Sources = props => {
           <h2>{dictionary[category]}</h2>
         </div>
       </div>
-      <div className="row">
+      <div className="row pb-3">
         <div className="col-12">
-          <nav className="nav">
+          <ul className="nav nav-pills">
             {props.sources
               .filter(source => source.category === category)
               .map(source => (
-                <NavLink
-                  key={source.id}
-                  className="nav-link btn"
-                  activeClassName="active"
-                  to={`/${category}/${source.id}`}
-                >
-                  {source.name}
-                </NavLink>
+                <li key={source.id} className="nav-item">
+                  <NavLink
+                    className="nav-link"
+                    activeClassName="active"
+                    to={`/${category}/${source.id}`}
+                  >
+                    {source.name}
+                  </NavLink>
+                </li>
               ))}
-          </nav>
+          </ul>
         </div>
       </div>
     </div>

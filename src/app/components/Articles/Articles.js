@@ -33,12 +33,22 @@ class Articles extends Component {
           {this.state.loading && <h3>Loading ...</h3>}
           {!this.state.loading && (
             <ul className="list-unstyled">
-              {this.state.articles.map(article => (
-                <li key={article.url}>
-                  <h4>{article.title}</h4>
-                  <p>{article.description}</p>
-                </li>
-              ))}
+              {this.state.articles.map((article, index) => {
+                if (index === 0) {
+                  return (
+                    <li key={article.url}>
+                      <h3>{article.title}</h3>
+                      <p className="lead">{article.description}</p>
+                    </li>
+                  );
+                }
+                return (
+                  <li key={article.url}>
+                    <h4>{article.title}</h4>
+                    <p>{article.description}</p>
+                  </li>
+                );
+              })}
             </ul>
           )}
         </div>
