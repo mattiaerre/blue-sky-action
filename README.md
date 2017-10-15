@@ -18,8 +18,6 @@ npm run start:dev
 
 ## (Main) Dependencies
 
-- Babel
-
 - Bootstrap
 
 - Express
@@ -35,6 +33,8 @@ npm run start:dev
 - Webpack
 
 ## (Main) Dev Dependencies
+
+- Babel
 
 - ESlint
 
