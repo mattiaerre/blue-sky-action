@@ -7,7 +7,6 @@ router.get('/articles', async (req, res) => {
   const articles = await fetchArticles({
     apiKey: process.env.NEWSAPI_API_KEY,
     baseUrl: process.env.NEWSAPI_BASE_URL,
-    sortBy: 'top',
     source: req.query.source
   });
   res.send(articles);
