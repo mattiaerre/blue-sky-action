@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> 1`] = `
+<footer
+  className="border border-right-0 border-bottom-0 border-left-0"
+>
+  <div
+    className="container-fluid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-12"
+      >
+        <small
+          className="float-right"
+        >
+          red-ribbon-army v2.0.0
+        </small>
+      </div>
+    </div>
+  </div>
+</footer>
+`;
