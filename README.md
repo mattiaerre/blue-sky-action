@@ -30,8 +30,6 @@ npm run start:dev
 
 - React Router
 
-- Webpack
-
 ## (Main) Dev Dependencies
 
 - Babel
@@ -43,3 +41,5 @@ npm run start:dev
 - Nodemon
 
 - Prettier
+
+- Webpack
