@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import dictionary from '../../dictionary';
-import map from './default-source-category-map.json';
+import map from './category-source-map.json';
 
 function numberOfSources(sources, category) {
   return sources.filter(source => source.category === category).length;

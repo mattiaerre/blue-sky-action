@@ -20,6 +20,21 @@ exports[`<Footer /> to match snapshot 1`] = `
         </small>
       </div>
     </div>
+    <div>
+      <div>
+        <small
+          className="float-right"
+        >
+          <a
+            href="https://newsapi.org/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            powered by News API
+          </a>
+        </small>
+      </div>
+    </div>
   </div>
 </footer>
 `;
