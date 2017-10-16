@@ -37,15 +37,28 @@ class Articles extends Component {
                 if (index === 0) {
                   return (
                     <li key={article.url}>
-                      <h3>{article.title}</h3>
-                      <p className="lead">{article.description}</p>
+                      <div className="card">
+                        <img
+                          src={article.urlToImage}
+                          className="card-img-top"
+                          alt=""
+                        />
+                        <div className="card-body">
+                          <h3 className="card-title">{article.title}</h3>
+                          <p className="card-text">{article.description}</p>
+                        </div>
+                      </div>
                     </li>
                   );
                 }
                 return (
-                  <li key={article.url}>
-                    <h4>{article.title}</h4>
-                    <p>{article.description}</p>
+                  <li key={article.url} className="mt-2">
+                    <div className="card">
+                      <div className="card-body">
+                        <h4>{article.title}</h4>
+                        <p>{article.description}</p>
+                      </div>
+                    </div>
                   </li>
                 );
               })}

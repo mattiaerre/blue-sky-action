@@ -24,7 +24,6 @@ const Navbar = ({ categories, sources }) => (
     >
       <span className="navbar-toggler-icon" />
     </button>
-
     <div className="collapse navbar-collapse" id="navbar">
       <ul className="navbar-nav mr-auto">
         {categories.map(category => (
