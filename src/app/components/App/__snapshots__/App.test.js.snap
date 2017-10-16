@@ -34,7 +34,7 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
     </div>
   </nav>
   <div
-    className="container-fluid"
+    className="container-fluid bg-light"
   >
     <div
       className="row"
@@ -76,7 +76,7 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           </div>
         </div>
         <h2>
-          Links
+          Interesting links
         </h2>
         <ul
           className="list-unstyled"
@@ -161,7 +161,7 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
     </div>
   </nav>
   <div
-    className="container-fluid"
+    className="container-fluid bg-light"
   >
     <div>
       <div
@@ -260,7 +260,7 @@ exports[`<App /> location === "/" to match snapshot 3`] = `
     </div>
   </nav>
   <div
-    className="container-fluid"
+    className="container-fluid bg-light"
   >
     <div>
       <div

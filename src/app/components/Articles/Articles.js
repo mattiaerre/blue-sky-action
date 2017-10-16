@@ -44,7 +44,15 @@ class Articles extends Component {
                           alt=""
                         />
                         <div className="card-body">
-                          <h3 className="card-title">{article.title}</h3>
+                          <h3 className="card-title">
+                            <a
+                              href={article.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              {article.title}
+                            </a>
+                          </h3>
                           <p className="card-text">{article.description}</p>
                         </div>
                       </div>
@@ -55,8 +63,16 @@ class Articles extends Component {
                   <li key={article.url} className="mt-2">
                     <div className="card">
                       <div className="card-body">
-                        <h4>{article.title}</h4>
-                        <p>{article.description}</p>
+                        <h4 className="card-title">
+                          <a
+                            href={article.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {article.title}
+                          </a>
+                        </h4>
+                        <p className="card-text">{article.description}</p>
                       </div>
                     </div>
                   </li>

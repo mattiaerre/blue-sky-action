@@ -8,7 +8,7 @@ const Home = ({ weather }) => (
     <div className="col-12">
       <h2>Weather</h2>
       <OpenWeatherMap data={weather} />
-      <h2>Links</h2>
+      <h2>Interesting links</h2>
       <ul className="list-unstyled">
         {Object.keys(links).map(key => (
           <li key={key}>

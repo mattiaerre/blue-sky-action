@@ -10,7 +10,7 @@ import Sources from '../../components/Sources/Sources';
 const App = props => (
   <div>
     <Navbar categories={props.categories} sources={props.sources} />
-    <div className="container-fluid">
+    <div className="container-fluid bg-light">
       <Route
         path="/:category"
         render={_ => <Sources {..._} sources={props.sources} />}
