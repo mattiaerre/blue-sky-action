@@ -15,12 +15,24 @@ async function makeArticles(req) {
 }
 
 async function makeWeather() {
-  return fetchCurrentWeather({
+  const london = await fetchCurrentWeather({
+    apiKey: process.env.OPEN_WEATHER_MAP_API_KEY,
+    baseUrl: process.env.OPEN_WEATHER_MAP_BASE_URL,
+    q: 'London,GB',
+    units: 'metric'
+  });
+
+  const sanFrancisco = await fetchCurrentWeather({
     apiKey: process.env.OPEN_WEATHER_MAP_API_KEY,
     baseUrl: process.env.OPEN_WEATHER_MAP_BASE_URL,
     q: process.env.OPEN_WEATHER_MAP_Q,
     units: 'metric'
   });
+
+  return {
+    london,
+    sanFrancisco
+  };
 }
 
 router.get('/:category/:source', async (req, res) => {
