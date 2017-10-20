@@ -1,3 +1,14 @@
+$blue: #0047B0;
+$pink: #EA2381;
+
 body {
   font-family: 'Inconsolata', monospace;
+}
+
+h2 {
+  color: $blue;
+}
+
+.navbar {
+  background: $pink;
 }

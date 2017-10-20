@@ -9,13 +9,13 @@ const Footer = ({ name, version }) => (
           <small className="float-right">{`${name} v${version}`}</small>
         </div>
       </div>
-      <div>
-        <div>
+      <div className="row">
+        <div className="col-12">
           <small className="float-right">
             <a
               href="https://newsapi.org/"
-              target="_blank"
               rel="noopener noreferrer"
+              target="_blank"
             >
               powered by News API
             </a>

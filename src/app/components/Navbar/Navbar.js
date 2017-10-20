@@ -29,8 +29,8 @@ const Navbar = ({ categories, sources }) => (
         {categories.map(category => (
           <li key={category} className="nav-item">
             <NavLink
-              className="nav-link"
               activeClassName="active"
+              className="nav-link text-light"
               to={`/${category}/${map[category]}`}
             >
               {`${dictionary[category]} `}

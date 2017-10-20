@@ -1,4 +1,10 @@
 body {
   font-family: 'Inconsolata', monospace; }
 
+h2 {
+  color: #0047B0; }
+
+.navbar {
+  background: #EA2381; }
+
 /*# sourceMappingURL=style.css.map */
