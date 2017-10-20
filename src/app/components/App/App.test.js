@@ -4,6 +4,12 @@ import { create } from 'react-test-renderer';
 import App from './App';
 
 describe('<App />', () => {
+  const nullWeather = {
+    main: {},
+    sys: {},
+    weather: [{ icon: '' }]
+  };
+
   fetch.mockResponse(
     JSON.stringify([
       {
@@ -35,9 +41,8 @@ describe('<App />', () => {
     ],
     version: '',
     weather: {
-      main: {},
-      sys: {},
-      weather: [{ icon: '' }]
+      london: nullWeather,
+      sanFrancisco: nullWeather
     }
   };
 

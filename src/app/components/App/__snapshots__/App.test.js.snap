@@ -36,70 +36,138 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
   <div
     className="container-fluid bg-light"
   >
-    <div
-      className="row"
-    >
+    <div>
       <div
-        className="col-12"
+        className="row"
       >
-        <h2>
-          Weather
-        </h2>
         <div
-          className="react-open-weather-map"
+          className="col-12"
+        >
+          <h2>
+            Weather
+          </h2>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-sm-6 mb-4"
         >
           <div
-            className="main-heading"
+            className="card"
           >
-            , 
-          </div>
-          <div
-            className="day"
-          >
-            Invalid date
-          </div>
-          <div
-            className="description"
-          />
-          <div
-            className="icon"
-          >
-            <img
-              alt={undefined}
-              src="http://openweathermap.org/img/w/.png"
-            />
-          </div>
-          <div
-            className="temperature"
-          >
-             °C
+            <div
+              className="card-body bg-info"
+            >
+              <div
+                className="react-open-weather-map"
+              >
+                <div
+                  className="main-heading"
+                >
+                  , 
+                </div>
+                <div
+                  className="day"
+                >
+                  Invalid date
+                </div>
+                <div
+                  className="description"
+                />
+                <div
+                  className="icon"
+                >
+                  <img
+                    alt={undefined}
+                    src="http://openweathermap.org/img/w/.png"
+                  />
+                </div>
+                <div
+                  className="temperature"
+                >
+                   °C
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <h2>
-          Interesting links
-        </h2>
-        <ul
-          className="list-unstyled"
+        <div
+          className="col-sm-6 mb-4"
         >
-          <li>
-            <a
-              href="https://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=317"
-              rel="noopener noreferrer"
-              target="_blank"
+          <div
+            className="card"
+          >
+            <div
+              className="card-body bg-info"
             >
-              AirNow &gt; California &gt; San Francisco
-            </a>
-          </li>
-          <li>
-            <a
-              href="http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=5611.5&y=3628&z=5&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=0&lat=0&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Satellite View
-            </a>
-          </li>
-        </ul>
+              <div
+                className="react-open-weather-map"
+              >
+                <div
+                  className="main-heading"
+                >
+                  , 
+                </div>
+                <div
+                  className="day"
+                >
+                  Invalid date
+                </div>
+                <div
+                  className="description"
+                />
+                <div
+                  className="icon"
+                >
+                  <img
+                    alt={undefined}
+                    src="http://openweathermap.org/img/w/.png"
+                  />
+                </div>
+                <div
+                  className="temperature"
+                >
+                   °C
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
+          <h2>
+            Interesting links
+          </h2>
+          <ul
+            className="list-unstyled"
+          >
+            <li>
+              <a
+                href="https://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=317"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                AirNow &gt; California &gt; San Francisco
+              </a>
+            </li>
+            <li>
+              <a
+                href="http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=5611.5&y=3628&z=5&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=0&lat=0&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Satellite View
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -122,8 +190,12 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           </small>
         </div>
       </div>
-      <div>
-        <div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
           <small
             className="float-right"
           >
@@ -236,8 +308,12 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
           </small>
         </div>
       </div>
-      <div>
-        <div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
           <small
             className="float-right"
           >
@@ -361,8 +437,12 @@ exports[`<App /> location === "/" to match snapshot 3`] = `
           </small>
         </div>
       </div>
-      <div>
-        <div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
           <small
             className="float-right"
           >
