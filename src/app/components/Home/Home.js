@@ -2,27 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import OpenWeatherMap from 'react-open-weather-map';
 import { links } from './data.json';
-
-// https://openweathermap.org/weather-conditions
-// https://getbootstrap.com/docs/4.0/utilities/colors/#background-color
-const getBackgroundColor = ({ id }) => {
-  if (id < 300) {
-    return 'bg-danger'; // red
-  }
-  if (id < 800) {
-    return 'bg-warning'; // yellow
-  }
-  if (id === 800) {
-    return 'bg-success'; // green
-  }
-  if (id < 900) {
-    return 'bg-warning'; // yellow
-  }
-  if (id < 950) {
-    return 'bg-danger'; // red
-  }
-  return 'bg-info'; // blue
-};
+import getBackgroundColor from './get-background-color';
 
 const Home = ({ weather }) => (
   <div>
@@ -58,6 +38,10 @@ const Home = ({ weather }) => (
     <div className="row">
       <div className="col-12">
         <h2>Interesting links</h2>
+      </div>
+    </div>
+    <div className="row">
+      <div className="col-12">
         <ul className="list-unstyled">
           {Object.keys(links).map(key => (
             <li key={key}>

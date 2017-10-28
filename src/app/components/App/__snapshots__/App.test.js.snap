@@ -145,6 +145,14 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           <h2>
             Interesting links
           </h2>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
           <ul
             className="list-unstyled"
           >
