@@ -40,11 +40,6 @@ router.get('/:category/:source', async (req, res) => {
   res.render('index', model);
 });
 
-router.get('/:category', async (req, res) => {
-  const model = await makeModel(req, [], null);
-  res.render('index', model);
-});
-
 router.get('/', async (req, res) => {
   const model = await makeModel(req, [], await makeWeather());
   res.render('index', model);

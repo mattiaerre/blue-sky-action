@@ -1,12 +1,13 @@
+const bodyParser = require('body-parser');
+const cookieParser = require('cookie-parser');
 require('dotenv').config();
 const express = require('express');
+const logger = require('morgan');
+const sassMiddleware = require('node-sass-middleware');
 const path = require('path');
 // const favicon = require('serve-favicon');
-const logger = require('morgan');
-const cookieParser = require('cookie-parser');
-const bodyParser = require('body-parser');
-const sassMiddleware = require('node-sass-middleware');
 
+const graphqlMiddleware = require('./middlewares/graphql');
 const api = require('./routes/api');
 const index = require('./routes/index');
 const playground = require('./routes/playground');
@@ -31,6 +32,8 @@ app.use(
   })
 );
 app.use(express.static(path.join(__dirname, 'public')));
+
+app.use('/graphql', graphqlMiddleware);
 
 app.use('/api/v1', api);
 if (process.env.PLAYGROUND === 'true') {
