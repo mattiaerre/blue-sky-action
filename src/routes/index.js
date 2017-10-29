@@ -2,9 +2,12 @@ const express = require('express');
 const fetchArticles = require('./fetch-articles');
 const fetchCurrentWeather = require('./fetch-current-weather');
 const makeModel = require('./make-model');
+const home = require('./home');
 const kanyini = require('./kanyini');
 
 const router = express.Router();
+
+const getId = data => Object.keys(data).map(key => data[key].city.id);
 
 async function makeArticles(req) {
   return fetchArticles({
@@ -15,23 +18,24 @@ async function makeArticles(req) {
   });
 }
 
-async function makeWeather() {
+async function makeWeather(id) {
   return fetchCurrentWeather({
     apiKey: process.env.OPEN_WEATHER_MAP_API_KEY,
     baseUrl: process.env.OPEN_WEATHER_MAP_BASE_URL,
-    id: Object.keys(kanyini).map(key => kanyini[key].city.id),
+    id,
     units: 'metric'
   });
 }
 
 router.get('/', async (req, res) => {
-  const model = await makeModel(req, [], await makeWeather());
+  const id = getId(home);
+  const model = await makeModel(req, [], await makeWeather(id));
   res.render('index', model);
 });
 
 router.get('/kanyini', async (req, res) => {
-  console.log('kanyini');
-  const model = await makeModel(req, [], await makeWeather());
+  const id = getId(kanyini);
+  const model = await makeModel(req, [], await makeWeather(id));
   res.render('index', model);
 });
 

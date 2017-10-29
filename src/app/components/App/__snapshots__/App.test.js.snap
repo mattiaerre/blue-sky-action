@@ -35,6 +35,19 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           className="nav-item"
         >
           <a
+            aria-current="true"
+            className="nav-link text-light active"
+            href="/"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Home
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
             aria-current={false}
             className="nav-link text-light"
             href="/kanyini"
@@ -188,6 +201,19 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
           className="nav-item"
         >
           <a
+            aria-current="true"
+            className="nav-link text-light active"
+            href="/"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Home
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
             aria-current={false}
             className="nav-link text-light"
             href="/kanyini"
@@ -277,6 +303,19 @@ exports[`<App /> location === "/" to match snapshot 3`] = `
       <ul
         className="navbar-nav mr-auto"
       >
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current="true"
+            className="nav-link text-light active"
+            href="/"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Home
+          </a>
+        </li>
         <li
           className="nav-item"
         >

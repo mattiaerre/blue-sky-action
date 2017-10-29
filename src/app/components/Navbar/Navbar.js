@@ -26,6 +26,15 @@ const Navbar = ({ categories, sources }) => (
     </button>
     <div className="collapse navbar-collapse" id="navbar">
       <ul className="navbar-nav mr-auto">
+        <li key="home" className="nav-item">
+          <NavLink
+            activeClassName="active"
+            className="nav-link text-light"
+            to="/"
+          >
+            Home
+          </NavLink>
+        </li>
         <li key="kanyini" className="nav-item">
           <NavLink
             activeClassName="active"

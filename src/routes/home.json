@@ -1,0 +1,35 @@
+{
+  "1": {
+    "city": {
+      "id": 3165525,
+      "name": "Torino",
+      "country": "IT",
+      "coord": {
+        "lon": 7.66667,
+        "lat": 45.049999
+      }
+    }
+  },
+  "2": {
+    "city": {
+      "id": 2643743,
+      "name": "London",
+      "country": "GB",
+      "coord": {
+        "lon": -0.12574,
+        "lat": 51.50853
+      }
+    }
+  },
+  "3": {
+    "city": {
+      "id": 5391959,
+      "name": "San Francisco",
+      "country": "US",
+      "coord": {
+        "lon": -122.419418,
+        "lat": 37.774929
+      }
+    }
+  }
+}
