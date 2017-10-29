@@ -41,7 +41,7 @@ describe('<App />', () => {
       }
     ],
     version: '',
-    weather: [nullWeather]
+    weather: { home: [nullWeather], kanyini: [nullWeather] }
   };
 
   const scenarios = [

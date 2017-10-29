@@ -14,12 +14,12 @@ const App = props => (
         <Route
           exact
           path="/"
-          render={_ => <Home {..._} weather={props.weather} />}
+          render={_ => <Home {..._} weather={props.weather.home} />}
         />
         <Route
           exact
           path="/kanyini"
-          render={_ => <Home {..._} weather={props.weather} />}
+          render={_ => <Home {..._} weather={props.weather.kanyini} />}
         />
         <Route
           exact
@@ -44,11 +44,7 @@ App.propTypes = {
   name: PropTypes.string.isRequired,
   sources: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   version: PropTypes.string.isRequired,
-  weather: PropTypes.array // eslint-disable-line react/forbid-prop-types
-};
-
-App.defaultProps = {
-  weather: null
+  weather: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
 };
 
 export default App;

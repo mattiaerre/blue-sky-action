@@ -27,20 +27,25 @@ async function makeWeather(id) {
   });
 }
 
+async function weather() {
+  return {
+    home: await makeWeather(getId(home)),
+    kanyini: await makeWeather(getId(kanyini))
+  };
+}
+
 router.get('/', async (req, res) => {
-  const id = getId(home);
-  const model = await makeModel(req, [], await makeWeather(id));
+  const model = await makeModel(req, [], await weather());
   res.render('index', model);
 });
 
 router.get('/kanyini', async (req, res) => {
-  const id = getId(kanyini);
-  const model = await makeModel(req, [], await makeWeather(id));
+  const model = await makeModel(req, [], await weather());
   res.render('index', model);
 });
 
 router.get('/:category/:source', async (req, res) => {
-  const model = await makeModel(req, await makeArticles(req), []);
+  const model = await makeModel(req, await makeArticles(req), await weather());
   res.render('index', model);
 });
 
