@@ -49,6 +49,9 @@ describe('<App />', () => {
       location: '/'
     },
     {
+      location: '/kanyini'
+    },
+    {
       location: '/entertainment'
     },
     {

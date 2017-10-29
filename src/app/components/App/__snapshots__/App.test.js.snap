@@ -121,6 +121,49 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           </div>
         </div>
       </div>
+      <div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <h2>
+              Interesting links
+            </h2>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <ul
+              className="list-unstyled"
+            >
+              <li>
+                <a
+                  href="https://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=317"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  AirNow &gt; California &gt; San Francisco
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=5611.5&y=3628&z=5&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=0&lat=0&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Satellite View
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <footer
@@ -167,6 +210,172 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
 `;
 
 exports[`<App /> location === "/" to match snapshot 2`] = `
+<div>
+  <nav
+    className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
+  >
+    <a
+      className="navbar-brand"
+      href="/"
+    >
+      [\`/\`]
+    </a>
+    <button
+      aria-controls="navbar"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+      className="navbar-toggler"
+      data-target="#navbar"
+      data-toggle="collapse"
+      type="button"
+    >
+      <span
+        className="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      className="collapse navbar-collapse"
+      id="navbar"
+    >
+      <ul
+        className="navbar-nav mr-auto"
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current="true"
+            className="nav-link text-light active"
+            href="/"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Home
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current="true"
+            className="nav-link text-light active"
+            href="/kanyini"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Kanyini
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div
+    className="container-fluid bg-light"
+  >
+    <div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
+          <h2>
+            Kanyini
+          </h2>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-md-4 col-sm-6 mb-4"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body weather bg-info"
+            >
+              <div
+                className="react-open-weather-map"
+              >
+                <div
+                  className="main-heading"
+                >
+                  , 
+                </div>
+                <div
+                  className="day"
+                >
+                  Invalid date
+                </div>
+                <div
+                  className="description"
+                />
+                <div
+                  className="icon"
+                >
+                  <img
+                    alt={undefined}
+                    src="http://openweathermap.org/img/w/.png"
+                  />
+                </div>
+                <div
+                  className="temperature"
+                >
+                   °C
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer
+    className="border border-right-0 border-bottom-0 border-left-0"
+  >
+    <div
+      className="container-fluid"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
+          <small
+            className="float-right"
+          >
+             v
+          </small>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-12"
+        >
+          <small
+            className="float-right"
+          >
+            <a
+              href="https://newsapi.org/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              powered by News API
+            </a>
+          </small>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
+
+exports[`<App /> location === "/" to match snapshot 3`] = `
 <div>
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
@@ -272,7 +481,7 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
 </div>
 `;
 
-exports[`<App /> location === "/" to match snapshot 3`] = `
+exports[`<App /> location === "/" to match snapshot 4`] = `
 <div>
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
