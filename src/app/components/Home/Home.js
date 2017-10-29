@@ -16,7 +16,7 @@ const Home = ({ match, weather }) => (
           <div className="card">
             <div
               className={`card-body weather ${getBackgroundColor(
-                item.weather[0]
+                item.weather[0].id
               )}`}
             >
               <OpenWeatherMap data={item} />

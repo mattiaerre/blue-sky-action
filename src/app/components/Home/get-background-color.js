@@ -1,6 +1,6 @@
 // https://openweathermap.org/weather-conditions
 // https://getbootstrap.com/docs/4.0/utilities/colors/#background-color
-const getBackgroundColor = ({ id }) => {
+const getBackgroundColor = id => {
   if (id < 300) {
     return 'bg-danger'; // red
   }

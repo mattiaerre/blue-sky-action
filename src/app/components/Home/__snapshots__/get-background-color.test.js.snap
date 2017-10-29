@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getBackgroundColor clear sky 1`] = `"bg-success"`;
+
+exports[`getBackgroundColor hurricane 1`] = `"bg-danger"`;
+
+exports[`getBackgroundColor light rain 1`] = `"bg-warning"`;
+
+exports[`getBackgroundColor overcast clouds 1`] = `"bg-warning"`;
+
+exports[`getBackgroundColor thunderstorm 1`] = `"bg-danger"`;

@@ -5,6 +5,7 @@ import App from './App';
 
 describe('<App />', () => {
   const nullWeather = {
+    id: 0,
     main: {},
     sys: {},
     weather: [{ icon: '' }]
@@ -40,7 +41,7 @@ describe('<App />', () => {
       }
     ],
     version: '',
-    weather: [nullWeather, nullWeather]
+    weather: [nullWeather]
   };
 
   const scenarios = [
