@@ -14,5 +14,19 @@ h2 {
 }
 
 .error {
-  padding: 2em;
+  padding: 2rem;
+}
+
+div.card-body.weather {
+  padding: 0;
+
+  div.react-open-weather-map {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1.25rem;
+
+    div.main-heading {
+      color: $blue;
+      font-weight: bold;
+    }
+  }
 }

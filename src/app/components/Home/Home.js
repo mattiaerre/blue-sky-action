@@ -15,7 +15,11 @@ const Home = ({ weather }) => (
       {weather.map(item => (
         <div className="col-md-4 col-sm-6 mb-4" key={item.id}>
           <div className="card">
-            <div className={`card-body ${getBackgroundColor(item.weather[0])}`}>
+            <div
+              className={`card-body weather ${getBackgroundColor(
+                item.weather[0]
+              )}`}
+            >
               <OpenWeatherMap data={item} />
             </div>
           </div>

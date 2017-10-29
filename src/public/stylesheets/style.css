@@ -8,6 +8,15 @@ h2 {
   background: #ea2381; }
 
 .error {
-  padding: 2em; }
+  padding: 2rem; }
+
+div.card-body.weather {
+  padding: 0; }
+  div.card-body.weather div.react-open-weather-map {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1.25rem; }
+    div.card-body.weather div.react-open-weather-map div.main-heading {
+      color: #0047b0;
+      font-weight: bold; }
 
 /*# sourceMappingURL=style.css.map */
