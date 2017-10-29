@@ -40,10 +40,7 @@ describe('<App />', () => {
       }
     ],
     version: '',
-    weather: {
-      london: nullWeather,
-      sanFrancisco: nullWeather
-    }
+    weather: [nullWeather, nullWeather]
   };
 
   const scenarios = [

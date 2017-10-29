@@ -12,28 +12,15 @@ const Home = ({ weather }) => (
       </div>
     </div>
     <div className="row">
-      <div className="col-sm-6 mb-4">
-        <div className="card">
-          <div
-            className={`card-body ${getBackgroundColor(
-              weather.sanFrancisco.weather[0]
-            )}`}
-          >
-            <OpenWeatherMap data={weather.sanFrancisco} />
+      {weather.map(item => (
+        <div className="col-md-4 col-sm-6 mb-4" key={item.id}>
+          <div className="card">
+            <div className={`card-body ${getBackgroundColor(item.weather[0])}`}>
+              <OpenWeatherMap data={item} />
+            </div>
           </div>
         </div>
-      </div>
-      <div className="col-sm-6 mb-4">
-        <div className="card">
-          <div
-            className={`card-body ${getBackgroundColor(
-              weather.london.weather[0]
-            )}`}
-          >
-            <OpenWeatherMap data={weather.london} />
-          </div>
-        </div>
-      </div>
+      ))}
     </div>
     <div className="row">
       <div className="col-12">
@@ -61,7 +48,7 @@ const Home = ({ weather }) => (
 );
 
 Home.propTypes = {
-  weather: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
+  weather: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
 };
 
 export default Home;

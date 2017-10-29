@@ -38,7 +38,7 @@ App.propTypes = {
   name: PropTypes.string.isRequired,
   sources: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
   version: PropTypes.string.isRequired,
-  weather: PropTypes.object // eslint-disable-line react/forbid-prop-types
+  weather: PropTypes.array // eslint-disable-line react/forbid-prop-types
 };
 
 App.defaultProps = {

@@ -1,0 +1,86 @@
+{
+  "201802": {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "id": "1733046",
+    "month": "FEBRUARY",
+    "year": 2018
+  },
+  "201803": {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "id": "1153671",
+    "month": "MARCH",
+    "year": 2018
+  },
+  "201804": {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "id": "1581129",
+    "month": "APRIL",
+    "year": 2018
+  },
+  "201805": {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "id": "6547285",
+    "month": "MAY",
+    "year": 2018
+  },
+  "201806": {
+    "city": "Split",
+    "country": "Croatia",
+    "id": "3190261",
+    "month": "JUNE",
+    "year": 2018
+  },
+  "201807": {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "id": "3067696",
+    "month": "JULY",
+    "year": 2018
+  },
+  "201808": {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "id": "792680",
+    "month": "AUGUST",
+    "year": 2018
+  },
+  "201809": {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "id": "2267057",
+    "month": "SEPTEMBER",
+    "year": 2018
+  },
+  "201810": {
+    "city": "Lima",
+    "country": "Peru",
+    "id": "3936456",
+    "month": "OCTOBER",
+    "year": 2018
+  },
+  "201811": {
+    "city": "Medellin",
+    "country": "Colombia",
+    "id": "3674962",
+    "month": "NOVEMBER",
+    "year": 2018
+  },
+  "201812": {
+    "city": "Bogota",
+    "country": "Colombia",
+    "id": "3688689",
+    "month": "DECEMBER",
+    "year": 2018
+  },
+  "201901": {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "id": "3530597",
+    "month": "JANUARY",
+    "year": 2019
+  }
+}
