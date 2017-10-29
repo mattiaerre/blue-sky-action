@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
-import Articles from '../../components/Articles/Articles';
+import Articles from '../../containers/Articles/Articles';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
 import Navbar from '../../components/Navbar/Navbar';

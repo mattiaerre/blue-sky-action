@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Sources from '../Sources/Sources';
+import Sources from '../../components/Sources/Sources';
 
 class Articles extends Component {
   constructor(props) {
