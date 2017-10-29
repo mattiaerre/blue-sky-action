@@ -30,7 +30,21 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
     >
       <ul
         className="navbar-nav mr-auto"
-      />
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
+          </a>
+        </li>
+      </ul>
     </div>
   </nav>
   <div
@@ -44,7 +58,7 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           className="col-12"
         >
           <h2>
-            Weather
+            Home
           </h2>
         </div>
       </div>
@@ -52,13 +66,13 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
         className="row"
       >
         <div
-          className="col-sm-6 mb-4"
+          className="col-md-4 col-sm-6 mb-4"
         >
           <div
             className="card"
           >
             <div
-              className="card-body bg-info"
+              className="card-body weather bg-info"
             >
               <div
                 className="react-open-weather-map"
@@ -94,13 +108,13 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
           </div>
         </div>
         <div
-          className="col-sm-6 mb-4"
+          className="col-md-4 col-sm-6 mb-4"
         >
           <div
             className="card"
           >
             <div
-              className="card-body bg-info"
+              className="card-body weather bg-info"
             >
               <div
                 className="react-open-weather-map"
@@ -134,47 +148,6 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
               </div>
             </div>
           </div>
-        </div>
-      </div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <h2>
-            Interesting links
-          </h2>
-        </div>
-      </div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <ul
-            className="list-unstyled"
-          >
-            <li>
-              <a
-                href="https://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=317"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                AirNow &gt; California &gt; San Francisco
-              </a>
-            </li>
-            <li>
-              <a
-                href="http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=5611.5&y=3628&z=5&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=0&lat=0&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                Satellite View
-              </a>
-            </li>
-          </ul>
         </div>
       </div>
     </div>
@@ -252,51 +225,26 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
     >
       <ul
         className="navbar-nav mr-auto"
-      />
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
+          </a>
+        </li>
+      </ul>
     </div>
   </nav>
   <div
     className="container-fluid bg-light"
-  >
-    <div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <h2>
-            Entertainment
-          </h2>
-        </div>
-      </div>
-      <div
-        className="row pb-3"
-      >
-        <div
-          className="col-12"
-        >
-          <ul
-            className="nav nav-pills"
-          >
-            <li
-              className="nav-item"
-            >
-              <a
-                aria-current={false}
-                className="nav-link"
-                href="/entertainment/buzzfeed"
-                onClick={[Function]}
-                style={undefined}
-              >
-                Buzzfeed
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+  />
   <footer
     className="border border-right-0 border-bottom-0 border-left-0"
   >
@@ -370,59 +318,75 @@ exports[`<App /> location === "/" to match snapshot 3`] = `
     >
       <ul
         className="navbar-nav mr-auto"
-      />
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
+          </a>
+        </li>
+      </ul>
     </div>
   </nav>
   <div
     className="container-fluid bg-light"
   >
     <div>
+      <div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <h2>
+              Entertainment
+            </h2>
+          </div>
+        </div>
+        <div
+          className="row pb-3"
+        >
+          <div
+            className="col-12"
+          >
+            <ul
+              className="nav nav-pills"
+            >
+              <li
+                className="nav-item"
+              >
+                <a
+                  aria-current="true"
+                  className="nav-link active"
+                  href="/entertainment/buzzfeed"
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  Buzzfeed
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <div
         className="row"
       >
         <div
           className="col-12"
         >
-          <h2>
-            Entertainment
-          </h2>
+          <h3>
+            Loading ...
+          </h3>
         </div>
-      </div>
-      <div
-        className="row pb-3"
-      >
-        <div
-          className="col-12"
-        >
-          <ul
-            className="nav nav-pills"
-          >
-            <li
-              className="nav-item"
-            >
-              <a
-                aria-current="true"
-                className="nav-link active"
-                href="/entertainment/buzzfeed"
-                onClick={[Function]}
-                style={Object {}}
-              >
-                Buzzfeed
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div
-      className="row"
-    >
-      <div
-        className="col-12"
-      >
-        <h3>
-          Loading ...
-        </h3>
       </div>
     </div>
   </div>

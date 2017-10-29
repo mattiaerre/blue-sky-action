@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import Sources from '../Sources/Sources';
 
 class Articles extends Component {
   constructor(props) {
@@ -28,23 +29,47 @@ class Articles extends Component {
 
   render() {
     return (
-      <div className="row">
-        <div className="col-12">
-          {this.state.loading && <h3>Loading ...</h3>}
-          {!this.state.loading && (
-            <ul className="list-unstyled">
-              {this.state.articles.map((article, index) => {
-                if (index === 0) {
+      <div>
+        <Sources
+          category={this.props.match.params.category}
+          sources={this.props.sources}
+        />
+        <div className="row">
+          <div className="col-12">
+            {this.state.loading && <h3>Loading ...</h3>}
+            {!this.state.loading && (
+              <ul className="list-unstyled">
+                {this.state.articles.map((article, index) => {
+                  if (index === 0) {
+                    return (
+                      <li key={article.url}>
+                        <div className="card">
+                          <img
+                            src={article.urlToImage}
+                            className="card-img-top"
+                            alt=""
+                          />
+                          <div className="card-body">
+                            <h3 className="card-title">
+                              <a
+                                href={article.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                {article.title}
+                              </a>
+                            </h3>
+                            <p className="card-text">{article.description}</p>
+                          </div>
+                        </div>
+                      </li>
+                    );
+                  }
                   return (
-                    <li key={article.url}>
+                    <li key={article.url} className="mt-2">
                       <div className="card">
-                        <img
-                          src={article.urlToImage}
-                          className="card-img-top"
-                          alt=""
-                        />
                         <div className="card-body">
-                          <h3 className="card-title">
+                          <h4 className="card-title">
                             <a
                               href={article.url}
                               target="_blank"
@@ -52,34 +77,16 @@ class Articles extends Component {
                             >
                               {article.title}
                             </a>
-                          </h3>
+                          </h4>
                           <p className="card-text">{article.description}</p>
                         </div>
                       </div>
                     </li>
                   );
-                }
-                return (
-                  <li key={article.url} className="mt-2">
-                    <div className="card">
-                      <div className="card-body">
-                        <h4 className="card-title">
-                          <a
-                            href={article.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            {article.title}
-                          </a>
-                        </h4>
-                        <p className="card-text">{article.description}</p>
-                      </div>
-                    </div>
-                  </li>
-                );
-              })}
-            </ul>
-          )}
+                })}
+              </ul>
+            )}
+          </div>
         </div>
       </div>
     );
@@ -88,7 +95,8 @@ class Articles extends Component {
 
 Articles.propTypes = {
   articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
-  match: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
+  match: PropTypes.object.isRequired, // eslint-disable-line react/forbid-prop-types
+  sources: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
 };
 
 export default Articles;

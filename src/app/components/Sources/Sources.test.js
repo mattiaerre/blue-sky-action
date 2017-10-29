@@ -6,7 +6,7 @@ import Sources from './Sources';
 describe('<Sources />', () => {
   test('to match snapshot', () => {
     const props = {
-      match: { params: { category: 'entertainment' } },
+      category: 'entertainment',
       sources: [
         {
           category: 'entertainment',

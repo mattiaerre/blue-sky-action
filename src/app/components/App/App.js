@@ -5,16 +5,11 @@ import Articles from '../../components/Articles/Articles';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
 import Navbar from '../../components/Navbar/Navbar';
-import Sources from '../../components/Sources/Sources';
 
 const App = props => (
   <div>
     <Navbar categories={props.categories} sources={props.sources} />
     <div className="container-fluid bg-light">
-      <Route
-        path="/:category"
-        render={_ => <Sources {..._} sources={props.sources} />}
-      />
       <Switch>
         <Route
           exact
@@ -23,8 +18,19 @@ const App = props => (
         />
         <Route
           exact
+          path="/kanyini"
+          render={_ => <Home {..._} weather={props.weather} />}
+        />
+        <Route
+          exact
           path="/:category/:source"
-          render={_ => <Articles {..._} articles={props.articles} />}
+          render={_ => (
+            <Articles
+              {..._}
+              articles={props.articles}
+              sources={props.sources}
+            />
+          )}
         />
       </Switch>
     </div>

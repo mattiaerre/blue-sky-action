@@ -19,18 +19,24 @@ async function makeWeather() {
   return fetchCurrentWeather({
     apiKey: process.env.OPEN_WEATHER_MAP_API_KEY,
     baseUrl: process.env.OPEN_WEATHER_MAP_BASE_URL,
-    id: Object.keys(kanyini).map(key => kanyini[key].id),
+    id: Object.keys(kanyini).map(key => kanyini[key].city.id),
     units: 'metric'
   });
 }
 
-router.get('/:category/:source', async (req, res) => {
-  const model = await makeModel(req, await makeArticles(req), []);
+router.get('/', async (req, res) => {
+  const model = await makeModel(req, [], await makeWeather());
   res.render('index', model);
 });
 
-router.get('/', async (req, res) => {
+router.get('/kanyini', async (req, res) => {
+  console.log('kanyini');
   const model = await makeModel(req, [], await makeWeather());
+  res.render('index', model);
+});
+
+router.get('/:category/:source', async (req, res) => {
+  const model = await makeModel(req, await makeArticles(req), []);
   res.render('index', model);
 });
 
