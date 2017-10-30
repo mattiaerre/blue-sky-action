@@ -1,0 +1,361 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`city timezone country London 1`] = `"2017-10-29 23:10:16"`;
+
+exports[`city timezone country London 2`] = `
+Object {
+  "coord": Object {
+    "lat": 51.50853,
+    "lon": -0.12574,
+  },
+  "country": "GB",
+  "id": 2643743,
+  "name": "London",
+}
+`;
+
+exports[`city timezone country London 3`] = `"http://api.timezonedb.com/v2/get-time-zone?key=2V696HR2QHN8&format=json&by=position&lat=51.50853&lng=-0.12574"`;
+
+exports[`city timezone country London 4`] = `
+Object {
+  "abbreviation": "GMT",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "dst": "0",
+  "dstEnd": 1521939600,
+  "dstStart": 1509238800,
+  "formatted": "2017-10-30 06:10:17",
+  "gmtOffset": 0,
+  "message": "",
+  "nextAbbreviation": "BST",
+  "status": "OK",
+  "timestamp": 1509343817,
+  "zoneName": "Europe/London",
+}
+`;
+
+exports[`city timezone country London 5`] = `"https://restcountries.eu/rest/v2/alpha/GB"`;
+
+exports[`city timezone country London 6`] = `
+Object {
+  "alpha2Code": "GB",
+  "alpha3Code": "GBR",
+  "altSpellings": Array [
+    "GB",
+    "UK",
+    "Great Britain",
+  ],
+  "area": 242900,
+  "borders": Array [
+    "IRL",
+  ],
+  "callingCodes": Array [
+    "44",
+  ],
+  "capital": "London",
+  "cioc": "GBR",
+  "currencies": Array [
+    Object {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£",
+    },
+  ],
+  "demonym": "British",
+  "flag": "https://restcountries.eu/data/gbr.svg",
+  "gini": 34,
+  "languages": Array [
+    Object {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English",
+    },
+  ],
+  "latlng": Array [
+    54,
+    -2,
+  ],
+  "name": "United Kingdom of Great Britain and Northern Ireland",
+  "nativeName": "United Kingdom",
+  "numericCode": "826",
+  "population": 65110000,
+  "region": "Europe",
+  "regionalBlocs": Array [
+    Object {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": Array [],
+      "otherNames": Array [],
+    },
+  ],
+  "subregion": "Northern Europe",
+  "timezones": Array [
+    "UTC-08:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-02:00",
+    "UTC",
+    "UTC+01:00",
+    "UTC+02:00",
+    "UTC+06:00",
+  ],
+  "topLevelDomain": Array [
+    ".uk",
+  ],
+  "translations": Object {
+    "br": "Reino Unido",
+    "de": "Vereinigtes Königreich",
+    "es": "Reino Unido",
+    "fa": "بریتانیای کبیر و ایرلند شمالی",
+    "fr": "Royaume-Uni",
+    "hr": "Ujedinjeno Kraljevstvo",
+    "it": "Regno Unito",
+    "ja": "イギリス",
+    "nl": "Verenigd Koninkrijk",
+    "pt": "Reino Unido",
+  },
+}
+`;
+
+exports[`city timezone country San Francisco 1`] = `"2017-10-29 23:10:17"`;
+
+exports[`city timezone country San Francisco 2`] = `
+Object {
+  "coord": Object {
+    "lat": 37.774929,
+    "lon": -122.419418,
+  },
+  "country": "US",
+  "id": 5391959,
+  "name": "San Francisco",
+}
+`;
+
+exports[`city timezone country San Francisco 3`] = `"http://api.timezonedb.com/v2/get-time-zone?key=2V696HR2QHN8&format=json&by=position&lat=37.774929&lng=-122.419418"`;
+
+exports[`city timezone country San Francisco 4`] = `
+Object {
+  "abbreviation": "PDT",
+  "countryCode": "US",
+  "countryName": "United States",
+  "dst": "1",
+  "dstEnd": 1509872400,
+  "dstStart": 1489312800,
+  "formatted": "2017-10-29 23:10:17",
+  "gmtOffset": -25200,
+  "message": "",
+  "nextAbbreviation": "PST",
+  "status": "OK",
+  "timestamp": 1509318617,
+  "zoneName": "America/Los_Angeles",
+}
+`;
+
+exports[`city timezone country San Francisco 5`] = `"https://restcountries.eu/rest/v2/alpha/US"`;
+
+exports[`city timezone country San Francisco 6`] = `
+Object {
+  "alpha2Code": "US",
+  "alpha3Code": "USA",
+  "altSpellings": Array [
+    "US",
+    "USA",
+    "United States of America",
+  ],
+  "area": 9629091,
+  "borders": Array [
+    "CAN",
+    "MEX",
+  ],
+  "callingCodes": Array [
+    "1",
+  ],
+  "capital": "Washington, D.C.",
+  "cioc": "USA",
+  "currencies": Array [
+    Object {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$",
+    },
+  ],
+  "demonym": "American",
+  "flag": "https://restcountries.eu/data/usa.svg",
+  "gini": 48,
+  "languages": Array [
+    Object {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English",
+    },
+  ],
+  "latlng": Array [
+    38,
+    -97,
+  ],
+  "name": "United States of America",
+  "nativeName": "United States",
+  "numericCode": "840",
+  "population": 323947000,
+  "region": "Americas",
+  "regionalBlocs": Array [
+    Object {
+      "acronym": "NAFTA",
+      "name": "North American Free Trade Agreement",
+      "otherAcronyms": Array [],
+      "otherNames": Array [
+        "Tratado de Libre Comercio de América del Norte",
+        "Accord de Libre-échange Nord-Américain",
+      ],
+    },
+  ],
+  "subregion": "Northern America",
+  "timezones": Array [
+    "UTC-12:00",
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC-09:00",
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC+10:00",
+    "UTC+12:00",
+  ],
+  "topLevelDomain": Array [
+    ".us",
+  ],
+  "translations": Object {
+    "br": "Estados Unidos",
+    "de": "Vereinigte Staaten von Amerika",
+    "es": "Estados Unidos",
+    "fa": "ایالات متحده آمریکا",
+    "fr": "États-Unis",
+    "hr": "Sjedinjene Američke Države",
+    "it": "Stati Uniti D'America",
+    "ja": "アメリカ合衆国",
+    "nl": "Verenigde Staten",
+    "pt": "Estados Unidos",
+  },
+}
+`;
+
+exports[`city timezone country Torino 1`] = `"2017-10-29 23:10:15"`;
+
+exports[`city timezone country Torino 2`] = `
+Object {
+  "coord": Object {
+    "lat": 45.049999,
+    "lon": 7.66667,
+  },
+  "country": "IT",
+  "id": 3165525,
+  "name": "Torino",
+}
+`;
+
+exports[`city timezone country Torino 3`] = `"http://api.timezonedb.com/v2/get-time-zone?key=2V696HR2QHN8&format=json&by=position&lat=45.049999&lng=7.66667"`;
+
+exports[`city timezone country Torino 4`] = `
+Object {
+  "abbreviation": "CET",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "dst": "0",
+  "dstEnd": 1521939600,
+  "dstStart": 1509238800,
+  "formatted": "2017-10-30 07:10:16",
+  "gmtOffset": 3600,
+  "message": "",
+  "nextAbbreviation": "CEST",
+  "status": "OK",
+  "timestamp": 1509347416,
+  "zoneName": "Europe/Rome",
+}
+`;
+
+exports[`city timezone country Torino 5`] = `"https://restcountries.eu/rest/v2/alpha/IT"`;
+
+exports[`city timezone country Torino 6`] = `
+Object {
+  "alpha2Code": "IT",
+  "alpha3Code": "ITA",
+  "altSpellings": Array [
+    "IT",
+    "Italian Republic",
+    "Repubblica italiana",
+  ],
+  "area": 301336,
+  "borders": Array [
+    "AUT",
+    "FRA",
+    "SMR",
+    "SVN",
+    "CHE",
+    "VAT",
+  ],
+  "callingCodes": Array [
+    "39",
+  ],
+  "capital": "Rome",
+  "cioc": "ITA",
+  "currencies": Array [
+    Object {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+    },
+  ],
+  "demonym": "Italian",
+  "flag": "https://restcountries.eu/data/ita.svg",
+  "gini": 36,
+  "languages": Array [
+    Object {
+      "iso639_1": "it",
+      "iso639_2": "ita",
+      "name": "Italian",
+      "nativeName": "Italiano",
+    },
+  ],
+  "latlng": Array [
+    42.83333333,
+    12.83333333,
+  ],
+  "name": "Italy",
+  "nativeName": "Italia",
+  "numericCode": "380",
+  "population": 60665551,
+  "region": "Europe",
+  "regionalBlocs": Array [
+    Object {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": Array [],
+      "otherNames": Array [],
+    },
+  ],
+  "subregion": "Southern Europe",
+  "timezones": Array [
+    "UTC+01:00",
+  ],
+  "topLevelDomain": Array [
+    ".it",
+  ],
+  "translations": Object {
+    "br": "Itália",
+    "de": "Italien",
+    "es": "Italia",
+    "fa": "ایتالیا",
+    "fr": "Italie",
+    "hr": "Italija",
+    "it": "Italia",
+    "ja": "イタリア",
+    "nl": "Italië",
+    "pt": "Itália",
+  },
+}
+`;
