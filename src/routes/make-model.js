@@ -4,7 +4,7 @@ const index = require('../../dist/bundle').default;
 const sources = require('../data/sources');
 
 async function makeModel(req, articles, weather) {
-  const pool = new Pool();
+  const pool = new Pool({ connectionString: process.env.DATABASE_URL });
   const { rows } = await pool.query('SELECT NOW()');
   pool.end();
 
