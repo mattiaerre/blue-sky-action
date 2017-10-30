@@ -1,5 +1,5 @@
 import React from 'react';
-import { links } from './data.json';
+import links from '../../../data/links.json';
 
 const InterestingLinks = () => (
   <div>

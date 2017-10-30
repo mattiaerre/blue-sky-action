@@ -2,8 +2,8 @@ const express = require('express');
 const fetchArticles = require('./fetch-articles');
 const fetchCurrentWeather = require('./fetch-current-weather');
 const makeModel = require('./make-model');
-const home = require('./home');
-const kanyini = require('./kanyini');
+const home = require('../data/home');
+const kanyini = require('../data/kanyini');
 
 const router = express.Router();
 
