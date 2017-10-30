@@ -28,9 +28,11 @@ async function makeWeather(id) {
 }
 
 async function weather() {
+  const homeWeather = await makeWeather(getId(home));
+  const kanyiniWeather = await makeWeather(getId(kanyini));
   return {
-    home: await makeWeather(getId(home)),
-    kanyini: await makeWeather(getId(kanyini))
+    home: homeWeather,
+    kanyini: kanyiniWeather
   };
 }
 
