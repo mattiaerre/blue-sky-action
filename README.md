@@ -16,6 +16,10 @@ npm run start:dev
 
 - [OpenWeatherMap](https://openweathermap.org/)
 
+- [TimeZoneDB](https://timezonedb.com/)
+
+- [REST Countries](https://restcountries.eu/)
+
 ## (Main) Dependencies
 
 - Bootstrap
@@ -43,3 +47,7 @@ npm run start:dev
 - Prettier
 
 - Webpack
+
+## Resources
+
+- [node-postgres](https://node-postgres.com/)
