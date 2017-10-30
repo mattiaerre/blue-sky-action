@@ -25,7 +25,12 @@ async function makeModel(req, articles, weather) {
   };
 
   const app = index(req, props);
-  const model = { app, props, title: name };
+  const model = {
+    app,
+    props,
+    title: name,
+    trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID
+  };
   return model;
 }
 
