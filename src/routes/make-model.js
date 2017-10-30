@@ -7,6 +7,9 @@ async function makeModel(req, articles, weather) {
     articles,
     categories: sources
       .filter(source => source.language === 'en' && source.country === 'us')
+      .filter(
+        source => source.category !== 'politics' && source.category !== 'music'
+      )
       .reduce((acc, item) => {
         if (!acc.includes(item.category)) {
           acc.push(item.category);
