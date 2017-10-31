@@ -3,13 +3,10 @@ import PropTypes from 'prop-types';
 import Sources from '../../components/Sources/Sources';
 
 class Articles extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      articles: props.articles || [],
-      loading: true
-    };
-  }
+  state = {
+    articles: this.props.articles || [],
+    loading: true
+  };
 
   componentDidMount() {
     this.getArticles(this.props.match.params.source);
