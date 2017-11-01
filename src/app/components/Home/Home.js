@@ -23,7 +23,7 @@ const Home = ({ match, weather }) => {
       <div className="row">
         {weather.map(item => (
           <div className="col-md-4 col-sm-6 mb-4" key={item.id}>
-            <div className="card border-secondary">
+            <div className="card">
               <div
                 className={`card-body weather ${getBackgroundColor(
                   item.weather[0].id

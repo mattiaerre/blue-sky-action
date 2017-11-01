@@ -3,7 +3,7 @@ import moment from 'moment';
 import PropTypes from 'prop-types';
 
 const PrimaryCard = ({ article }) => (
-  <div className="card border-primary">
+  <div className="card">
     {article.publishedAt && (
       <div className="card-header">{moment(article.publishedAt).fromNow()}</div>
     )}

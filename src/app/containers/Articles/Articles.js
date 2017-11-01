@@ -48,7 +48,7 @@ class Articles extends Component {
                   }
                   return (
                     <li key={article.url} className="mt-2">
-                      <div className="card border-secondary">
+                      <div className="card">
                         {article.publishedAt && (
                           <div className="card-header">
                             {moment(article.publishedAt).fromNow()}
