@@ -1,4 +1,6 @@
 import React from 'react';
+import TiGlobe from 'react-icons/lib/ti/globe';
+import TiHome from 'react-icons/lib/ti/home';
 import PropTypes from 'prop-types';
 import OpenWeatherMap from 'react-open-weather-map';
 import getBackgroundColor from './get-background-color';
@@ -10,7 +12,12 @@ const Home = ({ match, weather }) => {
     <div>
       <div className="row">
         <div className="col-12">
-          <h2>{isKanyini ? 'Kanyini' : 'Home'}</h2>
+          <h2>
+            {isKanyini ? <TiGlobe /> : <TiHome />}{' '}
+            <span className="align-middle">
+              {isKanyini ? 'Kanyini' : 'Home'}
+            </span>
+          </h2>
         </div>
       </div>
       <div className="row">
