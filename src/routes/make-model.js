@@ -23,9 +23,9 @@ async function makeModel(req, articles, weather) {
       }, []),
     name,
     now: rows[0].now,
-    sources: sources.filter(
-      source => source.language === 'en' && source.country === 'us'
-    ),
+    sources: sources
+      .filter(source => source.language === 'en' && source.country === 'us')
+      .filter(source => source.id !== 'recode'),
     version,
     weather
   };

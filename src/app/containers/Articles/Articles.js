@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
+import moment from 'moment';
 import PropTypes from 'prop-types';
+import PrimaryCard from '../../components/PrimaryCard/PrimaryCard';
 import Sources from '../../components/Sources/Sources';
 
 class Articles extends Component {
@@ -40,31 +42,18 @@ class Articles extends Component {
                   if (index === 0) {
                     return (
                       <li key={article.url}>
-                        <div className="card">
-                          <img
-                            src={article.urlToImage}
-                            className="card-img-top"
-                            alt=""
-                          />
-                          <div className="card-body">
-                            <h3 className="card-title">
-                              <a
-                                href={article.url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                              >
-                                {article.title}
-                              </a>
-                            </h3>
-                            <p className="card-text">{article.description}</p>
-                          </div>
-                        </div>
+                        <PrimaryCard article={article} />
                       </li>
                     );
                   }
                   return (
                     <li key={article.url} className="mt-2">
-                      <div className="card">
+                      <div className="card border-secondary">
+                        {article.publishedAt && (
+                          <div className="card-header">
+                            {moment(article.publishedAt).fromNow()}
+                          </div>
+                        )}
                         <div className="card-body">
                           <h4 className="card-title">
                             <a

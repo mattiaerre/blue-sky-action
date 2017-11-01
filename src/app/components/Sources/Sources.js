@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import TiNews from 'react-icons/lib/ti/news';
 import { NavLink } from 'react-router-dom';
 import dictionary from '../../dictionary';
 
@@ -8,7 +9,10 @@ const Sources = ({ category, sources }) => {
     <div>
       <div className="row">
         <div className="col-12">
-          <h2>{dictionary[category]}</h2>
+          <h2>
+            <TiNews />{' '}
+            <span className="align-middle">{dictionary[category]}</span>
+          </h2>
         </div>
       </div>
       <div className="row pb-3">
