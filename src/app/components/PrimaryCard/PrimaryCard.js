@@ -20,7 +20,7 @@ const PrimaryCard = ({ article }) => (
 );
 
 PrimaryCard.propTypes = {
-  article: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
+  article: PropTypes.object.isRequired
 };
 
 export default PrimaryCard;

@@ -80,9 +80,9 @@ class Articles extends Component {
 }
 
 Articles.propTypes = {
-  articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
-  match: PropTypes.object.isRequired, // eslint-disable-line react/forbid-prop-types
-  sources: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
+  articles: PropTypes.array.isRequired,
+  match: PropTypes.object.isRequired,
+  sources: PropTypes.array.isRequired
 };
 
 export default Articles;

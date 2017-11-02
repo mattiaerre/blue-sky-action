@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
-import dictionary from '../../dictionary';
+import dictionary from '../dictionary';
 import map from '../../../data/category-source-map.json';
 
 function numberOfSources(sources, category) {
@@ -64,8 +64,8 @@ const Navbar = ({ categories, sources }) => (
 );
 
 Navbar.propTypes = {
-  categories: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
-  sources: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
+  categories: PropTypes.array.isRequired,
+  sources: PropTypes.array.isRequired
 };
 
 export default Navbar;

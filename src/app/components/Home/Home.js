@@ -34,7 +34,7 @@ const Home = ({ weather }) => (
 );
 
 Home.propTypes = {
-  weather: PropTypes.array.isRequired // eslint-disable-line react/forbid-prop-types
+  weather: PropTypes.array.isRequired
 };
 
 export default Home;

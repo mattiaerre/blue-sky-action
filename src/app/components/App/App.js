@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
@@ -7,20 +7,28 @@ import Home from '../../components/Home/Home';
 import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 
+const withWeather = weather => Comp =>
+  // eslint-disable-next-line react/prefer-stateless-function
+  class WithWeather extends Component {
+    render() {
+      return <Comp weather={weather} />;
+    }
+  };
+
 const App = props => (
   <div>
     <Navbar categories={props.categories} sources={props.sources} />
     <div className="container-fluid bg-light">
       <Switch>
         <Route
+          component={withWeather(props.weather.home)(Home)}
           exact
           path="/"
-          render={() => <Home weather={props.weather.home} />}
         />
         <Route
+          component={withWeather(props.weather.kanyini)(Kanyini)}
           exact
           path="/kanyini"
-          render={() => <Kanyini weather={props.weather.kanyini} />}
         />
         <Route
           exact
@@ -40,12 +48,12 @@ const App = props => (
 );
 
 App.propTypes = {
-  articles: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
-  categories: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
+  articles: PropTypes.array.isRequired,
+  categories: PropTypes.array.isRequired,
   name: PropTypes.string.isRequired,
-  sources: PropTypes.array.isRequired, // eslint-disable-line react/forbid-prop-types
+  sources: PropTypes.array.isRequired,
   version: PropTypes.string.isRequired,
-  weather: PropTypes.object.isRequired // eslint-disable-line react/forbid-prop-types
+  weather: PropTypes.object.isRequired
 };
 
 export default App;
