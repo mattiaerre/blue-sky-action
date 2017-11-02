@@ -4,6 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
+import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 
 const App = props => (
@@ -14,12 +15,12 @@ const App = props => (
         <Route
           exact
           path="/"
-          render={_ => <Home {..._} weather={props.weather.home} />}
+          render={() => <Home weather={props.weather.home} />}
         />
         <Route
           exact
           path="/kanyini"
-          render={_ => <Home {..._} weather={props.weather.kanyini} />}
+          render={() => <Kanyini weather={props.weather.kanyini} />}
         />
         <Route
           exact

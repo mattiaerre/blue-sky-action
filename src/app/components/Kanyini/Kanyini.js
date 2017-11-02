@@ -1,16 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TiHome from 'react-icons/lib/ti/home';
+import TiGlobe from 'react-icons/lib/ti/globe';
 import OpenWeatherMap from 'react-open-weather-map';
 import getBackgroundColor from '../get-background-color';
-import InterestingLinks from '../../components/InterestingLinks/InterestingLinks';
 
 const Home = ({ weather }) => (
   <div>
     <div className="row">
       <div className="col-12">
         <h2>
-          <TiHome /> <span className="align-middle">Home</span>
+          <TiGlobe /> <span className="align-middle">Kanyini</span>
         </h2>
       </div>
     </div>
@@ -29,7 +28,6 @@ const Home = ({ weather }) => (
         </div>
       ))}
     </div>
-    <InterestingLinks />
   </div>
 );
 

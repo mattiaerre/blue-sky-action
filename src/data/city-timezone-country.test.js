@@ -4,7 +4,7 @@ import home from './home.json';
 
 config();
 
-describe('city timezone country', () => {
+describe.skip('city timezone country', () => {
   Object.keys(home).forEach(key => {
     test(home[key].city.name, async () => {
       const { city } = home[key];

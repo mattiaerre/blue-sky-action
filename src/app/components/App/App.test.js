@@ -14,17 +14,20 @@ describe('<App />', () => {
   fetch.mockResponse(
     JSON.stringify([
       {
-        description: 'So many side fringes.',
-        title: "19 '00s Hair Styles That Were Cool Then, But Are Cringey Now",
-        url:
-          'https://www.buzzfeed.com/tabathaleggett/19-00s-hairstyles-that-were-cool-then-but-are-cringey-now'
+        description:
+          'Your daily roundup of the biggest TechCrunch stories and startup news.',
+        publishedAt: '2017-10-31T20:00:33Z',
+        title: 'Crunch Report',
+        url: 'https://techcrunch.com/video/crunchreport/'
       },
       {
-        description: '"She said yes."',
+        description:
+          "It's impossible to know just how much stuff being circulated on social networks is Russian state content in sheep's clothing, although tech companies are..",
+        publishedAt: '2017-11-01T23:49:18Z',
         title:
-          'Holy Crap, There Are Going To Be Two "GoT" Weddings Soon Because Sophie Turner And Joe Jonas Just Got Engaged!',
+          'Here’s how Russia targeted its fake Facebook ads and how those ads performed',
         url:
-          'https://www.buzzfeed.com/shylawatson/holy-crap-there-are-going-to-be-two-got-weddings-soon'
+          'https://techcrunch.com/2017/11/01/list-russian-ads-facebook-instagram/'
       }
     ])
   );
