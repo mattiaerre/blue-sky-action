@@ -12,7 +12,7 @@ const Home = ({ weather }) => (
         </h2>
       </div>
     </div>
-    <WeatherGroup weather={weather} />
+    <WeatherGroup group="kanyini" weather={weather} />
   </div>
 );
 
