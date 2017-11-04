@@ -6,7 +6,7 @@
     "bundle:client": "webpack --debug true --config webpack.config.client.js",
     "bundle:server": "webpack --debug true --config webpack.config.server.js",
     "format":
-      "prettier --single-quote --trailing-comma none --write \"{src,__{tests,mocks}__}/**/*.{js,json,scss}\"",
+      "prettier --single-quote --trailing-comma none --write '{src,__{tests,mocks}__}/**/*.{js,json,scss}' '!src/public/javascripts/bundle.js'",
     "precommit": "lint-staged",
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
