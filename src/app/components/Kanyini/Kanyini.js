@@ -1,8 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import TiGlobe from 'react-icons/lib/ti/globe';
-import OpenWeatherMap from 'react-open-weather-map';
-import getBackgroundColor from '../get-background-color';
+import WeatherGroup from '../../containers/WeatherGroup/WeatherGroup';
 
 const Home = ({ weather }) => (
   <div>
@@ -13,21 +12,7 @@ const Home = ({ weather }) => (
         </h2>
       </div>
     </div>
-    <div className="row">
-      {weather.map(item => (
-        <div className="col-md-4 col-sm-6 mb-4" key={item.id}>
-          <div className="card">
-            <div
-              className={`card-body weather ${getBackgroundColor(
-                item.weather[0].id
-              )}`}
-            >
-              <OpenWeatherMap data={item} />
-            </div>
-          </div>
-        </div>
-      ))}
-    </div>
+    <WeatherGroup weather={weather} />
   </div>
 );
 
