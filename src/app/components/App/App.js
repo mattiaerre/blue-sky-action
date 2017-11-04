@@ -20,13 +20,9 @@ const App = props => (
     <Navbar categories={props.categories} sources={props.sources} />
     <div className="container-fluid bg-light">
       <Switch>
+        <Route component={withWeather(props.weather)(Home)} exact path="/" />
         <Route
-          component={withWeather(props.weather.home)(Home)}
-          exact
-          path="/"
-        />
-        <Route
-          component={withWeather(props.weather.kanyini)(Kanyini)}
+          component={withWeather(props.weather)(Kanyini)}
           exact
           path="/kanyini"
         />
@@ -53,7 +49,7 @@ App.propTypes = {
   name: PropTypes.string.isRequired,
   sources: PropTypes.array.isRequired,
   version: PropTypes.string.isRequired,
-  weather: PropTypes.object.isRequired
+  weather: PropTypes.array.isRequired
 };
 
 export default App;

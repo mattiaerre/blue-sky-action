@@ -1,5 +1,6 @@
 const express = require('express');
 const fetchArticles = require('./fetch-articles');
+const makeWeather = require('./make-weather');
 
 const router = express.Router();
 
@@ -10,6 +11,11 @@ router.get('/articles', async (req, res) => {
     source: req.query.source
   });
   res.send(articles);
+});
+
+router.get('/weather', async (req, res) => {
+  const { group } = req.query;
+  res.send(await makeWeather(group));
 });
 
 module.exports = router;
