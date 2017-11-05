@@ -23,6 +23,17 @@
   },
   "3": {
     "city": {
+      "id": 5506956,
+      "name": "Las Vegas",
+      "country": "US",
+      "coord": {
+        "lat": 36.17,
+        "lon": -115.14
+      }
+    }
+  },
+  "4": {
+    "city": {
       "id": 5391959,
       "name": "San Francisco",
       "country": "US",
