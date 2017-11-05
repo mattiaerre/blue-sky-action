@@ -1,7 +1,6 @@
 const express = require('express');
 const fetchArticles = require('./fetch-articles');
 const makeModel = require('./make-model');
-const makeWeather = require('./make-weather');
 
 const router = express.Router();
 
@@ -15,17 +14,17 @@ async function makeArticles(req) {
 }
 
 router.get('/', async (req, res) => {
-  const model = await makeModel(req, [], await makeWeather());
+  const model = await makeModel(req, []);
   res.render('index', model);
 });
 
 router.get('/kanyini', async (req, res) => {
-  const model = await makeModel(req, [], await makeWeather('kanyini'));
+  const model = await makeModel(req, []);
   res.render('index', model);
 });
 
 router.get('/:category/:source', async (req, res) => {
-  const model = await makeModel(req, await makeArticles(req), []);
+  const model = await makeModel(req, await makeArticles(req));
   res.render('index', model);
 });
 

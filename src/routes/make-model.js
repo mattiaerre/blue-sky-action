@@ -3,7 +3,10 @@ const { name, version } = require('../../package.json');
 const index = require('../../dist/bundle').default;
 const sources = require('../data/sources');
 
-async function makeModel(req, articles, weather) {
+const LANGUAGE = 'en';
+const COUNTRY = 'us';
+
+async function makeModel(req, articles) {
   const pool = new Pool({ connectionString: process.env.DATABASE_URL });
   const { rows } = await pool.query('SELECT NOW()');
   pool.end();
@@ -11,7 +14,9 @@ async function makeModel(req, articles, weather) {
   const props = {
     articles,
     categories: sources
-      .filter(source => source.language === 'en' && source.country === 'us')
+      .filter(
+        source => source.language === LANGUAGE && source.country === COUNTRY
+      )
       .filter(
         source => source.category !== 'politics' && source.category !== 'music'
       )
@@ -24,10 +29,12 @@ async function makeModel(req, articles, weather) {
     name,
     now: rows[0].now,
     sources: sources
-      .filter(source => source.language === 'en' && source.country === 'us')
+      .filter(
+        source => source.language === LANGUAGE && source.country === COUNTRY
+      )
       .filter(source => source.id !== 'recode'),
     version,
-    weather
+    weather: []
   };
 
   const app = index(req, props);

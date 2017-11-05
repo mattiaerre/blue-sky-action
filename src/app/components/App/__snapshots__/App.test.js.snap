@@ -103,46 +103,11 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
         className="row"
       >
         <div
-          className="col-md-4 col-sm-6 mb-4"
+          className="col-12"
         >
-          <div
-            className="card"
-          >
-            <div
-              className="card-body weather bg-info"
-            >
-              <div
-                className="react-open-weather-map"
-              >
-                <div
-                  className="main-heading"
-                >
-                  , 
-                </div>
-                <div
-                  className="day"
-                >
-                  Invalid date
-                </div>
-                <div
-                  className="description"
-                />
-                <div
-                  className="icon"
-                >
-                  <img
-                    alt={undefined}
-                    src="//openweathermap.org/img/w/.png"
-                  />
-                </div>
-                <div
-                  className="temperature"
-                >
-                   °C
-                </div>
-              </div>
-            </div>
-          </div>
+          <h3>
+            Loading ...
+          </h3>
         </div>
       </div>
       <div>
@@ -354,46 +319,11 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
         className="row"
       >
         <div
-          className="col-md-4 col-sm-6 mb-4"
+          className="col-12"
         >
-          <div
-            className="card"
-          >
-            <div
-              className="card-body weather bg-info"
-            >
-              <div
-                className="react-open-weather-map"
-              >
-                <div
-                  className="main-heading"
-                >
-                  , 
-                </div>
-                <div
-                  className="day"
-                >
-                  Invalid date
-                </div>
-                <div
-                  className="description"
-                />
-                <div
-                  className="icon"
-                >
-                  <img
-                    alt={undefined}
-                    src="//openweathermap.org/img/w/.png"
-                  />
-                </div>
-                <div
-                  className="temperature"
-                >
-                   °C
-                </div>
-              </div>
-            </div>
-          </div>
+          <h3>
+            Loading ...
+          </h3>
         </div>
       </div>
     </div>
@@ -442,112 +372,6 @@ exports[`<App /> location === "/" to match snapshot 2`] = `
 `;
 
 exports[`<App /> location === "/" to match snapshot 3`] = `
-<div>
-  <nav
-    className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
-  >
-    <a
-      className="navbar-brand"
-      href="/"
-    >
-      [\`/\`]
-    </a>
-    <button
-      aria-controls="navbar"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-      className="navbar-toggler"
-      data-target="#navbar"
-      data-toggle="collapse"
-      type="button"
-    >
-      <span
-        className="navbar-toggler-icon"
-      />
-    </button>
-    <div
-      className="collapse navbar-collapse"
-      id="navbar"
-    >
-      <ul
-        className="navbar-nav mr-auto"
-      >
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current="true"
-            className="nav-link text-light active"
-            href="/"
-            onClick={[Function]}
-            style={Object {}}
-          >
-            Home
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current={false}
-            className="nav-link text-light"
-            href="/kanyini"
-            onClick={[Function]}
-            style={undefined}
-          >
-            Kanyini
-          </a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-  <div
-    className="container-fluid bg-light"
-  />
-  <footer
-    className="border border-right-0 border-bottom-0 border-left-0"
-  >
-    <div
-      className="container-fluid"
-    >
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <small
-            className="float-right"
-          >
-             v
-          </small>
-        </div>
-      </div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <small
-            className="float-right"
-          >
-            <a
-              href="https://newsapi.org/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              powered by News API
-            </a>
-          </small>
-        </div>
-      </div>
-    </div>
-  </footer>
-</div>
-`;
-
-exports[`<App /> location === "/" to match snapshot 4`] = `
 <div>
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
