@@ -1,7 +1,7 @@
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
-const fetchSources = require('../routes/fetch-sources');
+const fetchSources = require('./fetch-sources');
 
 fetchSources({ baseUrl: process.env.NEWSAPI_BASE_URL }).then(sources => {
   fs.writeFileSync(
