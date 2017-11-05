@@ -3,9 +3,9 @@ import { renderToString } from 'react-dom/server';
 import { StaticRouter } from 'react-router-dom';
 import App from './components/App/App';
 
-function index(req, props) {
+function index(url, props) {
   return renderToString(
-    <StaticRouter location={req.url} context={{}}>
+    <StaticRouter location={url} context={{}}>
       <App {...props} />
     </StaticRouter>
   );

@@ -6,7 +6,7 @@ const sources = require('../data/sources');
 const LANGUAGE = 'en';
 const COUNTRY = 'us';
 
-async function makeModel(req, articles) {
+async function makeModel(url, articles) {
   const pool = new Pool({ connectionString: process.env.DATABASE_URL });
   const { rows } = await pool.query('SELECT NOW()');
   pool.end();
@@ -37,7 +37,7 @@ async function makeModel(req, articles) {
     weather: []
   };
 
-  const app = index(req, props);
+  const app = index(url, props);
   const model = {
     app,
     props,
