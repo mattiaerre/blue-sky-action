@@ -7,25 +7,13 @@ import Home from '../../components/Home/Home';
 import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 
-const withWeather = weather => Comp =>
-  // eslint-disable-next-line react/prefer-stateless-function
-  class WithWeather extends Component {
-    render() {
-      return <Comp weather={weather} />;
-    }
-  };
-
 const App = props => (
   <div>
     <Navbar categories={props.categories} sources={props.sources} />
     <div className="container-fluid bg-light">
       <Switch>
-        <Route component={withWeather(props.weather)(Home)} exact path="/" />
-        <Route
-          component={withWeather(props.weather)(Kanyini)}
-          exact
-          path="/kanyini"
-        />
+        <Route component={Home} exact path="/" />
+        <Route component={Kanyini} exact path="/kanyini" />
         <Route
           exact
           path="/:category/:source"

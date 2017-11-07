@@ -6,7 +6,7 @@ import getBackgroundColor from './get-background-color';
 class WeatherGroup extends Component {
   state = {
     loading: false,
-    weather: this.props.weather
+    weather: []
   };
 
   componentDidMount() {
@@ -48,8 +48,7 @@ class WeatherGroup extends Component {
 }
 
 WeatherGroup.propTypes = {
-  group: PropTypes.string.isRequired,
-  weather: PropTypes.array.isRequired
+  group: PropTypes.string.isRequired
 };
 
 export default WeatherGroup;

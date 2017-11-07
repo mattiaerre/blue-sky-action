@@ -1,9 +1,8 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import TiGlobe from 'react-icons/lib/ti/globe';
 import WeatherGroup from '../../containers/WeatherGroup/WeatherGroup';
 
-const Home = ({ weather }) => (
+const Home = () => (
   <div>
     <div className="row">
       <div className="col-12">
@@ -12,12 +11,8 @@ const Home = ({ weather }) => (
         </h2>
       </div>
     </div>
-    <WeatherGroup group="kanyini" weather={weather} />
+    <WeatherGroup group="kanyini" />
   </div>
 );
-
-Home.propTypes = {
-  weather: PropTypes.array.isRequired
-};
 
 export default Home;
