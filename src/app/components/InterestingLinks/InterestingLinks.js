@@ -5,7 +5,7 @@ const InterestingLinks = () => (
   <div>
     <div className="row">
       <div className="col-12">
-        <h2>Interesting links</h2>
+        <h3>Interesting links</h3>
       </div>
     </div>
     <div className="row">
@@ -15,8 +15,8 @@ const InterestingLinks = () => (
             <li key={key}>
               <a
                 href={links[key].url}
-                target="_blank"
                 rel="noopener noreferrer"
+                target="_blank"
               >
                 {links[key].label}
               </a>

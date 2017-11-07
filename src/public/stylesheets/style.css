@@ -1,7 +1,7 @@
 body {
   font-family: 'Inconsolata', monospace; }
 
-h2 {
+h2, h3 {
   color: #0047b0; }
 
 .navbar {
