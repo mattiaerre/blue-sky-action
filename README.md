@@ -7,6 +7,8 @@ I'd love to build a mobile website.
 ```bash
 npm i
 
+npm run bundle:watch
+
 npm run start:dev
 ```
 

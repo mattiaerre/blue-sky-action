@@ -2,9 +2,11 @@
   "name": "blue-sky-action",
   "version": "1.0.0-alpha.1",
   "scripts": {
-    "bundle": "npm run bundle:client && npm run bundle:server",
+    "bundle": "npm-run-all -p bundle:client bundle:server",
     "bundle:client": "webpack --debug true --config webpack.config.client.js",
     "bundle:server": "webpack --debug true --config webpack.config.server.js",
+    "bundle:watch":
+      "npm-run-all -p 'bundle:client -- --watch' 'bundle:server -- --watch'",
     "format":
       "prettier --single-quote --trailing-comma none --write '{src,__{tests,mocks}__}/**/*.{js,json,scss}' '!src/public/javascripts/bundle.js'",
     "precommit": "lint-staged",
@@ -58,6 +60,7 @@
     "json-loader": "^0.5.7",
     "lint-staged": "^4.3.0",
     "nodemon": "^1.12.1",
+    "npm-run-all": "^4.1.2",
     "prettier": "1.7.4"
   },
   "description": "I'd love to build a mobile website.",

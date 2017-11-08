@@ -4,17 +4,17 @@ const makeModel = require('./make-model');
 
 const router = express.Router();
 
-router.get('/', async (req, res) => {
+async function render(req, res) {
   const { url } = req;
   const model = await makeModel(url, []);
   res.render('index', model);
-});
+}
 
-router.get('/kanyini', async (req, res) => {
-  const { url } = req;
-  const model = await makeModel(url, []);
-  res.render('index', model);
-});
+router.get('/', render);
+
+router.get('/kanyini', render);
+
+router.get(process.env.ON_SALE_PATH, render);
 
 router.get('/:category/:source', async (req, res) => {
   const { source } = req.params;
