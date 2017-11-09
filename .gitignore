@@ -32,3 +32,4 @@ npm-debug.log
 dist
 .env
 bundle.js
+_

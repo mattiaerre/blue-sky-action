@@ -1,0 +1,14 @@
+{
+  "rolex-air-king": {
+    "name": "Rolex Air King",
+    "model-number": "14000M",
+    "date": "03 OCT 2005",
+    "image": "IMG_0613.JPG"
+  },
+  "rolex-submariner": {
+    "name": "Rolex Submariner",
+    "model-number": "14060",
+    "date": "28 MAR 1992",
+    "image": "IMG_5109.JPG"
+  }
+}
