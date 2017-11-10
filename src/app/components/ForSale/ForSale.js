@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import onSale from './on-sale.json';
+import forSale from './for-sale.json';
 
 const Card = ({ item }) => (
   <div className="card">
@@ -17,21 +17,21 @@ Card.propTypes = {
   item: PropTypes.object.isRequired
 };
 
-const OnSale = () => (
+const ForSale = () => (
   <div>
     <div className="row">
       <div className="col-12">
-        <h2>On Sale</h2>
+        <h2>For Sale</h2>
       </div>
     </div>
     <div className="row">
-      {Object.keys(onSale).map(key => (
+      {Object.keys(forSale).map(key => (
         <div className="col-md-4 col-sm-6 mb-4" key={key}>
-          <Card item={onSale[key]} />
+          <Card item={forSale[key]} />
         </div>
       ))}
     </div>
   </div>
 );
 
-export default OnSale;
+export default ForSale;

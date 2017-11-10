@@ -14,7 +14,7 @@ router.get('/', render);
 
 router.get('/kanyini', render);
 
-router.get(process.env.ON_SALE_PATH, render);
+router.get(process.env.FOR_SALE_PATH, render);
 
 router.get('/:category/:source', async (req, res) => {
   const { source } = req.params;

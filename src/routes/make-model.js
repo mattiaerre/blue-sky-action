@@ -28,7 +28,7 @@ async function makeModel(url, articles) {
       }, []),
     name,
     now: rows[0].now,
-    onSalePath: process.env.ON_SALE_PATH,
+    forSalePath: process.env.FOR_SALE_PATH,
     sources: sources
       .filter(
         source => source.language === LANGUAGE && source.country === COUNTRY
