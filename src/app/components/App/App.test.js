@@ -30,6 +30,8 @@ describe('<App />', () => {
     }
   ];
 
+  const forSalePath = '/for-sale';
+
   const props = {
     articles: [],
     categories: [],
@@ -42,13 +44,18 @@ describe('<App />', () => {
       }
     ],
     version: '',
-    weather: [nullWeather]
+    weather: [nullWeather],
+    forSalePath
   };
 
   const scenarios = [
     {
       location: '/',
       mock: () => fetch.mockResponseOnce(JSON.stringify([nullWeather]))
+    },
+    {
+      location: forSalePath,
+      mock: () => ({})
     },
     {
       location: '/kanyini',
@@ -61,7 +68,7 @@ describe('<App />', () => {
   ];
 
   scenarios.forEach(({ location, mock }) => {
-    describe('location === "/"', () => {
+    describe(`location === "${location}"`, () => {
       test('to match snapshot', () => {
         mock();
         const tree = create(
