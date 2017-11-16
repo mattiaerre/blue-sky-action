@@ -18,5 +18,9 @@
     "label": "VisaHQ",
     "url":
       "https://vietnam.visahq.com/requirements/italy/resident-united-states/"
+  },
+  "remote-year-welcome-portal": {
+    "label": "RY Welcome Portal",
+    "url": "https://sites.google.com/a/remoteyear.com/welcome-portal/"
   }
 }
