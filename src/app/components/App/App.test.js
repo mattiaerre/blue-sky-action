@@ -4,6 +4,11 @@ import { create } from 'react-test-renderer';
 import App from './App';
 
 describe('<App />', () => {
+  // see: https://stackoverflow.com/questions/41570273/how-to-test-a-function-that-output-is-random-using-jest
+  const mockMath = Object.create(global.Math);
+  mockMath.random = () => 0.5;
+  global.Math = mockMath;
+
   const nullWeather = {
     id: 0,
     main: {},

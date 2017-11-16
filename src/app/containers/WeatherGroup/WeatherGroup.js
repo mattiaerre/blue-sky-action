@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import OpenWeatherMap from 'react-open-weather-map';
 import getBackgroundColor from './get-background-color';
+import Loading from '../../components/Loading/Loading';
 
 class WeatherGroup extends Component {
   state = {
@@ -21,13 +22,8 @@ class WeatherGroup extends Component {
   };
 
   render() {
-    return (
-      <div className="row">
-        {this.state.loading && (
-          <div className="col-12">
-            <h3>Loading ...</h3>
-          </div>
-        )}
+    return [
+      <div key="weather-group" className="row">
         {!this.state.loading &&
           this.state.weather.map(item => (
             <div className="col-md-4 col-sm-6 mb-4" key={item.id}>
@@ -42,8 +38,9 @@ class WeatherGroup extends Component {
               </div>
             </div>
           ))}
-      </div>
-    );
+      </div>,
+      <Loading key="loading" loading={this.state.loading} />
+    ];
   }
 }
 
