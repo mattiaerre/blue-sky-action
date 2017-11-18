@@ -8,7 +8,7 @@ import Sources from '../../components/Sources/Sources';
 class Articles extends Component {
   state = {
     articles: this.props.articles || [],
-    loading: true
+    loading: false
   };
 
   componentDidMount() {
@@ -60,9 +60,8 @@ class Articles extends Component {
                             href={article.url}
                             target="_blank"
                             rel="noopener noreferrer"
-                          >
-                            {article.title}
-                          </a>
+                            dangerouslySetInnerHTML={{ __html: article.title }}
+                          />
                         </h4>
                         <p className="card-text">{article.description}</p>
                       </div>

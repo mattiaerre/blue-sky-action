@@ -10,9 +10,12 @@ const PrimaryCard = ({ article }) => (
     <img src={article.urlToImage} className="card-img-top" alt="" />
     <div className="card-body">
       <h3 className="card-title">
-        <a href={article.url} target="_blank" rel="noopener noreferrer">
-          {article.title}
-        </a>
+        <a
+          href={article.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          dangerouslySetInnerHTML={{ __html: article.title }}
+        />
       </h3>
       <p className="card-text">{article.description}</p>
     </div>

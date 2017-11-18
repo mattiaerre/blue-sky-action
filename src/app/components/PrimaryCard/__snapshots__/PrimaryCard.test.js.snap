@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PrimaryCard /> to match snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-header"
+  >
+    5 hours ago
+  </div>
+  <img
+    alt=""
+    className="card-img-top"
+    src="https://ewedit.files.wordpress.com/2017/11/gettyimages-692777996.jpg?crop=0px%2C0px%2C2700px%2C1417.5px&resize=1200%2C630"
+  />
+  <div
+    className="card-body"
+  >
+    <h3
+      className="card-title"
+    >
+      <a
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<em>True Detective</em> season 3 casts <em>Fantastic Beasts</em> actress as female lead",
+          }
+        }
+        href="http://ew.com/tv/2017/11/17/true-detective-season-3-carmen-ejogo/"
+        rel="noopener noreferrer"
+        target="_blank"
+      />
+    </h3>
+    <p
+      className="card-text"
+    >
+      
+    </p>
+  </div>
+</div>
+`;
