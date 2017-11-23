@@ -2,10 +2,10 @@ const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 require('dotenv').config();
 const express = require('express');
+const favicon = require('express-favicon-short-circuit');
 const logger = require('morgan');
 const sassMiddleware = require('node-sass-middleware');
 const path = require('path');
-// const favicon = require('serve-favicon');
 
 const graphqlMiddleware = require('./middlewares/graphql');
 const api = require('./routes/api');
@@ -18,7 +18,7 @@ app.locals.pretty = true;
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
-// app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+app.use(favicon);
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
