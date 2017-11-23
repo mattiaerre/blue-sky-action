@@ -2,7 +2,7 @@
 
 exports[`<Footer /> to match snapshot 1`] = `
 <footer
-  className="border border-right-0 border-bottom-0 border-left-0"
+  className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3"
 >
   <div
     className="container-fluid"
@@ -17,6 +17,25 @@ exports[`<Footer /> to match snapshot 1`] = `
           className="float-right"
         >
           red-ribbon-army v2.0.0
+        </small>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-12"
+      >
+        <small
+          className="float-right"
+        >
+          <a
+            href="https://buttercms.com/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            powered by ButterCMS
+          </a>
         </small>
       </div>
     </div>

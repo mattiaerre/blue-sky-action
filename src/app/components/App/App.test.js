@@ -63,8 +63,8 @@ describe('<App />', () => {
       mock: () => ({})
     },
     {
-      location: '/kanyini',
-      mock: () => fetch.mockResponseOnce(JSON.stringify([nullWeather]))
+      location: '/blog',
+      mock: () => () => ({})
     },
     {
       location: '/entertainment/buzzfeed',

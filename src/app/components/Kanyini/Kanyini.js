@@ -3,7 +3,7 @@ import moment from 'moment';
 import TiGlobe from 'react-icons/lib/ti/globe';
 import WeatherGroup from '../../containers/WeatherGroup/WeatherGroup';
 
-const Home = () => (
+const Kanyini = () => (
   <div>
     <div className="row">
       <div className="col-12">
@@ -32,4 +32,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default Kanyini;

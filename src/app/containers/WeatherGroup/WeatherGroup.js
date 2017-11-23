@@ -23,6 +23,7 @@ class WeatherGroup extends Component {
 
   render() {
     return [
+      <Loading key="loading" loading={this.state.loading} />,
       <div key="weather-group" className="row">
         {!this.state.loading &&
           this.state.weather.map(item => (
@@ -38,8 +39,7 @@ class WeatherGroup extends Component {
               </div>
             </div>
           ))}
-      </div>,
-      <Loading key="loading" loading={this.state.loading} />
+      </div>
     ];
   }
 }

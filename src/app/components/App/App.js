@@ -2,9 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
+import Blog from '../../components/Blog/Blog';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
-import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 import ForSale from '../../components/ForSale/ForSale';
 
@@ -14,7 +14,7 @@ const App = props => (
     <div className="container-fluid bg-light">
       <Switch>
         <Route component={Home} exact path="/" />
-        <Route component={Kanyini} exact path="/kanyini" />
+        <Route component={Blog} exact path="/blog" />
         <Route component={ForSale} exact path={props.forSalePath} />
         <Route
           exact

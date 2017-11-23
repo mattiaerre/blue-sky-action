@@ -14,7 +14,7 @@ const Loading = ({ loading }) => {
   return (
     <div className="row">
       <div className="col-12">
-        <div className="progress" style={{ height: '5px' }}>
+        <div className="progress" style={{ height: '4px' }}>
           <div
             className={`progress-bar w-${width}`}
             role="progressbar"

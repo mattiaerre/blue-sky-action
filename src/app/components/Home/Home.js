@@ -1,7 +1,6 @@
 import React from 'react';
 import TiHome from 'react-icons/lib/ti/home';
 import WeatherGroup from '../../containers/WeatherGroup/WeatherGroup';
-import InterestingLinks from '../../components/InterestingLinks/InterestingLinks';
 
 const Home = () => (
   <div>
@@ -13,7 +12,6 @@ const Home = () => (
       </div>
     </div>
     <WeatherGroup group="" />
-    <InterestingLinks />
   </div>
 );
 

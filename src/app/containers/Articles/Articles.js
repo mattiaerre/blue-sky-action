@@ -34,6 +34,7 @@ class Articles extends Component {
         category={this.props.match.params.category}
         sources={this.props.sources}
       />,
+      <Loading key="loading" loading={this.state.loading} />,
       <div key="articles" className="row">
         <div className="col-12">
           {!this.state.loading && (
@@ -72,8 +73,7 @@ class Articles extends Component {
             </ul>
           )}
         </div>
-      </div>,
-      <Loading key="loading" loading={this.state.loading} />
+      </div>
     ];
   }
 }

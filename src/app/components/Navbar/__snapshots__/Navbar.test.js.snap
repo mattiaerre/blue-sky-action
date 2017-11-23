@@ -49,11 +49,11 @@ exports[`<Navbar /> to match snapshot 1`] = `
         <a
           aria-current={false}
           className="nav-link text-light"
-          href="/kanyini"
+          href="/blog"
           onClick={[Function]}
           style={undefined}
         >
-          Kanyini
+          Blog
         </a>
       </li>
       <li

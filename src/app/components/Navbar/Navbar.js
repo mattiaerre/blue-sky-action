@@ -35,13 +35,13 @@ const Navbar = ({ categories, sources }) => (
             Home
           </NavLink>
         </li>
-        <li key="kanyini" className="nav-item">
+        <li key="blog" className="nav-item">
           <NavLink
             activeClassName="active"
             className="nav-link text-light"
-            to="/kanyini"
+            to="/blog"
           >
-            Kanyini
+            Blog
           </NavLink>
         </li>
         {categories.map(category => (

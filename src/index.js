@@ -37,10 +37,10 @@ app.use('/graphql', graphqlMiddleware);
 
 app.use('/api/v1', api);
 if (process.env.PLAYGROUND === 'true') {
-  app.use('/', playground);
-} else {
-  app.use('/', index);
+  app.use('/blog', playground);
 }
+
+app.use('/', index);
 
 app.use((req, res, next) => {
   const err = new Error('Not Found');

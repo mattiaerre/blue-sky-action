@@ -2,11 +2,24 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Footer = ({ name, version }) => (
-  <footer className="border border-right-0 border-bottom-0 border-left-0">
+  <footer className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3">
     <div className="container-fluid">
       <div className="row">
         <div className="col-12">
           <small className="float-right">{`${name} v${version}`}</small>
+        </div>
+      </div>
+      <div className="row">
+        <div className="col-12">
+          <small className="float-right">
+            <a
+              href="https://buttercms.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              powered by ButterCMS
+            </a>
+          </small>
         </div>
       </div>
       <div className="row">

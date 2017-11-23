@@ -7,7 +7,7 @@ exports[`<PrimaryCard /> to match snapshot 1`] = `
   <div
     className="card-header"
   >
-    5 hours ago
+    5 days ago
   </div>
   <img
     alt=""

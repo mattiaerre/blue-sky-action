@@ -10,18 +10,12 @@ async function fetchCurrentWeather({ apiKey, baseUrl, id, units }) {
   let url = appendQuery(`${baseUrl}/data/2.5/group`, params);
   url = `${url}&id=${id}`;
 
-  const nullWeather = {
-    main: {},
-    sys: {},
-    weather: [{ icon: '' }]
-  };
-
   return fetch(url)
     .then(response => response.json())
     .then(data => data.list)
     .catch(error => {
       debug(error);
-      return nullWeather;
+      return []; // info: not too sure about this
     });
 }
 
