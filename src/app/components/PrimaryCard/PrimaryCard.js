@@ -17,7 +17,10 @@ const PrimaryCard = ({ article }) => (
           dangerouslySetInnerHTML={{ __html: article.title }}
         />
       </h3>
-      <p className="card-text">{article.description}</p>
+      <p
+        className="card-text"
+        dangerouslySetInnerHTML={{ __html: article.description }}
+      />
     </div>
   </div>
 );

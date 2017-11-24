@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
-import Blog from '../../components/Blog/Blog';
+import Blog from '../../containers/Blog/Blog';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
 import Navbar from '../../components/Navbar/Navbar';
@@ -36,8 +36,8 @@ const App = props => (
 App.propTypes = {
   articles: PropTypes.array.isRequired,
   categories: PropTypes.array.isRequired,
-  name: PropTypes.string.isRequired,
   forSalePath: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
   sources: PropTypes.array.isRequired,
   version: PropTypes.string.isRequired,
   weather: PropTypes.array.isRequired
