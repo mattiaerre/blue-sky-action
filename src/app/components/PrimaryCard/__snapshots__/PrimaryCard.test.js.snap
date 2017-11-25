@@ -7,7 +7,7 @@ exports[`<PrimaryCard /> to match snapshot 1`] = `
   <div
     className="card-header"
   >
-    5 days ago
+    7 days ago
   </div>
   <img
     alt=""
@@ -33,9 +33,12 @@ exports[`<PrimaryCard /> to match snapshot 1`] = `
     </h3>
     <p
       className="card-text"
-    >
-      
-    </p>
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "",
+        }
+      }
+    />
   </div>
 </div>
 `;

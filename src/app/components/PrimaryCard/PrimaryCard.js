@@ -2,7 +2,7 @@ import React from 'react';
 import moment from 'moment';
 import PropTypes from 'prop-types';
 
-const PrimaryCard = ({ article }) => (
+const PrimaryCard = ({ article, target }) => (
   <div className="card">
     {article.publishedAt && (
       <div className="card-header">{moment(article.publishedAt).fromNow()}</div>
@@ -12,7 +12,7 @@ const PrimaryCard = ({ article }) => (
       <h3 className="card-title">
         <a
           href={article.url}
-          target="_blank"
+          target={target}
           rel="noopener noreferrer"
           dangerouslySetInnerHTML={{ __html: article.title }}
         />
@@ -25,8 +25,13 @@ const PrimaryCard = ({ article }) => (
   </div>
 );
 
+PrimaryCard.defaultProps = {
+  target: '_blank'
+};
+
 PrimaryCard.propTypes = {
-  article: PropTypes.object.isRequired
+  article: PropTypes.object.isRequired,
+  target: PropTypes.string
 };
 
 export default PrimaryCard;

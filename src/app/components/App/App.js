@@ -15,6 +15,7 @@ const App = props => (
       <Switch>
         <Route component={Home} exact path="/" />
         <Route component={Blog} exact path="/blog" />
+        <Route component={Blog} exact path="/blog/:slug" />
         <Route component={ForSale} exact path={props.forSalePath} />
         <Route
           exact

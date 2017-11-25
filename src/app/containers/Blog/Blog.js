@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import TiPencil from 'react-icons/lib/ti/pencil';
 import Loading from '../../components/Loading/Loading';
@@ -6,16 +7,19 @@ import PrimaryCard from '../../components/PrimaryCard/PrimaryCard';
 class Blog extends Component {
   state = {
     loading: false,
-    post: {}
+    post: {
+      url: ''
+    }
   };
 
   componentDidMount() {
-    this.getPost();
+    const { slug } = this.props.match.params;
+    this.getPost(slug);
   }
 
-  getPost = () => {
+  getPost = (slug = 'namaste') => {
     this.setState({ loading: true });
-    fetch('/api/v1/blog/namaste')
+    fetch(`/api/v1/blog/${slug}`)
       .then(response => response.json())
       .then(({ post }) => {
         this.setState({ loading: false, post });
@@ -23,6 +27,9 @@ class Blog extends Component {
   };
 
   render() {
+    const description = this.props.match.params.slug
+      ? this.state.post.body
+      : this.state.post.summary;
     return [
       <div className="row" key="heading">
         <div className="col-12">
@@ -36,16 +43,25 @@ class Blog extends Component {
         <div className="col-12">
           <PrimaryCard
             article={{
-              description: this.state.post.body,
+              description,
               publishedAt: this.state.post.published,
               title: this.state.post.title,
+              url: this.state.post.url.replace(
+                'https://blue-sky-action.herokuapp.com',
+                ''
+              ),
               urlToImage: this.state.post.featured_image
             }}
+            target="_self"
           />
         </div>
       </div>
     ];
   }
 }
+
+Blog.propTypes = {
+  match: PropTypes.object.isRequired
+};
 
 export default Blog;

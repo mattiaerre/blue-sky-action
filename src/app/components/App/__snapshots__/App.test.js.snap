@@ -253,71 +253,104 @@ exports[`<App /> location === "/blog" to match snapshot 1`] = `
   <div
     className="container-fluid bg-light"
   >
-    <div>
+    <div
+      className="row"
+    >
       <div
-        className="row"
+        className="col-12"
       >
-        <div
-          className="col-12"
-        >
-          <h2>
-            <svg
-              fill="currentColor"
-              height="1em"
-              preserveAspectRatio="xMidYMid meet"
-              style={
-                Object {
-                  "color": undefined,
-                  "verticalAlign": "middle",
-                }
+        <h2>
+          <svg
+            fill="currentColor"
+            height="1em"
+            preserveAspectRatio="xMidYMid meet"
+            style={
+              Object {
+                "color": undefined,
+                "verticalAlign": "middle",
               }
-              viewBox="0 0 40 40"
-              width="1em"
-            >
-              <g>
-                <path
-                  d="m35 11.5l-6.5-6.5c-0.5-0.5-1.1-0.7-1.7-0.7-0.7 0-1.3 0.2-1.8 0.7l-18.2 18.2c-0.5 0.5-1 1.2-1.3 2-0.3 0.8-0.5 1.6-0.5 2.3v7.5h7.5c0.7 0 1.5-0.2 2.3-0.5s1.5-0.8 2-1.3l18.2-18.2c0.5-0.5 0.7-1.1 0.7-1.8 0-0.6-0.2-1.2-0.7-1.7z m-25.4 13.6l13.8-13.8 2.1 2-13.8 13.9-2.1-2.1z m2.9 6.6h-2.5l-1.7-1.7v-2.5c0-0.1 0.1-0.5 0.3-1 0 0 4.9 4.9 4.9 4.9-0.5 0.2-0.9 0.3-1 0.3z m2.4-1.3l-2.1-2.1 13.9-13.8 2 2.1-13.8 13.8z m15-15l-5.3-5.3 2.2-2.2 5.2 5.3-2.1 2.2z"
-                />
-              </g>
-            </svg>
-             
-            <span
-              className="align-middle"
-            >
-              Blog
-            </span>
-          </h2>
-        </div>
+            }
+            viewBox="0 0 40 40"
+            width="1em"
+          >
+            <g>
+              <path
+                d="m35 11.5l-6.5-6.5c-0.5-0.5-1.1-0.7-1.7-0.7-0.7 0-1.3 0.2-1.8 0.7l-18.2 18.2c-0.5 0.5-1 1.2-1.3 2-0.3 0.8-0.5 1.6-0.5 2.3v7.5h7.5c0.7 0 1.5-0.2 2.3-0.5s1.5-0.8 2-1.3l18.2-18.2c0.5-0.5 0.7-1.1 0.7-1.8 0-0.6-0.2-1.2-0.7-1.7z m-25.4 13.6l13.8-13.8 2.1 2-13.8 13.9-2.1-2.1z m2.9 6.6h-2.5l-1.7-1.7v-2.5c0-0.1 0.1-0.5 0.3-1 0 0 4.9 4.9 4.9 4.9-0.5 0.2-0.9 0.3-1 0.3z m2.4-1.3l-2.1-2.1 13.9-13.8 2 2.1-13.8 13.8z m15-15l-5.3-5.3 2.2-2.2 5.2 5.3-2.1 2.2z"
+              />
+            </g>
+          </svg>
+           
+          <span
+            className="align-middle"
+          >
+            Blog
+          </span>
+        </h2>
       </div>
+    </div>
+    <div
+      className="row"
+    >
       <div
-        className="row pt-3"
+        className="col-12"
       >
         <div
-          className="col-12"
-        >
-          <strong>
-            Launching Soon ...
-          </strong>
-        </div>
-      </div>
-      <div
-        className="row pb-5"
-      >
-        <div
-          className="col-12"
+          className="progress"
+          style={
+            Object {
+              "height": "4px",
+            }
+          }
         >
           <div
-            className="progress"
+            aria-valuemax="100"
+            aria-valuemin="0"
+            aria-valuenow={50}
+            className="progress-bar w-50"
+            role="progressbar"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row pt-0 pb-4"
+    >
+      <div
+        className="col-12"
+      >
+        <div
+          className="card"
+        >
+          <img
+            alt=""
+            className="card-img-top"
+            src={undefined}
+          />
+          <div
+            className="card-body"
           >
-            <div
-              aria-valuemax="100"
-              aria-valuemin="0"
-              aria-valuenow={25}
-              className="progress-bar progress-bar-striped progress-bar-animated bg-danger w-25"
-              role="progressbar"
+            <h3
+              className="card-title"
             >
-              25%
-            </div>
+              <a
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": undefined,
+                  }
+                }
+                href=""
+                rel="noopener noreferrer"
+                target="_self"
+              />
+            </h3>
+            <p
+              className="card-text"
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": undefined,
+                }
+              }
+            />
           </div>
         </div>
       </div>
