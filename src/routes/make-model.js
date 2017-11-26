@@ -4,7 +4,8 @@ const index = require('../../dist/bundle').default;
 const sources = require('../data/sources');
 
 const LANGUAGE = 'en';
-const COUNTRY = 'us';
+const GB = 'gb';
+const US = 'us';
 
 async function makeModel(url, articles) {
   const pool = new Pool({ connectionString: process.env.DATABASE_URL });
@@ -15,7 +16,9 @@ async function makeModel(url, articles) {
     articles,
     categories: sources
       .filter(
-        source => source.language === LANGUAGE && source.country === COUNTRY
+        source =>
+          source.language === LANGUAGE &&
+          (source.country === US || source.country === GB)
       )
       .filter(
         source => source.category !== 'politics' && source.category !== 'music'
@@ -31,7 +34,9 @@ async function makeModel(url, articles) {
     forSalePath: process.env.FOR_SALE_PATH,
     sources: sources
       .filter(
-        source => source.language === LANGUAGE && source.country === COUNTRY
+        source =>
+          source.language === LANGUAGE &&
+          (source.country === US || source.country === GB)
       )
       .filter(source => source.id !== 'recode'),
     version,
