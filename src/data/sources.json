@@ -29,7 +29,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "ars-technica",
@@ -45,7 +45,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "associated-press",
@@ -109,7 +109,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "bloomberg",
@@ -141,7 +141,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "business-insider",
@@ -157,7 +157,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "business-insider-uk",
@@ -173,7 +173,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "buzzfeed",
@@ -189,7 +189,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "cnbc",
@@ -237,7 +237,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "der-tagesspiegel",
@@ -253,7 +253,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "die-zeit",
@@ -269,7 +269,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "engadget",
@@ -285,7 +285,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "entertainment-weekly",
@@ -333,7 +333,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "financial-times",
@@ -349,7 +349,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "focus",
@@ -381,7 +381,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "fortune",
@@ -396,7 +396,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "four-four-two",
@@ -412,7 +412,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "fox-sports",
@@ -428,7 +428,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "google-news",
@@ -460,7 +460,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "hacker-news",
@@ -476,7 +476,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "handelsblatt",
@@ -492,7 +492,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "ign",
@@ -508,7 +508,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "independent",
@@ -540,7 +540,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "metro",
@@ -556,7 +556,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "mirror",
@@ -572,7 +572,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "mtv-news",
@@ -588,7 +588,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "mtv-news-uk",
@@ -652,7 +652,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "new-york-magazine",
@@ -668,7 +668,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "nfl-news",
@@ -684,7 +684,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "polygon",
@@ -732,7 +732,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "reuters",
@@ -748,7 +748,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "spiegel-online",
@@ -796,7 +796,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "techcrunch",
@@ -812,7 +812,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "techradar",
@@ -828,7 +828,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-economist",
@@ -844,7 +844,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-guardian-au",
@@ -876,7 +876,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-hindu",
@@ -892,7 +892,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-huffington-post",
@@ -924,7 +924,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-new-york-times",
@@ -956,7 +956,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-sport-bible",
@@ -972,7 +972,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-telegraph",
@@ -988,7 +988,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-times-of-india",
@@ -1004,7 +1004,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-verge",
@@ -1020,7 +1020,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "the-wall-street-journal",
@@ -1068,7 +1068,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "usa-today",
@@ -1084,7 +1084,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "wired-de",
@@ -1100,7 +1100,7 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["top", "latest"]
+    "sortBysAvailable": ["top"]
   },
   {
     "id": "wirtschafts-woche",
@@ -1116,6 +1116,6 @@
       "medium": "",
       "large": ""
     },
-    "sortBysAvailable": ["latest"]
+    "sortBysAvailable": ["top"]
   }
 ]

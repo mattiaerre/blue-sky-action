@@ -2,11 +2,12 @@ const appendQuery = require('append-query');
 const debug = require('debug')('blue-sky-action:routes/fetch-current-weather');
 const fetch = require('node-fetch');
 
-async function fetchCurrentWeather({ apiKey, baseUrl, id, units }) {
+async function fetchCurrentWeather({ id, units }) {
   const params = {
-    appid: apiKey,
+    appid: process.env.OPEN_WEATHER_MAP_API_KEY,
     units
   };
+  const baseUrl = process.env.OPEN_WEATHER_MAP_BASE_URL;
   let url = appendQuery(`${baseUrl}/data/2.5/group`, params);
   url = `${url}&id=${id}`;
 

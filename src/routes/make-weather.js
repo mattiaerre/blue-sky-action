@@ -12,8 +12,6 @@ async function makeWeather(group) {
     id = getId(home);
   }
   return fetchCurrentWeather({
-    apiKey: process.env.OPEN_WEATHER_MAP_API_KEY,
-    baseUrl: process.env.OPEN_WEATHER_MAP_BASE_URL,
     id,
     units: 'metric'
   });
