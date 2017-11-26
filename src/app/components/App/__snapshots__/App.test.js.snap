@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<App /> location === "/" to match snapshot 1`] = `
-<div>
+Array [
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
   >
@@ -59,7 +59,7 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
         </li>
       </ul>
     </div>
-  </nav>
+  </nav>,
   <div
     className="container-fluid bg-light"
   >
@@ -127,7 +127,7 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
         className="row"
       />
     </div>
-  </div>
+  </div>,
   <footer
     className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3"
   >
@@ -186,12 +186,12 @@ exports[`<App /> location === "/" to match snapshot 1`] = `
         </div>
       </div>
     </div>
-  </footer>
-</div>
+  </footer>,
+]
 `;
 
 exports[`<App /> location === "/blog" to match snapshot 1`] = `
-<div>
+Array [
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
   >
@@ -249,7 +249,7 @@ exports[`<App /> location === "/blog" to match snapshot 1`] = `
         </li>
       </ul>
     </div>
-  </nav>
+  </nav>,
   <div
     className="container-fluid bg-light"
   >
@@ -355,7 +355,7 @@ exports[`<App /> location === "/blog" to match snapshot 1`] = `
         </div>
       </div>
     </div>
-  </div>
+  </div>,
   <footer
     className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3"
   >
@@ -414,12 +414,12 @@ exports[`<App /> location === "/blog" to match snapshot 1`] = `
         </div>
       </div>
     </div>
-  </footer>
-</div>
+  </footer>,
+]
 `;
 
 exports[`<App /> location === "/entertainment/buzzfeed" to match snapshot 1`] = `
-<div>
+Array [
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
   >
@@ -477,7 +477,7 @@ exports[`<App /> location === "/entertainment/buzzfeed" to match snapshot 1`] = 
         </li>
       </ul>
     </div>
-  </nav>
+  </nav>,
   <div
     className="container-fluid bg-light"
   >
@@ -574,7 +574,7 @@ exports[`<App /> location === "/entertainment/buzzfeed" to match snapshot 1`] = 
         className="col-12"
       />
     </div>
-  </div>
+  </div>,
   <footer
     className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3"
   >
@@ -633,12 +633,12 @@ exports[`<App /> location === "/entertainment/buzzfeed" to match snapshot 1`] = 
         </div>
       </div>
     </div>
-  </footer>
-</div>
+  </footer>,
+]
 `;
 
 exports[`<App /> location === "/for-sale" to match snapshot 1`] = `
-<div>
+Array [
   <nav
     className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
   >
@@ -696,7 +696,7 @@ exports[`<App /> location === "/for-sale" to match snapshot 1`] = `
         </li>
       </ul>
     </div>
-  </nav>
+  </nav>,
   <div
     className="container-fluid bg-light"
   >
@@ -747,7 +747,7 @@ exports[`<App /> location === "/for-sale" to match snapshot 1`] = `
         </div>
       </div>
     </div>
-  </div>
+  </div>,
   <footer
     className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3"
   >
@@ -806,6 +806,6 @@ exports[`<App /> location === "/for-sale" to match snapshot 1`] = `
         </div>
       </div>
     </div>
-  </footer>
-</div>
+  </footer>,
+]
 `;
