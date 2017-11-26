@@ -1,11 +1,12 @@
 {
-  "general": "cnn",
-  "technology": "techcrunch",
   "business": "the-wall-street-journal",
-  "politics": "breitbart-news",
   "entertainment": "mashable",
-  "sport": "espn",
   "gaming": "ign",
+  "general": "cnn",
+  "health-and-medical": "medical-news-today",
   "music": "mtv-news",
-  "science-and-nature": "national-geographic"
+  "politics": "breitbart-news",
+  "science-and-nature": "national-geographic",
+  "sport": "espn",
+  "technology": "techcrunch"
 }

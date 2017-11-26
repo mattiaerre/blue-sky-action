@@ -1,13 +1,14 @@
 const dictionary = {
-  general: 'News',
-  technology: 'Technology',
   business: 'Business',
-  politics: 'Politics',
   entertainment: 'Entertainment',
-  sport: 'Sport',
   gaming: 'Gaming',
+  general: 'News',
+  'health-and-medical': 'Health And Medical',
   music: 'Music',
-  'science-and-nature': 'Science'
+  politics: 'Politics',
+  'science-and-nature': 'Science',
+  sport: 'Sport',
+  technology: 'Technology'
 };
 
-export default dictionary;
+export default dictionary; // todo: move to src/data
