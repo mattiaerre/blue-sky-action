@@ -8,31 +8,25 @@ import Home from '../../components/Home/Home';
 import Navbar from '../../components/Navbar/Navbar';
 import ForSale from '../../components/ForSale/ForSale';
 
-const App = props => (
-  <div>
-    <Navbar categories={props.categories} sources={props.sources} />
-    <div className="container-fluid bg-light">
-      <Switch>
-        <Route component={Home} exact path="/" />
-        <Route component={Blog} exact path="/blog" />
-        <Route component={Blog} exact path="/blog/:slug" />
-        <Route component={ForSale} exact path={props.forSalePath} />
-        <Route
-          exact
-          path="/:category/:source"
-          render={_ => (
-            <Articles
-              {..._}
-              articles={props.articles}
-              sources={props.sources}
-            />
-          )}
-        />
-      </Switch>
-    </div>
-    <Footer name={props.name} version={props.version} />
-  </div>
-);
+const App = props => [
+  <Navbar categories={props.categories} key="navbar" sources={props.sources} />,
+  <div className="container-fluid bg-light" key="container">
+    <Switch>
+      <Route component={Home} exact path="/" />
+      <Route component={Blog} exact path="/blog" />
+      <Route component={Blog} exact path="/blog/:slug" />
+      <Route component={ForSale} exact path={props.forSalePath} />
+      <Route
+        exact
+        path="/:category/:source"
+        render={_ => (
+          <Articles {..._} articles={props.articles} sources={props.sources} />
+        )}
+      />
+    </Switch>
+  </div>,
+  <Footer key="footer" name={props.name} version={props.version} />
+];
 
 App.propTypes = {
   articles: PropTypes.array.isRequired,

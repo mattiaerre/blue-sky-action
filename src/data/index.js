@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const fetchSources = require('./fetch-sources');
 
-fetchSources({ baseUrl: process.env.NEWSAPI_BASE_URL }).then(sources => {
+fetchSources().then(sources => {
   fs.writeFileSync(
     path.join(__dirname, 'sources.json'),
     JSON.stringify(sources, null, 2)
