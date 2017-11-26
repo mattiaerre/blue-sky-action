@@ -5,6 +5,7 @@ import Articles from '../../containers/Articles/Articles';
 import Blog from '../../containers/Blog/Blog';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
+import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 import ForSale from '../../components/ForSale/ForSale';
 
@@ -15,6 +16,7 @@ const App = props => [
       <Route component={Home} exact path="/" />
       <Route component={Blog} exact path="/blog" />
       <Route component={Blog} exact path="/blog/:slug" />
+      <Route component={Kanyini} exact path="/kanyini" />
       <Route component={ForSale} exact path={props.forSalePath} />
       <Route
         exact

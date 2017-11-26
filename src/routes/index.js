@@ -18,6 +18,8 @@ router.get('/blog', render);
 
 router.get('/blog/:slug', render);
 
+router.get('/kanyini', render);
+
 router.get('/:category/:source', async (req, res) => {
   const { source } = req.params;
   const { url } = req;

@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import TiNews from 'react-icons/lib/ti/news';
 import { NavLink } from 'react-router-dom';
-import dictionary from '../dictionary';
+import lablels from '../../../data/labels.json';
 
 const Sources = ({ category, sources }) => (
   <div>
@@ -10,7 +10,7 @@ const Sources = ({ category, sources }) => (
       <div className="col-12">
         <h2>
           <TiNews />{' '}
-          <span className="align-middle">{dictionary[category]}</span>
+          <span className="align-middle">{lablels.categories[category]}</span>
         </h2>
       </div>
     </div>
