@@ -37,7 +37,7 @@ app.use('/graphql', graphqlMiddleware);
 
 app.use('/api/v1', api);
 if (process.env.PLAYGROUND === 'true') {
-  app.use('/blog', playground);
+  app.use('/playground', playground);
 }
 
 app.use('/', index);
