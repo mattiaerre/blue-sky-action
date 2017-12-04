@@ -1,4 +1,5 @@
 const express = require('express');
+const expressJwt = require('express-jwt');
 const makeArticles = require('./make-articles');
 const makeModel = require('./make-model');
 
@@ -14,9 +15,13 @@ router.get('/', render);
 
 router.get(process.env.FOR_SALE_PATH, render);
 
-router.get('/blog', render);
+router.get('/blog', expressJwt({ secret: process.env.JWT_SECRET }), render);
 
-router.get('/blog/:slug', render);
+router.get(
+  '/blog/:slug',
+  expressJwt({ secret: process.env.JWT_SECRET }),
+  render
+);
 
 router.get('/kanyini', render);
 
