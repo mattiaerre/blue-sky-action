@@ -1,6 +1,6 @@
-const butter = require('buttercms')(process.env.BUTTER_CMS_API_TOKEN);
 const express = require('express');
 const makeArticles = require('./make-articles');
+const { makePost, makePosts } = require('./make-blog');
 const makeWeather = require('./make-weather');
 
 const router = express.Router();
@@ -12,24 +12,14 @@ router.get('/articles', async (req, res) => {
 });
 
 router.get('/blog', async (req, res) => {
-  const data = await butter.post
-    .list({ page: 1, page_size: 10 })
-    .then(response => response.data);
-  res.send({
-    next_page: data.meta.next_page,
-    posts: data.data,
-    previous_page: data.meta.previous_page
-  });
+  const posts = await makePosts();
+  res.send(posts);
 });
 
 router.get('/blog/:slug', async (req, res) => {
   const { params: { slug } } = req;
-  const data = await butter.post.retrieve(slug).then(response => response.data);
-  res.send({
-    title: data.data.title,
-    post: data.data,
-    published: new Date(data.data.published)
-  });
+  const post = await makePost(slug);
+  res.send(post);
 });
 
 router.get('/weather', async (req, res) => {
