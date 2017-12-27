@@ -26,6 +26,7 @@
     "babel-register": "^6.26.0",
     "body-parser": "^1.18.2",
     "buttercms": "^1.1.0",
+    "coinbase": "^2.0.6",
     "cookie-parser": "~1.4.3",
     "debug": "^3.1.0",
     "dotenv": "^4.0.0",

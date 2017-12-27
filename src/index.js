@@ -9,6 +9,7 @@ const path = require('path');
 
 const graphqlMiddleware = require('./middlewares/graphql');
 const api = require('./routes/api');
+const coinbase = require('./routes/coinbase');
 const index = require('./routes/index');
 const playground = require('./routes/playground');
 
@@ -36,11 +37,11 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/graphql', graphqlMiddleware);
 
 app.use('/api/v1', api);
+app.use('/', index);
 if (process.env.PLAYGROUND === 'true') {
+  app.use('/coinbase', coinbase);
   app.use('/playground', playground);
 }
-
-app.use('/', index);
 
 app.use((req, res, next) => {
   const err = new Error('Not Found');
