@@ -12,9 +12,9 @@ describe.skip('city timezone country', () => {
 
       let url = '';
 
-      url = `${process.env.TIMEZONEDB_BASE_URL}/v2/get-time-zone?key=${process
-        .env.TIMEZONEDB_API_KEY}&format=json&by=position&lat=${city.coord
-        .lat}&lng=${city.coord.lon}`;
+      url = `${process.env.TIMEZONEDB_BASE_URL}/v2/get-time-zone?key=${
+        process.env.TIMEZONEDB_API_KEY
+      }&format=json&by=position&lat=${city.coord.lat}&lng=${city.coord.lon}`;
 
       const timezone = await fetch(url).then(response => response.json());
       const copy = Object.assign({}, timezone);
@@ -23,8 +23,9 @@ describe.skip('city timezone country', () => {
 
       expect(rest).toMatchSnapshot();
 
-      url = `${process.env
-        .RESTCOUNTRIES_BASE_URL}/rest/v2/alpha/${city.country}`;
+      url = `${process.env.RESTCOUNTRIES_BASE_URL}/rest/v2/alpha/${
+        city.country
+      }`;
 
       const coutry = await fetch(url).then(response => response.json());
       expect(coutry).toMatchSnapshot();
