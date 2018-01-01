@@ -38,6 +38,17 @@ function renderPrice(price) {
 class Crypto extends Component {
   constructor(props) {
     super(props);
+    this.fetchSpotPrices();
+    this.timer = setInterval(this.fetchSpotPrices, 15 * 1000);
+  }
+
+  state = {
+    error: undefined,
+    loading: true,
+    spotPrices: []
+  };
+
+  fetchSpotPrices = () => {
     client
       .query(query)
       .then(data => {
@@ -46,12 +57,6 @@ class Crypto extends Component {
       .catch(error => {
         this.setState({ error, loading: true });
       });
-  }
-
-  state = {
-    error: undefined,
-    loading: true,
-    spotPrices: []
   };
 
   render() {
