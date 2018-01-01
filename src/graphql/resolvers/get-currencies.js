@@ -1,10 +1,12 @@
 const { Client } = require('coinbase');
 
-async function getBuyPrice(_, args, context) {
+// const crypto = ['BTC', 'BCH', 'ETH', 'LTC'];
+
+async function getCurrencies(_, __, context) {
   return new Promise((resolve, reject) => {
     const client = new Client(context.config.coinbase.options);
 
-    client.getBuyPrice({ currencyPair: args.currencyPair }, (error, data) => {
+    client.getCurrencies((error, data) => {
       if (error) {
         return reject(error);
       }
@@ -13,4 +15,4 @@ async function getBuyPrice(_, args, context) {
   });
 }
 
-module.exports = getBuyPrice;
+module.exports = getCurrencies;

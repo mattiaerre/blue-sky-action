@@ -1,4 +1,5 @@
 const { Client } = require('coinbase');
+const compare = require('compare-function');
 const express = require('express');
 
 const client = new Client({
@@ -14,9 +15,14 @@ router.get('/', (req, res) => {
     if (error) {
       res.render('error', { error, message: error.message });
     } else {
-      res.render('coinbase', { accounts });
+      res.render('coinbase', {
+        accounts: accounts.sort(compare(account => account.currency.name))
+      });
     }
   });
 });
 
 module.exports = router;
+
+// https://developers.coinbase.com/api/v2
+// https://github.com/coinbase/coinbase-node

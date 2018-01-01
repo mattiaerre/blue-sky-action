@@ -14,42 +14,50 @@ npm run start:dev
 
 ## Used APIs
 
-- [News API](https://newsapi.org/)
+* [Coinbase API](https://developers.coinbase.com/)
 
-- [OpenWeatherMap](https://openweathermap.org/)
+* [News API](https://newsapi.org/)
 
-- [TimeZoneDB](https://timezonedb.com/)
+* [OpenWeatherMap](https://openweathermap.org/)
 
-- [REST Countries](https://restcountries.eu/)
+* [TimeZoneDB](https://timezonedb.com/)
+
+* [REST Countries](https://restcountries.eu/)
 
 ## (Main) Dependencies
 
-- Bootstrap
+* apollo-fetch
 
-- Express
+* Bootstrap
 
-- Node SASS
+* Coinbase
 
-- Pug
+* Express
 
-- React
+* GraphQL
 
-- React Router
+* Node SASS
+
+* Pug
+
+* React
+
+* React Router
 
 ## (Main) Dev Dependencies
 
-- Babel
+* Babel
 
-- ESlint
+* ESlint
 
-- Jest
+* Jest
 
-- Nodemon
+* Nodemon
 
-- Prettier
+* Prettier
 
-- Webpack
+* Webpack
 
 ## Resources
 
-- [node-postgres](https://node-postgres.com/)
+* [node-postgres](https://node-postgres.com/)

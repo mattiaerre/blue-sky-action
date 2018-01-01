@@ -1,21 +1,5 @@
-const { GraphQLObjectType, GraphQLSchema, GraphQLString } = require('graphql');
-const getBuyPrice = require('./resolvers/get-buy-price');
-const BuyPrice = require('./types/BuyPrice');
-const { name } = require('../../package');
-
-const Query = new GraphQLObjectType({
-  name: 'Query',
-  fields: {
-    name: {
-      type: GraphQLString,
-      resolve: () => name
-    },
-    buyPrice: {
-      type: BuyPrice,
-      resolve: getBuyPrice
-    }
-  }
-});
+const { GraphQLSchema } = require('graphql');
+const Query = require('./types/Query');
 
 const schema = new GraphQLSchema({
   query: Query
