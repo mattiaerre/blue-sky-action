@@ -100,6 +100,9 @@ Array [
         </div>
       </div>
       <div
+        className="row loading"
+      />
+      <div
         className="row"
       >
         <div
