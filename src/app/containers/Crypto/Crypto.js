@@ -1,8 +1,11 @@
 import React, { Component } from 'react';
-import { createApolloFetch } from 'apollo-fetch';
+import { Lokka } from 'lokka';
+import { Transport } from 'lokka-transport-http';
+import numeral from 'numeral';
 
-const uri = '/graphql';
-const apolloFetch = createApolloFetch({ uri });
+const client = new Lokka({
+  transport: new Transport('/graphql')
+});
 
 const query = `
 {
@@ -16,27 +19,50 @@ const query = `
 }
 `;
 
+function renderPrice(price) {
+  const amount = numeral(price.amount).format('0,0.00');
+  return (
+    <div className="Price card" style={{ backgroundColor: price.color }}>
+      <div className="card-body">
+        <span>
+          <span>$</span>
+          <span>{amount.split('.')[0]}</span>
+          <span>.{amount.split('.')[1]}</span>
+        </span>
+        <small>{price.name.toUpperCase()} PRICE</small>
+      </div>
+    </div>
+  );
+}
+
 class Crypto extends Component {
   constructor(props) {
     super(props);
-    apolloFetch({ query })
-      .then(result => {
-        const { data: { spotPrices } } = result;
-        this.setState({ spotPrices });
+    client
+      .query(query)
+      .then(data => {
+        this.setState({ loading: false, spotPrices: data.spotPrices });
       })
-      .catch(error => new Error(error));
+      .catch(error => {
+        this.setState({ error, loading: true });
+      });
   }
 
   state = {
+    error: undefined,
+    loading: true,
     spotPrices: []
   };
 
   render() {
     return (
-      <div className="row Crypto">
+      <div className={`row ${this.state.loading ? 'loading' : ''}`}>
+        {this.state.error && (
+          <div className="col-md-12">{this.state.error.message}</div>
+        )}
         {this.state.spotPrices.map(element => (
-          <div className="col-md-3" key={element.code}>
-            <strong>{element.name}</strong>
+          <div className="col-lg-3 col-md-6 col-sm-12 mb-4" key={element.code}>
+            {renderPrice(element)}
           </div>
         ))}
       </div>

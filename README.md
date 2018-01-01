@@ -26,8 +26,6 @@ npm run start:dev
 
 ## (Main) Dependencies
 
-* apollo-fetch
-
 * Bootstrap
 
 * Coinbase
@@ -35,6 +33,8 @@ npm run start:dev
 * Express
 
 * GraphQL
+
+* Lokka
 
 * Node SASS
 

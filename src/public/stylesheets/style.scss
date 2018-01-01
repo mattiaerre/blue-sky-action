@@ -32,3 +32,26 @@ div.card-body.weather {
     }
   }
 }
+
+.Price {
+  .card-body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    span {
+      align-items: center;
+      display: flex;
+
+      span:first-child {
+        font-size: 2rem;
+      }
+      span:nth-child(2) {
+        font-size: 3rem;
+      }
+      span:last-child {
+        font-size: 2rem;
+      }
+    }
+  }
+}

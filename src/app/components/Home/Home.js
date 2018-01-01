@@ -12,8 +12,8 @@ const Home = () => (
         </h2>
       </div>
     </div>
+    <Crypto />
     <WeatherGroup group="" />
-    {false && <Crypto />}
   </div>
 );
 
