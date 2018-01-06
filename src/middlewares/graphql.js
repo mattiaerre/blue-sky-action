@@ -11,6 +11,10 @@ const middleware = graphqlHTTP({
           apiSecret: process.env.COINBASE_API_SECRET,
           version: process.env.COINBASE_VERSION
         }
+      },
+      newsapi: {
+        apiKey: process.env.NEWSAPI_API_KEY,
+        baseUrl: process.env.NEWSAPI_BASE_URL
       }
     }
   },
