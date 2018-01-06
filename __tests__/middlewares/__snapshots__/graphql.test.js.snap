@@ -1,0 +1,725 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`full query 1`] = `
+Object {
+  "data": Object {
+    "buyPrice": Object {
+      "amount": 16624.73,
+      "base": "BTC",
+      "code": "BTC",
+      "color": "#FFB119",
+      "currency": "USD",
+      "name": "Bitcoin",
+    },
+    "currencies": Array [
+      Object {
+        "id": "AED",
+        "name": "United Arab Emirates Dirham",
+      },
+      Object {
+        "id": "AFN",
+        "name": "Afghan Afghani",
+      },
+      Object {
+        "id": "ALL",
+        "name": "Albanian Lek",
+      },
+      Object {
+        "id": "AMD",
+        "name": "Armenian Dram",
+      },
+      Object {
+        "id": "ANG",
+        "name": "Netherlands Antillean Gulden",
+      },
+      Object {
+        "id": "AOA",
+        "name": "Angolan Kwanza",
+      },
+      Object {
+        "id": "ARS",
+        "name": "Argentine Peso",
+      },
+      Object {
+        "id": "AUD",
+        "name": "Australian Dollar",
+      },
+      Object {
+        "id": "AWG",
+        "name": "Aruban Florin",
+      },
+      Object {
+        "id": "AZN",
+        "name": "Azerbaijani Manat",
+      },
+      Object {
+        "id": "BAM",
+        "name": "Bosnia and Herzegovina Convertible Mark",
+      },
+      Object {
+        "id": "BBD",
+        "name": "Barbadian Dollar",
+      },
+      Object {
+        "id": "BDT",
+        "name": "Bangladeshi Taka",
+      },
+      Object {
+        "id": "BGN",
+        "name": "Bulgarian Lev",
+      },
+      Object {
+        "id": "BHD",
+        "name": "Bahraini Dinar",
+      },
+      Object {
+        "id": "BIF",
+        "name": "Burundian Franc",
+      },
+      Object {
+        "id": "BMD",
+        "name": "Bermudian Dollar",
+      },
+      Object {
+        "id": "BND",
+        "name": "Brunei Dollar",
+      },
+      Object {
+        "id": "BOB",
+        "name": "Bolivian Boliviano",
+      },
+      Object {
+        "id": "BRL",
+        "name": "Brazilian Real",
+      },
+      Object {
+        "id": "BSD",
+        "name": "Bahamian Dollar",
+      },
+      Object {
+        "id": "BTC",
+        "name": "Bitcoin",
+      },
+      Object {
+        "id": "BTN",
+        "name": "Bhutanese Ngultrum",
+      },
+      Object {
+        "id": "BWP",
+        "name": "Botswana Pula",
+      },
+      Object {
+        "id": "BYN",
+        "name": "Belarusian Ruble",
+      },
+      Object {
+        "id": "BYR",
+        "name": "Belarusian Ruble",
+      },
+      Object {
+        "id": "BZD",
+        "name": "Belize Dollar",
+      },
+      Object {
+        "id": "CAD",
+        "name": "Canadian Dollar",
+      },
+      Object {
+        "id": "CDF",
+        "name": "Congolese Franc",
+      },
+      Object {
+        "id": "CHF",
+        "name": "Swiss Franc",
+      },
+      Object {
+        "id": "CLF",
+        "name": "Unidad de Fomento",
+      },
+      Object {
+        "id": "CLP",
+        "name": "Chilean Peso",
+      },
+      Object {
+        "id": "CNY",
+        "name": "Chinese Renminbi Yuan",
+      },
+      Object {
+        "id": "COP",
+        "name": "Colombian Peso",
+      },
+      Object {
+        "id": "CRC",
+        "name": "Costa Rican Colón",
+      },
+      Object {
+        "id": "CUC",
+        "name": "Cuban Convertible Peso",
+      },
+      Object {
+        "id": "CVE",
+        "name": "Cape Verdean Escudo",
+      },
+      Object {
+        "id": "CZK",
+        "name": "Czech Koruna",
+      },
+      Object {
+        "id": "DJF",
+        "name": "Djiboutian Franc",
+      },
+      Object {
+        "id": "DKK",
+        "name": "Danish Krone",
+      },
+      Object {
+        "id": "DOP",
+        "name": "Dominican Peso",
+      },
+      Object {
+        "id": "DZD",
+        "name": "Algerian Dinar",
+      },
+      Object {
+        "id": "EEK",
+        "name": "Estonian Kroon",
+      },
+      Object {
+        "id": "EGP",
+        "name": "Egyptian Pound",
+      },
+      Object {
+        "id": "ERN",
+        "name": "Eritrean Nakfa",
+      },
+      Object {
+        "id": "ETB",
+        "name": "Ethiopian Birr",
+      },
+      Object {
+        "id": "EUR",
+        "name": "Euro",
+      },
+      Object {
+        "id": "FJD",
+        "name": "Fijian Dollar",
+      },
+      Object {
+        "id": "FKP",
+        "name": "Falkland Pound",
+      },
+      Object {
+        "id": "GBP",
+        "name": "British Pound",
+      },
+      Object {
+        "id": "GEL",
+        "name": "Georgian Lari",
+      },
+      Object {
+        "id": "GGP",
+        "name": "Guernsey Pound",
+      },
+      Object {
+        "id": "GHS",
+        "name": "Ghanaian Cedi",
+      },
+      Object {
+        "id": "GIP",
+        "name": "Gibraltar Pound",
+      },
+      Object {
+        "id": "GMD",
+        "name": "Gambian Dalasi",
+      },
+      Object {
+        "id": "GNF",
+        "name": "Guinean Franc",
+      },
+      Object {
+        "id": "GTQ",
+        "name": "Guatemalan Quetzal",
+      },
+      Object {
+        "id": "GYD",
+        "name": "Guyanese Dollar",
+      },
+      Object {
+        "id": "HKD",
+        "name": "Hong Kong Dollar",
+      },
+      Object {
+        "id": "HNL",
+        "name": "Honduran Lempira",
+      },
+      Object {
+        "id": "HRK",
+        "name": "Croatian Kuna",
+      },
+      Object {
+        "id": "HTG",
+        "name": "Haitian Gourde",
+      },
+      Object {
+        "id": "HUF",
+        "name": "Hungarian Forint",
+      },
+      Object {
+        "id": "IDR",
+        "name": "Indonesian Rupiah",
+      },
+      Object {
+        "id": "ILS",
+        "name": "Israeli New Sheqel",
+      },
+      Object {
+        "id": "IMP",
+        "name": "Isle of Man Pound",
+      },
+      Object {
+        "id": "INR",
+        "name": "Indian Rupee",
+      },
+      Object {
+        "id": "IQD",
+        "name": "Iraqi Dinar",
+      },
+      Object {
+        "id": "ISK",
+        "name": "Icelandic Króna",
+      },
+      Object {
+        "id": "JEP",
+        "name": "Jersey Pound",
+      },
+      Object {
+        "id": "JMD",
+        "name": "Jamaican Dollar",
+      },
+      Object {
+        "id": "JOD",
+        "name": "Jordanian Dinar",
+      },
+      Object {
+        "id": "JPY",
+        "name": "Japanese Yen",
+      },
+      Object {
+        "id": "KES",
+        "name": "Kenyan Shilling",
+      },
+      Object {
+        "id": "KGS",
+        "name": "Kyrgyzstani Som",
+      },
+      Object {
+        "id": "KHR",
+        "name": "Cambodian Riel",
+      },
+      Object {
+        "id": "KMF",
+        "name": "Comorian Franc",
+      },
+      Object {
+        "id": "KRW",
+        "name": "South Korean Won",
+      },
+      Object {
+        "id": "KWD",
+        "name": "Kuwaiti Dinar",
+      },
+      Object {
+        "id": "KYD",
+        "name": "Cayman Islands Dollar",
+      },
+      Object {
+        "id": "KZT",
+        "name": "Kazakhstani Tenge",
+      },
+      Object {
+        "id": "LAK",
+        "name": "Lao Kip",
+      },
+      Object {
+        "id": "LBP",
+        "name": "Lebanese Pound",
+      },
+      Object {
+        "id": "LKR",
+        "name": "Sri Lankan Rupee",
+      },
+      Object {
+        "id": "LRD",
+        "name": "Liberian Dollar",
+      },
+      Object {
+        "id": "LSL",
+        "name": "Lesotho Loti",
+      },
+      Object {
+        "id": "LTL",
+        "name": "Lithuanian Litas",
+      },
+      Object {
+        "id": "LVL",
+        "name": "Latvian Lats",
+      },
+      Object {
+        "id": "LYD",
+        "name": "Libyan Dinar",
+      },
+      Object {
+        "id": "MAD",
+        "name": "Moroccan Dirham",
+      },
+      Object {
+        "id": "MDL",
+        "name": "Moldovan Leu",
+      },
+      Object {
+        "id": "MGA",
+        "name": "Malagasy Ariary",
+      },
+      Object {
+        "id": "MKD",
+        "name": "Macedonian Denar",
+      },
+      Object {
+        "id": "MMK",
+        "name": "Myanmar Kyat",
+      },
+      Object {
+        "id": "MNT",
+        "name": "Mongolian Tögrög",
+      },
+      Object {
+        "id": "MOP",
+        "name": "Macanese Pataca",
+      },
+      Object {
+        "id": "MRO",
+        "name": "Mauritanian Ouguiya",
+      },
+      Object {
+        "id": "MTL",
+        "name": "Maltese Lira",
+      },
+      Object {
+        "id": "MUR",
+        "name": "Mauritian Rupee",
+      },
+      Object {
+        "id": "MVR",
+        "name": "Maldivian Rufiyaa",
+      },
+      Object {
+        "id": "MWK",
+        "name": "Malawian Kwacha",
+      },
+      Object {
+        "id": "MXN",
+        "name": "Mexican Peso",
+      },
+      Object {
+        "id": "MYR",
+        "name": "Malaysian Ringgit",
+      },
+      Object {
+        "id": "MZN",
+        "name": "Mozambican Metical",
+      },
+      Object {
+        "id": "NAD",
+        "name": "Namibian Dollar",
+      },
+      Object {
+        "id": "NGN",
+        "name": "Nigerian Naira",
+      },
+      Object {
+        "id": "NIO",
+        "name": "Nicaraguan Córdoba",
+      },
+      Object {
+        "id": "NOK",
+        "name": "Norwegian Krone",
+      },
+      Object {
+        "id": "NPR",
+        "name": "Nepalese Rupee",
+      },
+      Object {
+        "id": "NZD",
+        "name": "New Zealand Dollar",
+      },
+      Object {
+        "id": "OMR",
+        "name": "Omani Rial",
+      },
+      Object {
+        "id": "PAB",
+        "name": "Panamanian Balboa",
+      },
+      Object {
+        "id": "PEN",
+        "name": "Peruvian Sol",
+      },
+      Object {
+        "id": "PGK",
+        "name": "Papua New Guinean Kina",
+      },
+      Object {
+        "id": "PHP",
+        "name": "Philippine Peso",
+      },
+      Object {
+        "id": "PKR",
+        "name": "Pakistani Rupee",
+      },
+      Object {
+        "id": "PLN",
+        "name": "Polish Złoty",
+      },
+      Object {
+        "id": "PYG",
+        "name": "Paraguayan Guaraní",
+      },
+      Object {
+        "id": "QAR",
+        "name": "Qatari Riyal",
+      },
+      Object {
+        "id": "RON",
+        "name": "Romanian Leu",
+      },
+      Object {
+        "id": "RSD",
+        "name": "Serbian Dinar",
+      },
+      Object {
+        "id": "RUB",
+        "name": "Russian Ruble",
+      },
+      Object {
+        "id": "RWF",
+        "name": "Rwandan Franc",
+      },
+      Object {
+        "id": "SAR",
+        "name": "Saudi Riyal",
+      },
+      Object {
+        "id": "SBD",
+        "name": "Solomon Islands Dollar",
+      },
+      Object {
+        "id": "SCR",
+        "name": "Seychellois Rupee",
+      },
+      Object {
+        "id": "SEK",
+        "name": "Swedish Krona",
+      },
+      Object {
+        "id": "SGD",
+        "name": "Singapore Dollar",
+      },
+      Object {
+        "id": "SHP",
+        "name": "Saint Helenian Pound",
+      },
+      Object {
+        "id": "SLL",
+        "name": "Sierra Leonean Leone",
+      },
+      Object {
+        "id": "SOS",
+        "name": "Somali Shilling",
+      },
+      Object {
+        "id": "SRD",
+        "name": "Surinamese Dollar",
+      },
+      Object {
+        "id": "SSP",
+        "name": "South Sudanese Pound",
+      },
+      Object {
+        "id": "STD",
+        "name": "São Tomé and Príncipe Dobra",
+      },
+      Object {
+        "id": "SVC",
+        "name": "Salvadoran Colón",
+      },
+      Object {
+        "id": "SZL",
+        "name": "Swazi Lilangeni",
+      },
+      Object {
+        "id": "THB",
+        "name": "Thai Baht",
+      },
+      Object {
+        "id": "TJS",
+        "name": "Tajikistani Somoni",
+      },
+      Object {
+        "id": "TMT",
+        "name": "Turkmenistani Manat",
+      },
+      Object {
+        "id": "TND",
+        "name": "Tunisian Dinar",
+      },
+      Object {
+        "id": "TOP",
+        "name": "Tongan Paʻanga",
+      },
+      Object {
+        "id": "TRY",
+        "name": "Turkish Lira",
+      },
+      Object {
+        "id": "TTD",
+        "name": "Trinidad and Tobago Dollar",
+      },
+      Object {
+        "id": "TWD",
+        "name": "New Taiwan Dollar",
+      },
+      Object {
+        "id": "TZS",
+        "name": "Tanzanian Shilling",
+      },
+      Object {
+        "id": "UAH",
+        "name": "Ukrainian Hryvnia",
+      },
+      Object {
+        "id": "UGX",
+        "name": "Ugandan Shilling",
+      },
+      Object {
+        "id": "USD",
+        "name": "United States Dollar",
+      },
+      Object {
+        "id": "UYU",
+        "name": "Uruguayan Peso",
+      },
+      Object {
+        "id": "UZS",
+        "name": "Uzbekistan Som",
+      },
+      Object {
+        "id": "VEF",
+        "name": "Venezuelan Bolívar",
+      },
+      Object {
+        "id": "VND",
+        "name": "Vietnamese Đồng",
+      },
+      Object {
+        "id": "VUV",
+        "name": "Vanuatu Vatu",
+      },
+      Object {
+        "id": "WST",
+        "name": "Samoan Tala",
+      },
+      Object {
+        "id": "XAF",
+        "name": "Central African Cfa Franc",
+      },
+      Object {
+        "id": "XAG",
+        "name": "Silver (Troy Ounce)",
+      },
+      Object {
+        "id": "XAU",
+        "name": "Gold (Troy Ounce)",
+      },
+      Object {
+        "id": "XCD",
+        "name": "East Caribbean Dollar",
+      },
+      Object {
+        "id": "XDR",
+        "name": "Special Drawing Rights",
+      },
+      Object {
+        "id": "XOF",
+        "name": "West African Cfa Franc",
+      },
+      Object {
+        "id": "XPD",
+        "name": "Palladium",
+      },
+      Object {
+        "id": "XPF",
+        "name": "Cfp Franc",
+      },
+      Object {
+        "id": "XPT",
+        "name": "Platinum",
+      },
+      Object {
+        "id": "YER",
+        "name": "Yemeni Rial",
+      },
+      Object {
+        "id": "ZAR",
+        "name": "South African Rand",
+      },
+      Object {
+        "id": "ZMK",
+        "name": "Zambian Kwacha",
+      },
+      Object {
+        "id": "ZMW",
+        "name": "Zambian Kwacha",
+      },
+      Object {
+        "id": "ZWL",
+        "name": "Zimbabwean Dollar",
+      },
+    ],
+    "name": "blue-sky-action",
+    "spotPrices": Array [
+      Object {
+        "amount": 16459.71,
+        "base": "BTC",
+        "code": "BTC",
+        "color": "#FFB119",
+        "currency": "USD",
+        "name": "Bitcoin",
+      },
+      Object {
+        "amount": 2544.3,
+        "base": "BCH",
+        "code": "BCH",
+        "color": "#8DC451",
+        "currency": "USD",
+        "name": "Bitcoin Cash",
+      },
+      Object {
+        "amount": 996.99,
+        "base": "ETH",
+        "code": "ETH",
+        "color": "#6F7CBA",
+        "currency": "USD",
+        "name": "Ethereum",
+      },
+      Object {
+        "amount": 289.37,
+        "base": "LTC",
+        "code": "LTC",
+        "color": "#B5B5B5",
+        "currency": "USD",
+        "name": "Litecoin",
+      },
+    ],
+  },
+}
+`;

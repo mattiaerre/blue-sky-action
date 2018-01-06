@@ -9,10 +9,6 @@ const { name } = require('../../../package');
 const Query = new GraphQLObjectType({
   name: 'Query',
   fields: {
-    name: {
-      type: GraphQLString,
-      resolve: () => name
-    },
     buyPrice: {
       type: Price,
       args: {
@@ -25,6 +21,10 @@ const Query = new GraphQLObjectType({
     currencies: {
       type: new GraphQLList(Currency),
       resolve: getCurrencies
+    },
+    name: {
+      type: GraphQLString,
+      resolve: () => name
     },
     spotPrices: {
       type: new GraphQLList(Price),
