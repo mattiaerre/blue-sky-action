@@ -38,6 +38,10 @@ app.use('/graphql', graphqlMiddleware);
 
 app.use('/api/v1', api);
 app.use('/', index);
+app.use('/coinbase-status', (req, res) => {
+  res.send({ message: 'thanks' });
+});
+
 if (process.env.PLAYGROUND === 'true') {
   app.use('/coinbase', coinbase);
   app.use('/playground', playground);
