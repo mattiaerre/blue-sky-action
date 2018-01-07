@@ -59,6 +59,10 @@ describe('<App />', () => {
       mock: () => fetch.mockResponseOnce(JSON.stringify([nullWeather]))
     },
     {
+      location: '/kanyini',
+      mock: () => fetch.mockResponseOnce(JSON.stringify([nullWeather]))
+    },
+    {
       location: forSalePath,
       mock: () => ({})
     },
