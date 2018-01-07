@@ -1,8 +1,6 @@
-import { config } from 'dotenv';
-import fetch from 'node-fetch';
-import home from './home.json';
-
-config();
+require('dotenv').config();
+const fetch = require('node-fetch');
+const home = require('./home.json');
 
 describe.skip('city timezone country', () => {
   Object.keys(home).forEach(key => {

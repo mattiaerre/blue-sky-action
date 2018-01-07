@@ -1,7 +1,5 @@
-import { config } from 'dotenv';
-import fetch from 'node-fetch';
-
-config();
+require('dotenv').config();
+const fetch = require('node-fetch');
 
 const CITY_NAME = 'Las Vegas';
 
