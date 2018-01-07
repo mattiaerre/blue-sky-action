@@ -7,7 +7,7 @@ import Sources from '../../components/Sources/Sources';
 import client from '../client';
 
 const query = source => `
-{
+query TopHeadlines {
   topHeadlines(source: "${source}") {
     description
     publishedAt

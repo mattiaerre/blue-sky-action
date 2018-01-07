@@ -3,7 +3,7 @@ import numeral from 'numeral';
 import client from '../client';
 
 const query = `
-{
+query SpotPrices {
   spotPrices(currency: "USD") {
     amount
     code
