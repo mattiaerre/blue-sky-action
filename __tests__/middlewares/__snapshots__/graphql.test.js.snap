@@ -1,16 +1,272 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`full query 1`] = `
+exports[`graphql middleware query Articles 1`] = `
+Object {
+  "data": Object {
+    "articles": Array [
+      Object {
+        "author": "Joshua M Brown",
+        "description": "If a centimeter or inch on a measuring tape was constantly changing in physical size, it would not be particularly useful to ask for a 6 inch sub. It might end up being the size of an airplane....",
+        "publishedAt": "2018-01-07T14:27:50Z",
+        "source": Object {
+          "id": null,
+          "name": "Thereformedbroker.com",
+        },
+        "title": "The Fatal Mistake Crypto Investors are Making Now",
+        "url": "http://thereformedbroker.com/2018/01/07/the-fatal-mistake-crypto-investors-are-making-now/",
+        "urlToImage": "http://ep60qmdjq8-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/thumbnail.jpg",
+      },
+      Object {
+        "author": "Assaf Elovic",
+        "description": "Everything you need to know from what coins to buy, to how to start investing today.",
+        "publishedAt": "2018-01-07T14:26:58Z",
+        "source": Object {
+          "id": null,
+          "name": "Hackernoon.com",
+        },
+        "title": "Why, what and how to invest in cryptocurrencies",
+        "url": "https://hackernoon.com/cryptocurrencies-be4b3e326387",
+        "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*Y5iPV_rSSjYvhM9B3qgZcg.png",
+      },
+      Object {
+        "author": null,
+        "description": "The Internet on one page. Successor of Popurls, the mother of news aggregators. By @thomas",
+        "publishedAt": "2018-01-07T14:15:09Z",
+        "source": Object {
+          "id": null,
+          "name": "Hvper.com",
+        },
+        "title": "👉 Is Fake News Actually Not a Big Deal? via Hvper.com",
+        "url": "http://www.hvper.com/?ref=feed_4a955038f31defce2aeae3da77cc972d",
+        "urlToImage": "http://www.hvper.com/static/img/og_08.png",
+      },
+      Object {
+        "author": null,
+        "description": "The Internet on one page. Successor of Popurls, the mother of news aggregators. By @thomas",
+        "publishedAt": "2018-01-07T14:15:09Z",
+        "source": Object {
+          "id": null,
+          "name": "Hvper.com",
+        },
+        "title": "👉 Week 33: Trump Blistered by Bannons Inside Job via Hvper.com",
+        "url": "http://www.hvper.com/?ref=feed_af75393c3e94a73a0e64e8b341253212",
+        "urlToImage": "http://www.hvper.com/static/img/og_08.png",
+      },
+      Object {
+        "author": null,
+        "description": "The Internet on one page. Successor of Popurls, the mother of news aggregators. By @thomas",
+        "publishedAt": "2018-01-07T14:15:09Z",
+        "source": Object {
+          "id": null,
+          "name": "Hvper.com",
+        },
+        "title": "👉 Belize, home of the largest barrier reef in the western hemisphere, has permanently suspended oil operations in its ocean waters:...the... via Hvper.com",
+        "url": "http://www.hvper.com/?ref=feed_d0f7d359ada4fe165260680de0cc354e",
+        "urlToImage": "http://www.hvper.com/static/img/og_08.png",
+      },
+      Object {
+        "author": null,
+        "description": "The Internet on one page. Successor of Popurls, the mother of news aggregators. By @thomas",
+        "publishedAt": "2018-01-07T14:15:09Z",
+        "source": Object {
+          "id": null,
+          "name": "Hvper.com",
+        },
+        "title": "👉 We Learned How To Escape From A Burning Building And It Was Intense via Hvper.com",
+        "url": "http://www.hvper.com/?ref=feed_329e4df93849b3cf194e9fa82ed0ab56",
+        "urlToImage": "http://www.hvper.com/static/img/og_08.png",
+      },
+      Object {
+        "author": "newsfeedback@fool.com (Sean Williams)",
+        "description": "The IRS is ramping up its efforts to catch capital-gain tax evaders, and the new GOP tax law will make it easier.",
+        "publishedAt": "2018-01-07T14:12:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Fool.com",
+        },
+        "title": "36% of Bitcoin Investors Plan to Commit Tax Fraud This Year",
+        "url": "https://www.fool.com/taxes/2018/01/07/36-of-bitcoin-investors-plan-to-commit-tax-fraud-t.aspx",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F468213%2Firs-tax-auditor-at-desk.jpg&h=630&w=1200&op=resize",
+      },
+      Object {
+        "author": "newsfeedback@fool.com (Keith Speights)",
+        "description": "It wasn't just because of AI.",
+        "publishedAt": "2018-01-07T14:08:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Fool.com",
+        },
+        "title": "3 Reasons I Just Bought This Top Artificial-Intelligence Stock",
+        "url": "https://www.fool.com/investing/2018/01/07/3-reasons-i-just-bought-this-top-artificial-intell.aspx",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F468399%2Fai-icon-touched-by-businessman.jpg&h=630&w=1200&op=resize",
+      },
+      Object {
+        "author": "Joseph Young",
+        "description": "The post US Government to Sell 513 Bitcoin and 512 Bitcoin Cash Seized From Dark Web Dealer appeared first on CCN The US government has been approved by a federal judge in Utah to auction off 513 bitcoin and 512 Bitcoin Cash seized from an investigation into …",
+        "publishedAt": "2018-01-07T14:07:00Z",
+        "source": Object {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News",
+        },
+        "title": "US Government to Sell 513 Bitcoin and 512 Bitcoin Cash Seized From Dark Web Dealer",
+        "url": "https://www.ccn.com/us-government-is-selling-513-bitcoin-and-512-bitcoin-cash-seized-from-dark-web-dealer/",
+        "urlToImage": "https://www.ccn.com/wp-content/uploads/2017/10/Bitcoin-USD-stack-spread.jpg",
+      },
+      Object {
+        "author": "Panos Mourdoukoutas, Contributor, Panos Mourdoukoutas, Contributor https://www.forbes.com/sites/panosmourdoukoutas/",
+        "description": "Forbes Welcome page -- Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+        "publishedAt": "2018-01-07T14:03:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Forbes.com",
+        },
+        "title": "A Bullish Sign For Bitcoin, Ripple, And Other Cryptocurrencies",
+        "url": "https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/panosmourdoukoutas/2018/01/07/a-bullish-sign-for-bitcoin-ripple-and-other-cryptocurrencies/&refURL=https://t.co/8861b3128e&referrer=https://t.co/8861b3128e",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "Jon Evans",
+        "description": "Sure, fine, maybe it’s a bubble. OK it’s definitely a bubble, but that’s a good thing, a bubble brings attention and investment in infrastructure, which breeds real innovation. Right? Look at the dot-com boom. A lot of people lost a whole lot of paper money, …",
+        "publishedAt": "2018-01-07T14:00:16Z",
+        "source": Object {
+          "id": "techcrunch",
+          "name": "TechCrunch",
+        },
+        "title": "The cryptocurrency bubble is strangling innovation",
+        "url": "http://techcrunch.com/2018/01/07/the-cryptocurrency-bubble-is-strangling-innovation/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2018/01/sorong-python.jpg",
+      },
+      Object {
+        "author": "The Gadget Flow Editors",
+        "description": "Secure and protect your cryptocurrency with the HooFoo Hackproof Bitcoin Wallet. More secure than other solutions, the HooFoo gives you a two-in-one wallet combination. In addition, this wallet uses an ultra-secure Bluetooth 4.0 connection. In fact, it’s virt…",
+        "publishedAt": "2018-01-07T14:00:14Z",
+        "source": Object {
+          "id": null,
+          "name": "Thegadgetflow.com",
+        },
+        "title": "HooFoo Hackproof Bitcoin Wallet",
+        "url": "https://thegadgetflow.com/portfolio/hackproof-bitcoin-wallet/",
+        "urlToImage": "https://gadgetflow-ycomvalpjriovmn.stackpathdns.com/wp-content/uploads/2018/01/HooFoo-Hackproof-Bitcoin-Wallet-01.jpg",
+      },
+      Object {
+        "author": "CoinTelegraph By Joseph Young",
+        "description": "According to LendEDU, a student and personal loan research firm, more than 18 percent of Bitcoin investors have used borrowed money to trade the cryptocurrency.",
+        "publishedAt": "2018-01-07T13:48:41Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Study: 22% of Bitcoin Investors Used Borrowed Money For Trading, Not Recommended",
+        "url": "https://cointelegraph.com/news/study-22-of-bitcoin-investors-used-borrowed-money-for-trading-not-recommended",
+        "urlToImage": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NGIwZDcyYzU3ODEyYTQxZTc1YjQzNjJmMjNlMTg5YS5qcGc=.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 90+ exchanges",
+        "publishedAt": "2018-01-07T13:43:08Z",
+        "source": Object {
+          "id": null,
+          "name": "Python.org",
+        },
+        "title": "ccxt 1.10.582",
+        "url": "https://pypi.python.org/pypi/ccxt/1.10.582",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "newsfeedback@fool.com (Matthew Frankel)",
+        "description": "Most bitcoin stocks aren't appropriate for serious long-term investors, but there are exceptions.",
+        "publishedAt": "2018-01-07T13:17:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Fool.com",
+        },
+        "title": "2 Bitcoin Stocks I'd Never Buy, and 1 I'll Consider",
+        "url": "https://www.fool.com/investing/2018/01/07/2-bitcoin-stocks-id-never-buy-and-1-ill-consider.aspx",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F468460%2Fbitcoin-in-palm.jpg&h=630&w=1200&op=resize",
+      },
+      Object {
+        "author": null,
+        "description": "Vinny Lingham : Thoughts on surprisingly successful Bitcoin Cash fork of Bitcoin that allowed 2 strongly opposed communities to pursue their visions without hurting each other — Nobody could have summed up my thoughts on 2017 any better than Charles Dickens. …",
+        "publishedAt": "2018-01-07T13:15:04Z",
+        "source": Object {
+          "id": null,
+          "name": "Techmeme.com",
+        },
+        "title": "Thoughts on surprisingly successful Bitcoin Cash fork of Bitcoin that allowed 2 strongly opposed communities to pursue their visions without hurting each other (Vinny Lingham)",
+        "url": "https://www.techmeme.com/180107/p6",
+        "urlToImage": "http://cdn-images-1.medium.com/max/800/1*HdV6sCRYem6_1dKnz5q-Fw.png",
+      },
+      Object {
+        "author": null,
+        "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 90+ exchanges",
+        "publishedAt": "2018-01-07T13:12:47Z",
+        "source": Object {
+          "id": null,
+          "name": "Python.org",
+        },
+        "title": "ccxt 1.10.581",
+        "url": "https://pypi.python.org/pypi/ccxt/1.10.581",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "nomis",
+        "description": "Article URL: https://coinprices.live/crypto-portfolio Comments URL: https://news.ycombinator.com/item?id=16090750 Points: 1 # Comments: 1 hnrss is a labor of love, but if the project has made your job or hobby project easier and you want to show some gratitud…",
+        "publishedAt": "2018-01-07T13:11:25Z",
+        "source": Object {
+          "id": null,
+          "name": "Coinprices.live",
+        },
+        "title": "Show HN: Cryptocoin portfolio without signup",
+        "url": "https://coinprices.live/crypto-portfolio",
+        "urlToImage": "https://coinprices.live/img/promo600x315.png",
+      },
+      Object {
+        "author": "Scott Scanlon",
+        "description": "The surge in the value of bitcoin last year helped a New York investment boutique claim the title of best-performing exchange traded fund of 2017. Ark Investments, which specialises in strategies based on new technologies and disruptive innovations, included …",
+        "publishedAt": "2018-01-07T13:03:11Z",
+        "source": Object {
+          "id": null,
+          "name": "Youbrandinc.com",
+        },
+        "title": "Bitcoin boost propelled 2017’s best-performing ETFs",
+        "url": "https://www.youbrandinc.com/crytocurrency/bitcoin-boost-propelled-2017s-best-performing-etfs/",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "Andrew Arnold, Under 30, Andrew Arnold, Under 30 https://www.forbes.com/sites/andrewarnold/",
+        "description": "According to a recent survey, 30% of millennials would rather invest $1,000 in Bitcoin than $1,000 in government bonds or stocks. If you want to invest in cryptocurrencies, here are the essential tips to do it the right way.",
+        "publishedAt": "2018-01-07T13:01:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Forbes.com",
+        },
+        "title": "30% Of Millennials Invest In Cryptocurrency: Here Are 3 Tips To Help You Do It Smarter",
+        "url": "https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/andrewarnold/2018/01/07/30-of-millennials-invest-in-cryptocurrency-here-are-3-tips-to-help-you-do-it-smarter/&refURL=https://t.co/c515ca4af3&referrer=https://t.co/c515ca4af3",
+        "urlToImage": null,
+      },
+    ],
+  },
+}
+`;
+
+exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 16624.73,
+      "amount": 16747.22,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
       "currency": "USD",
       "name": "Bitcoin",
     },
+  },
+}
+`;
+
+exports[`graphql middleware query Currencies 1`] = `
+Object {
+  "data": Object {
     "currencies": Array [
       Object {
         "id": "AED",
@@ -685,10 +941,720 @@ Object {
         "name": "Zimbabwean Dollar",
       },
     ],
+  },
+}
+`;
+
+exports[`graphql middleware query ExchangeRates 1`] = `
+Object {
+  "data": Object {
+    "exchangeRates": Object {
+      "currency": "USD",
+      "rates": Array [
+        Object {
+          "currency": "AED",
+          "value": 3.67,
+        },
+        Object {
+          "currency": "AFN",
+          "value": 69.93,
+        },
+        Object {
+          "currency": "ALL",
+          "value": 110.72,
+        },
+        Object {
+          "currency": "AMD",
+          "value": 484.98,
+        },
+        Object {
+          "currency": "ANG",
+          "value": 1.79,
+        },
+        Object {
+          "currency": "AOA",
+          "value": 165.92,
+        },
+        Object {
+          "currency": "ARS",
+          "value": 18.65,
+        },
+        Object {
+          "currency": "AUD",
+          "value": 1.27,
+        },
+        Object {
+          "currency": "AWG",
+          "value": 1.79,
+        },
+        Object {
+          "currency": "AZN",
+          "value": 1.69,
+        },
+        Object {
+          "currency": "BAM",
+          "value": 1.63,
+        },
+        Object {
+          "currency": "BBD",
+          "value": 2,
+        },
+        Object {
+          "currency": "BCH",
+          "value": 0.00038388,
+        },
+        Object {
+          "currency": "BDT",
+          "value": 82.95,
+        },
+        Object {
+          "currency": "BGN",
+          "value": 1.62,
+        },
+        Object {
+          "currency": "BHD",
+          "value": 0.377,
+        },
+        Object {
+          "currency": "BIF",
+          "value": 1761,
+        },
+        Object {
+          "currency": "BMD",
+          "value": 1,
+        },
+        Object {
+          "currency": "BND",
+          "value": 1.33,
+        },
+        Object {
+          "currency": "BOB",
+          "value": 6.92,
+        },
+        Object {
+          "currency": "BRL",
+          "value": 3.23,
+        },
+        Object {
+          "currency": "BSD",
+          "value": 1,
+        },
+        Object {
+          "currency": "BTC",
+          "value": 0.00006,
+        },
+        Object {
+          "currency": "BTN",
+          "value": 63.48,
+        },
+        Object {
+          "currency": "BWP",
+          "value": 9.86,
+        },
+        Object {
+          "currency": "BYN",
+          "value": 1.99,
+        },
+        Object {
+          "currency": "BYR",
+          "value": 19922,
+        },
+        Object {
+          "currency": "BZD",
+          "value": 2.01,
+        },
+        Object {
+          "currency": "CAD",
+          "value": 1.24,
+        },
+        Object {
+          "currency": "CDF",
+          "value": 1596,
+        },
+        Object {
+          "currency": "CHF",
+          "value": 0.98,
+        },
+        Object {
+          "currency": "CLF",
+          "value": 0.0228,
+        },
+        Object {
+          "currency": "CLP",
+          "value": 605,
+        },
+        Object {
+          "currency": "CNY",
+          "value": 6.49,
+        },
+        Object {
+          "currency": "COP",
+          "value": 3016.02,
+        },
+        Object {
+          "currency": "CRC",
+          "value": 567.86,
+        },
+        Object {
+          "currency": "CUC",
+          "value": 1,
+        },
+        Object {
+          "currency": "CVE",
+          "value": 92,
+        },
+        Object {
+          "currency": "CZK",
+          "value": 21.23,
+        },
+        Object {
+          "currency": "DJF",
+          "value": 179,
+        },
+        Object {
+          "currency": "DKK",
+          "value": 6.19,
+        },
+        Object {
+          "currency": "DOP",
+          "value": 48.55,
+        },
+        Object {
+          "currency": "DZD",
+          "value": 114.64,
+        },
+        Object {
+          "currency": "EEK",
+          "value": 14.61,
+        },
+        Object {
+          "currency": "EGP",
+          "value": 17.71,
+        },
+        Object {
+          "currency": "ERN",
+          "value": 15.26,
+        },
+        Object {
+          "currency": "ETB",
+          "value": 27.46,
+        },
+        Object {
+          "currency": "ETH",
+          "value": 0.00093067,
+        },
+        Object {
+          "currency": "EUR",
+          "value": 0.83,
+        },
+        Object {
+          "currency": "FJD",
+          "value": 2.06,
+        },
+        Object {
+          "currency": "FKP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "GBP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "GEL",
+          "value": 2.58,
+        },
+        Object {
+          "currency": "GGP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "GHS",
+          "value": 4.56,
+        },
+        Object {
+          "currency": "GIP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "GMD",
+          "value": 47.6,
+        },
+        Object {
+          "currency": "GNF",
+          "value": 9042,
+        },
+        Object {
+          "currency": "GTQ",
+          "value": 7.37,
+        },
+        Object {
+          "currency": "GYD",
+          "value": 206.95,
+        },
+        Object {
+          "currency": "HKD",
+          "value": 7.82,
+        },
+        Object {
+          "currency": "HNL",
+          "value": 23.7,
+        },
+        Object {
+          "currency": "HRK",
+          "value": 6.17,
+        },
+        Object {
+          "currency": "HTG",
+          "value": 65.56,
+        },
+        Object {
+          "currency": "HUF",
+          "value": 256,
+        },
+        Object {
+          "currency": "IDR",
+          "value": 13431.96,
+        },
+        Object {
+          "currency": "ILS",
+          "value": 3.43,
+        },
+        Object {
+          "currency": "IMP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "INR",
+          "value": 63.31,
+        },
+        Object {
+          "currency": "IQD",
+          "value": 1183.5,
+        },
+        Object {
+          "currency": "ISK",
+          "value": 104,
+        },
+        Object {
+          "currency": "JEP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "JMD",
+          "value": 124.24,
+        },
+        Object {
+          "currency": "JOD",
+          "value": 0.71,
+        },
+        Object {
+          "currency": "JPY",
+          "value": 113,
+        },
+        Object {
+          "currency": "KES",
+          "value": 103.29,
+        },
+        Object {
+          "currency": "KGS",
+          "value": 69.05,
+        },
+        Object {
+          "currency": "KHR",
+          "value": 4035,
+        },
+        Object {
+          "currency": "KMF",
+          "value": 407,
+        },
+        Object {
+          "currency": "KRW",
+          "value": 1062,
+        },
+        Object {
+          "currency": "KWD",
+          "value": 0.301,
+        },
+        Object {
+          "currency": "KYD",
+          "value": 0.83,
+        },
+        Object {
+          "currency": "KZT",
+          "value": 330.55,
+        },
+        Object {
+          "currency": "LAK",
+          "value": 8310,
+        },
+        Object {
+          "currency": "LBP",
+          "value": 1517.15,
+        },
+        Object {
+          "currency": "LKR",
+          "value": 153.76,
+        },
+        Object {
+          "currency": "LRD",
+          "value": 125.5,
+        },
+        Object {
+          "currency": "LSL",
+          "value": 12.4,
+        },
+        Object {
+          "currency": "LTC",
+          "value": 0.00357705,
+        },
+        Object {
+          "currency": "LTL",
+          "value": 3.22,
+        },
+        Object {
+          "currency": "LVL",
+          "value": 0.66,
+        },
+        Object {
+          "currency": "LYD",
+          "value": 1.356,
+        },
+        Object {
+          "currency": "MAD",
+          "value": 9.33,
+        },
+        Object {
+          "currency": "MDL",
+          "value": 17.14,
+        },
+        Object {
+          "currency": "MGA",
+          "value": 3251.1,
+        },
+        Object {
+          "currency": "MKD",
+          "value": 51.14,
+        },
+        Object {
+          "currency": "MMK",
+          "value": 1355.6,
+        },
+        Object {
+          "currency": "MNT",
+          "value": 2425.23,
+        },
+        Object {
+          "currency": "MOP",
+          "value": 8.07,
+        },
+        Object {
+          "currency": "MRO",
+          "value": 354.3,
+        },
+        Object {
+          "currency": "MTL",
+          "value": 0.68,
+        },
+        Object {
+          "currency": "MUR",
+          "value": 33.43,
+        },
+        Object {
+          "currency": "MVR",
+          "value": 15.4,
+        },
+        Object {
+          "currency": "MWK",
+          "value": 724.9,
+        },
+        Object {
+          "currency": "MXN",
+          "value": 19.17,
+        },
+        Object {
+          "currency": "MYR",
+          "value": 4,
+        },
+        Object {
+          "currency": "MZN",
+          "value": 59,
+        },
+        Object {
+          "currency": "NAD",
+          "value": 12.4,
+        },
+        Object {
+          "currency": "NGN",
+          "value": 361.18,
+        },
+        Object {
+          "currency": "NIO",
+          "value": 30.87,
+        },
+        Object {
+          "currency": "NOK",
+          "value": 8.05,
+        },
+        Object {
+          "currency": "NPR",
+          "value": 101.58,
+        },
+        Object {
+          "currency": "NZD",
+          "value": 1.39,
+        },
+        Object {
+          "currency": "OMR",
+          "value": 0.385,
+        },
+        Object {
+          "currency": "PAB",
+          "value": 1,
+        },
+        Object {
+          "currency": "PEN",
+          "value": 3.22,
+        },
+        Object {
+          "currency": "PGK",
+          "value": 3.24,
+        },
+        Object {
+          "currency": "PHP",
+          "value": 49.81,
+        },
+        Object {
+          "currency": "PKR",
+          "value": 110.95,
+        },
+        Object {
+          "currency": "PLN",
+          "value": 3.45,
+        },
+        Object {
+          "currency": "PYG",
+          "value": 5642,
+        },
+        Object {
+          "currency": "QAR",
+          "value": 3.64,
+        },
+        Object {
+          "currency": "RON",
+          "value": 3.85,
+        },
+        Object {
+          "currency": "RSD",
+          "value": 98.59,
+        },
+        Object {
+          "currency": "RUB",
+          "value": 56.95,
+        },
+        Object {
+          "currency": "RWF",
+          "value": 846,
+        },
+        Object {
+          "currency": "SAR",
+          "value": 3.75,
+        },
+        Object {
+          "currency": "SBD",
+          "value": 7.77,
+        },
+        Object {
+          "currency": "SCR",
+          "value": 14.06,
+        },
+        Object {
+          "currency": "SEK",
+          "value": 8.16,
+        },
+        Object {
+          "currency": "SGD",
+          "value": 1.33,
+        },
+        Object {
+          "currency": "SHP",
+          "value": 0.74,
+        },
+        Object {
+          "currency": "SLL",
+          "value": 7663.97,
+        },
+        Object {
+          "currency": "SOS",
+          "value": 588,
+        },
+        Object {
+          "currency": "SRD",
+          "value": 7.46,
+        },
+        Object {
+          "currency": "SSP",
+          "value": 130.26,
+        },
+        Object {
+          "currency": "STD",
+          "value": 20369.68,
+        },
+        Object {
+          "currency": "SVC",
+          "value": 8.77,
+        },
+        Object {
+          "currency": "SZL",
+          "value": 12.4,
+        },
+        Object {
+          "currency": "THB",
+          "value": 32.17,
+        },
+        Object {
+          "currency": "TJS",
+          "value": 8.84,
+        },
+        Object {
+          "currency": "TMT",
+          "value": 3.5,
+        },
+        Object {
+          "currency": "TND",
+          "value": 2.488,
+        },
+        Object {
+          "currency": "TOP",
+          "value": 2.26,
+        },
+        Object {
+          "currency": "TRY",
+          "value": 3.74,
+        },
+        Object {
+          "currency": "TTD",
+          "value": 6.74,
+        },
+        Object {
+          "currency": "TWD",
+          "value": 29.48,
+        },
+        Object {
+          "currency": "TZS",
+          "value": 2244.2,
+        },
+        Object {
+          "currency": "UAH",
+          "value": 28.23,
+        },
+        Object {
+          "currency": "UGX",
+          "value": 3666,
+        },
+        Object {
+          "currency": "USD",
+          "value": 1,
+        },
+        Object {
+          "currency": "UYU",
+          "value": 28.65,
+        },
+        Object {
+          "currency": "UZS",
+          "value": 8151.9,
+        },
+        Object {
+          "currency": "VEF",
+          "value": 9.99,
+        },
+        Object {
+          "currency": "VND",
+          "value": 22702,
+        },
+        Object {
+          "currency": "VUV",
+          "value": 106,
+        },
+        Object {
+          "currency": "WST",
+          "value": 2.53,
+        },
+        Object {
+          "currency": "XAF",
+          "value": 545,
+        },
+        Object {
+          "currency": "XAG",
+          "value": 0,
+        },
+        Object {
+          "currency": "XAU",
+          "value": 0,
+        },
+        Object {
+          "currency": "XCD",
+          "value": 2.7,
+        },
+        Object {
+          "currency": "XDR",
+          "value": 1,
+        },
+        Object {
+          "currency": "XOF",
+          "value": 545,
+        },
+        Object {
+          "currency": "XPD",
+          "value": 0,
+        },
+        Object {
+          "currency": "XPF",
+          "value": 99,
+        },
+        Object {
+          "currency": "XPT",
+          "value": 0,
+        },
+        Object {
+          "currency": "YER",
+          "value": 250.32,
+        },
+        Object {
+          "currency": "ZAR",
+          "value": 12.32,
+        },
+        Object {
+          "currency": "ZMK",
+          "value": 5253.08,
+        },
+        Object {
+          "currency": "ZMW",
+          "value": 10.15,
+        },
+        Object {
+          "currency": "ZWL",
+          "value": 322.36,
+        },
+      ],
+    },
+  },
+}
+`;
+
+exports[`graphql middleware query Name 1`] = `
+Object {
+  "data": Object {
     "name": "blue-sky-action",
+  },
+}
+`;
+
+exports[`graphql middleware query SpotPrices 1`] = `
+Object {
+  "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 16459.71,
+        "amount": 16581,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -696,7 +1662,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 2544.3,
+        "amount": 2620.86,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -704,7 +1670,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 996.99,
+        "amount": 1074.62,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -712,12 +1678,141 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 289.37,
+        "amount": 280.1,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
         "currency": "USD",
         "name": "Litecoin",
+      },
+    ],
+  },
+}
+`;
+
+exports[`graphql middleware query TopHeadlines 1`] = `
+Object {
+  "data": Object {
+    "topHeadlines": Array [
+      Object {
+        "author": "Barbara Starr, CNN Pentagon Correspondent",
+        "description": "The Pentagon is putting the finishing touches on the first comprehensive review of US nuclear forces in nearly eight years. It's shaping up as President Donald Trump's signature nuclear weapons initiative in the face of a growing North Korean nuclear threat.",
+        "publishedAt": "2018-01-07T12:59:15Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump to put his mark on US nuclear arsenal",
+        "url": "http://us.cnn.com/2018/01/07/politics/weapons-nuclear-posture-review-us-military-trump/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/170522180956-north-korea-4-missiles-launched-super-tease.jpg",
+      },
+      Object {
+        "author": "Aileen Graef and Tal Kopan, CNN",
+        "description": "President Donald Trump reiterated Saturday that he wants to work with Democrats to find a permanent legislative solution to allow those protected by the Deferred Action for Childhood Arrivals program to stay in the country, but only if it comes with a long-promised border wall and changes to the immigration system.",
+        "publishedAt": "2018-01-07T01:09:50Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump wants DACA with the border wall",
+        "url": "http://us.cnn.com/2018/01/06/politics/trump-daca-wall-immigration/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180106130633-03-trump-camp-david-republican-retreat-super-tease.jpg",
+      },
+      Object {
+        "author": "Tal Kopan, CNN",
+        "description": "Kirstjen Nielsen, the new secretary of homeland security, faces her first major test on immigration policy next week with a decision that could force thousands of Central Americans to leave the United States.",
+        "publishedAt": "2018-01-07T00:41:15Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "New DHS secretary faces immigration litmus test",
+        "url": "http://us.cnn.com/2018/01/06/politics/homeland-security-nielsen-temporary-protected-status-el-salvador/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/171108115119-01-kirstjen-nielson-1108-super-tease.jpg",
+      },
+      Object {
+        "author": "Jake Tapper and Jeremy Diamond, CNN",
+        "description": "Steve Bannon was only minutes away from attacking \\"Fire and Fury\\" author Michael Wolff over quotes attributed to the former White House chief strategist, but he decided not to do so after President Donald Trump attacked him after the release of excerpts from the book, according to a source familiar with the situation.",
+        "publishedAt": "2018-01-07T00:28:47Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Source: Bannon was going to defend Trump until Trump attacked him",
+        "url": "http://us.cnn.com/2018/01/06/politics/steve-bannon-donald-trump-michael-wolff-white-house/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180103173847-02-bannon-trump-super-tease.jpg",
+      },
+      Object {
+        "author": "Kevin Liptak, CNN White House Producer",
+        "description": "President Donald Trump, coming off a week of heightened scrutiny over his mental health, sought to put the topic to rest on Saturday by declaring himself extraordinarily intelligent and undeniably right in the head.",
+        "publishedAt": "2018-01-06T20:20:16Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump defends his sanity",
+        "url": "http://us.cnn.com/2018/01/06/politics/president-donald-trump-stable-genius-smart/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180106130634-04-trump-camp-david-republican-retreat-super-tease.jpg",
+      },
+      Object {
+        "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
+        "description": "On Saturday morning, before most people were awake, President Donald Trump was tweeting about how very, incredibly, stupendously smart he is.",
+        "publishedAt": "2018-01-06T16:01:12Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump's 'very stable genius' tweet shows he isn't",
+        "url": "http://us.cnn.com/2018/01/06/politics/trump-genius-tweet-analysis/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180105145505-01-trump-1221-super-tease.jpg",
+      },
+      Object {
+        "author": "Michael D'Antonio",
+        "description": "\\"Fire and Fury\\" provides an image of President Trump's struggles and his chaotic White House -- much of which is true, writes Michael D'Antonio.",
+        "publishedAt": "2018-01-06T12:57:40Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Much of what Michael Wolff says about Trump rings true",
+        "url": "http://us.cnn.com/2018/01/05/opinions/much-of-wolffs-trump-book-rings-true-opinion-dantonio/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180103192025-02-trump-1221-super-tease.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "President Trump, after meeting with GOP leaders at Camp David, explains his tweets in which he described himself as \\"a very stable genius.\\"",
+        "publishedAt": null,
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump explains tweets on his mental state - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/06/trump-responds-to-tweets-on-mental-state-camp-david-sot-nr.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180106120657-president-trump-gop-presser-camp-david-12-7-2017-super-tease.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "Sam Nunberg, a former Trump campaign aide, confirms that he did call President Trump a fool but says the full context of his quotations were not put into Michael Wolff's new book.",
+        "publishedAt": null,
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Ex-Trump aide: I called Trump a fool - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/07/sam-nunberg-trump-fool-fire-and-fury-book-nr.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180107072738-sam-nunberg-trump-fool-fire-and-fury-book-nr-00000000-super-tease.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "President Trump continues to attack a controversial new book by Michael Wolff and his former chief strategist Steve Bannon.",
+        "publishedAt": null,
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump: Steve Bannon cried when he got fired - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/06/trump-says-steve-bannon-cried-when-fired-newday.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/170606133452-01-trump-bannon-file-super-tease.jpg",
       },
     ],
   },
