@@ -4,7 +4,13 @@ const Source = require('./Source');
 const Article = new GraphQLObjectType({
   name: 'Article',
   fields: {
+    author: {
+      type: GraphQLString
+    },
     description: {
+      type: GraphQLString
+    },
+    publishedAt: {
       type: GraphQLString
     },
     source: {
@@ -14,6 +20,9 @@ const Article = new GraphQLObjectType({
       type: GraphQLString
     },
     url: {
+      type: GraphQLString
+    },
+    urlToImage: {
       type: GraphQLString
     }
   }

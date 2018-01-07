@@ -4,27 +4,41 @@ import PropTypes from 'prop-types';
 import Loading from '../../components/Loading/Loading';
 import PrimaryCard from '../../components/PrimaryCard/PrimaryCard';
 import Sources from '../../components/Sources/Sources';
+import client from '../client';
+
+const query = source => `
+{
+  topHeadlines(source: "${source}") {
+    description
+    publishedAt
+    title
+    url
+    urlToImage
+  }
+}
+`;
 
 class Articles extends Component {
-  state = {
-    articles: this.props.articles || [],
-    loading: false
-  };
-
-  componentDidMount() {
+  constructor(props) {
+    super(props);
     this.getArticles(this.props.match.params.source);
   }
 
+  state = {
+    articles: this.props.articles || [],
+    loading: true
+  };
+
   componentWillReceiveProps(props) {
     // info: https://stackoverflow.com/questions/32261441/component-does-not-remount-when-route-parameters-change
+    this.setState({ loading: true });
     this.getArticles(props.match.params.source);
   }
 
   getArticles = source => {
-    this.setState({ loading: true });
-    fetch(`/api/v1/articles?source=${source}`)
-      .then(response => response.json())
-      .then(articles => this.setState({ articles, loading: false }));
+    client.query(query(source)).then(data => {
+      this.setState({ loading: false, articles: data.topHeadlines });
+    });
   };
 
   render() {

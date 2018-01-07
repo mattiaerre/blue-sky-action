@@ -1,11 +1,6 @@
 import React, { Component } from 'react';
-import { Lokka } from 'lokka';
-import { Transport } from 'lokka-transport-http';
 import numeral from 'numeral';
-
-const client = new Lokka({
-  transport: new Transport('/graphql')
-});
+import client from '../client';
 
 const query = `
 {
@@ -48,15 +43,14 @@ class Crypto extends Component {
     spotPrices: []
   };
 
+  componentWillUnmount() {
+    clearInterval(this.timer);
+  }
+
   fetchSpotPrices = () => {
-    client
-      .query(query)
-      .then(data => {
-        this.setState({ loading: false, spotPrices: data.spotPrices });
-      })
-      .catch(error => {
-        this.setState({ error, loading: true });
-      });
+    client.query(query).then(data => {
+      this.setState({ loading: false, spotPrices: data.spotPrices });
+    });
   };
 
   render() {
