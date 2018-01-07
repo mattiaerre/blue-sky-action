@@ -71,6 +71,10 @@ describe('<App />', () => {
       mock: () => fetch.mockResponseOnce(JSON.stringify({ post: { url: '' } }))
     },
     {
+      location: '/blog/namaste',
+      mock: () => fetch.mockResponseOnce(JSON.stringify({ post: { url: '' } }))
+    },
+    {
       location: '/entertainment/buzzfeed',
       mock: () => fetch.mockResponseOnce(JSON.stringify(articles))
     }
