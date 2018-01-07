@@ -55,6 +55,7 @@ describe('<Crypto />', () => {
       })
       .then(() => {
         expect(wrapper.debug()).toMatchSnapshot();
+        wrapper.unmount();
       });
   });
 });

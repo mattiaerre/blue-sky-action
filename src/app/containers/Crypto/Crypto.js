@@ -38,7 +38,6 @@ class Crypto extends Component {
   }
 
   state = {
-    error: undefined,
     loading: true,
     spotPrices: []
   };
@@ -56,9 +55,6 @@ class Crypto extends Component {
   render() {
     return (
       <div className={`row ${this.state.loading ? 'loading' : ''}`}>
-        {this.state.error && (
-          <div className="col-md-12">{this.state.error.message}</div>
-        )}
         {this.state.spotPrices.map(element => (
           <div className="col-lg-3 col-md-6 col-sm-12 mb-4" key={element.code}>
             {renderPrice(element)}
