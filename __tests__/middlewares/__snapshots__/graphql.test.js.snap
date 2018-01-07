@@ -5,6 +5,138 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
+        "author": "Tyler Durden",
+        "description": "In a move that will certainly not end well for investors, the New York Stock Exchange has asked the SEC to approve five ETFs including 2x leveraged and inverse flavors, linked to Bitcoin futures - which launched in December on the CME amd Cboe, according to a…",
+        "publishedAt": "2018-01-07T15:49:42Z",
+        "source": Object {
+          "id": null,
+          "name": "Zerohedge.com",
+        },
+        "title": "Buckle Up: NYSE Files For Leveraged, Inverse Bitcoin ETFs",
+        "url": "https://www.zerohedge.com/news/2018-01-07/buckle-nyse-files-leveraged-inverse-bitcoin-etfs",
+        "urlToImage": "https://www.zerohedge.com/sites/default/files/2018-01/bitcoin%20rich.jpg",
+      },
+      Object {
+        "author": "Modern Survival",
+        "description": "Special Notice - The current sale on MSB which is 30 dollars a year for life, which is a 40% discount off the normal price will end at 12 midnight, Central Standard Time, Monday the 8th. No exceptions.  Before you … <a href=\\"http://www.thesurvivalpodcast.com/…",
+        "publishedAt": "2018-01-07T15:48:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Thesurvivalpodcast.com",
+        },
+        "title": "Last Chance to Get the MSB at 30 Bucks a Year for Life",
+        "url": "http://www.thesurvivalpodcast.com/msb-at-30-bucks-2018",
+        "urlToImage": "http://www.thesurvivalpodcast.com/wp-content/uploads/2011/07/tspheader.jpg",
+      },
+      Object {
+        "author": "JP Buntinx",
+        "description": "Raising more awareness for cryptocurrency has not been easy. In fact, one could argue there need to be far more efforts in this regard. Over in Japan, things are being done very differently in this regard. A group known as the Virtual Currency Girls is trying…",
+        "publishedAt": "2018-01-07T15:43:50Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Japan’s Virtual Currency Girls Educate the Masses on Cryptocurrency",
+        "url": "https://www.newsbtc.com/2018/01/07/japans-virtual-currency-girls-educate-masses-cryptocurrency/",
+        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/01/07154315/shutterstock_624002249.jpg",
+      },
+      Object {
+        "author": "Eric Worrall",
+        "description": "Guest essay by Eric Worrall According to Wired author Clive Thompson, everything is going terribly wrong these days for Silicon Valley. But they are living on the hope that in the future we might buy their software so we can use Bitcoin like blockchain system…",
+        "publishedAt": "2018-01-07T15:30:25Z",
+        "source": Object {
+          "id": null,
+          "name": "Wattsupwiththat.com",
+        },
+        "title": "Claim: Silicon Valley Retreating into a Renewable Energy Safe Space",
+        "url": "https://wattsupwiththat.com/2018/01/07/claim-silicon-valley-retreating-into-a-renewable-energy-safe-space/",
+        "urlToImage": "https://wattsupwiththat.files.wordpress.com/2014/08/solar-and-wind-energy.jpg?w=1200",
+      },
+      Object {
+        "author": null,
+        "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 90+ exchanges",
+        "publishedAt": "2018-01-07T15:25:51Z",
+        "source": Object {
+          "id": null,
+          "name": "Python.org",
+        },
+        "title": "ccxt 1.10.585",
+        "url": "https://pypi.python.org/pypi/ccxt/1.10.585",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "Joseph Young",
+        "description": "The post Bitcoin Cash Surges to $3,800 in Korea amid Flurry of Mainstream Media Coverage of Roger Ver appeared first on CCN Within the South Korean cryptocurrency exchange market, the price of Bitcoin Cash has surpassed $3,800, due to a flurry of mainstream m…",
+        "publishedAt": "2018-01-07T15:24:40Z",
+        "source": Object {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News",
+        },
+        "title": "Bitcoin Cash Surges to $3,800 in Korea amid Flurry of Mainstream Media Coverage of Roger Ver",
+        "url": "https://www.ccn.com/bitcoin-cash-surges-3800-korea-amid-flurry-mainstream-media-coverage-roger-ver/",
+        "urlToImage": "https://www.ccn.com/wp-content/uploads/2014/09/television-network.jpg",
+      },
+      Object {
+        "author": "Christopher Morris",
+        "description": "Bitcoin, Ethereum and Ripple are undoubtedly the three biggest cryptocurrencies on the block, yet their story is far from finished. Bitcoin has made an inordinate amount of headlines owing to its incredible escalation in value, but both Ethereum and Ripple [……",
+        "publishedAt": "2018-01-07T15:10:07Z",
+        "source": Object {
+          "id": null,
+          "name": "Valuewalk.com",
+        },
+        "title": "Bitcoin, Ethereum, Ripple (XRP): Price And Prediction",
+        "url": "http://www.valuewalk.com/2018/01/bitcoin-ethereum-ripple-xrp-price-predictions-news/",
+        "urlToImage": "http://www.valuewalk.com/wp-content/uploads/2017/12/bitcoin_cash_1513890118.jpg",
+      },
+      Object {
+        "author": "SA Editor Yoel Minkoff",
+        "description": "The SEC has received a request to allow five bitcoin-related ETFs to be listed on Arca, a secondary marketplace on the NYSE (NYSE:ICE).The instruments, created by Direxion Asset Management, are not ti",
+        "publishedAt": "2018-01-07T15:09:06Z",
+        "source": Object {
+          "id": null,
+          "name": "Seekingalpha.com",
+        },
+        "title": "New ways to bet on bitcoin?",
+        "url": "https://seekingalpha.com/news/3321529-new-ways-bet-bitcoin",
+        "urlToImage": "https://static.seekingalpha.com/assets/og_image_410-b8960ce31ec84f7f12dba11a09fc1849b69b234e0f5f39d7c62f46f8692e58a5.png",
+      },
+      Object {
+        "author": null,
+        "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 90+ exchanges",
+        "publishedAt": "2018-01-07T15:01:43Z",
+        "source": Object {
+          "id": null,
+          "name": "Python.org",
+        },
+        "title": "ccxt 1.10.583",
+        "url": "https://pypi.python.org/pypi/ccxt/1.10.583",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "CoinTelegraph By Joseph Young",
+        "description": "Many of the leading cryptocurrency exchanges such as Coinbase (GDAX), Binance, Bittrex, Bitstamp and Kraken have struggled in dealing with the abrupt surge in demand for cryptocurrencies.",
+        "publishedAt": "2018-01-07T14:52:51Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Exponential Growth: Cryptocurrency Exchanges Are Adding 100,000+ Users Per Day",
+        "url": "https://cointelegraph.com/news/exponential-growth-cryptocurrency-exchanges-are-adding-100000-users-per-day",
+        "urlToImage": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NTA2ZDI2ZGM2NGFlNzZjMTMxNmEyNmNjNDU3M2UyMy5qcGc=.jpg",
+      },
+      Object {
+        "author": "CoinTelegraph By Arthur Iinuma",
+        "description": "Bitcoin was created as a payment system, but fails to become one. Arthur Iinuma discusses the future of still the main cryptocurrency #EXPERT BLOG",
+        "publishedAt": "2018-01-07T14:39:04Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Bitcoin - A Long Way From an Everyday Currency: Expert Blog",
+        "url": "https://cointelegraph.com/news/bitcoin-a-long-way-from-an-everyday-currency-expert-blog",
+        "urlToImage": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wYWE3YThmYzllYjQ1NDJiNjJhZWE5NTgxZWU1YjZmNi5qcGc=.jpg",
+      },
+      Object {
         "author": "Joshua M Brown",
         "description": "If a centimeter or inch on a measuring tape was constantly changing in physical size, it would not be particularly useful to ask for a 6 inch sub. It might end up being the size of an airplane....",
         "publishedAt": "2018-01-07T14:27:50Z",
@@ -89,6 +221,18 @@ Object {
         "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F468213%2Firs-tax-auditor-at-desk.jpg&h=630&w=1200&op=resize",
       },
       Object {
+        "author": null,
+        "description": "It wasn't just because of AI.",
+        "publishedAt": "2018-01-07T14:08:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Yahoo.com",
+        },
+        "title": "3 Reasons I Just Bought This Top Artificial-Intelligence Stock",
+        "url": "https://finance.yahoo.com/news/3-reasons-just-bought-top-140800663.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/KK4SvjaCn1QrG6TaxZ8dWg--~B/aD00MzU7dz01ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/homerun/motleyfool.com/e198fdf93cec74855c2b192192248e91",
+      },
+      Object {
         "author": "newsfeedback@fool.com (Keith Speights)",
         "description": "It wasn't just because of AI.",
         "publishedAt": "2018-01-07T14:08:00Z",
@@ -100,150 +244,6 @@ Object {
         "url": "https://www.fool.com/investing/2018/01/07/3-reasons-i-just-bought-this-top-artificial-intell.aspx",
         "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F468399%2Fai-icon-touched-by-businessman.jpg&h=630&w=1200&op=resize",
       },
-      Object {
-        "author": "Joseph Young",
-        "description": "The post US Government to Sell 513 Bitcoin and 512 Bitcoin Cash Seized From Dark Web Dealer appeared first on CCN The US government has been approved by a federal judge in Utah to auction off 513 bitcoin and 512 Bitcoin Cash seized from an investigation into …",
-        "publishedAt": "2018-01-07T14:07:00Z",
-        "source": Object {
-          "id": "crypto-coins-news",
-          "name": "Crypto Coins News",
-        },
-        "title": "US Government to Sell 513 Bitcoin and 512 Bitcoin Cash Seized From Dark Web Dealer",
-        "url": "https://www.ccn.com/us-government-is-selling-513-bitcoin-and-512-bitcoin-cash-seized-from-dark-web-dealer/",
-        "urlToImage": "https://www.ccn.com/wp-content/uploads/2017/10/Bitcoin-USD-stack-spread.jpg",
-      },
-      Object {
-        "author": "Panos Mourdoukoutas, Contributor, Panos Mourdoukoutas, Contributor https://www.forbes.com/sites/panosmourdoukoutas/",
-        "description": "Forbes Welcome page -- Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
-        "publishedAt": "2018-01-07T14:03:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Forbes.com",
-        },
-        "title": "A Bullish Sign For Bitcoin, Ripple, And Other Cryptocurrencies",
-        "url": "https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/panosmourdoukoutas/2018/01/07/a-bullish-sign-for-bitcoin-ripple-and-other-cryptocurrencies/&refURL=https://t.co/8861b3128e&referrer=https://t.co/8861b3128e",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "Jon Evans",
-        "description": "Sure, fine, maybe it’s a bubble. OK it’s definitely a bubble, but that’s a good thing, a bubble brings attention and investment in infrastructure, which breeds real innovation. Right? Look at the dot-com boom. A lot of people lost a whole lot of paper money, …",
-        "publishedAt": "2018-01-07T14:00:16Z",
-        "source": Object {
-          "id": "techcrunch",
-          "name": "TechCrunch",
-        },
-        "title": "The cryptocurrency bubble is strangling innovation",
-        "url": "http://techcrunch.com/2018/01/07/the-cryptocurrency-bubble-is-strangling-innovation/",
-        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2018/01/sorong-python.jpg",
-      },
-      Object {
-        "author": "The Gadget Flow Editors",
-        "description": "Secure and protect your cryptocurrency with the HooFoo Hackproof Bitcoin Wallet. More secure than other solutions, the HooFoo gives you a two-in-one wallet combination. In addition, this wallet uses an ultra-secure Bluetooth 4.0 connection. In fact, it’s virt…",
-        "publishedAt": "2018-01-07T14:00:14Z",
-        "source": Object {
-          "id": null,
-          "name": "Thegadgetflow.com",
-        },
-        "title": "HooFoo Hackproof Bitcoin Wallet",
-        "url": "https://thegadgetflow.com/portfolio/hackproof-bitcoin-wallet/",
-        "urlToImage": "https://gadgetflow-ycomvalpjriovmn.stackpathdns.com/wp-content/uploads/2018/01/HooFoo-Hackproof-Bitcoin-Wallet-01.jpg",
-      },
-      Object {
-        "author": "CoinTelegraph By Joseph Young",
-        "description": "According to LendEDU, a student and personal loan research firm, more than 18 percent of Bitcoin investors have used borrowed money to trade the cryptocurrency.",
-        "publishedAt": "2018-01-07T13:48:41Z",
-        "source": Object {
-          "id": null,
-          "name": "Cointelegraph.com",
-        },
-        "title": "Study: 22% of Bitcoin Investors Used Borrowed Money For Trading, Not Recommended",
-        "url": "https://cointelegraph.com/news/study-22-of-bitcoin-investors-used-borrowed-money-for-trading-not-recommended",
-        "urlToImage": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NGIwZDcyYzU3ODEyYTQxZTc1YjQzNjJmMjNlMTg5YS5qcGc=.jpg",
-      },
-      Object {
-        "author": null,
-        "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 90+ exchanges",
-        "publishedAt": "2018-01-07T13:43:08Z",
-        "source": Object {
-          "id": null,
-          "name": "Python.org",
-        },
-        "title": "ccxt 1.10.582",
-        "url": "https://pypi.python.org/pypi/ccxt/1.10.582",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "newsfeedback@fool.com (Matthew Frankel)",
-        "description": "Most bitcoin stocks aren't appropriate for serious long-term investors, but there are exceptions.",
-        "publishedAt": "2018-01-07T13:17:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Fool.com",
-        },
-        "title": "2 Bitcoin Stocks I'd Never Buy, and 1 I'll Consider",
-        "url": "https://www.fool.com/investing/2018/01/07/2-bitcoin-stocks-id-never-buy-and-1-ill-consider.aspx",
-        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F468460%2Fbitcoin-in-palm.jpg&h=630&w=1200&op=resize",
-      },
-      Object {
-        "author": null,
-        "description": "Vinny Lingham : Thoughts on surprisingly successful Bitcoin Cash fork of Bitcoin that allowed 2 strongly opposed communities to pursue their visions without hurting each other — Nobody could have summed up my thoughts on 2017 any better than Charles Dickens. …",
-        "publishedAt": "2018-01-07T13:15:04Z",
-        "source": Object {
-          "id": null,
-          "name": "Techmeme.com",
-        },
-        "title": "Thoughts on surprisingly successful Bitcoin Cash fork of Bitcoin that allowed 2 strongly opposed communities to pursue their visions without hurting each other (Vinny Lingham)",
-        "url": "https://www.techmeme.com/180107/p6",
-        "urlToImage": "http://cdn-images-1.medium.com/max/800/1*HdV6sCRYem6_1dKnz5q-Fw.png",
-      },
-      Object {
-        "author": null,
-        "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 90+ exchanges",
-        "publishedAt": "2018-01-07T13:12:47Z",
-        "source": Object {
-          "id": null,
-          "name": "Python.org",
-        },
-        "title": "ccxt 1.10.581",
-        "url": "https://pypi.python.org/pypi/ccxt/1.10.581",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "nomis",
-        "description": "Article URL: https://coinprices.live/crypto-portfolio Comments URL: https://news.ycombinator.com/item?id=16090750 Points: 1 # Comments: 1 hnrss is a labor of love, but if the project has made your job or hobby project easier and you want to show some gratitud…",
-        "publishedAt": "2018-01-07T13:11:25Z",
-        "source": Object {
-          "id": null,
-          "name": "Coinprices.live",
-        },
-        "title": "Show HN: Cryptocoin portfolio without signup",
-        "url": "https://coinprices.live/crypto-portfolio",
-        "urlToImage": "https://coinprices.live/img/promo600x315.png",
-      },
-      Object {
-        "author": "Scott Scanlon",
-        "description": "The surge in the value of bitcoin last year helped a New York investment boutique claim the title of best-performing exchange traded fund of 2017. Ark Investments, which specialises in strategies based on new technologies and disruptive innovations, included …",
-        "publishedAt": "2018-01-07T13:03:11Z",
-        "source": Object {
-          "id": null,
-          "name": "Youbrandinc.com",
-        },
-        "title": "Bitcoin boost propelled 2017’s best-performing ETFs",
-        "url": "https://www.youbrandinc.com/crytocurrency/bitcoin-boost-propelled-2017s-best-performing-etfs/",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "Andrew Arnold, Under 30, Andrew Arnold, Under 30 https://www.forbes.com/sites/andrewarnold/",
-        "description": "According to a recent survey, 30% of millennials would rather invest $1,000 in Bitcoin than $1,000 in government bonds or stocks. If you want to invest in cryptocurrencies, here are the essential tips to do it the right way.",
-        "publishedAt": "2018-01-07T13:01:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Forbes.com",
-        },
-        "title": "30% Of Millennials Invest In Cryptocurrency: Here Are 3 Tips To Help You Do It Smarter",
-        "url": "https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/andrewarnold/2018/01/07/30-of-millennials-invest-in-cryptocurrency-here-are-3-tips-to-help-you-do-it-smarter/&refURL=https://t.co/c515ca4af3&referrer=https://t.co/c515ca4af3",
-        "urlToImage": null,
-      },
     ],
   },
 }
@@ -253,7 +253,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 16747.22,
+      "amount": 16575.26,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -1001,7 +1001,7 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00038388,
+          "value": 0.00038546,
         },
         Object {
           "currency": "BDT",
@@ -1041,7 +1041,7 @@ Object {
         },
         Object {
           "currency": "BTC",
-          "value": 0.00006,
+          "value": 0.000061,
         },
         Object {
           "currency": "BTN",
@@ -1085,7 +1085,7 @@ Object {
         },
         Object {
           "currency": "CNY",
-          "value": 6.49,
+          "value": 6.5,
         },
         Object {
           "currency": "COP",
@@ -1141,7 +1141,7 @@ Object {
         },
         Object {
           "currency": "ETH",
-          "value": 0.00093067,
+          "value": 0.00091366,
         },
         Object {
           "currency": "EUR",
@@ -1213,7 +1213,7 @@ Object {
         },
         Object {
           "currency": "IDR",
-          "value": 13431.96,
+          "value": 13440.2,
         },
         Object {
           "currency": "ILS",
@@ -1305,7 +1305,7 @@ Object {
         },
         Object {
           "currency": "LTC",
-          "value": 0.00357705,
+          "value": 0.00357942,
         },
         Object {
           "currency": "LTL",
@@ -1654,7 +1654,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 16581,
+        "amount": 16418.51,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1662,7 +1662,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 2620.86,
+        "amount": 2576.01,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1670,7 +1670,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 1074.62,
+        "amount": 1098,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1678,7 +1678,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 280.1,
+        "amount": 279.51,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1695,9 +1695,21 @@ Object {
   "data": Object {
     "topHeadlines": Array [
       Object {
+        "author": "Eli Watkins, CNN",
+        "description": "A top White House aide on Sunday kept up the drumbeat against former White House chief strategist Steve Bannon, calling his comments in a new book on President Donald Trump \\"grotesque.\\"",
+        "publishedAt": "2018-01-07T14:54:26Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "WH aide: Bannon's comments 'grotesque'",
+        "url": "http://us.cnn.com/2018/01/07/politics/stephen-miller-donald-trump-cnntv/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/171109160533-02-stephen-miller-file-super-tease.jpg",
+      },
+      Object {
         "author": "Barbara Starr, CNN Pentagon Correspondent",
         "description": "The Pentagon is putting the finishing touches on the first comprehensive review of US nuclear forces in nearly eight years. It's shaping up as President Donald Trump's signature nuclear weapons initiative in the face of a growing North Korean nuclear threat.",
-        "publishedAt": "2018-01-07T12:59:15Z",
+        "publishedAt": "2018-01-07T14:02:39Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
@@ -1705,30 +1717,6 @@ Object {
         "title": "Trump to put his mark on US nuclear arsenal",
         "url": "http://us.cnn.com/2018/01/07/politics/weapons-nuclear-posture-review-us-military-trump/index.html",
         "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/170522180956-north-korea-4-missiles-launched-super-tease.jpg",
-      },
-      Object {
-        "author": "Aileen Graef and Tal Kopan, CNN",
-        "description": "President Donald Trump reiterated Saturday that he wants to work with Democrats to find a permanent legislative solution to allow those protected by the Deferred Action for Childhood Arrivals program to stay in the country, but only if it comes with a long-promised border wall and changes to the immigration system.",
-        "publishedAt": "2018-01-07T01:09:50Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Trump wants DACA with the border wall",
-        "url": "http://us.cnn.com/2018/01/06/politics/trump-daca-wall-immigration/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180106130633-03-trump-camp-david-republican-retreat-super-tease.jpg",
-      },
-      Object {
-        "author": "Tal Kopan, CNN",
-        "description": "Kirstjen Nielsen, the new secretary of homeland security, faces her first major test on immigration policy next week with a decision that could force thousands of Central Americans to leave the United States.",
-        "publishedAt": "2018-01-07T00:41:15Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "New DHS secretary faces immigration litmus test",
-        "url": "http://us.cnn.com/2018/01/06/politics/homeland-security-nielsen-temporary-protected-status-el-salvador/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/171108115119-01-kirstjen-nielson-1108-super-tease.jpg",
       },
       Object {
         "author": "Jake Tapper and Jeremy Diamond, CNN",
@@ -1767,28 +1755,40 @@ Object {
         "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180105145505-01-trump-1221-super-tease.jpg",
       },
       Object {
-        "author": "Michael D'Antonio",
-        "description": "\\"Fire and Fury\\" provides an image of President Trump's struggles and his chaotic White House -- much of which is true, writes Michael D'Antonio.",
-        "publishedAt": "2018-01-06T12:57:40Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Much of what Michael Wolff says about Trump rings true",
-        "url": "http://us.cnn.com/2018/01/05/opinions/much-of-wolffs-trump-book-rings-true-opinion-dantonio/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180103192025-02-trump-1221-super-tease.jpg",
-      },
-      Object {
         "author": null,
-        "description": "President Trump, after meeting with GOP leaders at Camp David, explains his tweets in which he described himself as \\"a very stable genius.\\"",
+        "description": "White House adviser Stephen Miller got into a heated exchange with CNN's Jake Tapper as Tapper asks Miller a question about former chief White House strategist Steve Bannon's role in the Trump campaign.",
         "publishedAt": null,
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Trump explains tweets on his mental state - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/01/06/trump-responds-to-tweets-on-mental-state-camp-david-sot-nr.cnn",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180106120657-president-trump-gop-presser-camp-david-12-7-2017-super-tease.jpg",
+        "title": "Tapper to Trump adviser: Settle down - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/07/tapper-stephen-miller-settle-down-sotu-sto.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180107092635-tapper-stephen-miller-sotu-super-tease.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "When CNN's Jake Tapper asks White House senior policy adviser Stephen Miller about President Trump's tweets on his mental fitness for office, Miller criticizes the network's coverage of the president.",
+        "publishedAt": null,
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Tapper to Miller: Only one viewer you care about - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/07/tapper-to-stephen-miller-one-viewer-you-care-about-sotu.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180107093554-stephen-miller-2-sotu-1-7-2018-super-tease.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "In a heated interview, White House adviser Stephen Miller talks with CNN's Jake Tapper about Michael Wolff's book \\"Fire and Fury\\" and its revelations about life inside the Trump campaign and White House.",
+        "publishedAt": null,
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Tapper cuts off interview with Trump adviser - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/07/white-house-adviser-stephen-miller-full-interview-sotu.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180107082230-stephen-miller-sotu-january-7-super-tease.jpg",
       },
       Object {
         "author": null,
@@ -1804,15 +1804,15 @@ Object {
       },
       Object {
         "author": null,
-        "description": "President Trump continues to attack a controversial new book by Michael Wolff and his former chief strategist Steve Bannon.",
+        "description": "President Trump, after meeting with GOP leaders at Camp David, explains his tweets in which he described himself as \\"a very stable genius.\\"",
         "publishedAt": null,
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Trump: Steve Bannon cried when he got fired - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/01/06/trump-says-steve-bannon-cried-when-fired-newday.cnn",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/170606133452-01-trump-bannon-file-super-tease.jpg",
+        "title": "Trump explains tweets on his mental state - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/06/trump-responds-to-tweets-on-mental-state-camp-david-sot-nr.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180106120657-president-trump-gop-presser-camp-david-12-7-2017-super-tease.jpg",
       },
     ],
   },
