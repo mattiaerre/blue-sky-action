@@ -33,8 +33,7 @@ App.propTypes = {
   categories: PropTypes.array.isRequired,
   name: PropTypes.string.isRequired,
   sources: PropTypes.array.isRequired,
-  version: PropTypes.string.isRequired,
-  weather: PropTypes.array.isRequired
+  version: PropTypes.string.isRequired
 };
 
 export default App;

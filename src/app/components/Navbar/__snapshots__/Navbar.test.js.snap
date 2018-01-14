@@ -49,6 +49,19 @@ exports[`<Navbar /> to match snapshot 1`] = `
         <a
           aria-current={false}
           className="nav-link text-light"
+          href="/kanyini"
+          onClick={[Function]}
+          style={undefined}
+        >
+          Kanyini
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          aria-current={false}
+          className="nav-link text-light"
           href="/blog"
           onClick={[Function]}
           style={undefined}

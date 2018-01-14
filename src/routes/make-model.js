@@ -38,8 +38,7 @@ async function makeModel(url, articles) {
           (source.country === US || source.country === GB)
       )
       .filter(source => source.id !== 'recode'),
-    version,
-    weather: []
+    version
   };
 
   const app = index(url, props);

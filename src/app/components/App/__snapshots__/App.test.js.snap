@@ -50,6 +50,19 @@ Array [
           <a
             aria-current={false}
             className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
             href="/blog"
             onClick={[Function]}
             style={undefined}
@@ -235,6 +248,19 @@ Array [
             style={Object {}}
           >
             Home
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
           </a>
         </li>
         <li
@@ -463,6 +489,19 @@ Array [
             style={Object {}}
           >
             Home
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
           </a>
         </li>
         <li
@@ -699,6 +738,19 @@ Array [
           <a
             aria-current={false}
             className="nav-link text-light"
+            href="/kanyini"
+            onClick={[Function]}
+            style={undefined}
+          >
+            Kanyini
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current={false}
+            className="nav-link text-light"
             href="/blog"
             onClick={[Function]}
             style={undefined}
@@ -868,179 +920,6 @@ Array [
 ]
 `;
 
-exports[`<App /> location === "/for-sale" to match snapshot 1`] = `
-Array [
-  <nav
-    className="navbar navbar-expand-lg navbar-light border border-top-0 border-right-0 border-left-0"
-  >
-    <a
-      className="navbar-brand"
-      href="/"
-    >
-      [\`/\`]
-    </a>
-    <button
-      aria-controls="navbar"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-      className="navbar-toggler"
-      data-target="#navbar"
-      data-toggle="collapse"
-      type="button"
-    >
-      <span
-        className="navbar-toggler-icon"
-      />
-    </button>
-    <div
-      className="collapse navbar-collapse"
-      id="navbar"
-    >
-      <ul
-        className="navbar-nav mr-auto"
-      >
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current="true"
-            className="nav-link text-light active"
-            href="/"
-            onClick={[Function]}
-            style={Object {}}
-          >
-            Home
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current={false}
-            className="nav-link text-light"
-            href="/blog"
-            onClick={[Function]}
-            style={undefined}
-          >
-            Blog
-          </a>
-        </li>
-      </ul>
-    </div>
-  </nav>,
-  <div
-    className="container-fluid bg-light"
-  >
-    <div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <h2>
-            For Sale
-          </h2>
-        </div>
-      </div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-md-4 col-sm-6 mb-4"
-        >
-          <div
-            className="card"
-          >
-            <img
-              alt=""
-              className="card-img-top"
-              src="/images/IMG_0235.JPG"
-            />
-            <div
-              className="card-body"
-            >
-              <h3
-                className="card-title"
-              >
-                Garmin
-              </h3>
-              <h4>
-                Forerunner 235
-              </h4>
-              <p
-                className="card-text"
-              >
-                01 JAN 2017
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>,
-  <footer
-    className="border border-right-0 border-bottom-0 border-left-0 pt-3 pb-3"
-  >
-    <div
-      className="container-fluid"
-    >
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <small
-            className="float-right"
-          >
-             v
-          </small>
-        </div>
-      </div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <small
-            className="float-right"
-          >
-            <a
-              href="https://buttercms.com/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              powered by ButterCMS
-            </a>
-          </small>
-        </div>
-      </div>
-      <div
-        className="row"
-      >
-        <div
-          className="col-12"
-        >
-          <small
-            className="float-right"
-          >
-            <a
-              href="https://newsapi.org/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              powered by News API
-            </a>
-          </small>
-        </div>
-      </div>
-    </div>
-  </footer>,
-]
-`;
-
 exports[`<App /> location === "/kanyini" to match snapshot 1`] = `
 Array [
   <nav
@@ -1083,6 +962,19 @@ Array [
             style={Object {}}
           >
             Home
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            aria-current="true"
+            className="nav-link text-light active"
+            href="/kanyini"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Kanyini
           </a>
         </li>
         <li
