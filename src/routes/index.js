@@ -12,8 +12,6 @@ async function render(req, res) {
 
 router.get('/', render);
 
-router.get(process.env.FOR_SALE_PATH, render);
-
 router.get('/blog', render);
 
 router.get('/blog/:slug', render);

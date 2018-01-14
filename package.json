@@ -98,10 +98,6 @@
   },
   "jest": {
     "automock": false,
-    "setupFiles": ["./setupJest.js"],
-    "moduleNameMapper": {
-      "./for-sale.json":
-        "<rootDir>/src/app/components/ForSale/__mocks__/for-sale.json"
-    }
+    "setupFiles": ["./setupJest.js"]
   }
 }

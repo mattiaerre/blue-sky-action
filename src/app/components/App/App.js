@@ -7,7 +7,6 @@ import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
 import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
-import ForSale from '../../components/ForSale/ForSale';
 
 const App = props => [
   <Navbar categories={props.categories} key="navbar" sources={props.sources} />,
@@ -17,7 +16,6 @@ const App = props => [
       <Route component={Blog} exact path="/blog" />
       <Route component={Blog} exact path="/blog/:slug" />
       <Route component={Kanyini} exact path="/kanyini" />
-      <Route component={ForSale} exact path={props.forSalePath} />
       <Route
         exact
         path="/:category/:source"
@@ -33,7 +31,6 @@ const App = props => [
 App.propTypes = {
   articles: PropTypes.array.isRequired,
   categories: PropTypes.array.isRequired,
-  forSalePath: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
   sources: PropTypes.array.isRequired,
   version: PropTypes.string.isRequired,

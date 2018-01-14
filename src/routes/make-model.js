@@ -31,7 +31,6 @@ async function makeModel(url, articles) {
       }, []),
     name,
     now: rows[0].now,
-    forSalePath: process.env.FOR_SALE_PATH,
     sources: sources
       .filter(
         source =>

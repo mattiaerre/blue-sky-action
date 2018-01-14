@@ -35,8 +35,6 @@ describe('<App />', () => {
     }
   ];
 
-  const forSalePath = '/for-sale';
-
   const props = {
     articles: [],
     categories: [],
@@ -49,8 +47,7 @@ describe('<App />', () => {
       }
     ],
     version: '',
-    weather: [nullWeather],
-    forSalePath
+    weather: [nullWeather]
   };
 
   const scenarios = [
@@ -61,10 +58,6 @@ describe('<App />', () => {
     {
       location: '/kanyini',
       mock: () => fetch.mockResponseOnce(JSON.stringify([nullWeather]))
-    },
-    {
-      location: forSalePath,
-      mock: () => ({})
     },
     {
       location: '/blog',
