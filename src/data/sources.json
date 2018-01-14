@@ -125,7 +125,7 @@
     "description":
       "The home of BBC Sport online. Includes live sports coverage, breaking news, results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games.",
     "url": "http://www.bbc.co.uk/sport",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "gb"
   },
@@ -155,7 +155,7 @@
     "description":
       "Sports journalists and bloggers covering NFL, MLB, NBA, NHL, MMA, college football and basketball, NASCAR, fantasy sports and more. News, photos, mock drafts, game scores, player profiles and more!",
     "url": "http://www.bleacherreport.com",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "us"
   },
@@ -175,7 +175,7 @@
     "description":
       "Syndicated news and opinion website providing continuously updated headlines to top news and analysis sources.",
     "url": "http://www.breitbart.com",
-    "category": "politics",
+    "category": "general",
     "language": "en",
     "country": "us"
   },
@@ -335,7 +335,7 @@
     "description":
       "ESPN has up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.",
     "url": "http://espn.go.com",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "us"
   },
@@ -345,7 +345,7 @@
     "description":
       "ESPN Cricinfo provides the most comprehensive cricket coverage available including live ball-by-ball commentary, news, unparalleled statistics, quality editorial comment and analysis.",
     "url": "http://www.espncricinfo.com/",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "us"
   },
@@ -385,7 +385,7 @@
     "description":
       "Italian football news, analysis, fixtures and results for the latest from Serie A, Serie B and the Azzurri.",
     "url": "http://www.football-italia.net",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "it"
   },
@@ -404,7 +404,7 @@
     "description":
       "The latest football news, in-depth features, tactical and statistical analysis from FourFourTwo, the UK&#039;s favourite football monthly.",
     "url": "http://www.fourfourtwo.com/news",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "gb"
   },
@@ -424,7 +424,7 @@
     "description":
       "Find live scores, player and team news, videos, rumors, stats, standings, schedules and fantasy games on FOX Sports.",
     "url": "http://www.foxsports.com",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "us"
   },
@@ -604,7 +604,7 @@
     "description":
       "IGN is your site for Xbox One, PS4, PC, Wii-U, Xbox 360, PS3, Wii, 3DS, PS Vita and iPhone games with expert reviews, news, previews, trailers, cheat codes, wiki guides and walkthroughs.",
     "url": "http://www.ign.com",
-    "category": "gaming",
+    "category": "entertainment",
     "language": "en",
     "country": "us"
   },
@@ -664,7 +664,7 @@
     "description":
       "Información confiable en Internet. Noticias de Argentina y del mundo - ¡Informate ya!",
     "url": "http://www.lanacion.com.ar",
-    "category": "politics",
+    "category": "general",
     "language": "es",
     "country": "ar"
   },
@@ -704,7 +704,7 @@
     "description":
       "Le sport en direct sur L'EQUIPE.fr. Les informations, résultats et classements de tous les sports. Directs commentés, images et vidéos à regarder et à partager !",
     "url": "https://www.lequipe.fr",
-    "category": "sport",
+    "category": "sports",
     "language": "fr",
     "country": "fr"
   },
@@ -734,7 +734,7 @@
     "description":
       "La mejor información deportiva en castellano actualizada minuto a minuto en noticias, vídeos, fotos, retransmisiones y resultados en directo.",
     "url": "http://www.marca.com",
-    "category": "sport",
+    "category": "sports",
     "language": "es",
     "country": "es"
   },
@@ -754,7 +754,7 @@
     "description":
       "Medical news and health news headlines posted throughout the day, every day.",
     "url": "http://www.medicalnewstoday.com",
-    "category": "health-and-medical",
+    "category": "health",
     "language": "en",
     "country": "us"
   },
@@ -794,7 +794,7 @@
     "description":
       "The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It's pop culture on steroids.",
     "url": "http://www.mtv.com/news",
-    "category": "music",
+    "category": "entertainment",
     "language": "en",
     "country": "us"
   },
@@ -804,7 +804,7 @@
     "description":
       "All the latest celebrity news, gossip, exclusive interviews and pictures from the world of music and entertainment.",
     "url": "http://www.mtv.co.uk/news",
-    "category": "music",
+    "category": "entertainment",
     "language": "en",
     "country": "gb"
   },
@@ -814,7 +814,7 @@
     "description":
       "Reporting our world daily: original nature and science news from National Geographic.",
     "url": "http://news.nationalgeographic.com",
-    "category": "science-and-nature",
+    "category": "science",
     "language": "en",
     "country": "us"
   },
@@ -844,7 +844,7 @@
     "description":
       "Breaking science and technology news from around the world. Exclusive stories and expert analysis on space, technology, health, physics, life and Earth.",
     "url": "https://www.newscientist.com/section/news",
-    "category": "science-and-nature",
+    "category": "science",
     "language": "en",
     "country": "us"
   },
@@ -884,7 +884,7 @@
     "description":
       "Coverage of science and technology that have the potential for disruption, and analysis of plans, policies, and technology that enable radical improvement.",
     "url": "https://www.nextbigfuture.com",
-    "category": "science-and-nature",
+    "category": "science",
     "language": "en",
     "country": "us"
   },
@@ -894,7 +894,7 @@
     "description":
       "The official source for NFL news, schedules, stats, scores and more.",
     "url": "http://www.nfl.com/news",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "us"
   },
@@ -904,7 +904,7 @@
     "description":
       "The most up-to-date breaking hockey news from the official source including interviews, rumors, statistics and schedules.",
     "url": "https://www.nhl.com/news",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "us"
   },
@@ -924,7 +924,7 @@
     "description":
       "Political news about Congress, the White House, campaigns, lobbyists and issues.",
     "url": "https://www.politico.com",
-    "category": "politics",
+    "category": "general",
     "language": "en",
     "country": "us"
   },
@@ -934,7 +934,7 @@
     "description":
       "Polygon is a gaming website in partnership with Vox Media. Our culture focused site covers games, their creators, the fans, trending stories and entertainment news.",
     "url": "http://www.polygon.com",
-    "category": "gaming",
+    "category": "entertainment",
     "language": "en",
     "country": "us"
   },
@@ -1054,7 +1054,7 @@
     "description":
       "Tune in to the world's biggest sports radio station - Live Premier League football coverage, breaking sports news, transfer rumours &amp; exclusive interviews.",
     "url": "http://talksport.com",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "gb"
   },
@@ -1134,7 +1134,7 @@
     "description":
       "The Hill is a top US political website, read by the White House and more lawmakers than any other site -- vital for policy, politics and election campaigns.",
     "url": "http://thehill.com",
-    "category": "politics",
+    "category": "general",
     "language": "en",
     "country": "us"
   },
@@ -1204,7 +1204,7 @@
     "description":
       "TheSPORTbible is one of the largest communities for sports fans across the world. Send us your sporting pictures and videos!",
     "url": "http://www.thesportbible.com",
-    "category": "sport",
+    "category": "sports",
     "language": "en",
     "country": "gb"
   },

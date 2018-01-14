@@ -20,9 +20,6 @@ async function makeModel(url, articles) {
           source.language === LANGUAGE &&
           (source.country === US || source.country === GB)
       )
-      .filter(
-        source => source.category !== 'politics' && source.category !== 'music'
-      )
       .reduce((acc, item) => {
         if (!acc.includes(item.category)) {
           acc.push(item.category);
@@ -31,13 +28,11 @@ async function makeModel(url, articles) {
       }, []),
     name,
     now: rows[0].now,
-    sources: sources
-      .filter(
-        source =>
-          source.language === LANGUAGE &&
-          (source.country === US || source.country === GB)
-      )
-      .filter(source => source.id !== 'recode'),
+    sources: sources.filter(
+      source =>
+        source.language === LANGUAGE &&
+        (source.country === US || source.country === GB)
+    ),
     version
   };
 

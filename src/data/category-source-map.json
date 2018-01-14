@@ -1,12 +1,9 @@
 {
   "business": "the-wall-street-journal",
   "entertainment": "mashable",
-  "gaming": "ign",
   "general": "cnn",
-  "health-and-medical": "medical-news-today",
-  "music": "mtv-news",
-  "politics": "breitbart-news",
-  "science-and-nature": "national-geographic",
-  "sport": "espn",
+  "health": "medical-news-today",
+  "science": "national-geographic",
+  "sports": "bbc-sport",
   "technology": "techcrunch"
 }
