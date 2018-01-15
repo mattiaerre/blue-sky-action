@@ -45,6 +45,11 @@ const Query = new GraphQLObjectType({
       resolve: getExchangeRates,
       type: ExchangeRates
     },
+    ip: {
+      resolve: (_, __, { req }) =>
+        req.headers['x-forwarded-for'] || req.connection.remoteAddress,
+      type: GraphQLString
+    },
     name: {
       type: GraphQLString,
       resolve: () => name

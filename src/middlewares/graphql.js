@@ -1,7 +1,7 @@
 const graphqlHTTP = require('express-graphql');
 const schema = require('../graphql/schema');
 
-const middleware = graphqlHTTP({
+const middleware = graphqlHTTP(req => ({
   context: {
     config: {
       coinbase: {
@@ -16,10 +16,11 @@ const middleware = graphqlHTTP({
         apiKey: process.env.NEWSAPI_API_KEY,
         baseUrl: process.env.NEWSAPI_BASE_URL
       }
-    }
+    },
+    req
   },
   graphiql: true,
   schema
-});
+}));
 
 module.exports = middleware;
