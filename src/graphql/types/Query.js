@@ -9,6 +9,7 @@ const Article = require('../types/Article');
 const Currency = require('./Currency');
 const ExchangeRates = require('./ExchangeRates');
 const Price = require('./Price');
+const getIpAddress = require('../../routes/get-ip-address');
 const { name } = require('../../../package');
 
 const Query = new GraphQLObjectType({
@@ -46,8 +47,7 @@ const Query = new GraphQLObjectType({
       type: ExchangeRates
     },
     ip: {
-      resolve: (_, __, { req }) =>
-        req.headers['x-forwarded-for'] || req.connection.remoteAddress,
+      resolve: (_, __, { req }) => getIpAddress(req),
       type: GraphQLString
     },
     name: {

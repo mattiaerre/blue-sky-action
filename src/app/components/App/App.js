@@ -8,30 +8,29 @@ import Home from '../../components/Home/Home';
 import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 
-const App = props => [
-  <Navbar categories={props.categories} key="navbar" sources={props.sources} />,
+const App = ({ articles, categories, name, now, sources, version }) => [
+  <Navbar categories={categories} key="navbar" sources={sources} />,
   <div className="container-fluid bg-light" key="container">
     <Switch>
-      <Route component={Home} exact path="/" />
+      <Route exact path="/" render={_ => <Home {..._} now={now} />} />
       <Route component={Blog} exact path="/blog" />
       <Route component={Blog} exact path="/blog/:slug" />
       <Route component={Kanyini} exact path="/kanyini" />
       <Route
         exact
         path="/:category/:source"
-        render={_ => (
-          <Articles {..._} articles={props.articles} sources={props.sources} />
-        )}
+        render={_ => <Articles {..._} articles={articles} sources={sources} />}
       />
     </Switch>
   </div>,
-  <Footer key="footer" name={props.name} version={props.version} />
+  <Footer key="footer" name={name} version={version} />
 ];
 
 App.propTypes = {
   articles: PropTypes.array.isRequired,
   categories: PropTypes.array.isRequired,
   name: PropTypes.string.isRequired,
+  now: PropTypes.object.isRequired,
   sources: PropTypes.array.isRequired,
   version: PropTypes.string.isRequired
 };

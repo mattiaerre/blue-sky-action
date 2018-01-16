@@ -1,3 +1,4 @@
+const moment = require('moment-timezone');
 const { Pool } = require('pg');
 const { name, version } = require('../../package.json');
 const index = require('../../dist/bundle').default;
@@ -7,7 +8,7 @@ const LANGUAGE = 'en';
 const GB = 'gb';
 const US = 'us';
 
-async function makeModel(url, articles) {
+async function makeModel(url, articles, datetime) {
   const pool = new Pool({ connectionString: process.env.DATABASE_URL });
   const { rows } = await pool.query('SELECT NOW()');
   pool.end();
@@ -27,7 +28,12 @@ async function makeModel(url, articles) {
         return acc;
       }, []),
     name,
-    now: rows[0].now,
+    now: {
+      client: moment(datetime.date_time_ymd)
+        .tz(datetime.offset_tzid)
+        .format(),
+      server: moment(rows[0].now).format()
+    },
     sources: sources.filter(
       source =>
         source.language === LANGUAGE &&
