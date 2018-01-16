@@ -6,20 +6,15 @@ import cities from '../../../data/cities.json';
 const format = 'ddd, MMM DD HH:mm';
 
 const isSameTimezone = (city, now) => {
-  if (
-    moment(now.client)
-      .tz(city.tzid)
-      .format() === now.client
-  ) {
+  const a = moment(now.client)
+    .tz(city.tzid)
+    .format();
+  const b = now.client;
+
+  if (a === b) {
     return true;
   }
-  if (
-    moment(now.client)
-      .tz(city.tzid)
-      .format()
-      .substring(19, 1) === 'Z' &&
-    now.client.substring(19, 6) === '+00:00'
-  ) {
+  if (a.substring(19, 20) === 'Z' && b.substring(19, 25) === '+00:00') {
     return true;
   }
   return false;
@@ -84,12 +79,14 @@ const TimeZoneWallClock = ({ now }) => {
               <p className="card-text">
                 {item.time} {getDelta(item.zone, zone)}
               </p>
-              <p>
-                {moment(now.client)
-                  .tz(item.tzid)
-                  .format()}
-              </p>
-              <p>{now.client}</p>
+              {false && [
+                <p>
+                  {moment(now.client)
+                    .tz(item.tzid)
+                    .format()}
+                </p>,
+                <p>{now.client}</p>
+              ]}
             </div>
           </div>
         </div>
