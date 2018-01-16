@@ -36,6 +36,8 @@ npm run start:dev
 
 * Lokka
 
+* Moment
+
 * Node SASS
 
 * Pug

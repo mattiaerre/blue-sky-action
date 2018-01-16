@@ -13,6 +13,15 @@ const isSameTimezone = (city, now) => {
   ) {
     return true;
   }
+  if (
+    moment(now.client)
+      .tz(city.tzid)
+      .format()
+      .substring(19, 1) === 'Z' &&
+    now.client.substring(19, 6) === '+00:00'
+  ) {
+    return true;
+  }
   return false;
 };
 
