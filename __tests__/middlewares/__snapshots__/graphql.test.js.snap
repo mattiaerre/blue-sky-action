@@ -5,6 +5,78 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
+        "author": "Rift",
+        "description": "The ceaseless rise of Bitcoin and the heady tulip-mania surrounding cryptocurrency in general has inspired the equally vapid yet bubbly J-pop industry to take advantage of the situation, leading to the creation of “Kasotsuka Shoujo”, an idol group where each …",
+        "publishedAt": "2018-01-16T04:43:44Z",
+        "source": Object {
+          "id": null,
+          "name": "Sankakucomplex.com",
+        },
+        "title": "Cryptocurrency Pop Group Kasotsuka Shoujo Mad Rich",
+        "url": "https://www.sankakucomplex.com/2018/01/16/cryptocurrency-pop-group-kasotsuka-shoujo-mad-rich/",
+        "urlToImage": "https://www.sankakucomplex.com/wp-content/uploads/2018/01/KasotsukaShojo-Cryptocurrency-Pop-Group-Thumb.jpg",
+      },
+      Object {
+        "author": "Jeff Lagerquist",
+        "description": "The case of an Ontario man who allegedly earned hundreds of thousands of dollars by peddling massive troves of personal information obtained on the so-called dark web is a sobering reminder of the scale of online threats Canadians face every day. Technology a…",
+        "publishedAt": "2018-01-16T04:30:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Ctvnews.ca",
+        },
+        "title": "Tips on how to protect yourself online",
+        "url": "https://www.ctvnews.ca/sci-tech/tips-on-how-to-protect-yourself-online-1.3761093",
+        "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.1936613.1516065477!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      },
+      Object {
+        "author": "Joel Rebello",
+        "description": "The company plans to launch its network in Singapore, Indonesia followed by India later this year.",
+        "publishedAt": "2018-01-16T04:27:44Z",
+        "source": Object {
+          "id": "the-times-of-india",
+          "name": "The Times of India",
+        },
+        "title": "Pundi X looks to launch crypto PoS network",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indonesias-pundi-x-looks-to-launch-crypto-pos-network/articleshow/62518111.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-62518111,width-672,resizemode-4,imgsize-187345/indonesias-pundi-x-looks-to-launch-crypto-pos-network.jpg",
+      },
+      Object {
+        "author": "Tyler Durden",
+        "description": "Almost exactly 9 years after the first were 'mined', January 13th marked an important milestone for cryptocurrencies. 16.8 million bitcoins (BTC), or 80 percent of the entire Bitcoin supply, have now been mined. Source As CoinTelegraph reports, this means onl…",
+        "publishedAt": "2018-01-16T04:25:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Zerohedge.com",
+        },
+        "title": "80% Of All Bitcoins Have Already Been Mined...",
+        "url": "https://www.zerohedge.com/news/2018-01-15/80-all-bitcoins-have-already-been-mined",
+        "urlToImage": "https://www.zerohedge.com/sites/default/files/2018-01/20180115_btc2.png",
+      },
+      Object {
+        "author": "Bloomberg",
+        "description": "Any autocrat eyeing bitcoin as a sanctions safe haven must confront a simple matter of scale.",
+        "publishedAt": "2018-01-16T04:23:39Z",
+        "source": Object {
+          "id": "the-times-of-india",
+          "name": "The Times of India",
+        },
+        "title": "Bitcoin can't save world's autocrats from the sanctions squeeze",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-cant-save-worlds-autocrats-from-the-sanctions-squeeze/articleshow/62518096.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-62518091,width-672,resizemode-4,imgsize-114991/bitcoin-11-reuters.jpg",
+      },
+      Object {
+        "author": "C. Aliens",
+        "description": "Darknet Vendor ‘DutchKings’ Sentenced to Seven Years Netherlands law enforcement arrested, in November 2016, one drug dealer suspected of running the Agora vendor account “DutchKings.” The police actually arrested two suspects, 24-year-old Brandon M. and 26-y…",
+        "publishedAt": "2018-01-16T04:23:13Z",
+        "source": Object {
+          "id": null,
+          "name": "Deepdotweb.com",
+        },
+        "title": "16.1.18 Dark Web and Cybercrime Roundup",
+        "url": "https://www.deepdotweb.com/2018/01/16/16-1-18-dark-web-cybercrime-roundup/",
+        "urlToImage": "https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-37.png",
+      },
+      Object {
         "author": "The Star Online",
         "description": "HONG KONG: Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators.",
         "publishedAt": "2018-01-16T04:17:08Z",
@@ -65,6 +137,18 @@ Object {
         "urlToImage": null,
       },
       Object {
+        "author": "James Levenson",
+        "description": "One of the problems facing those new to the cryptocurrency markets is the level of complexity in using exchanges and making trades. Some degree of technical knowledge is required to open, navigate and trade on a crypto exchange account, get one thing wrong an…",
+        "publishedAt": "2018-01-16T04:00:22Z",
+        "source": Object {
+          "id": null,
+          "name": "Bitcoinist.com",
+        },
+        "title": "Cryptocurrency Trading Without the Complexities with Symmetry Fund",
+        "url": "http://bitcoinist.com/cryptocurrency-trading-without-the-complexities-with-symmetry-fund/",
+        "urlToImage": "http://bitcoinist.com/wp-content/uploads/2017/11/ss-shattering-ath-bitcoin.jpg",
+      },
+      Object {
         "author": "Katherine Denham",
         "description": "Not a day goes by when we don’t hear about the frolickings of bitcoin. The digital currency has certainly divided opinion. Punters are forever reminding us of the mammoth gains bitcoin made last year. And in the same breath, comparisons are continually being …",
         "publishedAt": "2018-01-16T04:00:00Z",
@@ -87,6 +171,18 @@ Object {
         "title": "China to block domestic access to Chinese and offshore cryptocurrency trading platforms",
         "url": "http://www.firstpost.com/tech/news-analysis/china-to-block-domestic-access-to-chinese-and-offshore-cryptocurrency-trading-platforms-4304539.html",
         "urlToImage": "http://images.firstpost.com/wp-content/uploads/2017/12/BITCOIN_1280_REUTERS2.jpg",
+      },
+      Object {
+        "author": "Eric Lam",
+        "description": "Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators.",
+        "publishedAt": "2018-01-16T03:42:55Z",
+        "source": Object {
+          "id": "bloomberg",
+          "name": "Bloomberg",
+        },
+        "title": "Cryptocurrencies Resume Slide as Bitcoin Tumbles to December Low",
+        "url": "https://www.bloomberg.com/news/articles/2018-01-16/cryptocurrencies-resume-slide-as-bitcoin-tumbles-to-december-low",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCScv.3e2sPc/v1/1200x755.jpg",
       },
       Object {
         "author": "The Star Online",
@@ -148,102 +244,6 @@ Object {
         "url": "http://www.business-standard.com/article/markets/these-five-shocks-could-thwart-two-tear-emerging-market-rally-118011600133_1.html",
         "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-12/01/full/1512070168-1304.jpg",
       },
-      Object {
-        "author": "Ben Bartenstein | Bloomberg",
-        "description": "Plenty of things could upend the two-year rally in emerging-market equities",
-        "publishedAt": "2018-01-16T03:17:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Business-standard.com",
-        },
-        "title": "These five shocks could thwart two-year emerging-market rally",
-        "url": "http://www.business-standard.com/article/markets/these-five-shocks-could-thwart-two-year-emerging-market-rally-118011600133_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-12/01/full/1512070168-1304.jpg",
-      },
-      Object {
-        "author": "John",
-        "description": "The Guardian does not mince words when it comes to cryptocurrency and bitcoin. The post The Guardian Calls Bitcoin a Cancer-Pill – Loves the Fed, Hates Gold – TODAYS FUD WTF appeared first on DECENTRALIZED TV. The Guardian Calls Bitcoin a Cancer-Pill – Loves …",
-        "publishedAt": "2018-01-16T03:14:04Z",
-        "source": Object {
-          "id": null,
-          "name": "Decentralized.tv",
-        },
-        "title": "The Guardian Calls Bitcoin a Cancer-Pill – Loves the Fed, Hates Gold – TODAYS FUD WTF",
-        "url": "https://decentralized.tv/guardian-calls-bitcoin-cancer-pill-loves-fed-hates-gold-todays-fud-wtf/",
-        "urlToImage": "https://decentralized.tv/wp-content/uploads/2018/01/wtf-bitcoin-cancer.jpg",
-      },
-      Object {
-        "author": "Bei Hu, Nishant Kumar, Hema Parmar, Klaus Wille",
-        "description": "While most of the world's institutional investors watched from the sidelines as cryptocurrencies surged last year, a small group of hedge fund managers piled in.",
-        "publishedAt": "2018-01-16T03:08:48Z",
-        "source": Object {
-          "id": "bloomberg",
-          "name": "Bloomberg",
-        },
-        "title": "Bitcoin Frenzy Helps Crypto Hedge Funds Reap 1,100% Gains",
-        "url": "https://www.bloomberg.com/news/articles/2018-01-16/crypto-hedge-funds-soar-more-than-1-000-as-bubble-debate-rages",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.JB._olXeeo/v0/1200x800.jpg",
-      },
-      Object {
-        "author": "James Rickards",
-        "description": "My readers know I’m not a bitcoin proponent. I don’t deny that it’s made some people a lot of money, but I believe bitcoin is a massive bubble right now. Yet it’s been reported in some circles that I’ve recently come out in favour of bitcoin. It’s not true. N…",
-        "publishedAt": "2018-01-16T03:05:53Z",
-        "source": Object {
-          "id": null,
-          "name": "Dailyreckoning.com.au",
-        },
-        "title": "Has Jim Rickards Changed His Mind on Bitcoin?",
-        "url": "https://www.dailyreckoning.com.au/jim-rickards-changed-mind-bitcoin/2018/01/16/",
-        "urlToImage": "https://www.dailyreckoning.com.au/wp-content/uploads/2017/10/Bitcoin-Investment-in-Australia-e1509402505133.jpg",
-      },
-      Object {
-        "author": "Bloomberg",
-        "description": "Economists and policymakers see the restraints on borrowing as a necessary step toward choking off some of the nation’s construction and investment excesses and building a more sustainable economy.",
-        "publishedAt": "2018-01-16T03:04:09Z",
-        "source": Object {
-          "id": null,
-          "name": "Freemalaysiatoday.com",
-        },
-        "title": "China GDP powers past debt purge, leaving trail of dead projects",
-        "url": "http://www.freemalaysiatoday.com/category/world/2018/01/16/china-gdp-powers-past-debt-purge-leaving-trail-of-dead-projects/",
-        "urlToImage": "http://s3media.freemalaysiatoday.com/wp-content/uploads/2018/01/china-gdp.jpg",
-      },
-      Object {
-        "author": "Kevin Dugan, Carleton English",
-        "description": "The crypto-race is on. As the bitcoin, ethereum, ripple and hundreds of other crypto-coins move from niche investments to more widely accepted ones, financial data companies are racing one another to become the first major hub for the unregulated assets. Ther…",
-        "publishedAt": "2018-01-16T03:03:59Z",
-        "source": Object {
-          "id": null,
-          "name": "Nypost.com",
-        },
-        "title": "Financial data firms scrambling to be top cryptocurrency hub",
-        "url": "https://nypost.com/2018/01/15/financial-data-firms-scrambling-to-be-top-cryptocurrency-hub/",
-        "urlToImage": "https://thenypost.files.wordpress.com/2017/12/bitcoin-futures-launch1.jpg?quality=90&strip=all&w=1200",
-      },
-      Object {
-        "author": "Scott Scanlon",
-        "description": "As we write this, the cyber currency Bitcoin has grown nearly 1,000 percent since the start of 2017. Chances are, you didn’t invest in Bitcoin. Neither did we. But whether it crashes and burns or continues its dizzying ascent, there’s a good chance photograph…",
-        "publishedAt": "2018-01-16T03:03:11Z",
-        "source": Object {
-          "id": null,
-          "name": "Youbrandinc.com",
-        },
-        "title": "What Photographers Need to Know About Blockchain",
-        "url": "https://www.youbrandinc.com/crytocurrency/what-photographers-need-to-know-about-blockchain/",
-        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/BlockChainCode.jpg",
-      },
-      Object {
-        "author": "David Tweed",
-        "description": "While bitcoin can provide sources of cash for political pariahs, the market is still too nascent to make a meaningful skirting of a US-led economic blockade possible",
-        "publishedAt": "2018-01-16T03:00:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Livemint.com",
-        },
-        "title": "Bitcoin can’t save world’s autocrats from the sanctions squeeze",
-        "url": "http://www.livemint.com/Money/2VNv9DpflMRwFd5FltbzyL/Bitcoin-cant-save-worlds-autocrats-from-the-sanctions-sque.html",
-        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/01/17/Photos/Processed/bicoin2-k1n--621x414@LiveMint.JPG",
-      },
     ],
   },
 }
@@ -253,7 +253,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 13180.83,
+      "amount": 13115.56,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -1005,7 +1005,7 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00044418,
+          "value": 0.00043673,
         },
         Object {
           "currency": "BDT",
@@ -1013,7 +1013,7 @@ Object {
         },
         Object {
           "currency": "BGN",
-          "value": 1.6,
+          "value": 1.59,
         },
         Object {
           "currency": "BHD",
@@ -1097,7 +1097,7 @@ Object {
         },
         Object {
           "currency": "COP",
-          "value": 2899.16,
+          "value": 2817.46,
         },
         Object {
           "currency": "CRC",
@@ -1113,7 +1113,7 @@ Object {
         },
         Object {
           "currency": "CZK",
-          "value": 20.82,
+          "value": 20.81,
         },
         Object {
           "currency": "DJF",
@@ -1129,7 +1129,7 @@ Object {
         },
         Object {
           "currency": "DZD",
-          "value": 114.05,
+          "value": 114.04,
         },
         Object {
           "currency": "EEK",
@@ -1149,7 +1149,7 @@ Object {
         },
         Object {
           "currency": "ETH",
-          "value": 0.0008171,
+          "value": 0.00081265,
         },
         Object {
           "currency": "EUR",
@@ -1233,7 +1233,7 @@ Object {
         },
         Object {
           "currency": "INR",
-          "value": 63.69,
+          "value": 63.65,
         },
         Object {
           "currency": "IQD",
@@ -1261,7 +1261,7 @@ Object {
         },
         Object {
           "currency": "KES",
-          "value": 103.01,
+          "value": 103.07,
         },
         Object {
           "currency": "KGS",
@@ -1277,7 +1277,7 @@ Object {
         },
         Object {
           "currency": "KRW",
-          "value": 1064,
+          "value": 1063,
         },
         Object {
           "currency": "KWD",
@@ -1313,7 +1313,7 @@ Object {
         },
         Object {
           "currency": "LTC",
-          "value": 0.00449307,
+          "value": 0.0044604,
         },
         Object {
           "currency": "LTL",
@@ -1341,7 +1341,7 @@ Object {
         },
         Object {
           "currency": "MKD",
-          "value": 50.21,
+          "value": 50.19,
         },
         Object {
           "currency": "MMK",
@@ -1365,7 +1365,7 @@ Object {
         },
         Object {
           "currency": "MUR",
-          "value": 33.15,
+          "value": 33.05,
         },
         Object {
           "currency": "MVR",
@@ -1453,7 +1453,7 @@ Object {
         },
         Object {
           "currency": "RSD",
-          "value": 96.35,
+          "value": 96.37,
         },
         Object {
           "currency": "RUB",
@@ -1505,7 +1505,7 @@ Object {
         },
         Object {
           "currency": "STD",
-          "value": 20175.34,
+          "value": 20172.09,
         },
         Object {
           "currency": "SVC",
@@ -1517,7 +1517,7 @@ Object {
         },
         Object {
           "currency": "THB",
-          "value": 31.93,
+          "value": 31.92,
         },
         Object {
           "currency": "TJS",
@@ -1537,7 +1537,7 @@ Object {
         },
         Object {
           "currency": "TRY",
-          "value": 3.8,
+          "value": 3.79,
         },
         Object {
           "currency": "TTD",
@@ -1545,7 +1545,7 @@ Object {
         },
         Object {
           "currency": "TWD",
-          "value": 29.54,
+          "value": 29.53,
         },
         Object {
           "currency": "TZS",
@@ -1629,7 +1629,7 @@ Object {
         },
         Object {
           "currency": "ZAR",
-          "value": 12.3,
+          "value": 12.31,
         },
         Object {
           "currency": "ZMK",
@@ -1662,7 +1662,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 13050,
+        "amount": 12989.07,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1670,7 +1670,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 2276,
+        "amount": 2265.77,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1678,7 +1678,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 1235.01,
+        "amount": 1226.63,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1686,7 +1686,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 224.01,
+        "amount": 223.08,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",

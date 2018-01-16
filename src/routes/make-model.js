@@ -13,6 +13,15 @@ async function makeModel(url, articles, datetime) {
   const { rows } = await pool.query('SELECT NOW()');
   pool.end();
 
+  let nowClient;
+  if (datetime) {
+    nowClient = moment(datetime.date_time_ymd)
+      .tz(datetime.offset_tzid)
+      .format();
+  } else {
+    nowClient = moment().format();
+  }
+
   const props = {
     articles,
     categories: sources
@@ -29,9 +38,7 @@ async function makeModel(url, articles, datetime) {
       }, []),
     name,
     now: {
-      client: moment(datetime.date_time_ymd)
-        .tz(datetime.offset_tzid)
-        .format(),
+      client: nowClient,
       server: moment(rows[0].now).format()
     },
     sources: sources.filter(
