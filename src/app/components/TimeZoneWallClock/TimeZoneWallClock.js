@@ -75,6 +75,12 @@ const TimeZoneWallClock = ({ now }) => {
               <p className="card-text">
                 {item.time} {getDelta(item.zone, zone)}
               </p>
+              <p>
+                {moment(now.client)
+                  .tz(item.tzid)
+                  .format()}
+              </p>
+              <p>{now.client}</p>
             </div>
           </div>
         </div>
