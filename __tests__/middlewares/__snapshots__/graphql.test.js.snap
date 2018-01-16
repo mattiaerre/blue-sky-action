@@ -5,6 +5,54 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
+        "author": "The Star Online",
+        "description": "HONG KONG: Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators.",
+        "publishedAt": "2018-01-16T04:17:08Z",
+        "source": Object {
+          "id": null,
+          "name": "Thestar.com.my",
+        },
+        "title": "Cryptocurrencies resume slide as Bitcoin tumbles to December low",
+        "url": "http://www.thestar.com.my/business/business-news/2018/01/16/cryptocurrencies-resume-slide-as-bitcoin-tumbles-to-december-low/",
+        "urlToImage": "http://www.thestar.com.my/~/media/online/2018/01/03/13/19/bitcoin_reuters.ashx/?w=620&h=413&crop=1&hash=8E555A7B91B144617E364D69901312DD61822E4E",
+      },
+      Object {
+        "author": "Eric Lam",
+        "description": "Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators",
+        "publishedAt": "2018-01-16T04:14:46Z",
+        "source": Object {
+          "id": null,
+          "name": "Livemint.com",
+        },
+        "title": "Cryptocurrencies resume slide as bitcoin tumbles to December low",
+        "url": "http://www.livemint.com/Money/e99gArLeP6A03rvUtF7BiN/Cryptocurrencies-resume-slide-as-bitcoin-tumbles-to-December.html",
+        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/01/17/Photos/Processed/bitcoin-kb8H--621x414@LiveMint.JPG",
+      },
+      Object {
+        "author": "Aayush Jindal",
+        "description": "Key Points Bitcoin cash price failed to stay above the $2400 support area and moved down against the US Dollar. There is a major bearish trend line forming with resistance at $2400 on the hourly chart of BCH/USD (data feed from Kraken). The pair is likely to …",
+        "publishedAt": "2018-01-16T04:08:30Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Bitcoin Cash Price Technical Analysis – BCH/USD in Trouble",
+        "url": "https://www.newsbtc.com/2018/01/16/bitcoin-cash-price-technical-analysis-bch-usd-trouble/",
+        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/01/16035242/Bitcoin_Cash_Price_BCH_USD7.jpg",
+      },
+      Object {
+        "author": "Sarah Jenn",
+        "description": "Bitcoin Price Key Highlights Bitcoin price is back to testing the support of its descending triangle pattern, which also happens to be the neckline of a complex head and shoulders formation. A break below this $13,000 area could lead to a drop of around $6,00…",
+        "publishedAt": "2018-01-16T04:07:54Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Bitcoin Price Technical Analysis for 01/16/2018 – Complex Head and Shoulders Ready to Break?",
+        "url": "https://www.newsbtc.com/2018/01/16/bitcoin-price-technical-analysis-01-16-2018-complex-head-shoulders-ready-break/",
+        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/01/16035707/180116_bitcoin.png",
+      },
+      Object {
         "author": "Scott Scanlon",
         "description": "The bitcoin prices continue to consolidate and trade with a bearish bias, something that we had pointed out last Friday. The market is maturing very fast and this is evident from the price action that we have been seeing in the market. No more do we see major…",
         "publishedAt": "2018-01-16T04:03:11Z",
@@ -27,6 +75,18 @@ Object {
         "title": "The future of bitcoin: How crypto is touted to trade going forward",
         "url": "http://www.cityam.com/278807/future-bitcoin-cryptocurrency-touted-trade-going-forward",
         "urlToImage": "http://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/sydney-pub-to-accept-bitcoin-virtual-currency-180991482-5a5d78cfa1f90.jpg",
+      },
+      Object {
+        "author": "Reuters",
+        "description": "Last year, Chinese regulators banned initial coin offerings, shut down local cryptocurrency trading exchanges and limited bitcoin mining The post China to block domestic access to Chinese and offshore cryptocurrency trading platforms appeared first on Firstpo…",
+        "publishedAt": "2018-01-16T03:59:41Z",
+        "source": Object {
+          "id": null,
+          "name": "Firstpost.com",
+        },
+        "title": "China to block domestic access to Chinese and offshore cryptocurrency trading platforms",
+        "url": "http://www.firstpost.com/tech/news-analysis/china-to-block-domestic-access-to-chinese-and-offshore-cryptocurrency-trading-platforms-4304539.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2017/12/BITCOIN_1280_REUTERS2.jpg",
       },
       Object {
         "author": "The Star Online",
@@ -184,66 +244,6 @@ Object {
         "url": "http://www.livemint.com/Money/2VNv9DpflMRwFd5FltbzyL/Bitcoin-cant-save-worlds-autocrats-from-the-sanctions-sque.html",
         "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/01/17/Photos/Processed/bicoin2-k1n--621x414@LiveMint.JPG",
       },
-      Object {
-        "author": "Martin",
-        "description": "Part of the appeal of Bitcoin is its finite nature and the fact that there will only ever be 21 million of them. This notion has undoubtedly fueled its meteoric price rise of over 1700% in 2017 from around $800 this time last year to over $14,000 at the end o…",
-        "publishedAt": "2018-01-16T02:50:07Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Only 20% of Bitcoin’s left to be mined",
-        "url": "https://www.newsbtc.com/2018/01/16/20-bitcoins-left-mined/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2016/05/26132146/A-Brief-History-of-Bitcoin-and-Bitcoin-Mining.jpg",
-      },
-      Object {
-        "author": null,
-        "description": "Beijing plans to block domestic access to Chinese and offshore cryptocurrency platforms that allow centralized trading, Bloomberg said, citing unnamed sources.",
-        "publishedAt": "2018-01-16T02:43:05Z",
-        "source": Object {
-          "id": null,
-          "name": "Moneycontrol.com",
-        },
-        "title": "China is reportedly raising the bar on its cryptocurrency crackdown",
-        "url": "http://www.moneycontrol.com/news/world/china-is-reportedly-raising-the-bar-on-its-cryptocurrency-crackdown-2483823.html",
-        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2017/11/RTX14YNL-770x433.jpg",
-      },
-      Object {
-        "author": "Patrick Gillespie",
-        "description": "A new monthly subsidy announced by President Nicolas Maduro is worth $3.83. It's unlikely to change much for people living in a nation plagued by hyperinflation.",
-        "publishedAt": "2018-01-16T02:32:54Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Venezuela president offers pregnant women $3.83 a month",
-        "url": "http://money.cnn.com/2018/01/15/news/economy/venezuela-maduro-pregnant-women/index.html",
-        "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/141212175415-venezuela-maduro-780x439.jpg",
-      },
-      Object {
-        "author": "RT",
-        "description": "Researchers found that a single actor was “likely” behind several accounts that bought millions of dollars worth of bitcoin and drove the exchange rate in the US from $150 to $1,000 over the course of two months. Read Full Article at RT.com",
-        "publishedAt": "2018-01-16T02:22:59Z",
-        "source": Object {
-          "id": "rt",
-          "name": "RT",
-        },
-        "title": "Bitcoin price manipulated from $150 to $1,000 by single actor – researchers",
-        "url": "https://www.rt.com/usa/416036-bitcoin-manipulated-exchange-rate-price/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "urlToImage": "https://cdni.rt.com/files/2018.01/article/5a5d4563fc7e93491f8b4567.jpg",
-      },
-      Object {
-        "author": "Rich Haridy",
-        "description": "An anonymous cryptocurrency millionaire recently launched a fund to donate $86 million in Bitcoin to charity. One of the biggest donations so far is to MAPS, an organization working to turn MDMA into a legal PTSD treatment... Continue Reading How the cryptocu…",
-        "publishedAt": "2018-01-16T02:20:27Z",
-        "source": Object {
-          "id": null,
-          "name": "Newatlas.com",
-        },
-        "title": "How the cryptocurrency boom is helping make MDMA a legal prescription drug",
-        "url": "https://newatlas.com/cryptocurrency-philanthropy-donation-maps-mdma/52984/",
-        "urlToImage": "https://img.newatlas.com/bitcoin-cryptocurrency-mdma-ptsd-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=crop&h=347&q=60&rect=0%2C0%2C1919%2C1079&w=616&s=0b525a1f975105a9aeb485f3d481063a",
-      },
     ],
   },
 }
@@ -253,7 +253,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 13093.99,
+      "amount": 13180.83,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -1005,7 +1005,7 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00043488,
+          "value": 0.00044418,
         },
         Object {
           "currency": "BDT",
@@ -1121,7 +1121,7 @@ Object {
         },
         Object {
           "currency": "DKK",
-          "value": 6.08,
+          "value": 6.07,
         },
         Object {
           "currency": "DOP",
@@ -1141,7 +1141,7 @@ Object {
         },
         Object {
           "currency": "ERN",
-          "value": 15.26,
+          "value": 15.11,
         },
         Object {
           "currency": "ETB",
@@ -1149,7 +1149,7 @@ Object {
         },
         Object {
           "currency": "ETH",
-          "value": 0.00081328,
+          "value": 0.0008171,
         },
         Object {
           "currency": "EUR",
@@ -1233,7 +1233,7 @@ Object {
         },
         Object {
           "currency": "INR",
-          "value": 63.67,
+          "value": 63.69,
         },
         Object {
           "currency": "IQD",
@@ -1277,7 +1277,7 @@ Object {
         },
         Object {
           "currency": "KRW",
-          "value": 1063,
+          "value": 1064,
         },
         Object {
           "currency": "KWD",
@@ -1313,7 +1313,7 @@ Object {
         },
         Object {
           "currency": "LTC",
-          "value": 0.00449711,
+          "value": 0.00449307,
         },
         Object {
           "currency": "LTL",
@@ -1341,7 +1341,7 @@ Object {
         },
         Object {
           "currency": "MKD",
-          "value": 50.22,
+          "value": 50.21,
         },
         Object {
           "currency": "MMK",
@@ -1365,7 +1365,7 @@ Object {
         },
         Object {
           "currency": "MUR",
-          "value": 32.9,
+          "value": 33.15,
         },
         Object {
           "currency": "MVR",
@@ -1377,7 +1377,7 @@ Object {
         },
         Object {
           "currency": "MXN",
-          "value": 18.86,
+          "value": 18.85,
         },
         Object {
           "currency": "MYR",
@@ -1429,7 +1429,7 @@ Object {
         },
         Object {
           "currency": "PHP",
-          "value": 50.39,
+          "value": 50.4,
         },
         Object {
           "currency": "PKR",
@@ -1453,11 +1453,11 @@ Object {
         },
         Object {
           "currency": "RSD",
-          "value": 96.36,
+          "value": 96.35,
         },
         Object {
           "currency": "RUB",
-          "value": 56.38,
+          "value": 56.35,
         },
         Object {
           "currency": "RWF",
@@ -1505,7 +1505,7 @@ Object {
         },
         Object {
           "currency": "STD",
-          "value": 20174.48,
+          "value": 20175.34,
         },
         Object {
           "currency": "SVC",
@@ -1517,7 +1517,7 @@ Object {
         },
         Object {
           "currency": "THB",
-          "value": 31.92,
+          "value": 31.93,
         },
         Object {
           "currency": "TJS",
@@ -1629,7 +1629,7 @@ Object {
         },
         Object {
           "currency": "ZAR",
-          "value": 12.31,
+          "value": 12.3,
         },
         Object {
           "currency": "ZMK",
@@ -1662,7 +1662,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 12964.03,
+        "amount": 13050,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1670,7 +1670,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 2265,
+        "amount": 2276,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1678,7 +1678,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 1223.53,
+        "amount": 1235.01,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1686,7 +1686,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 222.52,
+        "amount": 224.01,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
