@@ -1,9 +1,10 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import TiHome from 'react-icons/lib/ti/home';
-import WeatherGroup from '../../containers/WeatherGroup/WeatherGroup';
+import TimeZoneWallClock from '../../components/TimeZoneWallClock/TimeZoneWallClock';
 import Crypto from '../../containers/Crypto/Crypto';
 
-const Home = () => (
+const Home = ({ now }) => (
   <div>
     <div className="row">
       <div className="col-12">
@@ -12,9 +13,13 @@ const Home = () => (
         </h2>
       </div>
     </div>
+    <TimeZoneWallClock now={now} />
     <Crypto />
-    <WeatherGroup group="" />
   </div>
 );
+
+Home.propTypes = {
+  now: PropTypes.object.isRequired
+};
 
 export default Home;

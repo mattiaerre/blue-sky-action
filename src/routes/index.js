@@ -1,12 +1,21 @@
 const express = require('express');
+const fetchDatetime = require('./fetch-datetime');
+const getIpAddress = require('./get-ip-address');
 const makeArticles = require('./make-articles');
 const makeModel = require('./make-model');
 
 const router = express.Router();
 
-async function render(req, res) {
+async function render(req, res, withArticles) {
   const { url } = req;
-  const model = await makeModel(url, []);
+  let articles = [];
+  if (withArticles) {
+    const { source } = req.params;
+    articles = await makeArticles(source);
+  }
+  const ip = getIpAddress(req);
+  const datetime = await fetchDatetime(ip);
+  const model = await makeModel(url, articles, datetime);
   res.render('index', model);
 }
 
@@ -19,11 +28,7 @@ router.get('/blog/:slug', render);
 router.get('/kanyini', render);
 
 router.get('/:category/:source', async (req, res) => {
-  const { source } = req.params;
-  const { url } = req;
-  const articles = await makeArticles(source);
-  const model = await makeModel(url, articles);
-  res.render('index', model);
+  render(req, res, true);
 });
 
 module.exports = router;

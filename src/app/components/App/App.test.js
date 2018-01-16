@@ -39,6 +39,7 @@ describe('<App />', () => {
     articles: [],
     categories: [],
     name: '',
+    now: {},
     sources: [
       {
         category: 'entertainment',

@@ -1,0 +1,18 @@
+{
+  "kuala-lumpur": {
+    "name": "Kuala Lumpur",
+    "tzid": "Asia/Kuala_Lumpur"
+  },
+  "turin": {
+    "name": "Turin",
+    "tzid": "Europe/Rome"
+  },
+  "london": {
+    "name": "London",
+    "tzid": "Europe/London"
+  },
+  "san-francisco": {
+    "name": "San Francisco",
+    "tzid": "America/Los_Angeles"
+  }
+}
