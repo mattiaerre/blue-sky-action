@@ -3,11 +3,13 @@ const getArticles = require('../resolvers/get-articles');
 const getBuyPrice = require('../resolvers/get-buy-price');
 const getCurrencies = require('../resolvers/get-currencies');
 const getExchangeRates = require('../resolvers/get-exchange-rates');
+const getSources = require('../resolvers/get-sources');
 const getSpotPrices = require('../resolvers/get-spot-prices');
 const getTopHeadlines = require('../resolvers/get-top-headlines');
-const Article = require('../types/Article');
+const Article = require('./Article');
 const Currency = require('./Currency');
 const ExchangeRates = require('./ExchangeRates');
+const Source = require('./Source');
 const Price = require('./Price');
 const getIpAddress = require('../../routes/get-ip-address');
 const { name } = require('../../../package');
@@ -53,6 +55,11 @@ const Query = new GraphQLObjectType({
     name: {
       type: GraphQLString,
       resolve: () => name
+    },
+    sources: {
+      args: { q: { type: GraphQLString } },
+      resolve: getSources,
+      type: new GraphQLList(Source)
     },
     spotPrices: {
       type: new GraphQLList(Price),

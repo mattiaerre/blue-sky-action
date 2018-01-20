@@ -5,244 +5,248 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
-        "author": "Rift",
-        "description": "The ceaseless rise of Bitcoin and the heady tulip-mania surrounding cryptocurrency in general has inspired the equally vapid yet bubbly J-pop industry to take advantage of the situation, leading to the creation of “Kasotsuka Shoujo”, an idol group where each …",
-        "publishedAt": "2018-01-16T04:43:44Z",
+        "author": "Democracy at Work",
+        "description": "<!-- All divs have been put onto one line because of whitespace issues when rendered inline in browsers --> A dynamic yet under-documented experiment in radical social transformation taking place in the United States. <!-- All divs have been put onto one line…",
+        "publishedAt": "2018-01-20T22:24:00Z",
         "source": Object {
           "id": null,
-          "name": "Sankakucomplex.com",
+          "name": "Alternet.org",
         },
-        "title": "Cryptocurrency Pop Group Kasotsuka Shoujo Mad Rich",
-        "url": "https://www.sankakucomplex.com/2018/01/16/cryptocurrency-pop-group-kasotsuka-shoujo-mad-rich/",
-        "urlToImage": "https://www.sankakucomplex.com/wp-content/uploads/2018/01/KasotsukaShojo-Cryptocurrency-Pop-Group-Thumb.jpg",
+        "title": "A Worker-Owned Cooperative Is Revitalizing Jackson, Mississippi",
+        "url": "https://www.alternet.org/local-peace-economy/worker-owned-cooperative-revitalizing-jackson-mississippi",
+        "urlToImage": "https://www.alternet.org/sites/default/files/story_images/22859997_1225030460962088_8968578510902895462_o.jpg",
       },
       Object {
-        "author": "Jeff Lagerquist",
-        "description": "The case of an Ontario man who allegedly earned hundreds of thousands of dollars by peddling massive troves of personal information obtained on the so-called dark web is a sobering reminder of the scale of online threats Canadians face every day. Technology a…",
-        "publishedAt": "2018-01-16T04:30:00Z",
+        "author": null,
+        "description": "A spotted hyena has been sighted in a Gabon national park for the first time in 20 years, conservationists said Friday, the latest large predator to have returned to a region where many had gone locally extinct.The global network of Agence France Presse c",
+        "publishedAt": "2018-01-20T07:46:00Z",
         "source": Object {
           "id": null,
-          "name": "Ctvnews.ca",
+          "name": "Afp.com",
         },
-        "title": "Tips on how to protect yourself online",
-        "url": "https://www.ctvnews.ca/sci-tech/tips-on-how-to-protect-yourself-online-1.3761093",
-        "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.1936613.1516065477!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      },
-      Object {
-        "author": "Joel Rebello",
-        "description": "The company plans to launch its network in Singapore, Indonesia followed by India later this year.",
-        "publishedAt": "2018-01-16T04:27:44Z",
-        "source": Object {
-          "id": "the-times-of-india",
-          "name": "The Times of India",
-        },
-        "title": "Pundi X looks to launch crypto PoS network",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indonesias-pundi-x-looks-to-launch-crypto-pos-network/articleshow/62518111.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-62518111,width-672,resizemode-4,imgsize-187345/indonesias-pundi-x-looks-to-launch-crypto-pos-network.jpg",
-      },
-      Object {
-        "author": "Tyler Durden",
-        "description": "Almost exactly 9 years after the first were 'mined', January 13th marked an important milestone for cryptocurrencies. 16.8 million bitcoins (BTC), or 80 percent of the entire Bitcoin supply, have now been mined. Source As CoinTelegraph reports, this means onl…",
-        "publishedAt": "2018-01-16T04:25:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Zerohedge.com",
-        },
-        "title": "80% Of All Bitcoins Have Already Been Mined...",
-        "url": "https://www.zerohedge.com/news/2018-01-15/80-all-bitcoins-have-already-been-mined",
-        "urlToImage": "https://www.zerohedge.com/sites/default/files/2018-01/20180115_btc2.png",
-      },
-      Object {
-        "author": "Bloomberg",
-        "description": "Any autocrat eyeing bitcoin as a sanctions safe haven must confront a simple matter of scale.",
-        "publishedAt": "2018-01-16T04:23:39Z",
-        "source": Object {
-          "id": "the-times-of-india",
-          "name": "The Times of India",
-        },
-        "title": "Bitcoin can't save world's autocrats from the sanctions squeeze",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-cant-save-worlds-autocrats-from-the-sanctions-squeeze/articleshow/62518096.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-62518091,width-672,resizemode-4,imgsize-114991/bitcoin-11-reuters.jpg",
-      },
-      Object {
-        "author": "C. Aliens",
-        "description": "Darknet Vendor ‘DutchKings’ Sentenced to Seven Years Netherlands law enforcement arrested, in November 2016, one drug dealer suspected of running the Agora vendor account “DutchKings.” The police actually arrested two suspects, 24-year-old Brandon M. and 26-y…",
-        "publishedAt": "2018-01-16T04:23:13Z",
-        "source": Object {
-          "id": null,
-          "name": "Deepdotweb.com",
-        },
-        "title": "16.1.18 Dark Web and Cybercrime Roundup",
-        "url": "https://www.deepdotweb.com/2018/01/16/16-1-18-dark-web-cybercrime-roundup/",
-        "urlToImage": "https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-37.png",
-      },
-      Object {
-        "author": "The Star Online",
-        "description": "HONG KONG: Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators.",
-        "publishedAt": "2018-01-16T04:17:08Z",
-        "source": Object {
-          "id": null,
-          "name": "Thestar.com.my",
-        },
-        "title": "Cryptocurrencies resume slide as Bitcoin tumbles to December low",
-        "url": "http://www.thestar.com.my/business/business-news/2018/01/16/cryptocurrencies-resume-slide-as-bitcoin-tumbles-to-december-low/",
-        "urlToImage": "http://www.thestar.com.my/~/media/online/2018/01/03/13/19/bitcoin_reuters.ashx/?w=620&h=413&crop=1&hash=8E555A7B91B144617E364D69901312DD61822E4E",
-      },
-      Object {
-        "author": "Eric Lam",
-        "description": "Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators",
-        "publishedAt": "2018-01-16T04:14:46Z",
-        "source": Object {
-          "id": null,
-          "name": "Livemint.com",
-        },
-        "title": "Cryptocurrencies resume slide as bitcoin tumbles to December low",
-        "url": "http://www.livemint.com/Money/e99gArLeP6A03rvUtF7BiN/Cryptocurrencies-resume-slide-as-bitcoin-tumbles-to-December.html",
-        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/01/17/Photos/Processed/bitcoin-kb8H--621x414@LiveMint.JPG",
-      },
-      Object {
-        "author": "Aayush Jindal",
-        "description": "Key Points Bitcoin cash price failed to stay above the $2400 support area and moved down against the US Dollar. There is a major bearish trend line forming with resistance at $2400 on the hourly chart of BCH/USD (data feed from Kraken). The pair is likely to …",
-        "publishedAt": "2018-01-16T04:08:30Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Bitcoin Cash Price Technical Analysis – BCH/USD in Trouble",
-        "url": "https://www.newsbtc.com/2018/01/16/bitcoin-cash-price-technical-analysis-bch-usd-trouble/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/01/16035242/Bitcoin_Cash_Price_BCH_USD7.jpg",
-      },
-      Object {
-        "author": "Sarah Jenn",
-        "description": "Bitcoin Price Key Highlights Bitcoin price is back to testing the support of its descending triangle pattern, which also happens to be the neckline of a complex head and shoulders formation. A break below this $13,000 area could lead to a drop of around $6,00…",
-        "publishedAt": "2018-01-16T04:07:54Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Bitcoin Price Technical Analysis for 01/16/2018 – Complex Head and Shoulders Ready to Break?",
-        "url": "https://www.newsbtc.com/2018/01/16/bitcoin-price-technical-analysis-01-16-2018-complex-head-shoulders-ready-break/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/01/16035707/180116_bitcoin.png",
+        "title": "Spotted hyena returns to Gabon park after 20 years: researchers",
+        "url": "https://www.afp.com/en/news/23/spotted-hyena-returns-gabon-park-after-20-years-researchers-doc-x69y11",
+        "urlToImage": null,
       },
       Object {
         "author": "Scott Scanlon",
-        "description": "The bitcoin prices continue to consolidate and trade with a bearish bias, something that we had pointed out last Friday. The market is maturing very fast and this is evident from the price action that we have been seeing in the market. No more do we see major…",
-        "publishedAt": "2018-01-16T04:03:11Z",
+        "description": "There comes a time in every hyped-up business trend’s life cycle when the noise becomes so intense it’s comical. Cryptocurrency, bitcoin, and most important, the blockchain technology that underlies them, have reached that moment. Executives in just about any…",
+        "publishedAt": "2018-01-20T07:43:12Z",
         "source": Object {
           "id": null,
           "name": "Youbrandinc.com",
         },
-        "title": "Bitcoin and Ethereum Price Forecast – BTC In Consolidation as ETH Prepares for Next Move",
-        "url": "https://www.youbrandinc.com/crytocurrency/bitcoin-and-ethereum-price-forecast-btc-in-consolidation-as-eth-prepares-for-next-move/",
-        "urlToImage": null,
+        "title": "We Put The Entire Internet On The Blockchain—and You Can Too",
+        "url": "https://www.youbrandinc.com/blockchain/we-put-the-entire-internet-on-the-blockchain-and-you-can-too/",
+        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/BlockchainExtension-FINAL-1024x536.jpg",
       },
       Object {
-        "author": "James Levenson",
-        "description": "One of the problems facing those new to the cryptocurrency markets is the level of complexity in using exchanges and making trades. Some degree of technical knowledge is required to open, navigate and trade on a crypto exchange account, get one thing wrong an…",
-        "publishedAt": "2018-01-16T04:00:22Z",
+        "author": "Scott Scanlon",
+        "description": "NEW YORK — It may be a while, if ever, before investors can buy an exchange-traded fund made up of bitcoin and other digital currencies. Federal regulators have a long list of questions they want answered before they’ll approve a digital currency fund for Mai…",
+        "publishedAt": "2018-01-20T07:03:18Z",
+        "source": Object {
+          "id": null,
+          "name": "Youbrandinc.com",
+        },
+        "title": "SEC letter shows bitcoin funds won’t happen soon, if ever",
+        "url": "https://www.youbrandinc.com/crytocurrency/sec-letter-shows-bitcoin-funds-wont-happen-soon-if-ever/",
+        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/ap18011560794236-1024x683.jpg",
+      },
+      Object {
+        "author": "ET Online",
+        "description": "Modi government has bad news for Indians dreaming of easy money via bitcoinsThe income tax department has sent tax notices to tens of thousands of people dealing in cryptocurrency. The notices were sent after a survey.",
+        "publishedAt": "2018-01-20T06:49:37Z",
+        "source": Object {
+          "id": "the-times-of-india",
+          "name": "The Times of India",
+        },
+        "title": "Modi government has bad news for Indians dreaming of easy money via bitcoins",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/modi-government-has-bad-news-for-indians-dreaming-of-easy-money-via-bitcoins/articleshow/62579050.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-62579075,width-672,resizemode-4,imgsize-230770/bitcoin.jpg",
+      },
+      Object {
+        "author": "RT",
+        "description": "The largest cryptocurrency bitcoin surged to $20,000 in December. Its rapid growth was due to common folk deciding to invest in the hope of making a quick buck. It was a time for professional investors to sell. Read Full Article at RT.com",
+        "publishedAt": "2018-01-20T06:46:10Z",
+        "source": Object {
+          "id": "rt",
+          "name": "RT",
+        },
+        "title": "Bitcoin crashed because professionals cashed out, making a buck from last-minute amateur investors",
+        "url": "https://www.rt.com/business/416472-bitcoin-collapsed-because-professionals-cashed/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "urlToImage": "https://cdni.rt.com/files/2018.01/article/5a61f424fc7e9323438b456d.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "SEOUL, South Korea, Jan 20, 2018 /PRNewswire/ -- Global decentralized p2p lending platform Karma announced yesterday the official open trading of the platform's native KRM token. The platform is supported by successful Danish fintech startup OpenLedger. The O…",
+        "publishedAt": "2018-01-20T06:45:26Z",
+        "source": Object {
+          "id": null,
+          "name": "Sys-con.com",
+        },
+        "title": "Karma (KRM) Token Begins Trading With Blockchain Launch Following Successful $10 Million ICO Campaign",
+        "url": "http://news.sys-con.com/node/4222936",
+        "urlToImage": "",
+      },
+      Object {
+        "author": "Karma",
+        "description": "SEOUL, South Korea, Jan 20, 2018 /PRNewswire/ -- Global decentralized p2p lending platform Karma announced yesterday the official open trading of the platform's native KRM token. The platform is supported by successful Danish fintech startup OpenLedger. The O…",
+        "publishedAt": "2018-01-20T06:45:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Prnewswire.com",
+        },
+        "title": "Karma (KRM) Token Begins Trading With Blockchain Launch Following Successful $10 Million ICO Campaign",
+        "url": "https://www.prnewswire.com/news-releases/karma-krm-token-begins-trading-with-blockchain-launch-following-successful-10-million-ico-campaign-300585591.html",
+        "urlToImage": "https://mma.prnewswire.com/media/631268/5781d1238dd847455b0a8a716090.jpg?p=facebook",
+      },
+      Object {
+        "author": "Scott Scanlon",
+        "description": "After a significant dip in Bitcoin price last week and over the weekend, several cryptocurrencies are on the rise. Notably XRP, the coin for Ripple, saw a 50% rise in value one day, then a fall by around 6% the next. Ripple saw a 70+ percent recovery from the…",
+        "publishedAt": "2018-01-20T06:03:26Z",
+        "source": Object {
+          "id": null,
+          "name": "Youbrandinc.com",
+        },
+        "title": "Ripple price rise with Stellar: Battling the BTC USD drop tide",
+        "url": "https://www.youbrandinc.com/crytocurrency/ripple-price-rise-with-stellar-battling-the-btc-usd-drop-tide/",
+        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/stellar.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "The exchanges which are facing the action are the top ten such platforms in the country and include Zebpay, Unocoin, CoinSecure and BtcxIndia",
+        "publishedAt": "2018-01-20T06:02:32Z",
+        "source": Object {
+          "id": null,
+          "name": "Moneycontrol.com",
+        },
+        "title": "Top banks including SBI, Axis, ICICI suspend some a/cs of major Bitcoin exchanges in India: Report",
+        "url": "http://www.moneycontrol.com/news/business/cryptocurrency/top-banks-including-sbi-axis-icici-suspend-some-acs-of-major-bitcoin-exchanges-in-india-report-2487505.html",
+        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2017/11/RTX182XT-770x433.jpg",
+      },
+      Object {
+        "author": "Samuel Rae",
+        "description": "Retailers in Bali are being forced to stop accepting bitcoin at their shops and restaurants. The actions of governments and regulatory authorities in Asia have been a hot topic in the cryptocurrency space over the last few weeks. The recent crash is widely se…",
+        "publishedAt": "2018-01-20T06:00:43Z",
         "source": Object {
           "id": null,
           "name": "Bitcoinist.com",
         },
-        "title": "Cryptocurrency Trading Without the Complexities with Symmetry Fund",
-        "url": "http://bitcoinist.com/cryptocurrency-trading-without-the-complexities-with-symmetry-fund/",
-        "urlToImage": "http://bitcoinist.com/wp-content/uploads/2017/11/ss-shattering-ath-bitcoin.jpg",
+        "title": "The Indonesian Government Is Cracking Down Further On Bitcoin Use In Bali",
+        "url": "http://bitcoinist.com/indonesian-government-cracking-bitcoin-use-bali/",
+        "urlToImage": "http://bitcoinist.com/wp-content/uploads/2017/12/indonesia-bitcoin-ban-coming-in-2018.jpg",
       },
       Object {
-        "author": "Katherine Denham",
-        "description": "Not a day goes by when we don’t hear about the frolickings of bitcoin. The digital currency has certainly divided opinion. Punters are forever reminding us of the mammoth gains bitcoin made last year. And in the same breath, comparisons are continually being …",
-        "publishedAt": "2018-01-16T04:00:00Z",
+        "author": null,
+        "description": "A nationwide survey showed more than $3.5 billion worth of transactions have been conducted over a 17-month period, the income tax department said",
+        "publishedAt": "2018-01-20T06:00:18Z",
         "source": Object {
           "id": null,
-          "name": "Cityam.com",
+          "name": "Ndtv.com",
         },
-        "title": "The future of bitcoin: How crypto is touted to trade going forward",
-        "url": "http://www.cityam.com/278807/future-bitcoin-cryptocurrency-touted-trade-going-forward",
-        "urlToImage": "http://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/sydney-pub-to-accept-bitcoin-virtual-currency-180991482-5a5d78cfa1f90.jpg",
+        "title": "Income Tax Department Cracks Down On Cryptocurrency Traders, Again",
+        "url": "https://www.ndtv.com/business/income-tax-i-t-department-cracks-down-on-cryptocurrency-traders-again-1802454",
+        "urlToImage": "https://i.ndtvimg.com/i/2016-05/bitcoin-reuters_650x400_71462175048.jpg",
       },
       Object {
         "author": "Reuters",
-        "description": "Last year, Chinese regulators banned initial coin offerings, shut down local cryptocurrency trading exchanges and limited bitcoin mining The post China to block domestic access to Chinese and offshore cryptocurrency trading platforms appeared first on Firstpo…",
-        "publishedAt": "2018-01-16T03:59:41Z",
+        "description": "Tech-savvy young investors, real estate players and jewelers are among those invested in bitcoin and other virtual currencies The post Setback to Bitcoin? Govt sends tax notices to cryptocurrency investors; trading hits $3.5 bn appeared first on Firstpost.",
+        "publishedAt": "2018-01-20T05:55:13Z",
         "source": Object {
           "id": null,
           "name": "Firstpost.com",
         },
-        "title": "China to block domestic access to Chinese and offshore cryptocurrency trading platforms",
-        "url": "http://www.firstpost.com/tech/news-analysis/china-to-block-domestic-access-to-chinese-and-offshore-cryptocurrency-trading-platforms-4304539.html",
-        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2017/12/BITCOIN_1280_REUTERS2.jpg",
+        "title": "Setback to Bitcoin? Govt sends tax notices to cryptocurrency investors; trading hits $3.5 bn",
+        "url": "http://www.firstpost.com/business/setback-to-bitcoin-govt-sends-tax-notices-to-cryptocurrency-investors-trading-hits-3-5-bn-4311371.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/01/BITCOIN_1280_REUTERS.jpg",
       },
       Object {
-        "author": "Eric Lam",
-        "description": "Bitcoin slumped to the lowest level since December in Asia trading hours as cryptocurrencies continued a January selloff amid rising scrutiny from global regulators.",
-        "publishedAt": "2018-01-16T03:42:55Z",
-        "source": Object {
-          "id": "bloomberg",
-          "name": "Bloomberg",
-        },
-        "title": "Cryptocurrencies Resume Slide as Bitcoin Tumbles to December Low",
-        "url": "https://www.bloomberg.com/news/articles/2018-01-16/cryptocurrencies-resume-slide-as-bitcoin-tumbles-to-december-low",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCScv.3e2sPc/v1/1200x755.jpg",
-      },
-      Object {
-        "author": "The Star Online",
-        "description": "HONG KONG: While most of the world’s institutional investors watched from the sidelines as cryptocurrencies surged last year, a small group of hedge fund managers piled in.",
-        "publishedAt": "2018-01-16T03:41:58Z",
+        "author": "Reuters",
+        "description": "Tech-savvy young investors, real estate players and jewelers are among those invested in bitcoin and other virtual currencies The post Setback to Bitcoin? Govt sends tax notices to cryptocurrency investors; trading hits $3.5 billion appeared first on Firstpos…",
+        "publishedAt": "2018-01-20T05:55:13Z",
         "source": Object {
           "id": null,
-          "name": "Thestar.com.my",
+          "name": "Firstpost.com",
         },
-        "title": "Crypto hedge funds surge as bubble debate rages",
-        "url": "http://www.thestar.com.my/business/business-news/2018/01/16/crypto-hedge-funds-surge-as-bubble-debate-rages/",
-        "urlToImage": "http://www.thestar.com.my/~/media/online/2018/01/11/13/16/bitcoin-bloomberg.ashx/?w=620&h=413&crop=1&hash=D0264C0030B5C08BACFEE73A42D65514D450D8C8",
+        "title": "Setback to Bitcoin? Govt sends tax notices to cryptocurrency investors; trading hits $3.5 billion",
+        "url": "http://www.firstpost.com/business/setback-to-bitcoin-govt-sends-tax-notices-to-cryptocurrency-investors-trading-hits-3-5-billion-4311371.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/01/BITCOIN_1280_REUTERS.jpg",
+      },
+      Object {
+        "author": "By The Associated Press",
+        "description": "___ US oil output is booming and seen outpacing Saudis, Russia PARIS (AP) — A global energy agency says that U.S. oil production is growing quickly and is forecast to top that of heavyweights Saudi Arabia and Russia this year. The International Energy Agency …",
+        "publishedAt": "2018-01-20T05:33:49Z",
+        "source": Object {
+          "id": null,
+          "name": "Seattlepi.com",
+        },
+        "title": "Business Highlights",
+        "url": "http://www.seattlepi.com/business/article/Business-Highlights-12511277.php",
+        "urlToImage": "http://www.seattlepi.com/img/pages/article/opengraph_default.png",
       },
       Object {
         "author": null,
-        "description": "The International Symposium on Open Collaboration ( OpenSym, formerly WikiSym ) is the premier academic venue exclusively focused on scholarly research into open collaboration. OpenSym is an ACM conference which means that, like conferences in computer scienc…",
-        "publishedAt": "2018-01-16T03:38:53Z",
+        "description": "Here is a round up of all major developments in the personal finance space during the week.",
+        "publishedAt": "2018-01-20T05:32:40Z",
         "source": Object {
           "id": null,
-          "name": "Mako.cc",
+          "name": "Moneycontrol.com",
         },
-        "title": "Benjamin Mako Hill: OpenSym 2017 Program Postmortem",
-        "url": "https://mako.cc/copyrighteous/opensym-2017-program-postmortem",
-        "urlToImage": "https://mako.cc/copyrighteous/wp-content/uploads/2018/01/opensym2017-topics-1.png",
+        "title": "Your money this week: Tax changes seen in Budget; top MF, insurance bets in 2018",
+        "url": "http://www.moneycontrol.com/news/business/personal-finance/your-money-this-week-tax-changes-seen-in-budget-top-mf-insurance-bets-in-2018-2487503.html",
+        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2017/08/Insurance_Personal_Finance_Savings_PF_Investment-1280x720-770x433.jpg",
       },
       Object {
-        "author": "Sara Hsu, Contributor, Sara Hsu, Contributor https://www.forbes.com/sites/sarahsu/",
-        "description": "Forbes Welcome page -- Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
-        "publishedAt": "2018-01-16T03:34:00Z",
+        "author": "Chronicle Staff and News Services",
+        "description": "If you missed it ...
+
+                In a week when Forbes magazine should have come out with a spanking-new issue, this also happened:
+
+                •Stephen Heasley and Andrew Borg sued Vistaprint after it went the extra mile in screwing up their weddin…",
+        "publishedAt": "2018-01-20T05:12:20Z",
         "source": Object {
           "id": null,
-          "name": "Forbes.com",
+          "name": "Sfgate.com",
         },
-        "title": "China's Shutdown Of Bitcoin Miners Isn't Just About Electricity",
-        "url": "https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/sarahsu/2018/01/15/chinas-shutdown-of-bitcoin-miners-isnt-just-about-electricity/&refURL=https://t.co/b503b9c3ea&referrer=https://t.co/b503b9c3ea",
+        "title": "ICYMI: Gay couple sues Vistaprint; a cashless Starbucks; Krispy Kreme vote",
+        "url": "http://www.sfgate.com/business/article/ICYMI-Gay-couple-sues-Vistaprint-a-cashless-12511233.php",
+        "urlToImage": "http://www.sfgate.com/img/pages/article/opengraph_default.png",
+      },
+      Object {
+        "author": null,
+        "description": "Andrew Landry fired seven birdies in a seven-under par 65 on Friday to seize a one-stroke lead over world number three Jon Rahm in the US PGA CareerBuilder Challenge in California.The global network of Agence France Presse covers 151 countriesIf you have",
+        "publishedAt": "2018-01-20T05:10:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Afp.com",
+        },
+        "title": "Landry grabs US PGA Tour lead in La Quinta",
+        "url": "https://www.afp.com/en/news/23/landry-grabs-us-pga-tour-lead-la-quinta-doc-x69ed1",
         "urlToImage": null,
       },
       Object {
-        "author": "CoinTelegraph By Jon Buck",
-        "description": "A joint report by Center on Sanctions & Illicit Finance and Elliptic, a cryptocurrency forensics firm, has indicated that Bitcoin laundering for illicit drug activity is a highly centralized process. #NEWS",
-        "publishedAt": "2018-01-16T03:33:05Z",
+        "author": "APP, Letter, Our Correspondent, Umer Farooq, Our Correspondent",
+        "description": "Police say Bitcoin, LEOcoin trade has gained momentum in the city The post Police arrest gang of swindlers in Bahawalpur appeared first on The Express Tribune.",
+        "publishedAt": "2018-01-20T05:07:07Z",
         "source": Object {
           "id": null,
-          "name": "Cointelegraph.com",
+          "name": "Tribune.com.pk",
         },
-        "title": "New Report: Bitcoin Drug Money Laundering Is Highly Centralized",
-        "url": "https://cointelegraph.com/news/new-report-bitcoin-drug-money-laundering-is-highly-centralized",
-        "urlToImage": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MjEwMjI0OTFlMzUxNzIxOThkYmQ4MWZkOTdiZmRlNS5qcGc=.jpg",
+        "title": "Police arrest gang of swindlers in Bahawalpur",
+        "url": "https://tribune.com.pk/story/1613187/police-arrest-gang-swindlers-bahawalpur/",
+        "urlToImage": "https://c.tribune.com.pk/2018/01/1613187-image-1516388524-226-640x480.jpg",
       },
       Object {
-        "author": "Business Standard",
-        "description": "Plenty of things could upend the two-year rally in emerging-market equities",
-        "publishedAt": "2018-01-16T03:17:00Z",
+        "author": "Scott Scanlon",
+        "description": "Traders may be unloading shares to cover losses and prepare for taxes Bitcoin has shed much of its value since peaking in December. © AP TOKYO — This week’s plunge in cryptocurrency prices appears to have prompted sell-offs in some corners of Japan’s equity m…",
+        "publishedAt": "2018-01-20T05:03:25Z",
         "source": Object {
           "id": null,
-          "name": "Business-standard.com",
+          "name": "Youbrandinc.com",
         },
-        "title": "These five shocks could thwart two-tear emerging-market rally",
-        "url": "http://www.business-standard.com/article/markets/these-five-shocks-could-thwart-two-tear-emerging-market-rally-118011600133_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-12/01/full/1512070168-1304.jpg",
+        "title": "Cryptocurrency crash ripples through Tokyo stocks",
+        "url": "https://www.youbrandinc.com/crytocurrency/cryptocurrency-crash-ripples-through-tokyo-stocks/",
+        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/0120N-Bitcoin-for-scramble_article_main_image.jpg",
       },
     ],
   },
@@ -253,7 +257,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 13115.56,
+      "amount": 12652.94,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -961,31 +965,31 @@ Object {
         },
         Object {
           "currency": "AFN",
-          "value": 70.34,
+          "value": 69.5,
         },
         Object {
           "currency": "ALL",
-          "value": 109.3,
+          "value": 109.59,
         },
         Object {
           "currency": "AMD",
-          "value": 483.1,
+          "value": 483.3,
         },
         Object {
           "currency": "ANG",
-          "value": 1.78,
+          "value": 1.79,
         },
         Object {
           "currency": "AOA",
-          "value": 181.77,
+          "value": 181.34,
         },
         Object {
           "currency": "ARS",
-          "value": 18.73,
+          "value": 18.98,
         },
         Object {
           "currency": "AUD",
-          "value": 1.26,
+          "value": 1.25,
         },
         Object {
           "currency": "AWG",
@@ -993,7 +997,7 @@ Object {
         },
         Object {
           "currency": "AZN",
-          "value": 1.7,
+          "value": 1.69,
         },
         Object {
           "currency": "BAM",
@@ -1005,15 +1009,15 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00043673,
+          "value": 0.00052966,
         },
         Object {
           "currency": "BDT",
-          "value": 83.12,
+          "value": 83.22,
         },
         Object {
           "currency": "BGN",
-          "value": 1.59,
+          "value": 1.6,
         },
         Object {
           "currency": "BHD",
@@ -1021,7 +1025,7 @@ Object {
         },
         Object {
           "currency": "BIF",
-          "value": 1757,
+          "value": 1768,
         },
         Object {
           "currency": "BMD",
@@ -1033,11 +1037,11 @@ Object {
         },
         Object {
           "currency": "BOB",
-          "value": 6.91,
+          "value": 6.96,
         },
         Object {
           "currency": "BRL",
-          "value": 3.22,
+          "value": 3.2,
         },
         Object {
           "currency": "BSD",
@@ -1045,35 +1049,35 @@ Object {
         },
         Object {
           "currency": "BTC",
-          "value": 0.000077,
+          "value": 0.00008,
         },
         Object {
           "currency": "BTN",
-          "value": 63.46,
+          "value": 64.11,
         },
         Object {
           "currency": "BWP",
-          "value": 9.77,
+          "value": 9.75,
         },
         Object {
           "currency": "BYN",
-          "value": 2,
+          "value": 1.98,
         },
         Object {
           "currency": "BYR",
-          "value": 19957,
+          "value": 19839,
         },
         Object {
           "currency": "BZD",
-          "value": 2.01,
+          "value": 2.02,
         },
         Object {
           "currency": "CAD",
-          "value": 1.24,
+          "value": 1.25,
         },
         Object {
           "currency": "CDF",
-          "value": 1613.32,
+          "value": 1595,
         },
         Object {
           "currency": "CHF",
@@ -1085,23 +1089,23 @@ Object {
         },
         Object {
           "currency": "CLP",
-          "value": 603,
+          "value": 608,
         },
         Object {
           "currency": "CNH",
-          "value": 6.43,
+          "value": 6.4,
         },
         Object {
           "currency": "CNY",
-          "value": 6.43,
+          "value": 6.41,
         },
         Object {
           "currency": "COP",
-          "value": 2817.46,
+          "value": 2854.8,
         },
         Object {
           "currency": "CRC",
-          "value": 566.56,
+          "value": 569.08,
         },
         Object {
           "currency": "CUC",
@@ -1109,11 +1113,11 @@ Object {
         },
         Object {
           "currency": "CVE",
-          "value": 90.88,
+          "value": 90.45,
         },
         Object {
           "currency": "CZK",
-          "value": 20.81,
+          "value": 20.78,
         },
         Object {
           "currency": "DJF",
@@ -1121,15 +1125,15 @@ Object {
         },
         Object {
           "currency": "DKK",
-          "value": 6.07,
+          "value": 6.09,
         },
         Object {
           "currency": "DOP",
-          "value": 48.53,
+          "value": 48.77,
         },
         Object {
           "currency": "DZD",
-          "value": 114.04,
+          "value": 114.23,
         },
         Object {
           "currency": "EEK",
@@ -1137,19 +1141,19 @@ Object {
         },
         Object {
           "currency": "EGP",
-          "value": 17.73,
+          "value": 17.72,
         },
         Object {
           "currency": "ERN",
-          "value": 15.11,
+          "value": 15.25,
         },
         Object {
           "currency": "ETB",
-          "value": 27.39,
+          "value": 27.33,
         },
         Object {
           "currency": "ETH",
-          "value": 0.00081265,
+          "value": 0.00089848,
         },
         Object {
           "currency": "EUR",
@@ -1157,47 +1161,47 @@ Object {
         },
         Object {
           "currency": "FJD",
-          "value": 2.02,
+          "value": 2.01,
         },
         Object {
           "currency": "FKP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "GBP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "GEL",
-          "value": 2.57,
+          "value": 2.56,
         },
         Object {
           "currency": "GGP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "GHS",
-          "value": 4.51,
+          "value": 4.55,
         },
         Object {
           "currency": "GIP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "GMD",
-          "value": 47.75,
+          "value": 47.85,
         },
         Object {
           "currency": "GNF",
-          "value": 9018,
+          "value": 9000,
         },
         Object {
           "currency": "GTQ",
-          "value": 7.35,
+          "value": 7.38,
         },
         Object {
           "currency": "GYD",
-          "value": 207.79,
+          "value": 208.14,
         },
         Object {
           "currency": "HKD",
@@ -1205,39 +1209,39 @@ Object {
         },
         Object {
           "currency": "HNL",
-          "value": 23.65,
+          "value": 23.6,
         },
         Object {
           "currency": "HRK",
-          "value": 6.06,
+          "value": 6.08,
         },
         Object {
           "currency": "HTG",
-          "value": 64.11,
+          "value": 64.38,
         },
         Object {
           "currency": "HUF",
-          "value": 252,
+          "value": 253,
         },
         Object {
           "currency": "IDR",
-          "value": 13401.7,
+          "value": 13364.96,
         },
         Object {
           "currency": "ILS",
-          "value": 3.4,
+          "value": 3.42,
         },
         Object {
           "currency": "IMP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "INR",
-          "value": 63.65,
+          "value": 63.84,
         },
         Object {
           "currency": "IQD",
-          "value": 1191.25,
+          "value": 1197.421,
         },
         Object {
           "currency": "ISK",
@@ -1245,11 +1249,11 @@ Object {
         },
         Object {
           "currency": "JEP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "JMD",
-          "value": 124.22,
+          "value": 124.34,
         },
         Object {
           "currency": "JOD",
@@ -1261,59 +1265,59 @@ Object {
         },
         Object {
           "currency": "KES",
-          "value": 103.07,
+          "value": 102.76,
         },
         Object {
           "currency": "KGS",
-          "value": 69.29,
+          "value": 69.26,
         },
         Object {
           "currency": "KHR",
-          "value": 4024.85,
+          "value": 4040.2,
         },
         Object {
           "currency": "KMF",
-          "value": 404,
+          "value": 402,
         },
         Object {
           "currency": "KRW",
-          "value": 1063,
+          "value": 1070,
         },
         Object {
           "currency": "KWD",
-          "value": 0.301,
+          "value": 0.3,
         },
         Object {
           "currency": "KYD",
-          "value": 0.83,
+          "value": 0.84,
         },
         Object {
           "currency": "KZT",
-          "value": 328.84,
+          "value": 326.17,
         },
         Object {
           "currency": "LAK",
-          "value": 8311.25,
+          "value": 8349.05,
         },
         Object {
           "currency": "LBP",
-          "value": 1515.05,
+          "value": 1522.15,
         },
         Object {
           "currency": "LKR",
-          "value": 153.85,
+          "value": 154.57,
         },
         Object {
           "currency": "LRD",
-          "value": 127.23,
+          "value": 127.9,
         },
         Object {
           "currency": "LSL",
-          "value": 12.31,
+          "value": 12.24,
         },
         Object {
           "currency": "LTC",
-          "value": 0.0044604,
+          "value": 0.00491654,
         },
         Object {
           "currency": "LTL",
@@ -1325,39 +1329,39 @@ Object {
         },
         Object {
           "currency": "LYD",
-          "value": 1.344,
+          "value": 1.349,
         },
         Object {
           "currency": "MAD",
-          "value": 9.22,
+          "value": 9.25,
         },
         Object {
           "currency": "MDL",
-          "value": 16.97,
+          "value": 16.94,
         },
         Object {
           "currency": "MGA",
-          "value": 3253.3,
+          "value": 3244.3,
         },
         Object {
           "currency": "MKD",
-          "value": 50.19,
+          "value": 50.44,
         },
         Object {
           "currency": "MMK",
-          "value": 1349.95,
+          "value": 1353.9,
         },
         Object {
           "currency": "MNT",
-          "value": 2425.56,
+          "value": 2420.83,
         },
         Object {
           "currency": "MOP",
-          "value": 8.05,
+          "value": 8.09,
         },
         Object {
           "currency": "MRO",
-          "value": 354,
+          "value": 355.3,
         },
         Object {
           "currency": "MTL",
@@ -1365,47 +1369,47 @@ Object {
         },
         Object {
           "currency": "MUR",
-          "value": 33.05,
+          "value": 32.92,
         },
         Object {
           "currency": "MVR",
-          "value": 15.41,
+          "value": 15.4,
         },
         Object {
           "currency": "MWK",
-          "value": 726.78,
+          "value": 726.24,
         },
         Object {
           "currency": "MXN",
-          "value": 18.85,
+          "value": 18.64,
         },
         Object {
           "currency": "MYR",
-          "value": 3.96,
+          "value": 3.94,
         },
         Object {
           "currency": "MZN",
-          "value": 58.88,
+          "value": 59,
         },
         Object {
           "currency": "NAD",
-          "value": 12.31,
+          "value": 12.24,
         },
         Object {
           "currency": "NGN",
-          "value": 360.34,
+          "value": 360,
         },
         Object {
           "currency": "NIO",
-          "value": 30.98,
+          "value": 31.1,
         },
         Object {
           "currency": "NOK",
-          "value": 7.88,
+          "value": 7.87,
         },
         Object {
           "currency": "NPR",
-          "value": 101.57,
+          "value": 102.57,
         },
         Object {
           "currency": "NZD",
@@ -1421,27 +1425,27 @@ Object {
         },
         Object {
           "currency": "PEN",
-          "value": 3.21,
+          "value": 3.22,
         },
         Object {
           "currency": "PGK",
-          "value": 3.23,
+          "value": 3.21,
         },
         Object {
           "currency": "PHP",
-          "value": 50.4,
+          "value": 50.7,
         },
         Object {
           "currency": "PKR",
-          "value": 110.7,
+          "value": 110.55,
         },
         Object {
           "currency": "PLN",
-          "value": 3.4,
+          "value": 3.41,
         },
         Object {
           "currency": "PYG",
-          "value": 5615,
+          "value": 5650,
         },
         Object {
           "currency": "QAR",
@@ -1449,19 +1453,19 @@ Object {
         },
         Object {
           "currency": "RON",
-          "value": 3.78,
+          "value": 3.81,
         },
         Object {
           "currency": "RSD",
-          "value": 96.37,
+          "value": 96.88,
         },
         Object {
           "currency": "RUB",
-          "value": 56.35,
+          "value": 56.74,
         },
         Object {
           "currency": "RWF",
-          "value": 859,
+          "value": 846,
         },
         Object {
           "currency": "SAR",
@@ -1469,15 +1473,15 @@ Object {
         },
         Object {
           "currency": "SBD",
-          "value": 7.77,
+          "value": 7.76,
         },
         Object {
           "currency": "SCR",
-          "value": 14.16,
+          "value": 13.74,
         },
         Object {
           "currency": "SEK",
-          "value": 8.01,
+          "value": 8.04,
         },
         Object {
           "currency": "SGD",
@@ -1485,7 +1489,7 @@ Object {
         },
         Object {
           "currency": "SHP",
-          "value": 0.73,
+          "value": 0.72,
         },
         Object {
           "currency": "SLL",
@@ -1493,7 +1497,7 @@ Object {
         },
         Object {
           "currency": "SOS",
-          "value": 578.26,
+          "value": 581.26,
         },
         Object {
           "currency": "SRD",
@@ -1505,23 +1509,23 @@ Object {
         },
         Object {
           "currency": "STD",
-          "value": 20172.09,
+          "value": 20209.64,
         },
         Object {
           "currency": "SVC",
-          "value": 8.74,
+          "value": 8.79,
         },
         Object {
           "currency": "SZL",
-          "value": 12.31,
+          "value": 12.23,
         },
         Object {
           "currency": "THB",
-          "value": 31.92,
+          "value": 31.84,
         },
         Object {
           "currency": "TJS",
-          "value": 8.82,
+          "value": 8.86,
         },
         Object {
           "currency": "TMT",
@@ -1529,31 +1533,31 @@ Object {
         },
         Object {
           "currency": "TND",
-          "value": 2.444,
+          "value": 2.44,
         },
         Object {
           "currency": "TOP",
-          "value": 2.25,
+          "value": 2.24,
         },
         Object {
           "currency": "TRY",
-          "value": 3.79,
+          "value": 3.81,
         },
         Object {
           "currency": "TTD",
-          "value": 6.77,
+          "value": 6.76,
         },
         Object {
           "currency": "TWD",
-          "value": 29.53,
+          "value": 29.36,
         },
         Object {
           "currency": "TZS",
-          "value": 2241.1,
+          "value": 2248.2,
         },
         Object {
           "currency": "UAH",
-          "value": 28.55,
+          "value": 28.81,
         },
         Object {
           "currency": "UGX",
@@ -1565,31 +1569,31 @@ Object {
         },
         Object {
           "currency": "UYU",
-          "value": 28.64,
+          "value": 28.56,
         },
         Object {
           "currency": "UZS",
-          "value": 8135.55,
+          "value": 8179.2,
         },
         Object {
           "currency": "VEF",
-          "value": 10.09,
+          "value": 10.24,
         },
         Object {
           "currency": "VND",
-          "value": 22706,
+          "value": 22702,
         },
         Object {
           "currency": "VUV",
-          "value": 106,
+          "value": 105,
         },
         Object {
           "currency": "WST",
-          "value": 2.52,
+          "value": 2.51,
         },
         Object {
           "currency": "XAF",
-          "value": 535,
+          "value": 537,
         },
         Object {
           "currency": "XAG",
@@ -1609,7 +1613,7 @@ Object {
         },
         Object {
           "currency": "XOF",
-          "value": 535,
+          "value": 537,
         },
         Object {
           "currency": "XPD",
@@ -1617,7 +1621,7 @@ Object {
         },
         Object {
           "currency": "XPF",
-          "value": 97,
+          "value": 98,
         },
         Object {
           "currency": "XPT",
@@ -1625,11 +1629,11 @@ Object {
         },
         Object {
           "currency": "YER",
-          "value": 250.31,
+          "value": 250.3,
         },
         Object {
           "currency": "ZAR",
-          "value": 12.31,
+          "value": 12.2,
         },
         Object {
           "currency": "ZMK",
@@ -1637,7 +1641,7 @@ Object {
         },
         Object {
           "currency": "ZMW",
-          "value": 9.82,
+          "value": 9.81,
         },
         Object {
           "currency": "ZWL",
@@ -1662,7 +1666,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 12989.07,
+        "amount": 12528.76,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1670,7 +1674,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 2265.77,
+        "amount": 1886.06,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1678,7 +1682,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 1226.63,
+        "amount": 1112.94,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1686,7 +1690,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 223.08,
+        "amount": 203.93,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1703,124 +1707,124 @@ Object {
   "data": Object {
     "topHeadlines": Array [
       Object {
-        "author": "Flora Charner, Osmary Hernandez and Taylor Barnes, CNN",
-        "description": "Oscar Perez, a Venezuelan police pilot accused of stealing a helicopter and using it to attack the country's Supreme Court in June, was killed Monday in Caracas, a government official told CNN.",
-        "publishedAt": "2018-01-16T04:14:06Z",
+        "author": "Analysis by Stephen Collinson, CNN",
+        "description": "Even by Washington's standards, the sequence of busted negotiations, partisan dysfunction, and blame games that shut down the federal government was baffling.",
+        "publishedAt": "2018-01-20T07:04:01Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Source: Rogue Venezuelan helicopter pilot killed by police",
-        "url": "http://us.cnn.com/2018/01/15/americas/venezuela-oscar-perez-dead/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/170706000605-oscar-perez-youtube-video-super-tease.jpg",
+        "title": "Shutdown drama shows Washington's failure",
+        "url": "http://us.cnn.com/2018/01/20/politics/government-shutdown-schumer-trump-mcconnell/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/171002152135-mcconnell-schumer-composite-mobapp-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "Residents of Hawaii watching a basketball game were greeted by an ominous message on their screens when an emergency alert notification was sent out claiming a \\"ballistic missile threat inbound to Hawaii.\\" The alert was a false alarm, according to state leade…",
-        "publishedAt": "2018-01-16T04:00:15.0384117Z",
+        "description": "Sen. Chuck Schumer (D-NY) speaks after the Senate fails to pass a deal to fund the government.",
+        "publishedAt": "2018-01-20T06:37:35.4922766Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "False missile alert interrupts basketball game - CNN Video",
-        "url": "http://us.cnn.com/videos/us/2018/01/13/hawaii-basketball-game-false-missile-alert-sot-nr.cnn",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180113191421-hawaii-basketball-game-super-tease.jpg",
+        "title": "Sen. Schumer's message to the President - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/20/chuck-schumer-senate-government-shutdown-sot.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180120002354-01-schumer-speaks-shutdown-0120-screengrab-super-tease.jpg",
+      },
+      Object {
+        "author": "Dana Bash, Kevin Liptak, Dan Merica and Jeff Zeleny, CNN",
+        "description": "After his morning television shows had ended and as the deadline to fund the government loomed, President Donald Trump placed a call to the man in Washington he believed held all the cards: Sen. Chuck Schumer.",
+        "publishedAt": "2018-01-20T06:20:38Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump and Schumer came close to a deal. Then it fell apart",
+        "url": "http://us.cnn.com/2018/01/20/politics/shutdown-tick-tock/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/161117090915-02-donald-trump-chuck-schumer-split-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "\\"We put the baby in the bathroom, didn't know what else to do,\\" said a tourist visiting Hawaii when a false alarm for a ballistic missile sounded.",
-        "publishedAt": "2018-01-16T04:00:11.5020078Z",
+        "description": "When there are partisan disagreements and Congress is divided on how to fund the government, the threat of a shutdown looms. Learn what one could mean for you.",
+        "publishedAt": "2018-01-20T06:15:04.3160206Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "How folks reacted to the false missile threat - CNN Video",
-        "url": "http://us.cnn.com/videos/us/2018/01/14/hawaii-false-missile-threat-orig-tc.cnn",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180114130213-hawaii-false-alarm-2-super-tease.jpg",
+        "title": "What a government shutdown means for you - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2017/12/12/government-shutdown-ets-orig-vstan.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/170918171842-04-us-capitol-building-super-tease.jpg",
       },
       Object {
-        "author": "Paul P. Murphy; Video by Luke Rotzler and Samantha Guff, CNN",
-        "description": "Hawaiian residents and vacationers spent 38 horrific minutes preparing for an incoming ballistic missile and possible death on Saturday, until the Hawaii Emergency Management Agency corrected a false alarm message.",
-        "publishedAt": "2018-01-16T00:06:42Z",
+        "author": "Daniella Diaz and Kevin Liptak, CNN",
+        "description": "In the final moments leading up to Friday's midnight deadline, Senate Republicans and Democrats were unable to agree on a stopgap funding measure.",
+        "publishedAt": "2018-01-20T05:51:54Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "The texts loved ones sent during the Hawaii missile alert mishap",
-        "url": "http://us.cnn.com/2018/01/15/us/texts-hawaii-missile-alert-mishap-trnd/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180115175400-09-missile-alert-texts-super-tease.jpg",
+        "title": "The government just shut down. What next?",
+        "url": "http://us.cnn.com/2018/01/20/politics/what-next-government-shutdown/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180118172447-capitol-hill-0117-super-tease.jpg",
       },
       Object {
-        "author": "Kevin Liptak, David Shortell, Ryan Browne and Noah Gray, CNN",
-        "description": "As Hawaiians catch their breath following the jarring missile alert mishap over the weekend, scrutiny has reached the White House and how it grappled with the mistaken alarm.",
-        "publishedAt": "2018-01-15T23:45:43Z",
+        "author": null,
+        "description": "President Donald Trump says Democrats are to blame if there is a government shutdown, in 2013 he sounded very different.",
+        "publishedAt": "2018-01-20T05:38:22.27061Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Trump during the Hawaii false alarm: A timeline",
-        "url": "http://us.cnn.com/2018/01/15/politics/trump-hawaii-missile-alarm-timeline/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180113113151-trump-tweets-daca-after-shithole-remark-nr-00000000-super-tease.jpg",
+        "title": "Then and now: Trump on government shutdowns - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/01/19/donald-trump-government-shutdown-then-and-now-orig-cs.cnn",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180112131332-01-donald-trump-0111-super-tease.jpg",
       },
       Object {
-        "author": "Kara Fox, CNN",
-        "description": "Dolores O'Riordan, the lead singer of the Irish band The Cranberries, died in London on Monday, according to a statement from her publicist.",
-        "publishedAt": "2018-01-15T22:24:38Z",
+        "author": "Sophie Tatum",
+        "description": "Legislation to prevent the government from shutting down failed Friday night in the Senate ahead of the midnight deadline. The total was 50-49, but 60 votes were needed for passage.",
+        "publishedAt": "2018-01-20T05:35:49Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Dolores O'Riordan of The Cranberries dies at age 46",
-        "url": "http://us.cnn.com/2018/01/15/entertainment/dolores-o-riordan-cranberries-singer-dies-intl/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180115122955-dolores-oriordan-2016-super-tease.jpg",
+        "title": "How senators voted on the government shutdown",
+        "url": "http://us.cnn.com/2018/01/20/politics/senate-vote-government-shutdown/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180119221836-02-senate-floor-0119-vote-screengrab-super-tease.jpg",
       },
       Object {
-        "author": "Sonya Hamasaki and Darran Simon, CNN",
-        "description": "Two California parents were arrested after authorities found a dozen children and adults shackled to beds with chains and padlocks in their home, officials said Monday.",
-        "publishedAt": "2018-01-15T22:21:48Z",
+        "author": "Jen Christensen, CNN",
+        "description": "A government shutdown could potentially hurt the health of more than government workers. The shutdown could impact you, too.",
+        "publishedAt": "2018-01-20T01:22:32Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Teen girl: Parents held me and 12 siblings captive",
-        "url": "http://us.cnn.com/2018/01/15/us/california-13-people-held-captive-in-home/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-tease.jpg",
+        "title": "5 ways the government shutdown could be bad for your health",
+        "url": "http://us.cnn.com/2018/01/19/health/5-ways-the-government-shutdown-could-be-bad-for-your-health/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/131015213528-capitol-night-reflected-gi-super-tease.jpg",
       },
       Object {
-        "author": "Madison Park, CNN",
-        "description": "Hawaii takes emergency preparedness very seriously.",
-        "publishedAt": "2018-01-15T21:54:03Z",
+        "author": "Lauren Fox, Phil Mattingly, Tal Kopan and Ted Barrett, CNN",
+        "description": "Senate Minority Leader Chuck Schumer and President Donald Trump met at the White House Friday afternoon, just hours ahead of the deadline for a government shutdown, but congressional leaders still faced a daunting math problem to keep the government open.",
+        "publishedAt": "2018-01-19T22:04:35Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Hawaii has been preparing for a missile attack, but now its credibility is under fire",
-        "url": "http://us.cnn.com/2018/01/15/us/hawaii-false-alarm-sirens/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180115033217-hawaii-civil-defense-warning-device-super-tease.jpg",
+        "title": "No path to avert shutdown ahead of deadline",
+        "url": "http://us.cnn.com/2018/01/19/politics/government-shutdown-trump-congress-latest/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180109090304-01-trump-schumer-mcconnell-file-super-tease.jpg",
       },
       Object {
-        "author": "Ralph Ellis, CNN",
-        "description": "Toronto police say an alarming incident reported by an 11-year-old girl -- that a man cut her hijab as she walked to school -- did not happen.",
-        "publishedAt": "2018-01-15T21:51:05Z",
+        "author": "Chris Isidore",
+        "description": "The shutdown of 2013 cost the economy an estimated $20 billion and led to layoffs of hundreds of thousands of workers. As another shutdown looms, a look back on the impact of the last one.",
+        "publishedAt": "2018-01-19T02:29:44Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Hijab cutting incident did not happen, Toronto police say",
-        "url": "http://us.cnn.com/2018/01/15/us/toronto-girl-hijab-cutting-update/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-tease.jpg",
-      },
-      Object {
-        "author": "Sara Sidner and Dakin Andone, CNN",
-        "description": "An emergency missile alert accidentally went out to everyone in Hawaii on Saturday after an employee \\"pushed the wrong button.\\"",
-        "publishedAt": "2018-01-15T15:20:40Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "What went wrong with Hawaii's emergency alert",
-        "url": "http://us.cnn.com/2018/01/14/us/hawaii-false-alarm-explanation/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180113140649-hawaii-missle-alert-false-alarm-super-tease.jpg",
+        "title": "Here's what the last government shutdown looked like",
+        "url": "http://money.cnn.com/2018/01/19/news/economy/government-shutdown-cost/index.html",
+        "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/180119110204-government-shutdown-780x439.jpg",
       },
     ],
   },

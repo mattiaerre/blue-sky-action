@@ -1,4 +1,5 @@
 import React from 'react';
+import moment from 'moment-timezone';
 import { StaticRouter } from 'react-router-dom';
 import { create } from 'react-test-renderer';
 import App from './App';
@@ -39,7 +40,10 @@ describe('<App />', () => {
     articles: [],
     categories: [],
     name: '',
-    now: {},
+    now: {
+      client: moment().format(),
+      server: moment().format()
+    },
     sources: [
       {
         category: 'entertainment',

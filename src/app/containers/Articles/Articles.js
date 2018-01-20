@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import moment from 'moment';
 import PropTypes from 'prop-types';
 import Loading from '../../components/Loading/Loading';
 import PrimaryCard from '../../components/PrimaryCard/PrimaryCard';
+import SecondaryCard from '../../components/SecondaryCard/SecondaryCard';
 import Sources from '../../components/Sources/Sources';
 import client from '../client';
 
@@ -63,24 +63,7 @@ class Articles extends Component {
                 }
                 return (
                   <li key={article.url} className="mt-2">
-                    <div className="card">
-                      {article.publishedAt && (
-                        <div className="card-header">
-                          {moment(article.publishedAt).fromNow()}
-                        </div>
-                      )}
-                      <div className="card-body">
-                        <h4 className="card-title">
-                          <a
-                            href={article.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            dangerouslySetInnerHTML={{ __html: article.title }}
-                          />
-                        </h4>
-                        <p className="card-text">{article.description}</p>
-                      </div>
-                    </div>
+                    <SecondaryCard article={article} />
                   </li>
                 );
               })}
