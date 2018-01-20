@@ -14,13 +14,13 @@ npm run start:dev
 
 ## Used APIs
 
+* [Butter](https://buttercms.com/)
+
 * [Coinbase API](https://developers.coinbase.com/)
 
 * [News API](https://newsapi.org/)
 
-* [OpenWeatherMap](https://openweathermap.org/)
-
-* [TimeZoneDB](https://timezonedb.com/)
+* [Timezone API](https://timezoneapi.io/)
 
 * [REST Countries](https://restcountries.eu/)
 
@@ -49,6 +49,8 @@ npm run start:dev
 ## (Main) Dev Dependencies
 
 * Babel
+
+* Enzyme
 
 * ESlint
 
