@@ -17,6 +17,30 @@ Object {
         "urlToImage": "https://www.alternet.org/sites/default/files/story_images/22859997_1225030460962088_8968578510902895462_o.jpg",
       },
       Object {
+        "author": null,
+        "description": "A spotted hyena has been sighted in a Gabon national park for the first time in 20 years, conservationists said Friday, the latest large predator to have returned to a region where many had gone locally extinct.The global network of Agence France Presse c",
+        "publishedAt": "2018-01-20T07:46:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Afp.com",
+        },
+        "title": "Spotted hyena returns to Gabon park after 20 years: researchers",
+        "url": "https://www.afp.com/en/news/23/spotted-hyena-returns-gabon-park-after-20-years-researchers-doc-x69y11",
+        "urlToImage": null,
+      },
+      Object {
+        "author": "Scott Scanlon",
+        "description": "There comes a time in every hyped-up business trend’s life cycle when the noise becomes so intense it’s comical. Cryptocurrency, bitcoin, and most important, the blockchain technology that underlies them, have reached that moment. Executives in just about any…",
+        "publishedAt": "2018-01-20T07:43:12Z",
+        "source": Object {
+          "id": null,
+          "name": "Youbrandinc.com",
+        },
+        "title": "We Put The Entire Internet On The Blockchain—and You Can Too",
+        "url": "https://www.youbrandinc.com/blockchain/we-put-the-entire-internet-on-the-blockchain-and-you-can-too/",
+        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/BlockchainExtension-FINAL-1024x536.jpg",
+      },
+      Object {
         "author": "Scott Scanlon",
         "description": "NEW YORK — It may be a while, if ever, before investors can buy an exchange-traded fund made up of bitcoin and other digital currencies. Federal regulators have a long list of questions they want answered before they’ll approve a digital currency fund for Mai…",
         "publishedAt": "2018-01-20T07:03:18Z",
@@ -224,30 +248,6 @@ Object {
         "url": "https://www.youbrandinc.com/crytocurrency/cryptocurrency-crash-ripples-through-tokyo-stocks/",
         "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/01/0120N-Bitcoin-for-scramble_article_main_image.jpg",
       },
-      Object {
-        "author": "Bernard Lunn",
-        "description": "This is Part 2/chapter 8 in The Blockchain Economy serialised book. For the index please go here. A common refrain among Blockchainistas is “Blockchain is about a lot more than finance”. True, but how big do you need to get excited? After decades of Financial…",
-        "publishedAt": "2018-01-20T05:00:43Z",
-        "source": Object {
-          "id": null,
-          "name": "Dailyfintech.com",
-        },
-        "title": "Blockchain Bits Of Destruction Hit Wall Street",
-        "url": "https://dailyfintech.com/2018/01/20/blockchain-bits-of-destruction-hit-wall-street/",
-        "urlToImage": "https://fintech4us.files.wordpress.com/2018/01/screen-shot-2018-01-14-at-10-10-54.png",
-      },
-      Object {
-        "author": "ARK",
-        "description": "LONS-LE-SAUNIER, France, Jan. 20, 2018 /PRNewswire/ -- ARK has unveiled a strategic partnership with a new promising decentralized crypto trading platform; Blockport. The move comes after ARK announced a worldwide mass contact movement aimed at educating and …",
-        "publishedAt": "2018-01-20T05:00:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Prnewswire.com",
-        },
-        "title": "Blockchain Platform ARK Forms Partnership With Decentralized Exchange Blockport",
-        "url": "https://www.prnewswire.com/news-releases/blockchain-platform-ark-forms-partnership-with-decentralized-exchange-blockport-300585578.html",
-        "urlToImage": "https://mma.prnewswire.com/media/631261/ARK___Blockport_partnership.jpg?p=facebook",
-      },
     ],
   },
 }
@@ -257,7 +257,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 12675.81,
+      "amount": 12652.94,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -1666,7 +1666,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 12550,
+        "amount": 12528.76,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1674,7 +1674,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 1889.22,
+        "amount": 1886.06,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1682,7 +1682,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 1112.57,
+        "amount": 1112.94,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1690,7 +1690,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 203.5,
+        "amount": 203.93,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
