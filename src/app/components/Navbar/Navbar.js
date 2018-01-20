@@ -71,6 +71,15 @@ const Navbar = ({ categories, sources }) => (
             </NavLink>
           </li>
         ))}
+        <li key="top-headlines" className="nav-item">
+          <NavLink
+            activeClassName="active"
+            className="nav-link text-light"
+            to="/top-headlines"
+          >
+            Top Headlines
+          </NavLink>
+        </li>
       </ul>
     </div>
   </nav>

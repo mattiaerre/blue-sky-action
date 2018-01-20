@@ -49,32 +49,6 @@ exports[`<Navbar /> to match snapshot 1`] = `
         <a
           aria-current={false}
           className="nav-link text-light"
-          href="/kanyini"
-          onClick={[Function]}
-          style={undefined}
-        >
-          Kanyini
-        </a>
-      </li>
-      <li
-        className="nav-item"
-      >
-        <a
-          aria-current={false}
-          className="nav-link text-light"
-          href="/blog"
-          onClick={[Function]}
-          style={undefined}
-        >
-          Blog
-        </a>
-      </li>
-      <li
-        className="nav-item"
-      >
-        <a
-          aria-current={false}
-          className="nav-link text-light"
           href="/entertainment/mashable"
           onClick={[Function]}
           style={undefined}
@@ -103,6 +77,19 @@ exports[`<Navbar /> to match snapshot 1`] = `
           >
             1
           </span>
+        </a>
+      </li>
+      <li
+        className="nav-item"
+      >
+        <a
+          aria-current={false}
+          className="nav-link text-light"
+          href="/top-headlines"
+          onClick={[Function]}
+          style={undefined}
+        >
+          Top Headlines
         </a>
       </li>
     </ul>

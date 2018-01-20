@@ -16,7 +16,7 @@ const App = ({ articles, categories, name, now, sources, version }) => [
       <Route exact path="/" render={_ => <Home {..._} now={now} />} />
       <Route component={Blog} exact path="/blog" />
       <Route component={Blog} exact path="/blog/:slug" />
-      <Route component={Everything} exact path="/everything" />
+      <Route component={Everything} exact path="/top-headlines" />
       <Route component={Kanyini} exact path="/kanyini" />
       <Route
         exact

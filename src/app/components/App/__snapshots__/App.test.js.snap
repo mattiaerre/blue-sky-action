@@ -50,24 +50,11 @@ Array [
           <a
             aria-current={false}
             className="nav-link text-light"
-            href="/kanyini"
+            href="/top-headlines"
             onClick={[Function]}
             style={undefined}
           >
-            Kanyini
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current={false}
-            className="nav-link text-light"
-            href="/blog"
-            onClick={[Function]}
-            style={undefined}
-          >
-            Blog
+            Top Headlines
           </a>
         </li>
       </ul>
@@ -134,7 +121,7 @@ Array [
               >
                 Mon, Jan 01 08:00
                  
-                +8
+                +16
               </p>
             </div>
           </div>
@@ -158,7 +145,7 @@ Array [
               >
                 Mon, Jan 01 01:00
                  
-                +1
+                +9
               </p>
             </div>
           </div>
@@ -182,7 +169,7 @@ Array [
               >
                 Mon, Jan 01 00:00
                  
-                
+                +8
               </p>
             </div>
           </div>
@@ -191,7 +178,7 @@ Array [
           className="col-lg-3 col-md-6 col-sm-12 mb-4"
         >
           <div
-            className="card text-light bg-secondary"
+            className="card text-light bg-primary"
           >
             <div
               className="card-body"
@@ -206,7 +193,7 @@ Array [
               >
                 Sun, Dec 31 16:00
                  
-                -8
+                
               </p>
             </div>
           </div>
@@ -329,24 +316,11 @@ Array [
           <a
             aria-current={false}
             className="nav-link text-light"
-            href="/kanyini"
+            href="/top-headlines"
             onClick={[Function]}
             style={undefined}
           >
-            Kanyini
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current="true"
-            className="nav-link text-light active"
-            href="/blog"
-            onClick={[Function]}
-            style={Object {}}
-          >
-            Blog
+            Top Headlines
           </a>
         </li>
       </ul>
@@ -570,24 +544,11 @@ Array [
           <a
             aria-current={false}
             className="nav-link text-light"
-            href="/kanyini"
+            href="/top-headlines"
             onClick={[Function]}
             style={undefined}
           >
-            Kanyini
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current="true"
-            className="nav-link text-light active"
-            href="/blog"
-            onClick={[Function]}
-            style={Object {}}
-          >
-            Blog
+            Top Headlines
           </a>
         </li>
       </ul>
@@ -811,24 +772,11 @@ Array [
           <a
             aria-current={false}
             className="nav-link text-light"
-            href="/kanyini"
+            href="/top-headlines"
             onClick={[Function]}
             style={undefined}
           >
-            Kanyini
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
-            aria-current={false}
-            className="nav-link text-light"
-            href="/blog"
-            onClick={[Function]}
-            style={undefined}
-          >
-            Blog
+            Top Headlines
           </a>
         </li>
       </ul>
@@ -1041,26 +989,13 @@ Array [
           className="nav-item"
         >
           <a
-            aria-current="true"
-            className="nav-link text-light active"
-            href="/kanyini"
-            onClick={[Function]}
-            style={Object {}}
-          >
-            Kanyini
-          </a>
-        </li>
-        <li
-          className="nav-item"
-        >
-          <a
             aria-current={false}
             className="nav-link text-light"
-            href="/blog"
+            href="/top-headlines"
             onClick={[Function]}
             style={undefined}
           >
-            Blog
+            Top Headlines
           </a>
         </li>
       </ul>
