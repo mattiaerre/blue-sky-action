@@ -12,7 +12,7 @@ const scenarios = [
   '174.215.17.217'
 ];
 
-describe('fetch info by ip address', () => {
+describe.skip('fetch info by ip address', () => {
   scenarios.map(scenario =>
     test(scenario, async () => {
       const url = `${process.env.TIMEZONEAPI_BASE_URL}/api/ip/?ip=${scenario}`;

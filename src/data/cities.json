@@ -3,6 +3,10 @@
     "name": "Kuala Lumpur",
     "tzid": "Asia/Kuala_Lumpur"
   },
+  "chiang-mai": {
+    "name": "Chiang Mai",
+    "tzid": "Asia/Bangkok"
+  },
   "turin": {
     "name": "Turin",
     "tzid": "Europe/Rome"
