@@ -20,6 +20,8 @@ npm run start:dev
 
 * [News API](https://newsapi.org/)
 
+* [Time Difference](https://www.zeitverschiebung.net/en/)
+
 * [Timezone API](https://timezoneapi.io/)
 
 * [REST Countries](https://restcountries.eu/)
