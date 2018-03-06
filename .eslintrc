@@ -5,6 +5,7 @@
     "comma-dangle": "off",
     "function-paren-newline": "off",
     "jsx-a11y/href-no-hash": "off",
+    "no-confusing-arrow": "off",
     "no-underscore-dangle": "off",
     "object-curly-newline": "off",
     "react/forbid-prop-types": "off",
