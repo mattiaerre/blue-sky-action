@@ -4,7 +4,10 @@ const currency = {
   BTC: { color: '#FFB119', name: 'Bitcoin' },
   BCH: { color: '#8DC451', name: 'Bitcoin Cash' },
   ETH: { color: '#6F7CBA', name: 'Ethereum' },
-  LTC: { color: '#B5B5B5', name: 'Litecoin' }
+  LTC: { color: '#B5B5B5', name: 'Litecoin' },
+  EUR: { color: '#FFFFFF', name: 'Euro' },
+  GBP: { color: '#FFFFFF', name: 'British Pound' },
+  CAD: { color: '#FFFFFF', name: 'Canadian Dollar' }
 };
 
 const Price = new GraphQLObjectType({
@@ -22,14 +25,16 @@ const Price = new GraphQLObjectType({
     },
     color: {
       type: GraphQLString,
-      resolve: data => currency[data.base].color
+      resolve: data =>
+        currency[data.base] ? currency[data.base].color : '#FFFF'
     },
     currency: {
       type: GraphQLString
     },
     name: {
       type: GraphQLString,
-      resolve: data => currency[data.base].name
+      resolve: data =>
+        currency[data.base] ? currency[data.base].name : 'UNKNOWN'
     }
   }
 });
