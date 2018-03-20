@@ -11,15 +11,11 @@ const config = {
     filename: 'bundle.js'
   },
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.jsx?/,
         include: APP_DIR,
-        loader: 'babel-loader'
-      },
-      {
-        test: /\.json$/,
-        loader: 'json-loader'
+        use: 'babel-loader'
       }
     ]
   }
