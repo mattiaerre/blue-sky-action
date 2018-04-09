@@ -7,6 +7,10 @@
     "name": "Chiang Mai",
     "tzid": "Asia/Bangkok"
   },
+  "hanoi": {
+    "name": "Hanoi",
+    "tzid": "Asia/Ho_Chi_Minh"
+  },
   "turin": {
     "name": "Turin",
     "tzid": "Europe/Rome"
