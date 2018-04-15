@@ -1,4 +1,8 @@
 {
+  "seoul": {
+    "name": "Seoul",
+    "tzid": "Asia/Seoul"
+  },
   "kuala-lumpur": {
     "name": "Kuala Lumpur",
     "tzid": "Asia/Kuala_Lumpur"
