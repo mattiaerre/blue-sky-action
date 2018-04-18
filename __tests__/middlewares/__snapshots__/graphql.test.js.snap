@@ -5,244 +5,248 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
-        "author": "Taylor Hatmaker",
-        "description": "Coinbase just threw a bit of cold water on Ripple enthusiasts eager to see their coin hit the popular mainstream exchange. Rumors that Ripple’s XRP would be next in line after Bitcoin Cash reached a fever pitch this week among coin hype types, with some readi…",
-        "publishedAt": "2018-03-06T02:16:52Z",
+        "author": "",
+        "description": "STOCKHOLM (AP) — A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday. Swedish police spokesman Stefa…",
+        "publishedAt": "2018-04-18T18:28:08Z",
+        "source": Object {
+          "id": null,
+          "name": "Sfgate.com",
+        },
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "https://www.sfgate.com/business/technology/article/Sweden-police-told-Icelandic-suspect-likely-fled-12843712.php",
+        "urlToImage": "https://s.hdnux.com/photos/72/62/62/15412408/27/rawImage.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "STOCKHOLM (AP) — A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday. Swedish police spokesman Stefa…",
+        "publishedAt": "2018-04-18T18:28:08Z",
+        "source": Object {
+          "id": null,
+          "name": "Seattlepi.com",
+        },
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "https://www.seattlepi.com/business/technology/article/Sweden-police-told-Icelandic-suspect-likely-fled-12843712.php",
+        "urlToImage": "https://s.hdnux.com/photos/72/62/02/15409289/109/rawImage.jpg",
+      },
+      Object {
+        "author": "Help Net Security",
+        "description": "During the first three months of 2018, cryptominers surged to the top of detected malware incidents, displacing ransomware as the number one threat, Comodo’s Global Malware Report Q1 2018 has found. Another surprising finding: Altcoin Monero became the leadin…",
+        "publishedAt": "2018-04-18T12:48:41Z",
+        "source": Object {
+          "id": null,
+          "name": "Helpnetsecurity.com",
+        },
+        "title": "Cryptominers displace ransomware as the number one threat",
+        "url": "https://www.helpnetsecurity.com/2018/04/18/q1-2018-malware-trends/",
+        "urlToImage": "https://www.helpnetsecurity.com/wp-content/uploads/2018/03/crypto_currency2.jpg",
+      },
+      Object {
+        "author": "John Ameh",
+        "description": "John Ameh The House of Representatives has condemned the morning attack on the Senate by suspected thugs, describing it as “act of terrorism.” The House demands immediate investigation. The lawmakers are right now on a solidarity with the Senate. Details late…",
+        "publishedAt": "2018-04-18T11:51:42Z",
+        "source": Object {
+          "id": null,
+          "name": "Punchng.com",
+        },
+        "title": "Attack on Senate is terrorism – Reps",
+        "url": "http://punchng.com/attack-on-senate-is-terrorism-reps/",
+        "urlToImage": "http://cdn.punchng.com/wp-content/uploads/2016/06/03110236/Hpouse-of-reps.jpg",
+      },
+      Object {
+        "author": "David Meyer",
+        "description": "Coinbase, the U.S.'s biggest cryptocurrency exchange, was also included in the probe of 13 exchanges.",
+        "publishedAt": "2018-04-18T11:51:29Z",
+        "source": Object {
+          "id": "fortune",
+          "name": "Fortune",
+        },
+        "title": "New York’s Attorney General Wants to Know What the Winklevoss Twins Are Doing to Protect Cryptocurrency Customers",
+        "url": "http://fortune.com/2018/04/18/new-york-ag-cryptocurrencies-bitcoin/",
+        "urlToImage": "https://fortunedotcom.files.wordpress.com/2016/08/577611498.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday.",
+        "publishedAt": "2018-04-18T11:47:39Z",
+        "source": Object {
+          "id": null,
+          "name": "Phys.org",
+        },
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "https://phys.org/news/2018-04-iceland-bitcoin-heist-fled-sweden.html",
+        "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/icelandbitco.jpg",
+      },
+      Object {
+        "author": "ABC News",
+        "description": "A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday. Swedish police spokesman Stefan Dangardt says n…",
+        "publishedAt": "2018-04-18T11:47:20Z",
+        "source": Object {
+          "id": "abc-news",
+          "name": "ABC News",
+        },
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "https://abcnews.go.com/Technology/wireStory/iceland-bitcoin-heist-suspect-fled-sweden-54551516",
+        "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_032f3467bafa461f8a0258b3e0d6ec0a_16x9_992.jpg",
+      },
+      Object {
+        "author": "John Abayomi",
+        "description": "John Ameh The House of Representatives has condemned the attack on the Senate by suspected thugs, describing it as “act of terrorism.” The House demands immediate investigation. Details later.",
+        "publishedAt": "2018-04-18T11:47:20Z",
+        "source": Object {
+          "id": null,
+          "name": "Punchng.com",
+        },
+        "title": "BREAKING: Attack on Senate, act of terrorism – Reps",
+        "url": "http://punchng.com/breaking-attack-on-senate-terrorism-reps/",
+        "urlToImage": "http://cdn.punchng.com/wp-content/uploads/2016/06/03110236/Hpouse-of-reps.jpg",
+      },
+      Object {
+        "author": "Zovoe Jonathan",
+        "description": "UEFA President, Aleksander Ceferin has expressed concern over the decision to employ the video replay system (VAR) at the 2018 World Cup in Russia. He also said the technology still needed more testing before it can be considered for use in the Champions Leag…",
+        "publishedAt": "2018-04-18T11:45:29Z",
+        "source": Object {
+          "id": null,
+          "name": "Punchng.com",
+        },
+        "title": "Use of VAR at World Cup worries UEFA president",
+        "url": "http://punchng.com/use-of-var-at-world-cup-worries-uefa-president/",
+        "urlToImage": "http://cdn.punchng.com/wp-content/uploads/2018/04/18124511/UEFA.jpg",
+      },
+      Object {
+        "author": "Agency Report",
+        "description": "The head of the Democratic Republic of Congo’s football association has been taken into custody as part of a probe into embezzlement of $1m, an investigating magistrate said Wednesday. FECOFA president, Constant Omari, has been held along with sports ministry…",
+        "publishedAt": "2018-04-18T11:41:12Z",
+        "source": Object {
+          "id": null,
+          "name": "Punchng.com",
+        },
+        "title": "Football chief held in $1m embezzlement probe",
+        "url": "http://punchng.com/football-chief-held-in-1m-embezzlement-probe/",
+        "urlToImage": "http://cdn.punchng.com/wp-content/uploads/2018/04/18124107/Football-embezzlement.jpg",
+      },
+      Object {
+        "author": "Agency Report",
+        "description": "The head of the Democratic Republic of Congo’s football association has been taken into custody as part of a probe into embezzlement of $1m, an investigating magistrate said Wednesday. FECOFA president, Constant Omari, has been held along with sports ministry…",
+        "publishedAt": "2018-04-18T11:41:12Z",
+        "source": Object {
+          "id": null,
+          "name": "Punchng.com",
+        },
+        "title": "Football association boss faces $1m embezzlement probe",
+        "url": "http://punchng.com/football-association-boss-faces-1m-embezzlement-probe/",
+        "urlToImage": "http://cdn.punchng.com/wp-content/uploads/2018/04/18124107/Football-embezzlement.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "Washington Post Iceland: Bitcoin heist suspect has likely fled to Sweden Washington Post STOCKHOLM — A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking …",
+        "publishedAt": "2018-04-18T11:40:27Z",
+        "source": Object {
+          "id": "the-washington-post",
+          "name": "The Washington Post",
+        },
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden - Washington Post",
+        "url": "https://www.washingtonpost.com/business/technology/iceland-bitcoin-heist-suspect-has-likely-fled-to-sweden/2018/04/18/decf5164-42fb-11e8-b2dc-b0a403e4720a_story.html",
+        "urlToImage": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+      },
+      Object {
+        "author": "Ayodele",
+        "description": "Some hoodlums on Wednesday stormed the Senate chamber and made away with the mace.
+
+The plenary was disrupted while the sergeants-at-arms struggled with the men to retrieve the mace.
+
+See photos:",
+        "publishedAt": "2018-04-18T11:35:53Z",
+        "source": Object {
+          "id": null,
+          "name": "Punchng.com",
+        },
+        "title": "PHOTOS: Thugs disrupt Senate plenary, run away with mace",
+        "url": "http://punchng.com/photos-thugs-disrupt-senate-plenary-run-away-with-mace/",
+        "urlToImage": "http://cdn.punchng.com/wp-content/uploads/2018/04/18122709/Hoodlums-invade-senate3.jpg",
+      },
+      Object {
+        "author": "Connie Loizos",
+        "description": "If you own any Bitcoin, you’re probably in the habit of watching its price fluctuate wildly. What you aren’t doing is using your Bitcoin to buy things. It’s too valuable, not to mention unpredictable. Enter Basis, a year-old, 10-person, Hoboken, N.J.-based cr…",
+        "publishedAt": "2018-04-18T11:32:17Z",
         "source": Object {
           "id": "techcrunch",
           "name": "TechCrunch",
         },
-        "title": "Coinbase addresses Ripple rumors, says it has made no decision on adding new coins",
-        "url": "http://techcrunch.com/2018/03/05/is-coinbase-adding-ripple/",
-        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2018/03/gettyimages-917474100.jpg",
+        "title": "Basis, a year-old startup that’s building a price-stable cryptocurrency, just raised $133 million from top investors",
+        "url": "http://techcrunch.com/2018/04/18/basis-a-year-old-startup-thats-building-a-price-stable-cryptocurrency-just-raised-133-million-from-top-investors/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-912087638.jpg?w=600",
       },
       Object {
-        "author": "The source is one Brooklyn Williams",
-        "description": "This email starts innocently enough. Don't open it!",
-        "publishedAt": "2018-03-06T02:11:11Z",
-        "source": Object {
-          "id": null,
-          "name": "Freerepublic.com",
-        },
-        "title": "A (apparently) new malware is making the rounds, called Log 1",
-        "url": "https://www.freerepublic.com/focus/f-chat/3637501/posts",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "Marcello Pinto",
-        "description": "The bitcoin price could collapse according to some leading investment experts.",
-        "publishedAt": "2018-03-06T02:10:48Z",
-        "source": Object {
-          "id": null,
-          "name": "Fool.com.au",
-        },
-        "title": "Why I think Bitcoin and Litecoin prices could tumble lower in 2018",
-        "url": "https://www.fool.com.au/2018/03/06/why-i-think-bitcoin-and-litecoin-prices-could-tumble-lower-in-2018/",
-        "urlToImage": "https://www.fool.com.au/wp-content/uploads/2017/11/bitcoin-2730220_1280.jpg",
-      },
-      Object {
-        "author": "Scott Scanlon",
-        "description": "Just as a country’s borders drawn on a globe aren’t often exact, neither are the lines drawn on individual properties around much of the world. De Soto Inc., a socially-conscious joint venture between Overstock.com subsidiary Medici Ventures, Overstock founde…",
-        "publishedAt": "2018-03-06T02:03:23Z",
-        "source": Object {
-          "id": null,
-          "name": "Youbrandinc.com",
-        },
-        "title": "De Soto Inc.: Where Eminent Domain Meets the Blockchain",
-        "url": "https://www.youbrandinc.com/crytocurrency/de-soto-inc-where-eminent-domain-meets-the-blockchain/",
-        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/03/desoto.max-800x800.jpg",
-      },
-      Object {
-        "author": "Cointelegraph By Aaron Wood",
-        "description": "US Marshals to auction off $25 mln dollars worth of Bitcoin seized following criminal and civil convictions.",
-        "publishedAt": "2018-03-06T02:02:17Z",
-        "source": Object {
-          "id": null,
-          "name": "Cointelegraph.com",
-        },
-        "title": "US Marshals Service To Sell Nearly $25 Mln Worth Of Seized Bitcoin At Auction",
-        "url": "https://cointelegraph.com/news/us-marshals-service-to-sell-nearly-25-mln-worth-of-seized-bitcoin-at-auction",
-        "urlToImage": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZDEzNmJkMTIzZjY3NTk0MTA0OTg3NzU0MzlkMTdmNi5qcGc=.jpg",
-      },
-      Object {
-        "author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Billie+Schwab+Dunn+For+Daily+Mail+Australia, By Billie Schwab Dunn For Daily Mail Australia",
-        "description": "When Joy Baines moved back to Sydney in 2014 she realised she wouldn't be able to afford to live in the city on her salary. Now she has no fixed address and is saving AUD $2,000 a month in bills and rent.",
-        "publishedAt": "2018-03-06T02:00:10Z",
+        "author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Associated+Press, By Associated Press",
+        "description": "STOCKHOLM (AP) - A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to...",
+        "publishedAt": "2018-04-18T11:31:51Z",
         "source": Object {
           "id": "daily-mail",
           "name": "Daily Mail",
         },
-        "title": "Woman, 41, is saving $24,000 a year using the share economy",
-        "url": "http://www.dailymail.co.uk/femail/article-5461813/Woman-41-saving-24-000-year-using-share-economy.html",
-        "urlToImage": "http://i.dailymail.co.uk/i/newpix/2018/03/06/02/49E7429F00000578-0-image-a-60_1520301991775.jpg",
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "http://www.dailymail.co.uk/wires/ap/article-5629625/Iceland-Bitcoin-heist-suspect-likely-fled-Sweden.html",
+        "urlToImage": "http://i.dailymail.co.uk/1/2018/04/18/12/wire-2733014-1524051106-3_636x382.jpg",
+      },
+      Object {
+        "author": "The Associated Press",
+        "description": "A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison … Click to Continue »",
+        "publishedAt": "2018-04-18T11:29:42Z",
+        "source": Object {
+          "id": null,
+          "name": "Charlotteobserver.com",
+        },
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "http://www.charlotteobserver.com/news/business/national-business/article209202394.html#storylink=rss",
+        "urlToImage": "http://www.mcclatchy-wires.com/incoming/mqhw97/picture209162919/alternates/LANDSCAPE_1140/Iceland_Bitcoin_22740.jpg",
+      },
+      Object {
+        "author": "Barbara Kollmeyer",
+        "description": "There’s a fair bit of optimism in the air as we make our way into the first part of earnings season. Often bearish, but sometimes bullish, fund manager Doug Kass says he’s got five reasons to sell now.",
+        "publishedAt": "2018-04-18T11:28:44Z",
+        "source": Object {
+          "id": null,
+          "name": "Marketwatch.com",
+        },
+        "title": "Need to Know: 5 good reasons to sell stocks now",
+        "url": "https://www.marketwatch.com/story/5-good-reasons-to-sell-stocks-now-2018-04-18",
+        "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-GH528_legos__ZG_20180418045935.jpg",
       },
       Object {
         "author": null,
-        "description": "The rise of Crypto Currencies over recent years has seen a significant increase in both criminal and legitimate organisations alike trialling ways to mine these valuable digital commodities, with as little overheads as possible. Computers being compromised fo…",
-        "publishedAt": "2018-03-06T01:54:00Z",
+        "description": "STOCKHOLM (AP) -- A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday....",
+        "publishedAt": "2018-04-18T11:28:19Z",
         "source": Object {
           "id": null,
-          "name": "Senseofsecurity.com.au",
+          "name": "Ap.org",
         },
-        "title": "The Return of Crypto Mining",
-        "url": "https://www.senseofsecurity.com.au/return-crypto-mining/",
-        "urlToImage": "http://www.senseofsecurity.com.au/sitecontnt/uploads/2014/09/redlock_hero.jpg",
-      },
-      Object {
-        "author": "Matt Linares, CNN",
-        "description": "Meet the CryptoKitties, a species of blockchain-based digital cat that you can now buy and trade with cryptocurrency.",
-        "publishedAt": "2018-03-06T01:43:06Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Why crypto collectors are spending thousands on cartoon cats",
-        "url": "https://www.cnn.com/style/article/cryptokitty-blockchain/index.html",
-        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/180302141853-cryptokitties-top-super-tease.jpg",
-      },
-      Object {
-        "author": "Yannick Heneault",
-        "description": "I ported the code of the Bitcoin trezor wallet to Linux to be able to run it on a raspberry pi zero. The raspberry pi zero is a very popular, small and cheap computer that is available for approximately 5$. The choice of the pi zero is interesting because it …",
-        "publishedAt": "2018-03-06T01:36:44Z",
-        "source": Object {
-          "id": null,
-          "name": "Slashdot.org",
-        },
-        "title": "Easy DIY Bitcoin wallet trezor clone",
-        "url": "https://slashdot.org/submission/7963977/easy-diy-bitcoin-wallet-trezor-clone",
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "http://hosted.ap.org/dynamic/stories/A/APFN_EU_SWEDEN_ICELAND_BITCOIN?SITE=INLAF&SECTION=HOME&TEMPLATE=DEFAULT",
         "urlToImage": null,
       },
       Object {
-        "author": "Bryan Clark",
-        "description": "Patrick Reames earned over $20,000 selling books on Amazon last year. He didn’t see a dime of it. Reames, a credited author who’s earned money selling books on Amazon in the past, first learned of the mistake after receiving tax paperwork from the company. Hi…",
-        "publishedAt": "2018-03-06T01:10:02Z",
-        "source": Object {
-          "id": "the-next-web",
-          "name": "The Next Web",
-        },
-        "title": "Online thieves are impersonating authors to launder money on Amazon",
-        "url": "https://thenextweb.com/?p=1111244",
-        "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/amazon-thief-social.jpg",
-      },
-      Object {
-        "author": "Scott Scanlon",
-        "description": "Monero is a growing player in the cryptocurrency market and looks likely to hit $1000 this year. That’s because non-traditional currencies are generating huge amounts of interest and Monero, the Bitcoin of privacy coins and tokens, has a dedicated following a…",
-        "publishedAt": "2018-03-06T01:03:19Z",
+        "author": null,
+        "description": "STOCKHOLM (AP) -- A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday....",
+        "publishedAt": "2018-04-18T11:28:19Z",
         "source": Object {
           "id": null,
-          "name": "Youbrandinc.com",
+          "name": "Ap.org",
         },
-        "title": "Why Monero Will Hit $1000 This Year",
-        "url": "https://www.youbrandinc.com/crytocurrency/why-monero-will-hit-1000-this-year/",
-        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/03/grey-bitcoins-code-1024x724.jpg",
-      },
-      Object {
-        "author": "Rick D.",
-        "description": "Shares in Square Inc. are rising once again. This time, however, there seems to be little news from the company themselves to justify such investor exuberance. The only “recent” development comes from a little known cryptocurrency website who reported earlier…",
-        "publishedAt": "2018-03-06T01:00:39Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Shares in Square Inc. Receive Boost From Old Crypto News",
-        "url": "https://www.newsbtc.com/2018/03/06/shares-in-square-inc-receive-boost-from-old-crypto-news/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/03/05212137/stocks.jpg",
-      },
-      Object {
-        "author": "Ali Breland",
-        "description": "The government threw a wrench into Broadcom's plans for a hostile takeover of the U.S. tech giant Qualcomm on Sunday.",
-        "publishedAt": "2018-03-06T00:50:42Z",
-        "source": Object {
-          "id": "the-hill",
-          "name": "The Hill",
-        },
-        "title": "Overnight Tech: Feds order national security review of bid for Qualcomm | Video game execs heading to White House | Reddit purged Russian accounts | Washington state passes net neutrality law",
-        "url": "http://thehill.com/policy/technology/overnights/376859-overnight-tech-regulators-slow-broadcoms-hostile-takeover-the",
-        "urlToImage": "http://thehill.com/sites/default/files/qualcomm_0.jpg",
-      },
-      Object {
-        "author": "Bitcoinist.net",
-        "description": "The central character in Truman Capote’s novel “Breakfast at Tiffany’s” is Holly Golightly who is an independent and rather mysterious person. The card on Holly’s mailbox reading “Holly Golightly, Travelling” suggested from the very beginning of the novel tha…",
-        "publishedAt": "2018-03-06T00:30:52Z",
-        "source": Object {
-          "id": null,
-          "name": "Bitcoinist.com",
-        },
-        "title": "Mr. and Mrs. Blockchain, Traveling",
-        "url": "http://bitcoinist.com/mr-mrs-blockchain-travelling/",
-        "urlToImage": "http://bitcoinist.com/wp-content/uploads/2018/03/concierge-cover.jpg",
-      },
-      Object {
-        "author": "Cal Jeffrey",
-        "description": "As we reported last week code repository, GitHub was hit with the largest DDoS attack ever recorded on Wednesday. The directed denial of service only incapacitated the site for around nine minutes, but the strike pummeled servers with data volumes reaching al…",
-        "publishedAt": "2018-03-06T00:27:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Techspot.com",
-        },
-        "title": "Last week's DDoS attack on GitHub included a ransom demand embedded in the payload",
-        "url": "https://www.techspot.com/news/73568-last-week-ddos-attack-github-included-ransom-demand.html",
-        "urlToImage": "https://static.techspot.com/images2/news/ts3_thumbs/2018/03/2018-03-05-ts3_thumbs-d60.jpg",
-      },
-      Object {
-        "author": "adam@letstalkbitcoin.com, adam@letstalkbitcoin.com",
-        "description": "On Today's Episode of Let's Talk Bitcoin... Adam, Andreas, Jonathan and Stephanie discuss the SEC's recent comments, Circle's Acquisition of Poloniex and where these events indicate we are on the march towards \\"legitimacy\\". After the break, cryptocurrency con…",
-        "publishedAt": "2018-03-06T00:15:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Letstalkbitcoin.com",
-        },
-        "title": "Let's Talk Bitcoin! #358 The Cartman Syndrome",
-        "url": "https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-358-the-cartman-syndrome",
-        "urlToImage": "https://letstalkbitcoin.com/files/blogs/2486-8534b239de6d572132e79fa0f1ed56abe2c545a3f11322283d2ea7c9b3b2a84d.jpg",
-      },
-      Object {
-        "author": "adam@letstalkbitcoin.com (The LTB Network), The LTB Network",
-        "description": "On Today's Episode of Let's Talk Bitcoin... Adam, Andreas, Jonathan and Stephanie discuss the SEC's recent comments, Circle's Acquisition of Poloniex and where these events indicate we are on the march towards \\"legitimacy\\". After the break, cryptocurrency con…",
-        "publishedAt": "2018-03-06T00:15:00Z",
-        "source": Object {
-          "id": "google-news",
-          "name": "Google News",
-        },
-        "title": "Let's Talk Bitcoin! #358 The Cartman Syndrome",
-        "url": "http://feedproxy.google.com/~r/TheDailyBitcoinShow/~3/WxZi-b0KmZE/lets-talk-bitcoin-358-the-cartman-syndrome",
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "http://hosted.ap.org/dynamic/stories/A/APFN_EU_SWEDEN_ICELAND_BITCOIN?SITE=SCAND&SECTION=HOME&TEMPLATE=DEFAULT",
         "urlToImage": null,
       },
       Object {
-        "author": "Scott Scanlon",
-        "description": "Even before being hit with a federal securities fraud lawsuit by the SEC and independent perjury charges by the Justice Department last month, the founder of a now-defunct cryptocurrency exchange had left a trail of lawsuits, legal judgments and a lawyer who …",
-        "publishedAt": "2018-03-06T00:03:14Z",
+        "author": null,
+        "description": "STOCKHOLM (AP) -- A man suspected of masterminding the theft of about 600 computers used to mine bitcoins and other virtual currencies has likely fled to Sweden after breaking out of a prison in Iceland, officials said Wednesday....",
+        "publishedAt": "2018-04-18T11:28:19Z",
         "source": Object {
           "id": null,
-          "name": "Youbrandinc.com",
+          "name": "Ap.org",
         },
-        "title": "Founder of defunct bitcoin exchange has a trail of lawsuits, judgments and at least one unpaid lawyer",
-        "url": "https://www.youbrandinc.com/crytocurrency/founder-of-defunct-bitcoin-exchange-has-a-trail-of-lawsuits-judgments-and-at-least-one-unpaid-lawyer/",
-        "urlToImage": "https://www.youbrandinc.com/wp-content/uploads/2018/03/104157816-GettyImages-dv1163059.1910x1000-1024x536.jpg",
-      },
-      Object {
-        "author": "Thomas Delahunty",
-        "description": "The U.S. Marshals have put forth plans to auction off 2,170 Bitcoin it and other U.S. law enforcement agencies have confiscated in criminal cases. As of today, February 5th, the Bitcoins have a value of over $25 million. According to the Marshals Service, the…",
-        "publishedAt": "2018-03-06T00:00:55Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "U.S. Marshals to Hold Online Auction for 2,170 Bitcoin Seized by the Agency",
-        "url": "https://www.newsbtc.com/2018/03/06/u-s-marshals-to-hold-online-auction-for-2170-bitcoin-seized-by-the-agency/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/03/05212458/auction.jpg",
-      },
-      Object {
-        "author": "Kevin Parrish",
-        "description": "Between December and January, an organized group of thieves raided data centers across Iceland and stole 600 PCs dedicated to digital currency mining. Local police are now keeping tabs on power consumption and internet access.",
-        "publishedAt": "2018-03-05T23:58:08Z",
-        "source": Object {
-          "id": null,
-          "name": "Digitaltrends.com",
-        },
-        "title": "Thieves heist 600 PCs built for digital coin mining in Iceland",
-        "url": "https://www.digitaltrends.com/computing/thieves-steal-600-computers-digital-coin-mining/",
-        "urlToImage": "https://icdn4.digitaltrends.com/image/bitcoin-is-growing-up-1200x630-c-ar1.91.jpg?ver=1",
+        "title": "Iceland: Bitcoin heist suspect has likely fled to Sweden",
+        "url": "http://hosted.ap.org/dynamic/stories/A/APFN_EU_SWEDEN_ICELAND_BITCOIN?SITE=WIJAN&SECTION=HOME&TEMPLATE=DEFAULT",
+        "urlToImage": null,
       },
     ],
   },
@@ -253,7 +257,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 11347.11,
+      "amount": 8190.18,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -961,15 +965,15 @@ Object {
         },
         Object {
           "currency": "AFN",
-          "value": 69.4,
+          "value": 70.1,
         },
         Object {
           "currency": "ALL",
-          "value": 106.93,
+          "value": 104.44,
         },
         Object {
           "currency": "AMD",
-          "value": 478.8,
+          "value": 482.8,
         },
         Object {
           "currency": "ANG",
@@ -977,11 +981,11 @@ Object {
         },
         Object {
           "currency": "AOA",
-          "value": 212.75,
+          "value": 216.53,
         },
         Object {
           "currency": "ARS",
-          "value": 20.2,
+          "value": 20.18,
         },
         Object {
           "currency": "AUD",
@@ -989,11 +993,11 @@ Object {
         },
         Object {
           "currency": "AWG",
-          "value": 1.79,
+          "value": 1.78,
         },
         Object {
           "currency": "AZN",
-          "value": 1.69,
+          "value": 1.7,
         },
         Object {
           "currency": "BAM",
@@ -1005,15 +1009,15 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00080293,
+          "value": 0.00119697,
         },
         Object {
           "currency": "BDT",
-          "value": 83.15,
+          "value": 83.99,
         },
         Object {
           "currency": "BGN",
-          "value": 1.59,
+          "value": 1.58,
         },
         Object {
           "currency": "BHD",
@@ -1021,7 +1025,7 @@ Object {
         },
         Object {
           "currency": "BIF",
-          "value": 1754,
+          "value": 1760,
         },
         Object {
           "currency": "BMD",
@@ -1029,15 +1033,15 @@ Object {
         },
         Object {
           "currency": "BND",
-          "value": 1.32,
+          "value": 1.31,
         },
         Object {
           "currency": "BOB",
-          "value": 6.9,
+          "value": 6.91,
         },
         Object {
           "currency": "BRL",
-          "value": 3.24,
+          "value": 3.41,
         },
         Object {
           "currency": "BSD",
@@ -1045,23 +1049,23 @@ Object {
         },
         Object {
           "currency": "BTC",
-          "value": 0.000089,
+          "value": 0.000123,
         },
         Object {
           "currency": "BTN",
-          "value": 65.09,
+          "value": 65.58,
         },
         Object {
           "currency": "BWP",
-          "value": 9.56,
+          "value": 9.6,
         },
         Object {
           "currency": "BYN",
-          "value": 1.96,
+          "value": 2.04,
         },
         Object {
           "currency": "BYR",
-          "value": 19628,
+          "value": 20398,
         },
         Object {
           "currency": "BZD",
@@ -1069,7 +1073,7 @@ Object {
         },
         Object {
           "currency": "CAD",
-          "value": 1.3,
+          "value": 1.26,
         },
         Object {
           "currency": "CDF",
@@ -1077,31 +1081,31 @@ Object {
         },
         Object {
           "currency": "CHF",
-          "value": 0.94,
+          "value": 0.97,
         },
         Object {
           "currency": "CLF",
-          "value": 0.0225,
+          "value": 0.0219,
         },
         Object {
           "currency": "CLP",
-          "value": 598,
+          "value": 595,
         },
         Object {
           "currency": "CNH",
-          "value": 6.34,
+          "value": 6.28,
         },
         Object {
           "currency": "CNY",
-          "value": 6.34,
+          "value": 6.28,
         },
         Object {
           "currency": "COP",
-          "value": 2855.7,
+          "value": 2724.5,
         },
         Object {
           "currency": "CRC",
-          "value": 567.6,
+          "value": 564.9,
         },
         Object {
           "currency": "CUC",
@@ -1109,11 +1113,11 @@ Object {
         },
         Object {
           "currency": "CVE",
-          "value": 89.75,
+          "value": 89.4,
         },
         Object {
           "currency": "CZK",
-          "value": 20.58,
+          "value": 20.42,
         },
         Object {
           "currency": "DJF",
@@ -1121,15 +1125,15 @@ Object {
         },
         Object {
           "currency": "DKK",
-          "value": 6.03,
+          "value": 6.01,
         },
         Object {
           "currency": "DOP",
-          "value": 49.16,
+          "value": 49.53,
         },
         Object {
           "currency": "DZD",
-          "value": 113.91,
+          "value": 113.88,
         },
         Object {
           "currency": "EEK",
@@ -1137,7 +1141,7 @@ Object {
         },
         Object {
           "currency": "EGP",
-          "value": 17.62,
+          "value": 17.7,
         },
         Object {
           "currency": "ERN",
@@ -1145,11 +1149,11 @@ Object {
         },
         Object {
           "currency": "ETB",
-          "value": 27.47,
+          "value": 27.41,
         },
         Object {
           "currency": "ETH",
-          "value": 0.00118699,
+          "value": 0.00193894,
         },
         Object {
           "currency": "EUR",
@@ -1157,23 +1161,23 @@ Object {
         },
         Object {
           "currency": "FJD",
-          "value": 2.02,
+          "value": 2.03,
         },
         Object {
           "currency": "FKP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "GBP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "GEL",
-          "value": 2.46,
+          "value": 2.44,
         },
         Object {
           "currency": "GGP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "GHS",
@@ -1181,63 +1185,63 @@ Object {
         },
         Object {
           "currency": "GIP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "GMD",
-          "value": 47.2,
+          "value": 47.15,
         },
         Object {
           "currency": "GNF",
-          "value": 9009,
+          "value": 9021,
         },
         Object {
           "currency": "GTQ",
-          "value": 7.35,
+          "value": 7.41,
         },
         Object {
           "currency": "GYD",
-          "value": 206.16,
+          "value": 206.72,
         },
         Object {
           "currency": "HKD",
-          "value": 7.83,
+          "value": 7.85,
         },
         Object {
           "currency": "HNL",
-          "value": 23.56,
+          "value": 23.68,
         },
         Object {
           "currency": "HRK",
-          "value": 6.02,
+          "value": 5.99,
         },
         Object {
           "currency": "HTG",
-          "value": 64.29,
+          "value": 64.82,
         },
         Object {
           "currency": "HUF",
-          "value": 254,
+          "value": 250,
         },
         Object {
           "currency": "IDR",
-          "value": 13731.16,
+          "value": 13777.81,
         },
         Object {
           "currency": "ILS",
-          "value": 3.46,
+          "value": 3.52,
         },
         Object {
           "currency": "IMP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "INR",
-          "value": 65,
+          "value": 65.62,
         },
         Object {
           "currency": "IQD",
-          "value": 1185.552,
+          "value": 1192.75,
         },
         Object {
           "currency": "ISK",
@@ -1245,31 +1249,31 @@ Object {
         },
         Object {
           "currency": "JEP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "JMD",
-          "value": 126.93,
+          "value": 124.33,
         },
         Object {
           "currency": "JOD",
-          "value": 0.709,
+          "value": 0.71,
         },
         Object {
           "currency": "JPY",
-          "value": 106,
+          "value": 107,
         },
         Object {
           "currency": "KES",
-          "value": 101.3,
+          "value": 100.45,
         },
         Object {
           "currency": "KGS",
-          "value": 68.03,
+          "value": 68.48,
         },
         Object {
           "currency": "KHR",
-          "value": 3990.15,
+          "value": 4020.8,
         },
         Object {
           "currency": "KMF",
@@ -1277,7 +1281,7 @@ Object {
         },
         Object {
           "currency": "KRW",
-          "value": 1076,
+          "value": 1066,
         },
         Object {
           "currency": "KWD",
@@ -1289,31 +1293,31 @@ Object {
         },
         Object {
           "currency": "KZT",
-          "value": 319.88,
+          "value": 328.02,
         },
         Object {
           "currency": "LAK",
-          "value": 8253.25,
+          "value": 8284.5,
         },
         Object {
           "currency": "LBP",
-          "value": 1506.96,
+          "value": 1512.4,
         },
         Object {
           "currency": "LKR",
-          "value": 154.36,
+          "value": 156.33,
         },
         Object {
           "currency": "LRD",
-          "value": 130.55,
+          "value": 130.46,
         },
         Object {
           "currency": "LSL",
-          "value": 11.91,
+          "value": 11.99,
         },
         Object {
           "currency": "LTC",
-          "value": 0.00481012,
+          "value": 0.00727246,
         },
         Object {
           "currency": "LTL",
@@ -1325,39 +1329,39 @@ Object {
         },
         Object {
           "currency": "LYD",
-          "value": 1.327,
+          "value": 1.324,
         },
         Object {
           "currency": "MAD",
-          "value": 9.19,
+          "value": 9.16,
         },
         Object {
           "currency": "MDL",
-          "value": 16.65,
+          "value": 16.43,
         },
         Object {
           "currency": "MGA",
-          "value": 3090.1,
+          "value": 3219.1,
         },
         Object {
           "currency": "MKD",
-          "value": 49.84,
+          "value": 49.72,
         },
         Object {
           "currency": "MMK",
-          "value": 1333.89,
+          "value": 1319.23,
         },
         Object {
           "currency": "MNT",
-          "value": 2391.16,
+          "value": 2389.92,
         },
         Object {
           "currency": "MOP",
-          "value": 8.04,
+          "value": 8.08,
         },
         Object {
           "currency": "MRO",
-          "value": 356,
+          "value": 355.3,
         },
         Object {
           "currency": "MTL",
@@ -1365,51 +1369,51 @@ Object {
         },
         Object {
           "currency": "MUR",
-          "value": 33.05,
+          "value": 33.65,
         },
         Object {
           "currency": "MVR",
-          "value": 15.46,
+          "value": 15.41,
         },
         Object {
           "currency": "MWK",
-          "value": 725.03,
+          "value": 725.58,
         },
         Object {
           "currency": "MXN",
-          "value": 18.79,
+          "value": 18,
         },
         Object {
           "currency": "MYR",
-          "value": 3.9,
+          "value": 3.89,
         },
         Object {
           "currency": "MZN",
-          "value": 62.01,
+          "value": 60.5,
         },
         Object {
           "currency": "NAD",
-          "value": 11.91,
+          "value": 11.99,
         },
         Object {
           "currency": "NGN",
-          "value": 359.08,
+          "value": 359.86,
         },
         Object {
           "currency": "NIO",
-          "value": 30.99,
+          "value": 31.16,
         },
         Object {
           "currency": "NOK",
-          "value": 7.81,
+          "value": 7.76,
         },
         Object {
           "currency": "NPR",
-          "value": 104.15,
+          "value": 104.92,
         },
         Object {
           "currency": "NZD",
-          "value": 1.38,
+          "value": 1.37,
         },
         Object {
           "currency": "OMR",
@@ -1421,27 +1425,27 @@ Object {
         },
         Object {
           "currency": "PEN",
-          "value": 3.25,
+          "value": 3.22,
         },
         Object {
           "currency": "PGK",
-          "value": 3.23,
+          "value": 3.25,
         },
         Object {
           "currency": "PHP",
-          "value": 51.93,
+          "value": 52.04,
         },
         Object {
           "currency": "PKR",
-          "value": 110.65,
+          "value": 115.71,
         },
         Object {
           "currency": "PLN",
-          "value": 3.39,
+          "value": 3.37,
         },
         Object {
           "currency": "PYG",
-          "value": 5516,
+          "value": 5515,
         },
         Object {
           "currency": "QAR",
@@ -1449,19 +1453,19 @@ Object {
         },
         Object {
           "currency": "RON",
-          "value": 3.77,
+          "value": 3.76,
         },
         Object {
           "currency": "RSD",
-          "value": 95.52,
+          "value": 95.42,
         },
         Object {
           "currency": "RUB",
-          "value": 56.46,
+          "value": 61.61,
         },
         Object {
           "currency": "RWF",
-          "value": 860,
+          "value": 867,
         },
         Object {
           "currency": "SAR",
@@ -1469,7 +1473,7 @@ Object {
         },
         Object {
           "currency": "SBD",
-          "value": 7.8,
+          "value": 7.78,
         },
         Object {
           "currency": "SCR",
@@ -1477,23 +1481,23 @@ Object {
         },
         Object {
           "currency": "SEK",
-          "value": 8.25,
+          "value": 8.4,
         },
         Object {
           "currency": "SGD",
-          "value": 1.32,
+          "value": 1.31,
         },
         Object {
           "currency": "SHP",
-          "value": 0.72,
+          "value": 0.7,
         },
         Object {
           "currency": "SLL",
-          "value": 7668.45,
+          "value": 7724.01,
         },
         Object {
           "currency": "SOS",
-          "value": 576.48,
+          "value": 578.3,
         },
         Object {
           "currency": "SRD",
@@ -1505,7 +1509,7 @@ Object {
         },
         Object {
           "currency": "STD",
-          "value": 19903.59,
+          "value": 19841.91,
         },
         Object {
           "currency": "SVC",
@@ -1513,15 +1517,15 @@ Object {
         },
         Object {
           "currency": "SZL",
-          "value": 11.9,
+          "value": 11.99,
         },
         Object {
           "currency": "THB",
-          "value": 31.37,
+          "value": 31.23,
         },
         Object {
           "currency": "TJS",
-          "value": 8.82,
+          "value": 8.85,
         },
         Object {
           "currency": "TMT",
@@ -1529,7 +1533,7 @@ Object {
         },
         Object {
           "currency": "TND",
-          "value": 2.385,
+          "value": 2.391,
         },
         Object {
           "currency": "TOP",
@@ -1537,27 +1541,27 @@ Object {
         },
         Object {
           "currency": "TRY",
-          "value": 3.81,
+          "value": 4.09,
         },
         Object {
           "currency": "TTD",
-          "value": 6.7,
+          "value": 6.73,
         },
         Object {
           "currency": "TWD",
-          "value": 29.27,
+          "value": 29.34,
         },
         Object {
           "currency": "TZS",
-          "value": 2251.95,
+          "value": 2277.25,
         },
         Object {
           "currency": "UAH",
-          "value": 26.49,
+          "value": 26.13,
         },
         Object {
           "currency": "UGX",
-          "value": 3634,
+          "value": 3688,
         },
         Object {
           "currency": "USD",
@@ -1565,19 +1569,19 @@ Object {
         },
         Object {
           "currency": "UYU",
-          "value": 28.45,
+          "value": 28.28,
         },
         Object {
           "currency": "UZS",
-          "value": 8170.42,
+          "value": 8073.9,
         },
         Object {
           "currency": "VEF",
-          "value": 33235,
+          "value": 59419.5,
         },
         Object {
           "currency": "VND",
-          "value": 22758,
+          "value": 22774,
         },
         Object {
           "currency": "VUV",
@@ -1585,11 +1589,11 @@ Object {
         },
         Object {
           "currency": "WST",
-          "value": 2.52,
+          "value": 2.53,
         },
         Object {
           "currency": "XAF",
-          "value": 531,
+          "value": 530,
         },
         Object {
           "currency": "XAG",
@@ -1609,7 +1613,7 @@ Object {
         },
         Object {
           "currency": "XOF",
-          "value": 531,
+          "value": 530,
         },
         Object {
           "currency": "XPD",
@@ -1617,7 +1621,7 @@ Object {
         },
         Object {
           "currency": "XPF",
-          "value": 97,
+          "value": 96,
         },
         Object {
           "currency": "XPT",
@@ -1625,11 +1629,11 @@ Object {
         },
         Object {
           "currency": "YER",
-          "value": 265.4,
+          "value": 250.28,
         },
         Object {
           "currency": "ZAR",
-          "value": 11.83,
+          "value": 11.97,
         },
         Object {
           "currency": "ZMK",
@@ -1637,7 +1641,7 @@ Object {
         },
         Object {
           "currency": "ZMW",
-          "value": 9.72,
+          "value": 9.52,
         },
         Object {
           "currency": "ZWL",
@@ -1662,7 +1666,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 11234.49,
+        "amount": 8108.89,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1670,7 +1674,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 1244.01,
+        "amount": 835.26,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1678,7 +1682,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 840.45,
+        "amount": 516.53,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1686,7 +1690,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 207.78,
+        "amount": 138,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1702,7 +1706,7 @@ Object {
         "name": "Euro",
       },
       Object {
-        "amount": 1.38,
+        "amount": 1.42,
         "base": "GBP",
         "code": "GBP",
         "color": "#FFFFFF",
@@ -1710,7 +1714,7 @@ Object {
         "name": "British Pound",
       },
       Object {
-        "amount": 0.77,
+        "amount": 0.8,
         "base": "CAD",
         "code": "CAD",
         "color": "#FFFFFF",
@@ -1727,124 +1731,124 @@ Object {
   "data": Object {
     "topHeadlines": Array [
       Object {
-        "author": "Eli Watkins, CNN",
-        "description": "Former Trump campaign aide Sam Nunberg said he doesn't think he'll face consequences like being jailed over his plans to refuse a grand jury subpoena in the Russia investigation led by special counsel Robert Mueller.",
-        "publishedAt": "2018-03-06T01:24:37Z",
+        "author": "Maegan Vazquez, CNN",
+        "description": "President Donald Trump dismissed on Wednesday the newly-released composite sketch of a man who adult film star Stormy Daniels says threatened her over her alleged affair with Trump more than a decade ago.",
+        "publishedAt": "2018-04-18T10:55:26Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Nunberg: 'I'm not going to get sent to prison'",
-        "url": "http://us.cnn.com/2018/03/05/politics/sam-nunberg-cnntv/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180305191956-sam-nunberg-0305-super-tease.jpg",
-      },
-      Object {
-        "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-        "description": "Former Trump campaign aide Sam Nunberg decided two things on Monday: 1) He wasn't going to comply with special counsel Robert Mueller's apparent subpoena in connection with the investigation into Russia's attempted meddling in the 2016 election and 2) He was …",
-        "publishedAt": "2018-03-06T00:45:30Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Why Sam Nunberg's insane interviews were inevitable",
-        "url": "http://us.cnn.com/2018/03/05/politics/sam-nunberg/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180104194549-sam-nunberg-super-tease.jpg",
+        "title": "Trump calls Stormy Daniels composite sketch 'a total con job'",
+        "url": "http://us.cnn.com/2018/04/18/politics/donald-trump-stormy-daniels-con-job-tweet/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417124622-sketch-stormy-daniels-04172018-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "Former Trump campaign aide Sam Nunberg tells CNN's Erin Burnett that he doesn't care what President Trump allies are saying about him and his state of mind.",
-        "publishedAt": "2018-03-06T00:37:44.5353471Z",
+        "description": "The pilot of Southwest flight 1380 tells air traffic control \\"there's a hole\\" in the plane.",
+        "publishedAt": "2018-04-18T10:23:16.7744113Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Nunberg: Don't care what WH is saying about me - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/03/05/sam-nunberg-state-of-mind-ebof-sot.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180305173832-sam-nunberg-jan-3-2018-super-tease.jpg",
+        "title": "Hear Southwest pilot's emergency call  - CNN Video",
+        "url": "http://us.cnn.com/videos/us/2018/04/17/southwest-flight-air-traffic-control-call-audio-lead.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417204610-03-ntsb-southwest-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "The Florida State Senate passed a bill Monday that would raise the age to buy a firearm from 18 to 21 and require a three-day waiting period for gun purchases, with some exceptions. The Florida House is set to take up the bill next.",
-        "publishedAt": "2018-03-05T23:44:42Z",
+        "description": "Marty Martinez, a passenger aboard Southwest Airlines flight 1380 that made an emergency landing after engine failure, says that the landing was so violent, he thought they were crashing. CNN's Brian Todd reports.",
+        "publishedAt": "2018-04-18T10:23:11.0078685Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Florida Senate passes bill raising age to buy guns",
-        "url": "http://us.cnn.com/2018/03/05/us/urgent-gun-measures-florida-state-legislatures/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "title": "Watch passenger video inside Southwest plane - CNN Video",
+        "url": "http://us.cnn.com/videos/us/2018/04/17/southwest-flight-passenger-todd-dnt-tsr.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417180911-passenger-video-inside-southwest-flight-super-tease.jpg",
       },
       Object {
-        "author": null,
-        "description": "In an interview with CNN's Jake Tapper, former Trump campaign aide Sam Nunberg said he refuses to comply with a grand jury subpoena in the Russia investigation because he believes investigators are trying to get him to impugn controversial Trump ally Roger St…",
-        "publishedAt": "2018-03-05T22:37:49.451702Z",
+        "author": "Madison Park, CNN",
+        "description": "In dire moments aboard Southwest Airlines Flight 1380, none of the panic came through in the voice of the pilot as she spoke with air traffic control.",
+        "publishedAt": "2018-04-18T10:03:19Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Ex-Trump aide Sam Nunberg defies Mueller probe - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/03/05/sam-nunberg-mueller-subpoena-tapper-entire-interview-sot-lead.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180305170643-sam-nunberg-with-jake-tapper-file-super-tease.jpg",
+        "title": "Southwest pilot praised for 'nerves of steel' during emergency",
+        "url": "http://us.cnn.com/2018/04/18/us/southwest-pilot-landing/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417204610-03-ntsb-southwest-super-tease.jpg",
       },
       Object {
-        "author": "Kaitlan Collins and Kevin Liptak, CNN",
-        "description": "Inside the West Wing, multiple White House officials were watching Sam Nunberg's interviews on Monday about refusing to comply with special counsel Robert Mueller's grand jury subpoena with rapt attention.",
-        "publishedAt": "2018-03-05T22:20:38Z",
+        "author": "Faith Karimi and Steve Almasy, CNN",
+        "description": "For 20 minutes, the Southwest Airlines jet was a normal flight from New York to Dallas with 149 people aboard. Suddenly, alarms blared, changing everything.",
+        "publishedAt": "2018-04-18T09:55:20Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Bewildered White House staff watch Sam Nunberg's interviews",
-        "url": "http://us.cnn.com/2018/03/05/politics/sam-nunberg-white-house/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180104194549-sam-nunberg-super-tease.jpg",
+        "title": "Southwest passenger died after shattered window nearly sucked her out",
+        "url": "http://us.cnn.com/2018/04/18/us/southwest-emergency-landing/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417122711-02-southwest-emergency-landing-0417-screengrab-super-tease.jpg",
       },
       Object {
-        "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-        "description": "Former Trump campaign official Sam Nunberg thought it was a good idea to a) ignore an apparent subpoena from special counsel Robert Mueller and b) go on CNN and talk all about it.",
-        "publishedAt": "2018-03-05T22:12:27Z",
+        "author": "Nicole Chavez, CNN",
+        "description": "Jennifer Riordan, a well-known leader in New Mexico and big-hearted altruist, died Tuesday when a Southwest Airlines jet engine failed midair and its debris blew up a window, CNN affiliate KOAT reported.",
+        "publishedAt": "2018-04-18T07:49:59Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "The 23 craziest quotes from Sam Nunberg's absolutely bonkers interview",
-        "url": "http://us.cnn.com/2018/03/05/politics/sam-nunberg-analysis/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180105042140-nunberg-alt-ebof-jan-4-super-tease.jpg",
+        "title": "New Mexico bank leader and altruist killed in Southwest Airlines engine failure",
+        "url": "http://us.cnn.com/2018/04/18/us/philadelphia-southwest-flight-jennifer-riordan/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417234412-01-jennifer-riordan-0417-super-tease.jpg",
       },
       Object {
-        "author": "Ted Barrett and Daniella Diaz, CNN",
-        "description": "Mississippi Republican Sen. Thad Cochran, who chairs the powerful Appropriations Committee, will leave his seat effective April 1, citing his health issues that have kept him away from the Senate in recent months.",
-        "publishedAt": "2018-03-05T22:08:13Z",
+        "author": "Nicole Gaouette, Ted Barrett and Richard Roth, CNN",
+        "description": "Lawmakers emerged from a classified administration briefing expressing concern about administration policy on Syria and the legal justification for last week's military strikes against the regime of Bashar al-Assad.",
+        "publishedAt": "2018-04-18T03:03:48Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "GOP Sen. Thad Cochran to step down April 1",
-        "url": "http://us.cnn.com/2018/03/05/politics/thad-cochran-to-step-down/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "title": "Senators 'very unnerved' about Trump's Syria policy",
+        "url": "http://us.cnn.com/2018/04/17/politics/us-syria-briefing-trump/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180415102537-15-syrian-airstrike-041418-super-tease.jpg",
       },
       Object {
-        "author": "Eli Watkins, CNN",
-        "description": "Former Trump campaign aide Sam Nunberg said Monday that he is refusing to comply with a grand jury subpoena in the Russia investigation led by special counsel Robert Mueller.",
-        "publishedAt": "2018-03-05T20:17:51Z",
+        "author": "Daniella Diaz, CNN",
+        "description": "Pennsylvania GOP Rep. Charlie Dent announced Tuesday he is resigning in the \\"coming weeks,\\" a decision that came after he first said he'd be retiring at the end of his term in Congress.",
+        "publishedAt": "2018-04-18T01:47:29Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Former Trump aide refusing Mueller subpoena: 'Let him arrest me'",
-        "url": "http://us.cnn.com/2018/03/05/politics/sam-nunberg-robert-mueller/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180126110058-03-mueller-trump-split-super-tease.jpg",
+        "title": "Another GOP congressman announces he's resigning",
+        "url": "http://us.cnn.com/2018/04/17/politics/charlie-dent-resigning-congress-house/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180417103930-charlie-dent-03-23-2017-super-tease.jpg",
       },
       Object {
-        "author": "Hadas Gold",
-        "description": "On Monday afternoon, newsrooms across Washington were brought to a standstill. Everyone in them was glued to the television, as a wild interview unfolded live on MSNBC with a former aide to Donald Trump.",
-        "publishedAt": "2018-03-05T06:58:03Z",
+        "author": "Jeremy Diamond, Kevin Liptak, Kaitlan Collins and Elise Labott, CNN",
+        "description": "A consensus emerged Tuesday at the White House and Mar-a-Lago about how to clean up the administration's suddenly muddled plans to crack down on Russia: Blame Nikki Haley.",
+        "publishedAt": "2018-04-17T23:54:31Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Sam Nunberg's epic, jaw-dropping, media circus",
-        "url": "http://money.cnn.com/2018/03/05/media/nunberg-media-moment/index.html",
-        "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/180305171447-sam-nunberg-cnn-780x439.jpg",
+        "title": "WH response to Russia sanctions confusion: Blame Haley",
+        "url": "http://us.cnn.com/2018/04/17/politics/nikki-haley-russia-sanctions/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180415191131-nikki-haley-super-tease.jpg",
+      },
+      Object {
+        "author": "Daniella Diaz and Phil Mattingly, CNN",
+        "description": "Senate Majority Leader Mitch McConnell told Fox News on Tuesday he doesn't believe President Donald Trump will fire Robert Mueller, adding he doesn't want legislation on the issue.",
+        "publishedAt": "2018-04-17T22:32:06Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "McConnell: I won't put legislation to protect Mueller on Senate floor",
+        "url": "http://us.cnn.com/2018/04/17/politics/mitch-mcconell-robert-mueller-donald-trump-senate/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180209133441-mcconnell-02-08-2018-super-tease.jpg",
       },
     ],
   },

@@ -16,7 +16,7 @@ async function fetchCurrentWeather({ id, units }) {
     .then(data => data.list)
     .catch(error => {
       debug(error);
-      return []; // info: not too sure about this
+      return [];
     });
 }
 

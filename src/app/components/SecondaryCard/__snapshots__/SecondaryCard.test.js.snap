@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SecondaryCard /> to match snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-header"
+  >
+    2 months ago
+  </div>
+  <div
+    className="card-body"
+  >
+    <h4
+      className="card-title"
+    >
+      <a
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "Crunch Report",
+          }
+        }
+        href="https://techcrunch.com/video/crunchreport/"
+        rel="noopener noreferrer"
+        target="_blank"
+      />
+    </h4>
+    <p
+      className="card-text"
+    >
+      Your daily roundup of the biggest TechCrunch stories and startup news.
+    </p>
+  </div>
+</div>
+`;
