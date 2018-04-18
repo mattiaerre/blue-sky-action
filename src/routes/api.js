@@ -23,8 +23,7 @@ router.get('/blog/:slug', async (req, res) => {
 });
 
 router.get('/weather', async (req, res) => {
-  const { group } = req.query;
-  const weather = await makeWeather(group);
+  const weather = await makeWeather();
   res.send(weather);
 });
 

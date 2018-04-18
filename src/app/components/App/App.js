@@ -3,10 +3,8 @@ import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
 import Blog from '../../containers/Blog/Blog';
-import Everything from '../../containers/Everything/Everything';
 import Footer from '../../components/Footer/Footer';
 import Home from '../../components/Home/Home';
-import Kanyini from '../../components/Kanyini/Kanyini';
 import Navbar from '../../components/Navbar/Navbar';
 
 const App = ({ articles, categories, name, now, sources, version }) => [
@@ -16,8 +14,6 @@ const App = ({ articles, categories, name, now, sources, version }) => [
       <Route exact path="/" render={_ => <Home {..._} now={now} />} />
       <Route component={Blog} exact path="/blog" />
       <Route component={Blog} exact path="/blog/:slug" />
-      <Route component={Everything} exact path="/top-headlines" />
-      <Route component={Kanyini} exact path="/kanyini" />
       <Route
         exact
         path="/:category/:source"

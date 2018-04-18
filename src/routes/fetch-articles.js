@@ -21,7 +21,7 @@ async function fetchArticles({ source }) {
     })
     .catch(error => {
       debug(error);
-      return []; // info: not too sure about this
+      return [];
     });
 }
 
