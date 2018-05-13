@@ -67,3 +67,7 @@ npm run start:dev
 ## Resources
 
 * [node-postgres](https://node-postgres.com/)
+
+* http://www.timezoneconverter.com/cgi-bin/zoneinfo?tz=Asia/Kuala_Lumpur
+
+* https://www.timeanddate.com/time/map/#!cities=220
