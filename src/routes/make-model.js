@@ -1,3 +1,4 @@
+const debug = require('debug')('blue-sky-action:routes/make-model');
 const moment = require('moment-timezone');
 const { Pool } = require('pg');
 const { name, version } = require('../../package.json');
@@ -9,9 +10,15 @@ const GB = 'gb';
 const US = 'us';
 
 async function makeModel(url, articles, datetime) {
-  const pool = new Pool({ connectionString: process.env.DATABASE_URL });
-  const { rows } = await pool.query('SELECT NOW()');
-  pool.end();
+  let now = moment().format();
+  try {
+    const pool = new Pool({ connectionString: process.env.DATABASE_URL });
+    const { rows } = await pool.query('SELECT NOW()');
+    now = moment(rows[0].now).format();
+    pool.end();
+  } catch (error) {
+    debug(error);
+  }
 
   let nowClient;
   if (datetime) {
@@ -39,7 +46,7 @@ async function makeModel(url, articles, datetime) {
     name,
     now: {
       client: nowClient,
-      server: moment(rows[0].now).format()
+      server: now
     },
     sources: sources.filter(
       source =>

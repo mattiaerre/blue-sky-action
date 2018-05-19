@@ -9,7 +9,7 @@ const router = express.Router();
 async function render(req, res, withArticles) {
   const { url } = req;
   let articles = [];
-  if (withArticles) {
+  if (withArticles === true) {
     const { source } = req.params;
     articles = await makeArticles(source);
   }
