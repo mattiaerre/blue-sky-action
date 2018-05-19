@@ -23,6 +23,10 @@
     "name": "London",
     "tzid": "Europe/London"
   },
+  "new-york": {
+    "name": "New York",
+    "tzid": "America/New_York"
+  },
   "salt-lake-city": {
     "name": "Salt Lake City",
     "tzid": "America/Denver"
