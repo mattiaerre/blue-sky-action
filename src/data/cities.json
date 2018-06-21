@@ -19,6 +19,10 @@
     "name": "Turin",
     "tzid": "Europe/Rome"
   },
+  "valencia": {
+    "name": "Valencia",
+    "tzid": "Europe/Madrid"
+  },
   "london": {
     "name": "London",
     "tzid": "Europe/London"

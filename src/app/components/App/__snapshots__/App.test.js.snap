@@ -101,14 +101,14 @@ Array [
               <h5
                 className="card-title"
               >
-                Kuala Lumpur
+                Seoul
               </h5>
               <p
                 className="card-text"
               >
-                Mon, Jan 01 08:00
+                Mon, Jan 01 09:00
                  
-                +1
+                +14
               </p>
             </div>
           </div>
@@ -117,7 +117,31 @@ Array [
           className="col-lg-3 col-md-6 col-sm-12 mb-4"
         >
           <div
-            className="card text-light bg-primary"
+            className="card text-light bg-secondary"
+          >
+            <div
+              className="card-body"
+            >
+              <h5
+                className="card-title"
+              >
+                Kuala Lumpur
+              </h5>
+              <p
+                className="card-text"
+              >
+                Mon, Jan 01 08:00
+                 
+                +13
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-3 col-md-6 col-sm-12 mb-4"
+        >
+          <div
+            className="card text-light bg-secondary"
           >
             <div
               className="card-body"
@@ -132,7 +156,7 @@ Array [
               >
                 Mon, Jan 01 07:00
                  
-                
+                +12
               </p>
             </div>
           </div>
@@ -141,7 +165,7 @@ Array [
           className="col-lg-3 col-md-6 col-sm-12 mb-4"
         >
           <div
-            className="card text-light bg-primary"
+            className="card text-light bg-secondary"
           >
             <div
               className="card-body"
@@ -156,7 +180,7 @@ Array [
               >
                 Mon, Jan 01 07:00
                  
-                
+                +12
               </p>
             </div>
           </div>
@@ -180,7 +204,31 @@ Array [
               >
                 Mon, Jan 01 01:00
                  
-                -6
+                +6
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-3 col-md-6 col-sm-12 mb-4"
+        >
+          <div
+            className="card text-light bg-secondary"
+          >
+            <div
+              className="card-body"
+            >
+              <h5
+                className="card-title"
+              >
+                Valencia
+              </h5>
+              <p
+                className="card-text"
+              >
+                Mon, Jan 01 01:00
+                 
+                +6
               </p>
             </div>
           </div>
@@ -204,7 +252,55 @@ Array [
               >
                 Mon, Jan 01 00:00
                  
-                -7
+                +5
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-3 col-md-6 col-sm-12 mb-4"
+        >
+          <div
+            className="card text-light bg-primary"
+          >
+            <div
+              className="card-body"
+            >
+              <h5
+                className="card-title"
+              >
+                New York
+              </h5>
+              <p
+                className="card-text"
+              >
+                Sun, Dec 31 19:00
+                 
+                
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-3 col-md-6 col-sm-12 mb-4"
+        >
+          <div
+            className="card text-light bg-secondary"
+          >
+            <div
+              className="card-body"
+            >
+              <h5
+                className="card-title"
+              >
+                Salt Lake City
+              </h5>
+              <p
+                className="card-text"
+              >
+                Sun, Dec 31 17:00
+                 
+                -2
               </p>
             </div>
           </div>
@@ -228,7 +324,7 @@ Array [
               >
                 Sun, Dec 31 16:00
                  
-                -15
+                -3
               </p>
             </div>
           </div>
