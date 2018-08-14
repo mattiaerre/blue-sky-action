@@ -1,23 +1,19 @@
 {
   "airnow-california-san-francisco": {
     "label": "AirNow > California > San Francisco",
-    "url":
-      "https://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=317"
+    "url": "https://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=317"
   },
   "satellite-view": {
     "label": "Satellite View",
-    "url":
-      "http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=5611.5&y=3628&z=5&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=0&lat=0&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider"
+    "url": "http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=5611.5&y=3628&z=5&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=0&lat=0&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider"
   },
   "abgt250": {
-    "label":
-      "Above & Beyond #ABGT250 Live at The Gorge Amphitheatre, Washington State (Full 4K HD Set)",
+    "label": "Above & Beyond #ABGT250 Live at The Gorge Amphitheatre, Washington State (Full 4K HD Set)",
     "url": "https://www.youtube.com/watch?v=CMXiCR2gQw0"
   },
   "visa-hq": {
     "label": "VisaHQ",
-    "url":
-      "https://vietnam.visahq.com/requirements/italy/resident-united-states/"
+    "url": "https://vietnam.visahq.com/requirements/italy/resident-united-states/"
   },
   "remote-year-welcome-portal": {
     "label": "RY Welcome Portal",

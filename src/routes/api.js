@@ -17,7 +17,9 @@ router.get('/blog', async (req, res) => {
 });
 
 router.get('/blog/:slug', async (req, res) => {
-  const { params: { slug } } = req;
+  const {
+    params: { slug }
+  } = req;
   const post = await makePost(slug);
   res.send(post);
 });
