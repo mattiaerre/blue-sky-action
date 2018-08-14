@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TiNews from 'react-icons/lib/ti/news';
+import { TiNews } from 'react-icons/ti';
 import { NavLink } from 'react-router-dom';
 import lablels from '../../../data/labels.json';
 

@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import TiPencil from 'react-icons/lib/ti/pencil';
+import { TiPencil } from 'react-icons/ti';
 import Loading from '../../components/Loading/Loading';
 import PrimaryCard from '../../components/PrimaryCard/PrimaryCard';
 
@@ -13,7 +13,11 @@ class Blog extends Component {
   };
 
   componentDidMount() {
-    const { slug } = this.props.match.params;
+    const {
+      match: {
+        params: { slug }
+      }
+    } = this.props;
     this.getPost(slug);
   }
 
@@ -27,9 +31,18 @@ class Blog extends Component {
   };
 
   render() {
-    const description = this.props.match.params.slug
-      ? this.state.post.body
-      : this.state.post.summary;
+    const {
+      match: {
+        params: { slug }
+      }
+    } = this.props;
+
+    const {
+      loading,
+      post: { body, featured_image, published, summary, title, url } // eslint-disable-line camelcase, max-len
+    } = this.state;
+
+    const description = slug ? body : summary;
     return [
       <div className="row" key="heading">
         <div className="col-12">
@@ -38,19 +51,16 @@ class Blog extends Component {
           </h2>
         </div>
       </div>,
-      <Loading key="loading" loading={this.state.loading} />,
+      <Loading key="loading" loading={loading} />,
       <div className="row pt-0 pb-4" key="post">
         <div className="col-12">
           <PrimaryCard
             article={{
               description,
-              publishedAt: this.state.post.published,
-              title: this.state.post.title,
-              url: this.state.post.url.replace(
-                'https://blue-sky-action.herokuapp.com',
-                ''
-              ),
-              urlToImage: this.state.post.featured_image
+              publishedAt: published,
+              title,
+              url: url.replace('https://blue-sky-action.herokuapp.com', ''),
+              urlToImage: featured_image
             }}
             target="_self"
           />
