@@ -1,8 +1,4 @@
 {
-  "seoul": {
-    "name": "Seoul",
-    "tzid": "Asia/Seoul"
-  },
   "kuala-lumpur": {
     "name": "Kuala Lumpur",
     "tzid": "Asia/Kuala_Lumpur"
@@ -27,13 +23,13 @@
     "name": "London",
     "tzid": "Europe/London"
   },
+  "buenos-aires": {
+    "name": "Buenos Aires",
+    "tzid": "America/Argentina/Buenos_Aires"
+  },
   "new-york": {
     "name": "New York",
     "tzid": "America/New_York"
-  },
-  "salt-lake-city": {
-    "name": "Salt Lake City",
-    "tzid": "America/Denver"
   },
   "san-francisco": {
     "name": "San Francisco",
