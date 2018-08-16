@@ -3,14 +3,10 @@
   "version": "1.0.0-rc.7",
   "scripts": {
     "bundle": "npm-run-all -p bundle:client bundle:server",
-    "bundle:client":
-      "webpack --mode development --debug true --config webpack.config.client.js",
-    "bundle:server":
-      "webpack --mode development --debug true --config webpack.config.server.js",
-    "bundle:watch":
-      "npm-run-all -p 'bundle:client -- --watch' 'bundle:server -- --watch'",
-    "format":
-      "prettier --single-quote --trailing-comma none --write '{src,__{tests,mocks}__}/**/*.{js,json,scss}' '!src/public/javascripts/bundle.js'",
+    "bundle:client": "webpack --mode development --debug true --config webpack.config.client.js",
+    "bundle:server": "webpack --mode development --debug true --config webpack.config.server.js",
+    "bundle:watch": "npm-run-all -p 'bundle:client -- --watch' 'bundle:server -- --watch'",
+    "format": "prettier --single-quote --trailing-comma none --write '{src,__{tests,mocks}__}/**/*.{js,json,scss}' '!src/public/javascripts/bundle.js'",
     "precommit": "lint-staged",
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
@@ -21,60 +17,60 @@
   "dependencies": {
     "append-query": "^2.0.1",
     "babel-cli": "^6.26.0",
-    "babel-loader": "^7.1.4",
+    "babel-loader": "^7.1.5",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.26.0",
-    "body-parser": "^1.18.2",
-    "buttercms": "^1.1.0",
-    "coinbase": "^2.0.7",
+    "body-parser": "^1.18.3",
+    "buttercms": "^1.1.1",
+    "coinbase": "^2.0.8",
     "compare-function": "^2.0.0",
     "cookie-parser": "~1.4.3",
     "debug": "^3.1.0",
-    "dotenv": "^5.0.1",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "express": "^4.16.2",
+    "dotenv": "^6.0.0",
+    "enzyme": "^3.4.1",
+    "enzyme-adapter-react-16": "^1.2.0",
+    "express": "^4.16.3",
     "express-favicon-short-circuit": "^1.1.1",
     "express-graphql": "^0.6.12",
-    "graphql": "^0.13.1",
-    "jest-fetch-mock": "^1.4.2",
+    "graphql": "^0.13.2",
+    "jest-fetch-mock": "^1.6.5",
     "jest-mock-now": "^1.2.0",
     "lokka": "^1.7.0",
     "lokka-transport-http": "^1.6.1",
-    "moment": "^2.21.0",
-    "moment-timezone": "^0.5.14",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
     "morgan": "^1.9.0",
-    "node-fetch": "^2.1.1",
+    "node-fetch": "^2.2.0",
     "node-sass-middleware": "^0.11.0",
-    "npm-run-all": "^4.1.2",
+    "npm-run-all": "^4.1.3",
     "numeral": "^2.0.6",
-    "pg": "^7.4.1",
-    "prop-types": "^15.6.1",
-    "pug": "~2.0.0-beta11",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-icons": "^2.2.7",
+    "pg": "^7.4.3",
+    "prop-types": "^15.6.2",
+    "pug": "^2.0.3",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-icons": "^3.0.5",
     "react-open-weather-map": "^2.3.0",
-    "react-router-dom": "^4.2.2",
-    "react-test-renderer": "^16.2.0",
-    "serve-favicon": "~2.4.2",
-    "webpack": "^4.1.0"
+    "react-router-dom": "^4.3.1",
+    "react-test-renderer": "^16.4.2",
+    "serve-favicon": "^2.5.0",
+    "webpack": "^4.16.5"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.2",
-    "eslint": "^4.18.2",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.9.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.7.0",
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0",
     "husky": "^0.14.3",
-    "jest": "^22.4.2",
-    "lint-staged": "^7.0.0",
-    "nodemon": "^1.17.1",
-    "prettier": "^1.11.1",
-    "webpack-cli": "^2.0.10"
+    "jest": "^23.5.0",
+    "lint-staged": "^7.2.2",
+    "nodemon": "^1.18.3",
+    "prettier": "^1.14.2",
+    "webpack-cli": "^3.1.0"
   },
   "description": "I'd love to build a mobile website.",
   "main": "./src/bin/www",
@@ -97,10 +93,15 @@
     "npm": "5"
   },
   "lint-staged": {
-    "*.{js,json,scss}": ["npm run format", "git add"]
+    "*.{js,json,scss}": [
+      "npm run format",
+      "git add"
+    ]
   },
   "jest": {
     "automock": false,
-    "setupFiles": ["./setupJest.js"]
+    "setupFiles": [
+      "./setupJest.js"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TiHome from 'react-icons/lib/ti/home';
-import TimeZoneWallClock from '../../components/TimeZoneWallClock/TimeZoneWallClock';
+import { TiHome } from 'react-icons/ti';
+import TimeZoneWallClock from '../TimeZoneWallClock/TimeZoneWallClock';
 import Crypto from '../../containers/Crypto/Crypto';
 
 const Home = ({ now }) => (
