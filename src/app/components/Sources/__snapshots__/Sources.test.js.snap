@@ -18,6 +18,7 @@ exports[`<Sources /> to match snapshot 1`] = `
             }
           }
           baseProfile="tiny"
+          className="undefined align-middle"
           fill="currentColor"
           height="1em"
           stroke="currentColor"

@@ -9,7 +9,7 @@ const Sources = ({ category, sources }) => (
     <div className="row">
       <div className="col-12">
         <h2>
-          <TiNews />{' '}
+          <TiNews className="align-middle" />{' '}
           <span className="align-middle">{lablels.categories[category]}</span>
         </h2>
       </div>

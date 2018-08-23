@@ -9,7 +9,8 @@ const Home = ({ now }) => (
     <div className="row">
       <div className="col-12">
         <h2>
-          <TiHome /> <span className="align-middle">Home</span>
+          <TiHome className="align-middle" />{' '}
+          <span className="align-middle">Home</span>
         </h2>
       </div>
     </div>

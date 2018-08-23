@@ -67,6 +67,7 @@ Array [
                 }
               }
               baseProfile="tiny"
+              className="undefined align-middle"
               fill="currentColor"
               height="1em"
               stroke="currentColor"
@@ -96,30 +97,6 @@ Array [
       <div
         className="row"
       >
-        <div
-          className="col-lg-3 col-md-6 col-sm-12 mb-4"
-        >
-          <div
-            className="card text-light bg-secondary"
-          >
-            <div
-              className="card-body"
-            >
-              <h5
-                className="card-title"
-              >
-                Seoul
-              </h5>
-              <p
-                className="card-text"
-              >
-                Mon, Jan 01 09:00
-                 
-                +8
-              </p>
-            </div>
-          </div>
-        </div>
         <div
           className="col-lg-3 col-md-6 col-sm-12 mb-4"
         >
@@ -276,14 +253,14 @@ Array [
               <h5
                 className="card-title"
               >
-                New York
+                Buenos Aires
               </h5>
               <p
                 className="card-text"
               >
-                Sun, Dec 31 19:00
+                Sun, Dec 31 21:00
                  
-                -6
+                -4
               </p>
             </div>
           </div>
@@ -300,14 +277,14 @@ Array [
               <h5
                 className="card-title"
               >
-                Salt Lake City
+                New York
               </h5>
               <p
                 className="card-text"
               >
-                Sun, Dec 31 17:00
+                Sun, Dec 31 19:00
                  
-                -8
+                -6
               </p>
             </div>
           </div>
@@ -470,6 +447,7 @@ Array [
               }
             }
             baseProfile="tiny"
+            className="undefined align-middle"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -691,6 +669,7 @@ Array [
               }
             }
             baseProfile="tiny"
+            className="undefined align-middle"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -913,6 +892,7 @@ Array [
                 }
               }
               baseProfile="tiny"
+              className="undefined align-middle"
               fill="currentColor"
               height="1em"
               stroke="currentColor"

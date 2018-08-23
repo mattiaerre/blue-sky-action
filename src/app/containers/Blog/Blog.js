@@ -47,7 +47,8 @@ class Blog extends Component {
       <div className="row" key="heading">
         <div className="col-12">
           <h2>
-            <TiPencil /> <span className="align-middle">Blog</span>
+            <TiPencil className="align-middle" />{' '}
+            <span className="align-middle">Blog</span>
           </h2>
         </div>
       </div>,

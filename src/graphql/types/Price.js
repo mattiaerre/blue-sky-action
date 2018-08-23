@@ -1,13 +1,14 @@
 const { GraphQLFloat, GraphQLObjectType, GraphQLString } = require('graphql');
 
 const currency = {
-  BTC: { color: '#FFB119', name: 'Bitcoin' },
   BCH: { color: '#8DC451', name: 'Bitcoin Cash' },
+  BTC: { color: '#FFB119', name: 'Bitcoin' },
+  CAD: { color: '#FFFFFF', name: 'Canadian Dollar' },
+  ETC: { color: '#59D4AF', name: 'Ethereum Classic' },
   ETH: { color: '#6F7CBA', name: 'Ethereum' },
-  LTC: { color: '#B5B5B5', name: 'Litecoin' },
   EUR: { color: '#FFFFFF', name: 'Euro' },
   GBP: { color: '#FFFFFF', name: 'British Pound' },
-  CAD: { color: '#FFFFFF', name: 'Canadian Dollar' }
+  LTC: { color: '#B5B5B5', name: 'Litecoin' }
 };
 
 const Price = new GraphQLObjectType({
