@@ -738,6 +738,15 @@
     "country": "us"
   },
   {
+    "id": "national-review",
+    "name": "National Review",
+    "description": "National Review: Conservative News, Opinion, Politics, Policy, & Current Events.",
+    "url": "https://www.nationalreview.com/",
+    "category": "general",
+    "language": "en",
+    "country": "us"
+  },
+  {
     "id": "nbc-news",
     "name": "NBC News",
     "description": "Breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.",
@@ -981,6 +990,15 @@
     "country": "us"
   },
   {
+    "id": "the-american-conservative",
+    "name": "The American Conservative",
+    "description": "Realism and reform. A new voice for a new generation of conservatives.",
+    "url": "http://www.theamericanconservative.com/",
+    "category": "general",
+    "language": "en",
+    "country": "us"
+  },
+  {
     "id": "the-economist",
     "name": "The Economist",
     "description": "The Economist offers authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them.",
@@ -1051,6 +1069,15 @@
     "category": "general",
     "language": "en",
     "country": "ie"
+  },
+  {
+    "id": "the-jerusalem-post",
+    "name": "The Jerusalem Post",
+    "description": "The Jerusalem Post is the leading online newspaper for English speaking Jewry since 1932, bringing news and updates from the Middle East and all over the Jewish world.",
+    "url": "https://www.jpost.com/",
+    "category": "general",
+    "language": "en",
+    "country": "is"
   },
   {
     "id": "the-lad-bible",
@@ -1129,6 +1156,15 @@
     "name": "The Washington Post",
     "description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
     "url": "https://www.washingtonpost.com",
+    "category": "general",
+    "language": "en",
+    "country": "us"
+  },
+  {
+    "id": "the-washington-times",
+    "name": "The Washington Times",
+    "description": "The Washington Times delivers breaking news and commentary on the issues that affect the future of our nation.",
+    "url": "https://www.washingtontimes.com/",
     "category": "general",
     "language": "en",
     "country": "us"
