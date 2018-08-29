@@ -1,0 +1,87 @@
+[
+  {
+    "id": "copenhagen-2014",
+    "when": "18/05/2014",
+    "info": {
+      "name": "Nykredit Copenhagen Marathon 2014",
+      "city": "Copenhagen",
+      "website": "TODO"
+    }
+  },
+  {
+    "id": "turin-2014",
+    "when": "16/11/2014",
+    "info": {
+      "name": "Turin Marathon Grand Prix La Stampa",
+      "city": "Turin",
+      "website": "TODO"
+    }
+  },
+  {
+    "id": "london-2015",
+    "when": "26/04/2015",
+    "info": {
+      "name": "Virgin Money London Marathon",
+      "city": "London",
+      "website": "https://www.virginmoneylondonmarathon.com/en-gb/"
+    },
+    "race": {
+      "finishTime": "03:38:13",
+      "runnerNumber": "7290"
+    }
+  },
+  {
+    "id": "prague-2015",
+    "when": "03/05/2015",
+    "info": {
+      "name": "TODO",
+      "city": "Prague",
+      "website": "TODO"
+    }
+  },
+  {
+    "id": "warsaw-2015",
+    "when": "27/09/2015",
+    "info": {
+      "name": "TODO",
+      "city": "Warsaw",
+      "website": "TODO"
+    }
+  },
+  {
+    "id": "madrid-2016",
+    "when": "24/04/2016",
+    "info": {
+      "name": "TODO",
+      "city": "Madrid",
+      "website": "TODO"
+    }
+  },
+  {
+    "id": "weott-2017",
+    "when": "07/05/2017",
+    "info": {
+      "name": "Avenue of the Giants Marathon",
+      "city": "Weott",
+      "website": "http://www.theave.org/"
+    }
+  },
+  {
+    "id": "las-vegas-2017",
+    "when": "12/11/2017",
+    "info": {
+      "name": "Rock 'n' Roll Las Vegas Marathon",
+      "city": "Las Vegas",
+      "website": "http://www.runrocknroll.com/las-vegas/"
+    }
+  },
+  {
+    "id": "moscow-2018",
+    "when": "23/09/2018",
+    "info": {
+      "name": "Absolute Moscow Marathon",
+      "city": "Moscow",
+      "website": "https://moscowmarathon.org/en"
+    }
+  }
+]
