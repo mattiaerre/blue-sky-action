@@ -3,8 +3,8 @@ const getCurrencies = require('../../../resolvers/get-currencies');
 const Currency = require('../../Currency');
 
 const currencies = {
-  type: new GraphQLList(Currency),
-  resolve: getCurrencies
+  resolve: getCurrencies,
+  type: new GraphQLList(Currency)
 };
 
 module.exports = currencies;
