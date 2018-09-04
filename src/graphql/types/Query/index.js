@@ -1,10 +1,10 @@
-const dirToObject = require('dir-to-object');
 const { GraphQLObjectType } = require('graphql');
 const { join } = require('path');
+const dirToGraphQLFields = require('./dir-to-graphql-fields');
 
 const config = {
   name: 'Query',
-  fields: dirToObject(join(__dirname, 'fields'))
+  fields: dirToGraphQLFields(join(__dirname, 'fields'))
 };
 
 const Query = new GraphQLObjectType(config);

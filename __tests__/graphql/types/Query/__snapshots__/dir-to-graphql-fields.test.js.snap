@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dirToGraphQLFields to match snapshot 1`] = `
+Object {
+  "articles": Object {
+    "args": Object {
+      "q": Object {
+        "type": "String",
+      },
+    },
+    "resolve": [Function],
+    "type": "[Article]",
+  },
+  "buyPrice": Object {
+    "args": Object {
+      "currencyPair": Object {
+        "type": "String",
+      },
+    },
+    "resolve": [Function],
+    "type": "Price",
+  },
+  "currencies": Object {
+    "resolve": [Function],
+    "type": "[Currency]",
+  },
+  "exchangeRates": Object {
+    "args": Object {
+      "currency": Object {
+        "type": "String",
+      },
+    },
+    "resolve": [Function],
+    "type": "ExchangeRates",
+  },
+  "ip": Object {
+    "resolve": [Function],
+    "type": "String",
+  },
+  "marathons": Object {
+    "resolve": [Function],
+    "type": "[Marathon]",
+  },
+  "name": Object {
+    "resolve": [Function],
+    "type": "String",
+  },
+  "sources": Object {
+    "args": Object {
+      "q": Object {
+        "type": "String",
+      },
+    },
+    "resolve": [Function],
+    "type": "[Source]",
+  },
+  "spotPrices": Object {
+    "args": Object {
+      "currency": Object {
+        "type": "String",
+      },
+    },
+    "resolve": [Function],
+    "type": "[Price]",
+  },
+  "topHeadlines": Object {
+    "args": Object {
+      "source": Object {
+        "type": "String",
+      },
+    },
+    "resolve": [Function],
+    "type": "[Article]",
+  },
+}
+`;
