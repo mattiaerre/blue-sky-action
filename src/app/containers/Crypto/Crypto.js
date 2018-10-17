@@ -53,9 +53,11 @@ class Crypto extends Component {
   };
 
   render() {
+    const { loading, spotPrices } = this.state;
+
     return (
-      <div className={`row ${this.state.loading ? 'loading' : ''}`}>
-        {this.state.spotPrices.map(element => (
+      <div className={`row ${loading ? 'loading' : ''}`}>
+        {spotPrices.map(element => (
           <div className="col-lg-3 col-md-6 col-sm-12 mb-4" key={element.code}>
             {renderPrice(element)}
           </div>

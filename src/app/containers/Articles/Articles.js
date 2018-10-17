@@ -21,11 +21,11 @@ query TopHeadlines {
 class Articles extends Component {
   constructor(props) {
     super(props);
-    this.getArticles(this.props.match.params.source);
+    this.getArticles(props.match.params.source);
   }
 
   state = {
-    articles: this.props.articles || [],
+    articles: [],
     loading: true
   };
 
@@ -42,18 +42,21 @@ class Articles extends Component {
   };
 
   render() {
+    const { match, sources } = this.props;
+    const { articles, loading } = this.state;
+
     return [
       <Sources
         key="sources"
-        category={this.props.match.params.category}
-        sources={this.props.sources}
+        category={match.params.category}
+        sources={sources}
       />,
-      <Loading key="loading" loading={this.state.loading} />,
+      <Loading key="loading" loading={loading} />,
       <div key="articles" className="row">
         <div className="col-12">
-          {!this.state.loading && (
+          {!loading && (
             <ul className="list-unstyled">
-              {this.state.articles.map((article, index) => {
+              {articles.map((article, index) => {
                 if (index === 0) {
                   return (
                     <li key={article.url}>
@@ -76,7 +79,6 @@ class Articles extends Component {
 }
 
 Articles.propTypes = {
-  articles: PropTypes.array.isRequired,
   match: PropTypes.object.isRequired,
   sources: PropTypes.array.isRequired
 };
