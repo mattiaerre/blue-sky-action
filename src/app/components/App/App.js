@@ -3,9 +3,9 @@ import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
 import Blog from '../../containers/Blog/Blog';
-import Footer from '../../components/Footer/Footer';
-import Home from '../../components/Home/Home';
-import Navbar from '../../components/Navbar/Navbar';
+import Footer from '../Footer/Footer';
+import Home from '../Home/Home';
+import Navbar from '../Navbar/Navbar';
 
 const App = ({ articles, categories, name, now, sources, version }) => [
   <Navbar categories={categories} key="navbar" sources={sources} />,
