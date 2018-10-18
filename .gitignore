@@ -32,4 +32,5 @@ npm-debug.log
 dist
 .env
 bundle.js
-_
+package-lock.json
+yarn.lock

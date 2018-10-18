@@ -1,6 +1,6 @@
 {
   "name": "blue-sky-action",
-  "version": "1.0.0-rc.8",
+  "version": "1.0.0-rc.9",
   "scripts": {
     "bundle": "npm-run-all -p bundle:client bundle:server",
     "bundle:client": "webpack --mode development --debug true --config webpack.config.client.js",
@@ -29,7 +29,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "^3.1.0",
     "dotenv": "^6.0.0",
-    "enzyme": "^3.4.1",
+    "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.2.0",
     "express": "^4.16.3",
     "express-favicon-short-circuit": "^1.1.1",
@@ -56,11 +56,11 @@
     "react-router-dom": "^4.3.1",
     "react-test-renderer": "^16.4.2",
     "serve-favicon": "^2.5.0",
-    "webpack": "^4.16.5"
+    "webpack": "^4.21.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
-    "eslint": "^5.3.0",
+    "eslint": "^5.7.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
