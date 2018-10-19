@@ -14,9 +14,8 @@ const isGraphQLField = data =>
       ].includes(key)
   );
 const dirToGraphQLFields = dirPath =>
-  dirToObject({
-    canAdd: isGraphQLField,
-    dirPath
+  dirToObject(dirPath, {
+    canAdd: isGraphQLField
   });
 
 module.exports = dirToGraphQLFields;
