@@ -5,69 +5,69 @@ I'd love to build a mobile website.
 ## DX
 
 ```bash
-npm i
+yarn
 
-npm run bundle:watch
+yarn bundle:watch
 
-npm run start:dev
+yarn start:dev
 ```
 
-## Used APIs
+## APIs Used
 
-* [Butter](https://buttercms.com/)
+- [Butter](https://buttercms.com/)
 
-* [Coinbase API](https://developers.coinbase.com/)
+- [Coinbase API](https://developers.coinbase.com/)
 
-* [News API](https://newsapi.org/)
+- [News API](https://newsapi.org/)
 
-* [Time Difference](https://www.zeitverschiebung.net/en/)
+- [Time Difference](https://www.zeitverschiebung.net/en/)
 
-* [Timezone API](https://timezoneapi.io/)
+- [Timezone API](https://timezoneapi.io/)
 
-* [REST Countries](https://restcountries.eu/)
+- [REST Countries](https://restcountries.eu/)
 
 ## (Main) Dependencies
 
-* Bootstrap
+- Bootstrap
 
-* Coinbase
+- Coinbase
 
-* Express
+- Express
 
-* GraphQL
+- GraphQL
 
-* Lokka
+- Lokka
 
-* Moment
+- Moment
 
-* Node SASS
+- Node SASS
 
-* Pug
+- Pug
 
-* React
+- React
 
-* React Router
+- React Router
 
 ## (Main) Dev Dependencies
 
-* Babel
+- Babel
 
-* Enzyme
+- Enzyme
 
-* ESlint
+- ESlint
 
-* Jest
+- Jest
 
-* Nodemon
+- Nodemon
 
-* Prettier
+- Prettier
 
-* Webpack
+- Webpack
 
 ## Resources
 
-* [node-postgres](https://node-postgres.com/)
+- [node-postgres](https://node-postgres.com/)
 
-* http://www.timezoneconverter.com/cgi-bin/zoneinfo?tz=Asia/Kuala_Lumpur
+- http://www.timezoneconverter.com/cgi-bin/zoneinfo?tz=Asia/Kuala_Lumpur
 
-* https://www.timeanddate.com/time/map/#!cities=220
+- https://www.timeanddate.com/time/map/#!cities=220

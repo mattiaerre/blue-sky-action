@@ -17,7 +17,9 @@ async function render(req, res, withArticles) {
   // const datetime = await fetchDatetime(ip);
   const model = await makeModel({
     articles,
-    baseUrl: `${req.protocol}://${req.get('host')}`,
+    baseUrl: `${
+      process.env.ENVIRONMENT === 'local' ? req.protocol : 'https'
+    }://${req.get('host')}`,
     url
   });
   res.render('index', model);
