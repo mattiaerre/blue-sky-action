@@ -3,21 +3,40 @@ import PropTypes from 'prop-types';
 import { Route, Switch } from 'react-router-dom';
 import Articles from '../../containers/Articles/Articles';
 import Blog from '../../containers/Blog/Blog';
-import Footer from '../../components/Footer/Footer';
-import Home from '../../components/Home/Home';
-import Navbar from '../../components/Navbar/Navbar';
+import Footer from '../Footer/Footer';
+import Home from '../Home/Home';
+import Navbar from '../Navbar/Navbar';
 
-const App = ({ articles, categories, name, now, sources, version }) => [
+const App = ({
+  articles,
+  baseUrl,
+  categories,
+  name,
+  now,
+  sources,
+  version
+}) => [
   <Navbar categories={categories} key="navbar" sources={sources} />,
   <div className="container-fluid bg-light" key="container">
     <Switch>
-      <Route exact path="/" render={_ => <Home {..._} now={now} />} />
+      <Route
+        exact
+        path="/"
+        render={_ => <Home {..._} baseUrl={baseUrl} now={now} />}
+      />
       <Route component={Blog} exact path="/blog" />
       <Route component={Blog} exact path="/blog/:slug" />
       <Route
         exact
         path="/:category/:source"
-        render={_ => <Articles {..._} articles={articles} sources={sources} />}
+        render={_ => (
+          <Articles
+            {..._}
+            articles={articles}
+            baseUrl={baseUrl}
+            sources={sources}
+          />
+        )}
       />
     </Switch>
   </div>,

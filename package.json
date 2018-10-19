@@ -1,6 +1,6 @@
 {
   "name": "blue-sky-action",
-  "version": "1.0.0-rc.9",
+  "version": "1.0.0-rc.10",
   "scripts": {
     "bundle": "npm-run-all -p bundle:client bundle:server",
     "bundle:client": "webpack --mode development --debug true --config webpack.config.client.js",
@@ -28,6 +28,7 @@
     "compare-function": "^2.0.0",
     "cookie-parser": "~1.4.3",
     "debug": "^3.1.0",
+    "dir-to-object": "^2.0.0",
     "dotenv": "^6.0.0",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.2.0",

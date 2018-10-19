@@ -24,6 +24,7 @@ describe('graphql middleware', () => {
     },
     {
       description: 'query BuyPrice',
+      propertyMatchers: { data: { buyPrice: { amount: expect.any(Number) } } },
       query: `
       query BuyPrice {
         buyPrice(currencyPair: "BTC-USD") {
@@ -106,7 +107,7 @@ describe('graphql middleware', () => {
     }
   ];
 
-  scenarios.map(({ description, query }) =>
+  scenarios.map(({ description, propertyMatchers, query }) =>
     it(description, async () => {
       const req = {
         body: { query },
@@ -127,7 +128,9 @@ describe('graphql middleware', () => {
 
       expect(res.setHeader).toBeCalled();
 
-      expect(JSON.parse(res.end.mock.calls.toString())).toMatchSnapshot();
+      expect(JSON.parse(res.end.mock.calls.toString())).toMatchSnapshot(
+        propertyMatchers
+      );
     })
   );
 });

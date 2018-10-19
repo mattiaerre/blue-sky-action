@@ -59,15 +59,8 @@ Array [
         >
           <h2>
             <svg
-              attr={
-                Object {
-                  "baseProfile": "tiny",
-                  "version": "1.2",
-                  "viewBox": "0 0 24 24",
-                }
-              }
               baseProfile="tiny"
-              className="undefined align-middle"
+              className="align-middle"
               fill="currentColor"
               height="1em"
               stroke="currentColor"
@@ -439,15 +432,8 @@ Array [
       >
         <h2>
           <svg
-            attr={
-              Object {
-                "baseProfile": "tiny",
-                "version": "1.2",
-                "viewBox": "0 0 24 24",
-              }
-            }
             baseProfile="tiny"
-            className="undefined align-middle"
+            className="align-middle"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -661,15 +647,8 @@ Array [
       >
         <h2>
           <svg
-            attr={
-              Object {
-                "baseProfile": "tiny",
-                "version": "1.2",
-                "viewBox": "0 0 24 24",
-              }
-            }
             baseProfile="tiny"
-            className="undefined align-middle"
+            className="align-middle"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -884,15 +863,8 @@ Array [
         >
           <h2>
             <svg
-              attr={
-                Object {
-                  "baseProfile": "tiny",
-                  "version": "1.2",
-                  "viewBox": "0 0 24 24",
-                }
-              }
               baseProfile="tiny"
-              className="undefined align-middle"
+              className="align-middle"
               fill="currentColor"
               height="1em"
               stroke="currentColor"

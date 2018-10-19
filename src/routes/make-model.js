@@ -9,7 +9,7 @@ const LANGUAGE = 'en';
 const GB = 'gb';
 const US = 'us';
 
-async function makeModel(url, articles, datetime) {
+async function makeModel({ articles, baseUrl, datetime, url }) {
   let now = moment().format();
   try {
     const pool = new Pool({ connectionString: process.env.DATABASE_URL });
@@ -31,6 +31,7 @@ async function makeModel(url, articles, datetime) {
 
   const props = {
     articles,
+    baseUrl,
     categories: sources
       .filter(
         source =>

@@ -4,7 +4,7 @@ import { TiHome } from 'react-icons/ti';
 import TimeZoneWallClock from '../TimeZoneWallClock/TimeZoneWallClock';
 import Crypto from '../../containers/Crypto/Crypto';
 
-const Home = ({ now }) => (
+const Home = ({ baseUrl, now }) => (
   <div>
     <div className="row">
       <div className="col-12">
@@ -15,11 +15,12 @@ const Home = ({ now }) => (
       </div>
     </div>
     <TimeZoneWallClock now={now} />
-    <Crypto />
+    <Crypto baseUrl={baseUrl} />
   </div>
 );
 
 Home.propTypes = {
+  baseUrl: PropTypes.string.isRequired,
   now: PropTypes.object.isRequired
 };
 

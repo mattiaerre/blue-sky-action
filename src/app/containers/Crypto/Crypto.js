@@ -1,6 +1,7 @@
+import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import numeral from 'numeral';
 import client from '../client';
+import renderPrice from './renderPrice';
 
 const query = `
 query SpotPrices {
@@ -15,33 +16,14 @@ query SpotPrices {
 }
 `;
 
-function renderPrice({ amount, color, foregroundColor, name }) {
-  const formatted = numeral(amount).format('0,0.00');
-  return (
-    <div
-      className="Price card"
-      style={{
-        backgroundColor: color,
-        color: foregroundColor
-      }}
-    >
-      <div className="card-body">
-        <span>
-          <span>$</span>
-          <span>{formatted.split('.')[0]}</span>
-          <span>.{formatted.split('.')[1]}</span>
-        </span>
-        <small>{name.toUpperCase()} PRICE</small>
-      </div>
-    </div>
-  );
-}
-
 class Crypto extends Component {
   constructor(props) {
     super(props);
-    this.fetchSpotPrices();
-    this.timer = setInterval(this.fetchSpotPrices, 15 * 1000);
+    const { baseUrl } = this.props;
+    this.fetchSpotPrices(baseUrl);
+    this.timer = setInterval(() => {
+      this.fetchSpotPrices(baseUrl);
+    }, 15 * 1000);
   }
 
   state = {
@@ -53,10 +35,12 @@ class Crypto extends Component {
     clearInterval(this.timer);
   }
 
-  fetchSpotPrices = () => {
-    client.query(query).then(data => {
-      this.setState({ loading: false, spotPrices: data.spotPrices });
-    });
+  fetchSpotPrices = baseUrl => {
+    client(baseUrl)
+      .query(query)
+      .then(data => {
+        this.setState({ loading: false, spotPrices: data.spotPrices });
+      });
   };
 
   render() {
@@ -75,5 +59,9 @@ class Crypto extends Component {
     );
   }
 }
+
+Crypto.propTypes = {
+  baseUrl: PropTypes.string.isRequired
+};
 
 export default Crypto;

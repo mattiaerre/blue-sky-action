@@ -38,6 +38,7 @@ describe('<App />', () => {
 
   const props = {
     articles: [],
+    baseUrl: 'http://localhost:3000',
     categories: [],
     name: '',
     now: {

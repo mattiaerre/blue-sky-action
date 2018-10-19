@@ -5,246 +5,244 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
-        "author": "Clement Uwiringiyimana and Barbara Lewis",
-        "description": "Rwanda's mining boss announced on Tuesday the world's first blockchain project to track tantalum from the pit-face to the refinery, part of a push to woo investors seeking a conflict-free source of minerals.",
-        "publishedAt": "2018-10-17T20:38:16Z",
+        "author": null,
+        "description": "A case has been registered against a Chandigarh Police sub-inspector for allegedly raping a 25-year-model from Mumbai, the police said today. The survivor has alleged that the accused has objectionable photos and videos of her.",
+        "publishedAt": "2018-10-19T11:33:40Z",
+        "source": Object {
+          "id": null,
+          "name": "Ndtv.com",
+        },
+        "title": "Model Files Rape Complaint Against Suspended Chandigarh Police Officer",
+        "url": "https://www.ndtv.com/chandigarh-news/chandigarh-model-files-rape-case-against-suspended-police-officer-1934539",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-04/anti-rape-protest-reuters_650x400_41524321959.jpg",
+      },
+      Object {
+        "author": "Matthew Beedham",
+        "description": "As cryptocurrency falls further into the hands of the mainstream, it falls further away from its creators, the cypherpunks. Earlier today, CoinDesk published an in-depth interview with Timothy May, one of the founding members of the cypherpunk movement. In th…",
+        "publishedAt": "2018-10-19T11:15:05Z",
+        "source": Object {
+          "id": "the-next-web",
+          "name": "The Next Web",
+        },
+        "title": "Legendary cypherpunk declares cryptocurrency is failing its creators",
+        "url": "https://thenextweb.com/hardfork/2018/10/19/cypherpunk-declares-cryptocurrency-failing/",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F10%2Fsatoshi-bitcoin-cryptocurrency-dead-vision-ideology.jpg&signature=5fff7cf7739cd961d54333167c69bd6b",
+      },
+      Object {
+        "author": null,
+        "description": "The London Bullion Market Association (LBMA) is planning to help modernise and improve transparency in the industry with an approval process for companies using blockchain technology to track the movement of gold.",
+        "publishedAt": "2018-10-19T11:10:38Z",
+        "source": Object {
+          "id": null,
+          "name": "Channelnewsasia.com",
+        },
+        "title": "London gold association plans to approve blockchain trackers",
+        "url": "https://www.channelnewsasia.com/news/technology/london-gold-association-plans-to-approve-blockchain-trackers-10845410",
+        "urlToImage": "http://www.channelnewsasia.com/image/10845408/16x9/991/557/7f0f1fa36c39723495010e42439f2aa0/nV/a-gold-ingot-and-gold-coins-are-seen-in-this-illustration-picture-4.jpg",
+      },
+      Object {
+        "author": "Peter Hobson",
+        "description": "The London Bullion Market Association (LBMA) is planning to help modernise and improve transparency in the industry with an approval process for companies using blockchain technology to track the movement of gold.",
+        "publishedAt": "2018-10-19T11:08:48Z",
         "source": Object {
           "id": "reuters",
           "name": "Reuters",
         },
-        "title": "Wooing investors, Rwanda hosts first tantalum-tracking blockchain",
-        "url": "https://ca.reuters.com/article/technologyNews/idCAKCN1MR2ZQ-OCATC",
-        "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20181017&t=2&i=1315822415&w=1200&r=LYNXNPEE9G262-OCATC",
+        "title": "London gold association plans to approve blockchain trackers",
+        "url": "https://in.reuters.com/article/gold-blockchain-lbma/london-gold-association-plans-to-approve-blockchain-trackers-idINKCN1MT1J6",
+        "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20181019&t=2&i=1316414218&w=1200&r=LYNXNPEE9I0W3",
       },
       Object {
-        "author": "Clement Uwiringiyimana",
-        "description": "Rwanda's mining boss announced on Tuesday the world's first blockchain project to track tantalum from the pit-face to the refinery, part of a push to woo investors seeking a conflict-free source of minerals.",
-        "publishedAt": "2018-10-17T20:28:18Z",
+        "author": "Eve Watling",
+        "description": "In a new report, The World Economic Forum says the Fourth Industrial Revolution will eventually radically overhaul both governments and businesses everywhere—and some countries are more prepared than others.",
+        "publishedAt": "2018-10-19T11:06:20Z",
         "source": Object {
-          "id": "reuters",
-          "name": "Reuters",
+          "id": "newsweek",
+          "name": "Newsweek",
         },
-        "title": "UPDATE 2-Wooing investors, Rwanda hosts first tantalum-tracking blockchain",
-        "url": "https://www.reuters.com/article/us-rwanda-blockchain/wooing-investors-rwanda-hosts-first-tantalum-tracking-blockchain-idUSKCN1MR2ZQ",
-        "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20181017&t=2&i=1315821949&w=1200&r=LYNXNPEE9G262",
+        "title": "Is America Ready for the Fourth Industrial Revolution?",
+        "url": "https://www.newsweek.com/america-ready-fourth-industrial-revolution-1177805",
+        "urlToImage": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2018/10/19/0industrial.jpg",
       },
       Object {
-        "author": "Josiah Wilmoth",
-        "description": "Bitcoin futures trading volumes continued to rise in Q3, with derivatives exchange CME reporting a 41 percent quarter-over-quarter increase in average daily volume. Bitcoin Futures Volumes See Major Bump in Q3 During Q3, the exchange averaged 5,053 contracts …",
-        "publishedAt": "2018-10-17T20:25:36Z",
-        "source": Object {
-          "id": "crypto-coins-news",
-          "name": "Crypto Coins News",
-        },
-        "title": "Bitcoin Futures Trading Rose 41 Percent in Q3: CME",
-        "url": "https://www.ccn.com/bitcoin-futures-trading-rose-41-percent-in-q3-cme/",
-        "urlToImage": "https://www.ccn.com/wp-content/uploads/2018/10/bitcoin-futures-price-trading-chart.jpg",
-      },
-      Object {
-        "author": "Jeremy Snodgrass",
-        "description": "Compared to the robust Raw 25, SmackDown 1000 felt like a sleepy Tuesday night. Regardless of reviews, the celebratory episode will remember for the return of Dave Bautista and his face-to-face with Triple H.At the moment, Triple H is occupied as the patriarc…",
-        "publishedAt": "2018-10-17T20:13:00Z",
+        "author": "Omkar Godbole",
+        "description": "Risk aversion in the US stock markets yesterday may have worked in favor of the bitcoin bears.",
+        "publishedAt": "2018-10-19T11:00:26Z",
         "source": Object {
           "id": null,
-          "name": "Comicbook.com",
+          "name": "Coindesk.com",
         },
-        "title": "Guessing What's Next After Batista and Triple H's SmackDown 1000 Staredown",
-        "url": "https://comicbook.com/wwe/2018/10/17/batista-triple-h-smackdown-1000-wwe-whats-next/",
-        "urlToImage": "https://media.comicbook.com/2018/10/batista-triple-h-smackdown-1000-1139582-640x320.jpeg",
-      },
-      Object {
-        "author": "Tyler Durden",
-        "description": "With the machines in charge again, we suggest: China saw a couple of 'mysterious' buying panics at the open and into the close to put a little lipstick on that pig... Is that what's known as double-intervention? European Stocks had a bad day, erasing much of …",
-        "publishedAt": "2018-10-17T20:02:33Z",
-        "source": Object {
-          "id": null,
-          "name": "Zerohedge.com",
-        },
-        "title": "Party-Pooper Powell Ends Short-Squeeze, Stocks Stall",
-        "url": "https://www.zerohedge.com/news/2018-10-17/stock-bounce-stalls-crude-crushed-fed-spoils-party-short-squeeze-ends",
-        "urlToImage": "https://www.zerohedge.com/sites/default/files/styles/max_650x650/public/2018-10/2018-10-17_12-37-47.jpg?itok=dLDbGjlt",
-      },
-      Object {
-        "author": "Roger Aitken, Contributor, Roger Aitken, Contributor https://www.forbes.com/sites/rogeraitken/",
-        "description": "Australian fintech Identitii commenced its initial public offering (IPO) today on the Australian Stock Exchange (ASX), with an indicative market capitalization of around $30 million. Their technology is touted as adding value to financial messages instructing…",
-        "publishedAt": "2018-10-17T19:46:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Forbes.com",
-        },
-        "title": "Can This Blockchain-Based Fintech Disrupt International Payments After $30M Exchange IPO?",
-        "url": "https://www.forbes.com/sites/rogeraitken/2018/10/17/can-this-blockchain-based-fintech-disrupt-international-payments-after-30m-exchange-ipo/",
-        "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F938958436%2F960x0.jpg%3Ffit%3Dscale",
+        "title": "Bitcoin's Price Breaks Through Key Support As Stocks Go South",
+        "url": "https://www.coindesk.com/bitcoins-price-breaks-through-support-as-stocks-go-south/",
+        "urlToImage": "https://media.coindesk.com/uploads/2018/07/pantera.jpg",
       },
       Object {
         "author": null,
-        "description": null,
-        "publishedAt": "2018-10-17T19:40:45Z",
-        "source": Object {
-          "id": "bloomberg",
-          "name": "Bloomberg",
-        },
-        "title": "Bitcoin Trades at $300 Premium on Controversial Crypto Exchange",
-        "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d45be2b0-d248-11e8-8ef0-d3336d4062af&url=L25ld3MvYXJ0aWNsZXMvMjAxOC0xMC0xNy9iaXRjb2luLXRyYWRlcy1hdC0zMDAtcHJlbWl1bS1vbi1jb250cm92ZXJzaWFsLWNyeXB0by1leGNoYW5nZQ==",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "Ionut Arghire",
-        "description": "The maker of the LuminosityLink remote access Trojan (RAT) was sentenced to 30 months in federal prison, the United States Department of Justice announced this week. read more",
-        "publishedAt": "2018-10-17T19:14:38Z",
-        "source": Object {
-          "id": null,
-          "name": "Securityweek.com",
-        },
-        "title": "LuminosityLink RAT Author Sentenced to 30 Months in Prison",
-        "url": "https://www.securityweek.com/luminositylink-rat-author-sentenced-30-months-prison",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "Josiah Wilmoth",
-        "description": "The research arm of cryptocurrency trading platform BitMEX has announced that it will launch its own Bitcoin software client to compete with reference implementation and industry standard Bitcoin Core. Unveiled this week in a lengthy post discussing the merit…",
-        "publishedAt": "2018-10-17T19:07:29Z",
-        "source": Object {
-          "id": "crypto-coins-news",
-          "name": "Crypto Coins News",
-        },
-        "title": "BitMEX Takes Aim at Bitcoin Core, Will Launch Competing Software Client",
-        "url": "https://www.ccn.com/bitmex-takes-aim-at-bitcoin-core-will-launch-competing-software-client/",
-        "urlToImage": "https://www.ccn.com/wp-content/uploads/2018/10/bitmex-cryptocurrency-exchange.jpg",
-      },
-      Object {
-        "author": "Jon Victor",
-        "description": "The price of bitcoin rose this week, but bitcoin’s gain may just have been tether’s loss. The most high-profile stablecoin, whose value is supposedly always $1, dipped as low as 90 cents this week on some exchanges as traders converted their holdings amid rum…",
-        "publishedAt": "2018-10-17T19:04:29Z",
-        "source": Object {
-          "id": null,
-          "name": "Theinformation.com",
-        },
-        "title": "(Un)stablecoins; Blockchain Games",
-        "url": "https://www.theinformation.com/articles/un-stablecoins-blockchain-games",
-        "urlToImage": "https://dmxvlyap9srmn.cloudfront.net/production/articles/3128/normal_48da8261-a220-4295-8f8c-e6fcf4016879.jpg",
-      },
-      Object {
-        "author": null,
-        "description": "PHILADELPHIA, Oct. 17, 2018 /PRNewswire/ -- Blockchain World Conference South (BWC South) is set to host the industry's largest conference ever, featuring more than 100 industry icons, including bitcoin pioneer and keynote speaker, Brock Pierce ; Overstock.co…",
-        "publishedAt": "2018-10-17T19:00:23Z",
+        "description": "DENVER, Oct. 19, 2018 /PRNewswire/ -- Today SALT, the leading provider of large Blockchain-Backed Loans™ for cryptocurrency holders, announced the popular Dogecoin as its latest collateral option for clients seeking to leverage their digital assets to secure …",
+        "publishedAt": "2018-10-19T11:00:25Z",
         "source": Object {
           "id": null,
           "name": "Sys-con.com",
         },
-        "title": "BWC Blockchain Conference Dec. 2-5 To Feature 100+ Key Experts Addressing The Most Cutting-Edge Industry Developments",
-        "url": "http://news.sys-con.com/node/4333181",
+        "title": "VERY LENDING, MUCH LIQUIDITY: SALT Adds Dogecoin as Latest Collateral Option",
+        "url": "http://news.sys-con.com/node/4334087",
         "urlToImage": "",
       },
       Object {
-        "author": "Blockchain World Conference South",
-        "description": "PHILADELPHIA, Oct. 17, 2018 /PRNewswire/ -- Blockchain World Conference South (BWC South) is set to host the industry's largest conference ever, featuring more than 100 industry icons, including bitcoin pioneer and keynote speaker, Brock Pierce; Overstock.com…",
-        "publishedAt": "2018-10-17T19:00:00Z",
+        "author": "Georgi Georgiev",
+        "description": "Nordic banking giant Nordea Bank is allegedly implicated in a multi-million money laundering scandal. Reportedly, the case is related to another recent money laundering scheme involving Denmark’s Danske Bank. Nordea in Hot Water Banking giant Nordea Bank, hea…",
+        "publishedAt": "2018-10-19T11:00:09Z",
+        "source": Object {
+          "id": null,
+          "name": "Bitcoinist.com",
+        },
+        "title": "Nordea in Money Laundering Scandal After Calling Bitcoin ‘High-Risk’ for Money Laundering",
+        "url": "https://bitcoinist.com/nordea-money-laundering-scandal-bitcoin/",
+        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2018/10/shutterstock_515522728.jpg",
+      },
+      Object {
+        "author": "SALT Lending Holdings, Inc.",
+        "description": "DENVER, Oct. 19, 2018 /PRNewswire/ -- Today SALT, the leading provider of large Blockchain-Backed Loans™ for cryptocurrency holders, announced the popular Dogecoin as its latest collateral option for clients seeking to leverage their digital assets to secure …",
+        "publishedAt": "2018-10-19T11:00:00Z",
         "source": Object {
           "id": null,
           "name": "Prnewswire.com",
         },
-        "title": "BWC Blockchain Conference Dec. 2-5 To Feature 100+ Key Experts Addressing The Most Cutting-Edge Industry Developments",
-        "url": "https://www.prnewswire.com/news-releases/bwc-blockchain-conference-dec-2-5-to-feature-100-key-experts-addressing-the-most-cutting-edge-industry-developments-300733053.html",
-        "urlToImage": "/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+        "title": "VERY LENDING, MUCH LIQUIDITY: SALT Adds Dogecoin as Latest Collateral Option",
+        "url": "https://www.prnewswire.com/news-releases/very-lending-much-liquidity-salt-adds-dogecoin-as-latest-collateral-option-300734132.html",
+        "urlToImage": "https://mma.prnewswire.com/media/771805/SALT_Lending_Holdings_Dogecoin.jpg?p=facebook",
       },
       Object {
-        "author": "Iain Thomson",
-        "description": "Grubby Grubbs' grifting days are gone A programmer who wrote and sold software that backdoored PCs so they could be remotely controlled has been jailed for 30 months – and forced to give up his stash of 114 Bitcoins.… <!--#include virtual='/data_centre/_white…",
-        "publishedAt": "2018-10-17T18:57:19Z",
+        "author": "Peter Hobson",
+        "description": "The London Bullion Market Association (LBMA) is planning to help modernise and improve transparency in the industry with an approval process for companies using blockchain technology to track the movement of gold.",
+        "publishedAt": "2018-10-19T10:59:06Z",
+        "source": Object {
+          "id": "reuters",
+          "name": "Reuters",
+        },
+        "title": "London gold association plans to approve blockchain trackers",
+        "url": "https://www.reuters.com/article/gold-blockchain-lbma/london-gold-association-plans-to-approve-blockchain-trackers-idUSL8N1WX5N4",
+        "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      },
+      Object {
+        "author": "Nick Cawley, Analyst, Nick Cawley",
+        "description": "The cryptocurrency market as a space is grinding lower, dominated by tight trading ranges and low volume, and a break-out is becoming increasingly likely.",
+        "publishedAt": "2018-10-19T10:50:00Z",
         "source": Object {
           "id": null,
-          "name": "Theregister.co.uk",
+          "name": "Dailyfx.com",
         },
-        "title": "LuminosityLink spyware mastermind gets 30 months in the clink, forfeits $725k in Bitcoin",
-        "url": "https://www.theregister.co.uk/2018/10/17/luminositylink_rat_author/",
-        "urlToImage": "https://regmedia.co.uk/2018/10/17/shutterstock_jail_time.jpg",
+        "title": "Bitcoin (BTC) Leaking Lower in Low Volume Trade",
+        "url": "https://www.dailyfx.com/forex/market_alert/2018/10/19/Bitcoin-BTC-Leaking-Lower-in-Low-Volume-Trade.html",
+        "urlToImage": null,
       },
       Object {
-        "author": "",
-        "description": "Ransome ware on our network share,changed all files to \\".charm\\" No IDea - posted in Ransomware Help & Tech Support: Hello All, and thanks in advance for any info on this nonsense
- 
-All of our shared folder Files are encrypted with a DOT, charm extension.. ( i…",
-        "publishedAt": "2018-10-17T18:40:42Z",
+        "author": "Editorial Team",
+        "description": "NETELLER, a leading digital wallet provider and part of Paysafe Group, is now offering its customers the opportunity to instantly buy and sell cryptocurrencies, as cryptocurrency adoption continues to grow.",
+        "publishedAt": "2018-10-19T10:21:59Z",
         "source": Object {
           "id": null,
-          "name": "Bleepingcomputer.com",
+          "name": "Finextra.com",
         },
-        "title": "Ransome ware on our network share,changed all files to \\".charm\\" No IDea",
-        "url": "https://www.bleepingcomputer.com/forums/t/685219/ransome-ware-on-our-network-sharechanged-all-files-to-charm-no-idea/",
-        "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+        "title": "Neteller launches in-wallet buy-and-sell cryptocurrency feature",
+        "url": "https://www.finextra.com/pressarticle/75970/neteller-launches-in-wallet-buy-and-sell-cryptocurrency-feature?utm_medium=rss&utm_source=finextrafeed",
+        "urlToImage": "https://www.finextra.com/finextra-images/site/toplogo/finextralogo.png",
       },
       Object {
-        "author": "Marc Wilczek Digital Strategist & CIO Advisor",
-        "description": "Cybercrime is easy and rewarding, making it a perfect arena for criminals everywhere.",
-        "publishedAt": "2018-10-17T18:30:00Z",
+        "author": "mkitchen",
+        "description": "Newsletter Items: Hedge fund capital flows mixed as equities eclipse record Financial services in The Bahamas: Beating disruption with innovation Trium Capital hires for new top-down equity long/short strategy Gelfman Blueprint and CEO to pay more than USD2.5…",
+        "publishedAt": "2018-10-19T10:18:02Z",
         "source": Object {
           "id": null,
-          "name": "Darkreading.com",
+          "name": "Hedgeweek.com",
         },
-        "title": "Cybercrime-as-a-Service: No End in Sight",
-        "url": "https://www.darkreading.com/endpoint/cybercrime-as-a-service-no-end-in-sight/a/d-id/1333033",
-        "urlToImage": "https://twimgs.com/nojitter/darkreading/dr-logo.jpg",
+        "title": "Hedgewire 19/10/18",
+        "url": "https://www.hedgeweek.com/2018/10/19/hedgewire-191018",
+        "urlToImage": null,
       },
       Object {
-        "author": "Syed Shoeb",
-        "description": "Crypto has grown in 2018 vs 2017, however rate of growth in Q3, 2018 has plummeted.",
-        "publishedAt": "2018-10-17T18:26:02Z",
+        "author": "Grace Dobush",
+        "description": "Nicholas Gelfman claimed to have a computer program that gave clients up to 11% returns on bitcoin trading. Spoiler alert: He didn't.",
+        "publishedAt": "2018-10-19T10:12:19Z",
+        "source": Object {
+          "id": "fortune",
+          "name": "Fortune",
+        },
+        "title": "Bitcoin Scammer Hit With $2.5 Million Fine for Ponzi Scheme that Promised Outrageous Returns",
+        "url": "http://fortune.com/2018/10/19/bitcoin-ponzi-scheme-scammer/",
+        "urlToImage": "https://fortunedotcom.files.wordpress.com/2018/10/gettyimages-10519352861.jpg",
+      },
+      Object {
+        "author": "Davit Babayan",
+        "description": "Bitcoin so far has been able to find support above the so-called bottom area below $6,000. But it is not enough to beat the long-term bearish bias, according to a famous cryptocurrency analyst. Crypto Thoreau, in one of its latest tweets, predicted that Bitco…",
+        "publishedAt": "2018-10-19T10:03:09Z",
         "source": Object {
           "id": null,
-          "name": "Hackernoon.com",
+          "name": "Newsbtc.com",
         },
-        "title": "Executive Summary: Q3 2018 report by InWara.",
-        "url": "https://hackernoon.com/https-medium-com-syedshoeb-executive-summary-q3-2018-report-by-inwara-c5b53773da28",
-        "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*82msPQC2p3eRFHsC6KCCyw.png",
+        "title": "Is a Gradual Decline to $3,500 in Play For Bitcoin?",
+        "url": "https://www.newsbtc.com/2018/10/19/is-a-gradual-decline-to-3500-in-play-for-bitcoin/",
+        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/10/19104735/shutterstock_350267387.jpg",
       },
       Object {
-        "author": "Cointelegraph By Helen Partz",
-        "description": "Bitcoin futures trading at the Chicago Mercantile Exchange has continued to grow in Q3, with average daily trading volume up 41% over Q2",
-        "publishedAt": "2018-10-17T18:24:00Z",
+        "author": "Dan Miner",
+        "description": "Blockchain has mystified and entranced the business world for years, starting with the gold rush over cryptocurrency applications such as Bitcoin. But the broad effects of the technology are just now coming into focus. They can be as practical as a better way…",
+        "publishedAt": "2018-10-19T09:55:00Z",
         "source": Object {
           "id": null,
-          "name": "Cointelegraph.com",
+          "name": "Bizjournals.com",
         },
-        "title": "CME Report: BTC Futures Trading Keeps Growing in Q3, Average Daily Volume up 41% Over Q2",
-        "url": "https://cointelegraph.com/news/cme-report-btc-futures-trading-keeps-growing-in-q3-average-daily-volume-up-41-over-q2",
-        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yZGYzMzM1NmY3NGM5ZmYxNmUyY2EzMmRhZTc1MzUyZC5qcGc=.jpg",
+        "title": "Building block(chain)s: Enthusiasts discuss emerging technology",
+        "url": "https://www.bizjournals.com/buffalo/news/2018/10/19/building-block-chain-s-enthusiasts-discuss.html?ana=RSS&s=article_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_buffalo+%28Business+First+of+Buffalo%29",
+        "urlToImage": null,
       },
       Object {
-        "author": "The Onion",
-        "description": "Blockchain technology forms the foundation for cryptocurrencies such as Bitcoin, Dogecoin, and Ethereum, but it can be difficult to understand how it actually works. The Onion answers common questions about blockchain technology. Read more...",
-        "publishedAt": "2018-10-17T18:18:00Z",
+        "author": "Dan Miner",
+        "description": "Blockchain has mystified and entranced the business world for years, starting with the gold rush over cryptocurrency applications such as Bitcoin. But the broad effects of the technology are just now coming into focus. They can be as practical as a better way…",
+        "publishedAt": "2018-10-19T09:55:00Z",
         "source": Object {
           "id": null,
-          "name": "Theonion.com",
+          "name": "Bizjournals.com",
         },
-        "title": "The Onion’s Guide To Blockchain Technology",
-        "url": "https://www.theonion.com/the-onion-s-guide-to-blockchain-technology-1829819640",
-        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--lOF4ZoeR--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/jn6fdwajhx8ihi47gsws.jpg",
+        "title": "Building block(chain)s: Enthusiasts discuss emerging technology",
+        "url": "https://www.bizjournals.com/buffalo/news/2018/10/19/building-block-chain-s-enthusiasts-discuss.html?ana=RSS&s=article_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+industry_7+%28Industry+Technology%29",
+        "urlToImage": null,
       },
       Object {
-        "author": "Josiah Wilmoth",
-        "description": "Bitcoin SV, the Bitcoin Cash (BCH) software client published by blockchain development firm nChain, is now live on GitHub. Released this week, SV (short for “Satoshi Vision”) version 0.1.0 aims to place the fourth-largest cryptocurrency on track to fulfill ps…",
-        "publishedAt": "2018-10-17T18:06:04Z",
-        "source": Object {
-          "id": "crypto-coins-news",
-          "name": "Crypto Coins News",
-        },
-        "title": "Bitcoin Cash Speeds toward Blockchain Split as SV Client Receives Formal Release",
-        "url": "https://www.ccn.com/bitcoin-cash-speeds-toward-blockchain-split-as-sv-client-receives-formal-release/",
-        "urlToImage": "https://www.ccn.com/wp-content/uploads/2018/08/bitcoin-cash-fork-nchain-abc-SV.jpg.jpg",
-      },
-      Object {
-        "author": "Reuben Jackson",
-        "description": "Over the last few years, barely a week goes by without some user-data related topic breaking news headlines. Most recently, Google…",
-        "publishedAt": "2018-10-17T17:51:03Z",
+        "author": "Dan Miner",
+        "description": "Blockchain has mystified and entranced the business world for years, starting with the gold rush over cryptocurrency applications such as Bitcoin. But the broad effects of the technology are just now coming into focus. They can be as practical as a better way…",
+        "publishedAt": "2018-10-19T09:55:00Z",
         "source": Object {
           "id": null,
-          "name": "Hackernoon.com",
+          "name": "Bizjournals.com",
         },
-        "title": "Beyond Consent-Blockchain Can Actually Ensure Data Privacy",
-        "url": "https://hackernoon.com/beyond-consent-blockchain-can-actually-ensure-data-privacy-3e7263e56cee",
-        "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*ve4EJX07A0p1cgQ4xHyryA.png",
+        "title": "Building block(chain)s: Enthusiasts discuss emerging technology",
+        "url": "https://www.bizjournals.com/buffalo/news/2018/10/19/building-block-chain-s-enthusiasts-discuss.html?ana=RSS&s=article_search&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_national+%28Bizjournals+National+Feed%29",
+        "urlToImage": null,
+      },
+      Object {
+        "author": null,
+        "description": "Scala is a type-safe JVM language that incorporates object-oriented and functional programming (OOP and FP) aspects. This book gets you started with essentials of software development by guiding you through various aspects of Scala programming, helping you br…",
+        "publishedAt": "2018-10-19T09:50:04Z",
+        "source": Object {
+          "id": null,
+          "name": "It-ebooks.info",
+        },
+        "title": "Scala Programming Projects",
+        "url": "http://it-ebooks.info/book/1539942266-scala_programming_projects/",
+        "urlToImage": "https://it-ebooks.info/images/ebooks/14/scala_programming_projects.jpg",
+      },
+      Object {
+        "author": "Aayush Jindal",
+        "description": "Key Points Bitcoin price extended losses and declined below the $6,450 support level against the US Dollar. Yesterday’s highlighted key bullish trend line was broken with support at $6,435 on the hourly chart of the BTC/USD pair (data feed from Kraken). The p…",
+        "publishedAt": "2018-10-19T09:28:04Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Bitcoin Price Watch: BTC/USD Remains Vulnerable Below $6,450",
+        "url": "https://www.newsbtc.com/2018/10/19/bitcoin-price-watch-btc-usd-remains-vulnerable-below-6450/",
+        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/06/29050835/techanalysis-btc3.jpg",
       },
     ],
   },
@@ -255,7 +253,7 @@ exports[`graphql middleware query BuyPrice 1`] = `
 Object {
   "data": Object {
     "buyPrice": Object {
-      "amount": 6509.04,
+      "amount": Any<Number>,
       "base": "BTC",
       "code": "BTC",
       "color": "#FFB119",
@@ -967,27 +965,27 @@ Object {
         },
         Object {
           "currency": "ALL",
-          "value": 108.42,
+          "value": 109.03,
         },
         Object {
           "currency": "AMD",
-          "value": 483.5,
+          "value": 483.99,
         },
         Object {
           "currency": "ANG",
-          "value": 1.78,
+          "value": 1.77,
         },
         Object {
           "currency": "AOA",
-          "value": 301.327,
+          "value": 302.4385,
         },
         Object {
           "currency": "ARS",
-          "value": 36.2,
+          "value": 36.63,
         },
         Object {
           "currency": "AUD",
-          "value": 1.41,
+          "value": 1.4,
         },
         Object {
           "currency": "AWG",
@@ -999,7 +997,7 @@ Object {
         },
         Object {
           "currency": "BAM",
-          "value": 1.69,
+          "value": 1.71,
         },
         Object {
           "currency": "BBD",
@@ -1007,15 +1005,15 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.0022817,
+          "value": 0.00232645,
         },
         Object {
           "currency": "BDT",
-          "value": 84.78,
+          "value": 85.11,
         },
         Object {
           "currency": "BGN",
-          "value": 1.7,
+          "value": 1.71,
         },
         Object {
           "currency": "BHD",
@@ -1023,7 +1021,7 @@ Object {
         },
         Object {
           "currency": "BIF",
-          "value": 1791,
+          "value": 1777,
         },
         Object {
           "currency": "BMD",
@@ -1039,7 +1037,7 @@ Object {
         },
         Object {
           "currency": "BRL",
-          "value": 3.69,
+          "value": 3.72,
         },
         Object {
           "currency": "BSD",
@@ -1047,15 +1045,15 @@ Object {
         },
         Object {
           "currency": "BTC",
-          "value": 0.000155,
+          "value": 0.000157,
         },
         Object {
           "currency": "BTN",
-          "value": 73.63,
+          "value": 73.39,
         },
         Object {
           "currency": "BWP",
-          "value": 10.64,
+          "value": 10.7,
         },
         Object {
           "currency": "BYN",
@@ -1063,7 +1061,7 @@ Object {
         },
         Object {
           "currency": "BYR",
-          "value": 21079,
+          "value": 21095,
         },
         Object {
           "currency": "BZD",
@@ -1075,7 +1073,7 @@ Object {
         },
         Object {
           "currency": "CDF",
-          "value": 1634.46,
+          "value": 1642.06,
         },
         Object {
           "currency": "CHF",
@@ -1099,11 +1097,11 @@ Object {
         },
         Object {
           "currency": "COP",
-          "value": 3064.72,
+          "value": 3090.04,
         },
         Object {
           "currency": "CRC",
-          "value": 593.89,
+          "value": 592.93,
         },
         Object {
           "currency": "CUC",
@@ -1111,11 +1109,11 @@ Object {
         },
         Object {
           "currency": "CVE",
-          "value": 95.6,
+          "value": 95.4,
         },
         Object {
           "currency": "CZK",
-          "value": 22.46,
+          "value": 22.55,
         },
         Object {
           "currency": "DJF",
@@ -1123,15 +1121,15 @@ Object {
         },
         Object {
           "currency": "DKK",
-          "value": 6.49,
+          "value": 6.51,
         },
         Object {
           "currency": "DOP",
-          "value": 49.99,
+          "value": 50,
         },
         Object {
           "currency": "DZD",
-          "value": 118.73,
+          "value": 118.7,
         },
         Object {
           "currency": "EEK",
@@ -1139,7 +1137,7 @@ Object {
         },
         Object {
           "currency": "EGP",
-          "value": 17.91,
+          "value": 17.92,
         },
         Object {
           "currency": "ERN",
@@ -1147,15 +1145,15 @@ Object {
         },
         Object {
           "currency": "ETB",
-          "value": 27.81,
+          "value": 27.83,
         },
         Object {
           "currency": "ETC",
-          "value": 0.10362694,
+          "value": 0.10604454,
         },
         Object {
           "currency": "ETH",
-          "value": 0.00493876,
+          "value": 0.00500576,
         },
         Object {
           "currency": "EUR",
@@ -1167,35 +1165,35 @@ Object {
         },
         Object {
           "currency": "FKP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "GBP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "GEL",
-          "value": 2.46,
+          "value": 2.45,
         },
         Object {
           "currency": "GGP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "GHS",
-          "value": 4.83,
+          "value": 4.85,
         },
         Object {
           "currency": "GIP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "GMD",
-          "value": 49.44,
+          "value": 49.49,
         },
         Object {
           "currency": "GNF",
-          "value": 9075,
+          "value": 9048,
         },
         Object {
           "currency": "GTQ",
@@ -1203,7 +1201,7 @@ Object {
         },
         Object {
           "currency": "GYD",
-          "value": 209.19,
+          "value": 209.09,
         },
         Object {
           "currency": "HKD",
@@ -1211,11 +1209,11 @@ Object {
         },
         Object {
           "currency": "HNL",
-          "value": 24.09,
+          "value": 24.04,
         },
         Object {
           "currency": "HRK",
-          "value": 6.45,
+          "value": 6.48,
         },
         Object {
           "currency": "HTG",
@@ -1223,39 +1221,39 @@ Object {
         },
         Object {
           "currency": "HUF",
-          "value": 280,
+          "value": 282,
         },
         Object {
           "currency": "IDR",
-          "value": 15172.46,
+          "value": 15194.38,
         },
         Object {
           "currency": "ILS",
-          "value": 3.65,
+          "value": 3.66,
         },
         Object {
           "currency": "IMP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "INR",
-          "value": 73.59,
+          "value": 73.31,
         },
         Object {
           "currency": "IQD",
-          "value": 1192.454,
+          "value": 1192.962,
         },
         Object {
           "currency": "ISK",
-          "value": 119,
+          "value": 118,
         },
         Object {
           "currency": "JEP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "JMD",
-          "value": 132.33,
+          "value": 131.03,
         },
         Object {
           "currency": "JOD",
@@ -1263,11 +1261,11 @@ Object {
         },
         Object {
           "currency": "JPY",
-          "value": 113,
+          "value": 112,
         },
         Object {
           "currency": "KES",
-          "value": 100.95,
+          "value": 101.06,
         },
         Object {
           "currency": "KGS",
@@ -1275,15 +1273,15 @@ Object {
         },
         Object {
           "currency": "KHR",
-          "value": 4079.39,
+          "value": 4131.09,
         },
         Object {
           "currency": "KMF",
-          "value": 427,
+          "value": 425,
         },
         Object {
           "currency": "KRW",
-          "value": 1129,
+          "value": 1130,
         },
         Object {
           "currency": "KWD",
@@ -1295,19 +1293,19 @@ Object {
         },
         Object {
           "currency": "KZT",
-          "value": 363.07,
+          "value": 366.11,
         },
         Object {
           "currency": "LAK",
-          "value": 8530.01,
+          "value": 8530.03,
         },
         Object {
           "currency": "LBP",
-          "value": 1515.43,
+          "value": 1517.04,
         },
         Object {
           "currency": "LKR",
-          "value": 170.88,
+          "value": 171.46,
         },
         Object {
           "currency": "LRD",
@@ -1315,11 +1313,11 @@ Object {
         },
         Object {
           "currency": "LSL",
-          "value": 14.31,
+          "value": 14.39,
         },
         Object {
           "currency": "LTC",
-          "value": 0.01907305,
+          "value": 0.01923077,
         },
         Object {
           "currency": "LTL",
@@ -1331,11 +1329,11 @@ Object {
         },
         Object {
           "currency": "LYD",
-          "value": 1.38,
+          "value": 1.388,
         },
         Object {
           "currency": "MAD",
-          "value": 9.48,
+          "value": 9.5,
         },
         Object {
           "currency": "MDL",
@@ -1343,19 +1341,19 @@ Object {
         },
         Object {
           "currency": "MGA",
-          "value": 3538.8,
+          "value": 3519.2,
         },
         Object {
           "currency": "MKD",
-          "value": 53.35,
+          "value": 53.64,
         },
         Object {
           "currency": "MMK",
-          "value": 1590.35,
+          "value": 1591.18,
         },
         Object {
           "currency": "MNT",
-          "value": 2490.62,
+          "value": 2490.75,
         },
         Object {
           "currency": "MOP",
@@ -1371,7 +1369,7 @@ Object {
         },
         Object {
           "currency": "MUR",
-          "value": 34.47,
+          "value": 34.65,
         },
         Object {
           "currency": "MVR",
@@ -1379,11 +1377,11 @@ Object {
         },
         Object {
           "currency": "MWK",
-          "value": 727.19,
+          "value": 727.32,
         },
         Object {
           "currency": "MXN",
-          "value": 18.88,
+          "value": 19.13,
         },
         Object {
           "currency": "MYR",
@@ -1391,31 +1389,31 @@ Object {
         },
         Object {
           "currency": "MZN",
-          "value": 60.52,
+          "value": 60.56,
         },
         Object {
           "currency": "NAD",
-          "value": 14.42,
+          "value": 14.39,
         },
         Object {
           "currency": "NGN",
-          "value": 363.54,
+          "value": 363.51,
         },
         Object {
           "currency": "NIO",
-          "value": 32.14,
+          "value": 32.12,
         },
         Object {
           "currency": "NOK",
-          "value": 8.21,
+          "value": 8.24,
         },
         Object {
           "currency": "NPR",
-          "value": 117.8,
+          "value": 117.43,
         },
         Object {
           "currency": "NZD",
-          "value": 1.53,
+          "value": 1.52,
         },
         Object {
           "currency": "OMR",
@@ -1427,7 +1425,7 @@ Object {
         },
         Object {
           "currency": "PEN",
-          "value": 3.33,
+          "value": 3.34,
         },
         Object {
           "currency": "PGK",
@@ -1435,19 +1433,19 @@ Object {
         },
         Object {
           "currency": "PHP",
-          "value": 53.89,
+          "value": 53.73,
         },
         Object {
           "currency": "PKR",
-          "value": 132.78,
+          "value": 132.49,
         },
         Object {
           "currency": "PLN",
-          "value": 3.73,
+          "value": 3.75,
         },
         Object {
           "currency": "PYG",
-          "value": 5941,
+          "value": 5975,
         },
         Object {
           "currency": "QAR",
@@ -1455,19 +1453,19 @@ Object {
         },
         Object {
           "currency": "RON",
-          "value": 4.06,
+          "value": 4.07,
         },
         Object {
           "currency": "RSD",
-          "value": 102.95,
+          "value": 103.21,
         },
         Object {
           "currency": "RUB",
-          "value": 65.51,
+          "value": 65.63,
         },
         Object {
           "currency": "RWF",
-          "value": 880,
+          "value": 886,
         },
         Object {
           "currency": "SAR",
@@ -1475,15 +1473,15 @@ Object {
         },
         Object {
           "currency": "SBD",
-          "value": 7.94,
+          "value": 7.96,
         },
         Object {
           "currency": "SCR",
-          "value": 13.72,
+          "value": 13.64,
         },
         Object {
           "currency": "SEK",
-          "value": 8.96,
+          "value": 9.01,
         },
         Object {
           "currency": "SGD",
@@ -1491,7 +1489,7 @@ Object {
         },
         Object {
           "currency": "SHP",
-          "value": 0.76,
+          "value": 0.77,
         },
         Object {
           "currency": "SLL",
@@ -1499,7 +1497,7 @@ Object {
         },
         Object {
           "currency": "SOS",
-          "value": 579.57,
+          "value": 578.38,
         },
         Object {
           "currency": "SRD",
@@ -1511,7 +1509,7 @@ Object {
         },
         Object {
           "currency": "STD",
-          "value": 21136.15,
+          "value": 21140.35,
         },
         Object {
           "currency": "SVC",
@@ -1519,11 +1517,11 @@ Object {
         },
         Object {
           "currency": "SZL",
-          "value": 14.3,
+          "value": 14.39,
         },
         Object {
           "currency": "THB",
-          "value": 32.48,
+          "value": 32.56,
         },
         Object {
           "currency": "TJS",
@@ -1535,7 +1533,7 @@ Object {
         },
         Object {
           "currency": "TND",
-          "value": 2.838,
+          "value": 2.843,
         },
         Object {
           "currency": "TOP",
@@ -1543,7 +1541,7 @@ Object {
         },
         Object {
           "currency": "TRY",
-          "value": 5.59,
+          "value": 5.62,
         },
         Object {
           "currency": "TTD",
@@ -1555,15 +1553,15 @@ Object {
         },
         Object {
           "currency": "TZS",
-          "value": 2289,
+          "value": 2290.4,
         },
         Object {
           "currency": "UAH",
-          "value": 27.93,
+          "value": 28.04,
         },
         Object {
           "currency": "UGX",
-          "value": 3776,
+          "value": 3759,
         },
         Object {
           "currency": "USD",
@@ -1571,11 +1569,11 @@ Object {
         },
         Object {
           "currency": "UYU",
-          "value": 32.92,
+          "value": 32.78,
         },
         Object {
           "currency": "UZS",
-          "value": 8209.79,
+          "value": 8205.98,
         },
         Object {
           "currency": "VEF",
@@ -1583,7 +1581,7 @@ Object {
         },
         Object {
           "currency": "VND",
-          "value": 23251,
+          "value": 23253,
         },
         Object {
           "currency": "VUV",
@@ -1595,7 +1593,7 @@ Object {
         },
         Object {
           "currency": "XAF",
-          "value": 570,
+          "value": 572,
         },
         Object {
           "currency": "XAG",
@@ -1615,7 +1613,7 @@ Object {
         },
         Object {
           "currency": "XOF",
-          "value": 570,
+          "value": 572,
         },
         Object {
           "currency": "XPD",
@@ -1635,7 +1633,7 @@ Object {
         },
         Object {
           "currency": "ZAR",
-          "value": 14.24,
+          "value": 14.36,
         },
         Object {
           "currency": "ZMK",
@@ -1643,11 +1641,11 @@ Object {
         },
         Object {
           "currency": "ZMW",
-          "value": 11.88,
+          "value": 11.8,
         },
         Object {
           "currency": "ZRX",
-          "value": 1.0989011,
+          "value": 1.11111111,
         },
         Object {
           "currency": "ZWL",
@@ -1672,7 +1670,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 6436,
+        "amount": 6385,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1680,7 +1678,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 439.45,
+        "amount": 429.78,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1688,7 +1686,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 202.59,
+        "amount": 199.77,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1696,7 +1694,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 9.65,
+        "amount": 9.43,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -1704,7 +1702,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 52.45,
+        "amount": 52,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1712,7 +1710,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.91,
+        "amount": 0.89,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -1728,7 +1726,7 @@ Object {
         "name": "Euro",
       },
       Object {
-        "amount": 1.31,
+        "amount": 1.3,
         "base": "GBP",
         "code": "GBP",
         "color": "#FFFFFF",
@@ -1753,124 +1751,124 @@ Object {
   "data": Object {
     "topHeadlines": Array [
       Object {
-        "author": null,
-        "description": "Sen. Lindsey Graham (R-SC) joked on Fox News that it would be \\"terrible\\" if a DNA test showed that he has Iranian heritage.",
-        "publishedAt": "2018-10-17T20:54:36.862626Z",
+        "author": "Gul Tuysuz, Tim Lister and Isil Sariyuce, CNN",
+        "description": "Turkish officials suspected within hours of Saudi journalist Jamal Khashoggi's disappearance that he had likely been killed, CNN has learned.",
+        "publishedAt": "2018-10-19T08:18:47Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Lindsey Graham's joke draws backlash - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/10/17/lindsey-graham-iran-joke-fox-news-nr-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181017120900-01-lindsey-graham-1005-super-tease.jpg",
+        "title": "Turkish officials suspected Khashoggi had been killed within hours of disappearance",
+        "url": "http://us.cnn.com/2018/10/19/middleeast/turkey-khashoggi-intel-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181010124131-01-jamal-khashoggi-hatice-cengiz-file-super-tease.jpg",
+      },
+      Object {
+        "author": "Bard Wilkinson, CNN",
+        "description": "Washington has hardened its stance over Saudi Arabia's role in journalist Jamal Khashoggi's apparent death as new details emerged linking his disappearance to people close to the kingdom's crown prince.",
+        "publishedAt": "2018-10-19T06:53:30Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "US hardens line on Saudi Arabia as evidence mounts over Khashoggi's disappearance",
+        "url": "http://us.cnn.com/2018/10/19/middleeast/us-saudi-khashoggi-trump-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181018111551-khashoggi-protest-01-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "CNN's Jake Tapper discusses President Trump defending the Saudis over the suspected killing of journalist Jamal Khashoggi.",
-        "publishedAt": "2018-10-17T20:54:13.1126621Z",
+        "description": "CNN's Poppy Harlow and Jim Sciutto read Jamal Khashoggi's final column for the Washington Post. The column, entitled \\"What the Arab World Needs Most is Free Expression,\\" was filed just days before he disappeared.",
+        "publishedAt": "2018-10-19T05:39:12.4937811Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Jake Tapper calls out Trump's stunning tone - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/10/17/jake-tapper-jamal-khashoggi-trump-saudi-arabia-lead-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181017162737-jake-tapper-jamal-khashoggi-trump-saudi-arabia-lead-vpx-00001308-super-tease.jpg",
-      },
-      Object {
-        "author": "Erica Orden",
-        "description": "Michael Cohen and his attorney met Wednesday with a group of state and federal law enforcement officials investigating various aspects of President Donald Trump's family business and charitable organization, according to people familiar with the meeting.",
-        "publishedAt": "2018-10-17T20:09:41Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Cohen meets with prosecutors investigating Trump's family business, charity",
-        "url": "http://us.cnn.com/2018/10/17/politics/michael-cohen-prosecutors-meeting/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180416105724-02-michael-cohen-04-13-2018-super-tease.jpg",
-      },
-      Object {
-        "author": "Kaitlan Collins, Kevin Liptak and Jeremy Diamond, CNN",
-        "description": "Facing scrutiny for cultivating close ties with Saudi Arabia's powerful and domineering crown prince, Jared Kushner has remained intentionally in the background this week as West Wing officials feared a more public role would prompt backlash, multiple people …",
-        "publishedAt": "2018-10-17T20:09:11Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Khashoggi disappearance prompts Kushner retreat from Saudi frontlines",
-        "url": "http://us.cnn.com/2018/10/17/politics/jared-kushner-saudi-ties-jamal-khashoggi/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181017120615-101818-jared-kushner-file-super-tease.jpg",
-      },
-      Object {
-        "author": "Oliver Darcy, CNN Business",
-        "description": "The US Secret Service said it is reviewing an incident in which an agent blocked a CBS News reporter on Tuesday from questioning Jared Kushner about the disappearance of Jamal Khashoggi.",
-        "publishedAt": "2018-10-17T19:51:29Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Secret Service reviewing incident of agent blocking reporter from questioning Kushner",
-        "url": "http://us.cnn.com/2018/10/17/media/secret-service-kushner-reporter/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181017120615-101818-jared-kushner-file-super-tease.jpg",
+        "title": "Hear Jamal Khashoggi's powerful final op-ed - CNN Video",
+        "url": "http://us.cnn.com/videos/world/2018/10/18/jamal-khashoggi-final-column-nr-vpx.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181010124131-01-jamal-khashoggi-hatice-cengiz-file-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "Senator Bernie Sanders (I-VT) reacted to President Trump's comments suggesting the criticism Saudi Arabia has received over a missing Saudi journalist is premature, comparing these accusations to the sexual assault allegations against Justice Brett Kavanaugh.",
-        "publishedAt": "2018-10-17T19:23:54.6040285Z",
+        "description": "CNN's Anderson Cooper discusses the fairness of the Khashoggi investigation and the theory of \\"rogue killers\\" that President Trump has been resorting to.",
+        "publishedAt": "2018-10-19T05:39:00.8531833Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Trump's Saudi defense leaves Sanders stunned - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/10/17/bernie-sanders-trump-saudi-journalist-kavanaugh-sot-cpt-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181016221607-bernie-sanders-cuomo-trump-reaction-super-tease.jpg",
+        "title": "Cooper questions Saudi investigation fairness - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2018/10/19/khashoggi-rogue-killers-theory-cooper-kth-ac3-vpx.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181018205907-ac-kth-101818-super-tease.jpg",
       },
       Object {
-        "author": "Nick Paton Walsh, CNN",
-        "description": "While a hunger for the truth has rarely been more acute, the three parties most involved appear substantially disinterested in providing it, writes CNN's Nick Paton Walsh",
-        "publishedAt": "2018-10-17T19:21:50Z",
+        "author": "Analysis by Stephen Collinson, CNN",
+        "description": "The Trump White House may have too much at stake to make Saudi Arabia pay a proportionate price for the apparent murder of Jamal Khashoggi.",
+        "publishedAt": "2018-10-19T04:16:33Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Why do we still know so little about Jamal Khashoggi's disappearance?",
-        "url": "http://us.cnn.com/2018/10/17/opinions/facts-in-khashoggi-drama-npw-intl/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181005103814-02-jamal-khashoggi-file-super-tease.jpg",
+        "title": "Why Trump doesn't want to punish Saudi Arabia",
+        "url": "http://us.cnn.com/2018/10/19/politics/donald-trump-saudi-arabia-jamal-khashoggi-politics/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170521182043-20-trump-saudi-arabia-0521-super-tease.jpg",
       },
       Object {
-        "author": "Nicole Gaouette and Jeremy Diamond, CNN",
-        "description": "President Donald Trump said he is not giving cover to Saudi Arabia over the suspected killing of journalist Jamal Khashoggi, as his top diplomat said Riyadh needed space and time to conduct an investigation.",
-        "publishedAt": "2018-10-17T18:54:39Z",
+        "author": "Tim Lister, Gul Tuysuz and Laura Smith-Spark, CNN",
+        "description": "Saudi intelligence officer and former diplomat Maher Abdulaziz Mutreb played a \\"pivotal role\\" in the apparent assassination of Saudi journalist Jamal Khashoggi, a source familiar with the Turkish investigation has told CNN.",
+        "publishedAt": "2018-10-19T02:23:04Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Trump and Pompeo continue to defend Saudi Arabia over Khashoggi crisis",
-        "url": "http://us.cnn.com/2018/10/17/politics/trump-pompeo-saudi-defense/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181017073056-pompeo-saudi-meeting-super-tease.jpg",
+        "title": "Saudi former diplomat called 'pivotal' in Khashoggi's apparent killing",
+        "url": "http://us.cnn.com/2018/10/18/middleeast/saudi-officer-jamal-khashoggi-investigation-cctv-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181018090258-01-saudi-officer-screengrab-super-tease.jpg",
       },
       Object {
-        "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-        "description": "As part of a media blitz leading up to the 2018 midterm election, President Donald Trump sat down with the Associated Press for a wide-ranging interview. (Sidebar: Are there any other kinds of interviews? Like a narrow-focused interview?)",
-        "publishedAt": "2018-10-17T17:32:50Z",
+        "author": "Kate Sullivan, Jim Acosta and Betsy Klein, CNN",
+        "description": "President Donald Trump praised Montana Republican Rep. Greg Gianforte for assaulting a reporter during his campaign last May, saying \\"any guy who can do a body slam ... he's my guy\\" and made a gesture mimicking a body slam.",
+        "publishedAt": "2018-10-19T02:13:54Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "The 40 most outrageous lines in Donald Trump's Associated Press interview",
-        "url": "http://us.cnn.com/2018/10/17/politics/donald-trump-ap-interview/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181011114942-donald-trump-super-tease.jpg",
+        "title": "Trump jokes about congressman assaulting reporter: 'Any guy who can do a body slam ... he's my guy'",
+        "url": "http://us.cnn.com/2018/10/18/politics/trump-rally-gianforte-my-guy/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181018203232-01-donald-trump-rally-screengrab-1018-super-tease.jpg",
       },
       Object {
-        "author": null,
-        "description": "President Trump was just asked about Turkish claims that they have audio of Jamal Khashoggi’s purported murder.",
-        "publishedAt": "2018-10-17T15:54:29Z",
+        "author": "Eric Bradner, CNN",
+        "description": "Texas Democratic Senate candidate Beto O'Rourke said at a CNN town hall Thursday night that he would still vote to impeach President Donald Trump.",
+        "publishedAt": "2018-10-19T00:26:29Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Live updates: Jamal Khashoggi investigation - CNN",
-        "url": "https://www.cnn.com/middleeast/live-news/saudi-journalist-jamal-khashoggi-missing/h_1320699c0446879df7a60f0bdfa0b8a0",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181003085839-01-jamal-khashoggi-file-super-tease.jpg",
+        "title": "Beto O'Rourke says he still supports impeaching Trump",
+        "url": "http://us.cnn.com/2018/10/18/politics/beto-orourke-impeach-trump-cnn-town-hall/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181018200003-beto-debate-super-tease.jpg",
+      },
+      Object {
+        "author": "David Rothkopf",
+        "description": "While senior officials shouting obscenities at each other outside the Oval Office would be suprising in any other presidency, with this one, not so much, writes David Rothkopf  The real shock is that Kirstjen Nielsen, the enabler of punishing immigration poli…",
+        "publishedAt": "2018-10-19T00:02:33Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "The really shocking part of the White House shouting match",
+        "url": "http://us.cnn.com/2018/10/18/opinions/white-house-shouting-match-bolton-kelly-rothkopf/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181018153630-kelly-bolton-april-18-super-tease.jpg",
+      },
+      Object {
+        "author": "Kaitlan Collins and Jeff Zeleny, CNN",
+        "description": "A heated argument in the West Wing between chief of staff John Kelly and national security adviser John Bolton over a recent surge in border crossings turned into a shouting match Thursday, two sources familiar with the argument told CNN.",
+        "publishedAt": "2018-10-18T19:55:44Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Bolton and Kelly get into heated shouting match sparking resignation fears",
+        "url": "http://us.cnn.com/2018/10/18/politics/john-kelly-john-bolton-immigration/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170118150859-02-white-house-inauguration-ball-super-tease.jpg",
       },
     ],
   },
