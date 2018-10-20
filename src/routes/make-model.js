@@ -22,8 +22,8 @@ async function makeModel({ articles, baseUrl, datetime, url }) {
 
   let nowClient;
   if (datetime) {
-    nowClient = moment(datetime.date_time_ymd)
-      .tz(datetime.offset_tzid)
+    nowClient = moment(datetime.current_time)
+      .tz(datetime.name)
       .format();
   } else {
     nowClient = moment().format();
