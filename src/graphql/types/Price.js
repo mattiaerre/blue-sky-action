@@ -9,6 +9,11 @@ const currency = {
   EUR: { color: '#FFFFFF', foregroundColor: 'black', name: 'Euro' },
   GBP: { color: '#FFFFFF', foregroundColor: 'black', name: 'British Pound' },
   LTC: { color: '#B5B5B5', foregroundColor: 'black', name: 'Litecoin' },
+  USDC: {
+    color: 'rgb(58, 118, 195)',
+    foregroundColor: 'white',
+    name: 'USD Coin'
+  },
   ZRX: { color: '#302C2C', foregroundColor: 'white', name: '0x' }
 };
 
