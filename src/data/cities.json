@@ -31,6 +31,10 @@
     "name": "New York",
     "tzid": "America/New_York"
   },
+  "los-angeles": {
+    "name": "Los Angeles",
+    "tzid": "America/Los_Angeles"
+  },
   "san-francisco": {
     "name": "San Francisco",
     "tzid": "America/Los_Angeles"

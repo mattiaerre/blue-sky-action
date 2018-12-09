@@ -1,6 +1,6 @@
 const express = require('express');
-// const fetchDatetime = require('./fetch-datetime');
-// const getIpAddress = require('./get-ip-address');
+const fetchDatetime = require('./fetch-datetime');
+const getIpAddress = require('./get-ip-address');
 const makeArticles = require('./make-articles');
 const makeModel = require('./make-model');
 
@@ -13,13 +13,15 @@ async function render(req, res, withArticles) {
     const { source } = req.params;
     articles = await makeArticles(source);
   }
-  // const ip = getIpAddress(req);
-  // const datetime = await fetchDatetime(ip);
+  const ip = getIpAddress(req);
+  const datetime = await fetchDatetime(ip);
+
   const model = await makeModel({
     articles,
     baseUrl: `${
       process.env.ENVIRONMENT === 'local' ? req.protocol : 'https'
     }://${req.get('host')}`,
+    datetime,
     url
   });
   res.render('index', model);
