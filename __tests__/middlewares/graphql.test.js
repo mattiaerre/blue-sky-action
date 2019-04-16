@@ -107,7 +107,7 @@ describe('graphql middleware', () => {
     }
   ];
 
-  scenarios.map(({ description, propertyMatchers, query }) =>
+  scenarios.forEach(({ description, propertyMatchers, query }) =>
     it(description, async () => {
       const req = {
         body: { query },
