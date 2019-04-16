@@ -1,6 +1,6 @@
 {
   "name": "blue-sky-action",
-  "version": "1.0.0-rc.12",
+  "version": "1.0.0-rc.13",
   "scripts": {
     "bundle": "npm-run-all -p bundle:client bundle:server",
     "bundle:client": "webpack --mode development --debug true --config webpack.config.client.js",
