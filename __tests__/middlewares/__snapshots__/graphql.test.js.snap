@@ -5,6 +5,18 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
+        "author": "Tyler Durden",
+        "description": "Authored by David Kemmerer via CoinTelegraph.com, Depending on what country you live in, your cryptocurrency will be subject to different tax rules. The questions below address implications within the United States, but similar issues arise around the world. …",
+        "publishedAt": "2019-04-16T00:30:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Zerohedge.com",
+        },
+        "title": "5 Cryptocurrency Tax Questions To Ask On April 15th",
+        "url": "https://www.zerohedge.com/news/2019-04-15/5-cryptocurrency-tax-questions-ask-april-15th",
+        "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2019-04/2019-04-15_11-39-56.jpg?itok=Bu-pVTP3",
+      },
+      Object {
         "author": "Jacob Wolinsky",
         "description": "This research was conducted by the Cambridge Centre for Alternative Finance (CCAF) at the University of Cambridge Judge Business School with the support of the Nomura Research Institute (NRI). A number of external contributors have joined the CCAF research te…",
         "publishedAt": "2019-04-16T00:01:48Z",
@@ -15,6 +27,18 @@ Object {
         "title": "Lack of Standard Terminology For Crypto Hampers Regulatory Response",
         "url": "https://www.valuewalk.com/2019/04/cryptoassets-and-related-activities-regulation/",
         "urlToImage": "https://d2wsh2n0xua73e.cloudfront.net/wp-content/uploads/2018/06/Cryptocurrency__1528393579.jpg",
+      },
+      Object {
+        "author": "ChangeNOW.io",
+        "description": "Hey there, and welcome to another episode of ChangeNOW’s Know The Coin show!",
+        "publishedAt": "2019-04-16T00:01:04Z",
+        "source": Object {
+          "id": null,
+          "name": "Hackernoon.com",
+        },
+        "title": "Know The Coin: Interview with Refereum Founder Dylan Jones",
+        "url": "https://hackernoon.com/know-the-coin-interview-with-refereum-founder-dylan-jones-1f2a65965077",
+        "urlToImage": "https://cdn-images-1.medium.com/max/1200/1*50fZu2e-y4OhDBYNSPf69w.png",
       },
       Object {
         "author": "Cole Petersen",
@@ -219,30 +243,6 @@ Object {
         "title": "Is France The Sleeping Giant Of European Blockchain And Cryptocurrency?",
         "url": "https://www.forbes.com/sites/darrynpollock/2019/04/15/is-france-the-sleeping-giant-of-european-blockchain-and-cryptocurrency/",
         "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1069146440%2F960x0.jpg%3Ffit%3Dscale",
-      },
-      Object {
-        "author": null,
-        "description": "Following last week’s threat to do so, Binance has officially announced that Bitcoin SV will no longer trade on its popular platform as of April 22nd. Withdrawals must be made from the platform by July 22nd, according to an official post. The reasons cited by…",
-        "publishedAt": "2019-04-15T20:15:56Z",
-        "source": Object {
-          "id": null,
-          "name": "Yahoo.com",
-        },
-        "title": "Binance and ShapeShift #DelistBSV; Kraken and Others Under Pressure",
-        "url": "https://finance.yahoo.com/news/binance-shapeshift-delistbsv-kraken-others-201556556.html",
-        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/srFLvz36zNMtys0BPuCNDw--~B/aD02Njc7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/ccn_656/7f6f1c2800e776b441abadc8a63e8b37",
-      },
-      Object {
-        "author": "P. H. Madore",
-        "description": "Following last week’s threat to do so, Binance has officially announced that Bitcoin SV will no longer trade on its popular platform as of April 22nd. Withdrawals must be made from the platform by July 22nd, according to an official post. The reasons cited by…",
-        "publishedAt": "2019-04-15T20:15:56Z",
-        "source": Object {
-          "id": "crypto-coins-news",
-          "name": "Crypto Coins News",
-        },
-        "title": "Binance and ShapeShift #DelistBSV; Kraken and Others Under Pressure",
-        "url": "https://www.ccn.com/binance-and-shapeshift-delistbsv-kraken-and-others-under-pressure",
-        "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/0415bsv.jpg",
       },
     ],
   },
@@ -1001,7 +1001,7 @@ Object {
         },
         Object {
           "currency": "BAT",
-          "value": 3.42493904,
+          "value": 3.38713802,
         },
         Object {
           "currency": "BBD",
@@ -1009,7 +1009,7 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00318878,
+          "value": 0.00312505,
         },
         Object {
           "currency": "BDT",
@@ -1049,11 +1049,11 @@ Object {
         },
         Object {
           "currency": "BSV",
-          "value": 0.01642848,
+          "value": 0.01665684,
         },
         Object {
           "currency": "BTC",
-          "value": 0.000199,
+          "value": 0.000198,
         },
         Object {
           "currency": "BTN",
@@ -1105,7 +1105,7 @@ Object {
         },
         Object {
           "currency": "COP",
-          "value": 3116.33,
+          "value": 3116.91,
         },
         Object {
           "currency": "CRC",
@@ -1137,7 +1137,7 @@ Object {
         },
         Object {
           "currency": "DZD",
-          "value": 118.98,
+          "value": 119.09,
         },
         Object {
           "currency": "EEK",
@@ -1145,7 +1145,7 @@ Object {
         },
         Object {
           "currency": "EGP",
-          "value": 17.34,
+          "value": 17.35,
         },
         Object {
           "currency": "ERN",
@@ -1157,11 +1157,11 @@ Object {
         },
         Object {
           "currency": "ETC",
-          "value": 0.16516641,
+          "value": 0.16323865,
         },
         Object {
           "currency": "ETH",
-          "value": 0.00626017,
+          "value": 0.00620328,
         },
         Object {
           "currency": "EUR",
@@ -1233,7 +1233,7 @@ Object {
         },
         Object {
           "currency": "IDR",
-          "value": 14060.25,
+          "value": 14081.55,
         },
         Object {
           "currency": "ILS",
@@ -1245,7 +1245,7 @@ Object {
         },
         Object {
           "currency": "INR",
-          "value": 69.45,
+          "value": 69.42,
         },
         Object {
           "currency": "IQD",
@@ -1273,7 +1273,7 @@ Object {
         },
         Object {
           "currency": "KES",
-          "value": 101.01,
+          "value": 101,
         },
         Object {
           "currency": "KGS",
@@ -1325,7 +1325,7 @@ Object {
         },
         Object {
           "currency": "LTC",
-          "value": 0.01280902,
+          "value": 0.01273318,
         },
         Object {
           "currency": "LTL",
@@ -1389,7 +1389,7 @@ Object {
         },
         Object {
           "currency": "MXN",
-          "value": 18.87,
+          "value": 18.88,
         },
         Object {
           "currency": "MYR",
@@ -1441,7 +1441,7 @@ Object {
         },
         Object {
           "currency": "PHP",
-          "value": 51.66,
+          "value": 51.67,
         },
         Object {
           "currency": "PKR",
@@ -1465,7 +1465,7 @@ Object {
         },
         Object {
           "currency": "RSD",
-          "value": 104.33,
+          "value": 104.32,
         },
         Object {
           "currency": "RUB",
@@ -1549,7 +1549,7 @@ Object {
         },
         Object {
           "currency": "TRY",
-          "value": 5.81,
+          "value": 5.8,
         },
         Object {
           "currency": "TTD",
@@ -1597,7 +1597,7 @@ Object {
         },
         Object {
           "currency": "VND",
-          "value": 23204,
+          "value": 23209,
         },
         Object {
           "currency": "VUV",
@@ -1629,7 +1629,7 @@ Object {
         },
         Object {
           "currency": "XLM",
-          "value": 8.9040059,
+          "value": 8.8875064,
         },
         Object {
           "currency": "XOF",
@@ -1649,7 +1649,7 @@ Object {
         },
         Object {
           "currency": "XRP",
-          "value": 3.147128,
+          "value": 3.145643,
         },
         Object {
           "currency": "YER",
@@ -1657,11 +1657,11 @@ Object {
         },
         Object {
           "currency": "ZAR",
-          "value": 14.05,
+          "value": 14.06,
         },
         Object {
           "currency": "ZEC",
-          "value": 0.0148214,
+          "value": 0.01478743,
         },
         Object {
           "currency": "ZMK",
@@ -1673,7 +1673,7 @@ Object {
         },
         Object {
           "currency": "ZRX",
-          "value": 3.25065826,
+          "value": 3.23680113,
         },
         Object {
           "currency": "ZWL",
@@ -1698,7 +1698,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 5027.695,
+        "amount": 5049.675,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1706,7 +1706,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 313.6,
+        "amount": 321.78,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1722,7 +1722,7 @@ Object {
         "name": "UNKNOWN",
       },
       Object {
-        "amount": 159.74,
+        "amount": 161.195,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1730,7 +1730,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 6.0545,
+        "amount": 6.126,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -1738,7 +1738,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 78.07,
+        "amount": 78.715,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1746,7 +1746,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.30763,
+        "amount": 0.308947,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -1762,7 +1762,7 @@ Object {
         "name": "USD Coin",
       },
       Object {
-        "amount": 0.291976,
+        "amount": 0.2952255,
         "base": "BAT",
         "code": "BAT",
         "color": "rgb(237, 93, 42)",
@@ -1770,7 +1770,7 @@ Object {
         "name": "Basic Attention Token",
       },
       Object {
-        "amount": 67.47,
+        "amount": 67.625,
         "base": "ZEC",
         "code": "ZEC",
         "color": "rgb(228, 179, 89)",
@@ -1778,7 +1778,7 @@ Object {
         "name": "Zcash",
       },
       Object {
-        "amount": 0.31775,
+        "amount": 0.3178,
         "base": "XRP",
         "code": "XRP",
         "color": "#222222",
@@ -1786,7 +1786,7 @@ Object {
         "name": "XRP",
       },
       Object {
-        "amount": 0.112309,
+        "amount": 0.112525,
         "base": "XLM",
         "code": "XLM",
         "color": "#FFFFFF",
