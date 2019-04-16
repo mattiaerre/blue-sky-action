@@ -19,6 +19,8 @@ const currency = {
     foregroundColor: 'white',
     name: 'USD Coin'
   },
+  XLM: { color: '#FFFFFF', foregroundColor: 'black', name: 'Stellar Lumens' },
+  XRP: { color: '#222222', foregroundColor: 'white', name: 'XRP' },
   ZEC: {
     color: 'rgb(228, 179, 89)',
     foregroundColor: 'black',

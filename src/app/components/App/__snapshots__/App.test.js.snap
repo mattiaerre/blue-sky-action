@@ -109,7 +109,7 @@ Array [
               >
                 Mon, Jan 01 08:00
                  
-                +11
+                +16
               </p>
             </div>
           </div>
@@ -133,7 +133,7 @@ Array [
               >
                 Mon, Jan 01 07:00
                  
-                +10
+                +15
               </p>
             </div>
           </div>
@@ -157,7 +157,7 @@ Array [
               >
                 Mon, Jan 01 07:00
                  
-                +10
+                +15
               </p>
             </div>
           </div>
@@ -181,7 +181,7 @@ Array [
               >
                 Mon, Jan 01 01:00
                  
-                +4
+                +9
               </p>
             </div>
           </div>
@@ -205,7 +205,7 @@ Array [
               >
                 Mon, Jan 01 01:00
                  
-                +4
+                +9
               </p>
             </div>
           </div>
@@ -229,7 +229,7 @@ Array [
               >
                 Mon, Jan 01 00:00
                  
-                +3
+                +8
               </p>
             </div>
           </div>
@@ -238,7 +238,7 @@ Array [
           className="col-lg-3 col-md-6 col-sm-12 mb-4"
         >
           <div
-            className="card text-light bg-primary"
+            className="card text-light bg-secondary"
           >
             <div
               className="card-body"
@@ -253,7 +253,7 @@ Array [
               >
                 Sun, Dec 31 21:00
                  
-                
+                +5
               </p>
             </div>
           </div>
@@ -277,7 +277,7 @@ Array [
               >
                 Sun, Dec 31 19:00
                  
-                -2
+                +3
               </p>
             </div>
           </div>
@@ -286,7 +286,31 @@ Array [
           className="col-lg-3 col-md-6 col-sm-12 mb-4"
         >
           <div
-            className="card text-light bg-secondary"
+            className="card text-light bg-primary"
+          >
+            <div
+              className="card-body"
+            >
+              <h5
+                className="card-title"
+              >
+                Los Angeles
+              </h5>
+              <p
+                className="card-text"
+              >
+                Sun, Dec 31 16:00
+                 
+                
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-3 col-md-6 col-sm-12 mb-4"
+        >
+          <div
+            className="card text-light bg-primary"
           >
             <div
               className="card-body"
@@ -301,7 +325,7 @@ Array [
               >
                 Sun, Dec 31 16:00
                  
-                -5
+                
               </p>
             </div>
           </div>
