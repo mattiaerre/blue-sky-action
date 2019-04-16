@@ -7,7 +7,8 @@ const logger = require('morgan');
 const sassMiddleware = require('node-sass-middleware');
 const path = require('path');
 
-const graphqlMiddleware = require('./middlewares/graphql');
+const graphql = require('./middlewares/graphql');
+const requireHTTPS = require('./middlewares/requireHTTPS');
 const api = require('./routes/api');
 const coinbase = require('./routes/coinbase');
 const index = require('./routes/index');
@@ -33,8 +34,9 @@ app.use(
   })
 );
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(requireHTTPS);
 
-app.use('/graphql', graphqlMiddleware);
+app.use('/graphql', graphql);
 
 app.use('/api/v1', api);
 app.use('/', index);
