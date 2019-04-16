@@ -5,244 +5,244 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
-        "author": "Daniel Palmer",
-        "description": "The Winklevoss twins are reportedly suing bitcoin entrepreneur Charlie Shrem over 5,000 bitcoin allegedly owed to them from a past business deal.",
-        "publishedAt": "2018-11-02T11:30:31Z",
+        "author": "Jacob Wolinsky",
+        "description": "This research was conducted by the Cambridge Centre for Alternative Finance (CCAF) at the University of Cambridge Judge Business School with the support of the Nomura Research Institute (NRI). A number of external contributors have joined the CCAF research te…",
+        "publishedAt": "2019-04-16T00:01:48Z",
         "source": Object {
           "id": null,
-          "name": "Coindesk.com",
+          "name": "Valuewalk.com",
         },
-        "title": "Winklevoss Brothers Sue Charlie Shrem Over $32 Million in Bitcoin",
-        "url": "https://www.coindesk.com/winklevoss-brothers-sue-charlie-shrem-over-32-million-in-bitcoin/",
-        "urlToImage": "https://media.coindesk.com/uploads/2014/01/Charlie_Shrem_2013.jpg",
+        "title": "Lack of Standard Terminology For Crypto Hampers Regulatory Response",
+        "url": "https://www.valuewalk.com/2019/04/cryptoassets-and-related-activities-regulation/",
+        "urlToImage": "https://d2wsh2n0xua73e.cloudfront.net/wp-content/uploads/2018/06/Cryptocurrency__1528393579.jpg",
       },
       Object {
-        "author": "Mike Wall",
-        "description": "Planetary Resources Inc., once a high-flying company backed by billionaires with aspirations to mine asteroids, only to later suffer funding problems, has been acquired by a blockchain company, the firms announced Oct. 31.",
-        "publishedAt": "2018-11-02T11:30:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Space.com",
-        },
-        "title": "Asteroid Mining Company Planetary Resources Acquired by Blockchain Firm",
-        "url": "https://www.space.com/42324-asteroid-mining-company-planetary-resources-acquired.html",
-        "urlToImage": "https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA4MC80OTQvb3JpZ2luYWwvYXJreWQ2LmpwZw==",
-      },
-      Object {
-        "author": "Thomas Delahunty",
-        "description": "In the cryptosphere, all eyes are on Malta, as November 1 marked the start of The Malta Blockchain Summit, a much-hyped event that looks to shine a light on the ever-growing cryptocurrency and blockchain industries. The island nation, which has established it…",
-        "publishedAt": "2018-11-02T11:00:40Z",
+        "author": "Cole Petersen",
+        "description": "After picking up some steam this past Sunday, Bitcoin was able to approach the $5,200 level before dropping slightly. Although the previous drop – which sent BTC reeling back towards the lower-$5,000 region last week – seemed to mark the end of the surge, it …",
+        "publishedAt": "2019-04-16T00:00:18Z",
         "source": Object {
           "id": null,
           "name": "Newsbtc.com",
         },
-        "title": "Malta Attracts 5,000+ Attendees in Crypto Conference, Active Market",
-        "url": "https://www.newsbtc.com/2018/11/02/malta-attracts-5000-attendees-in-crypto-conference-active-market/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/11/02080448/shutterstock_1152797003.jpg",
+        "title": "Analysts Expect Bitcoin to Climb Higher as BTC Forms Upwards Parabola Pattern",
+        "url": "https://www.newsbtc.com/2019/04/16/analysts-expect-bitcoin-to-continue-climbing-higher-as-btc-forms-upwards-parabola-pattern/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/04/shutterstock_1254945220-2.jpg",
       },
       Object {
-        "author": "Audra Schroeder",
-        "description": "BitChute is an alternative to YouTube—but it’s still ripe with conspiracy theories and racism. The post Far-right conspiracy vloggers have a new home appeared first on The Daily Dot.",
-        "publishedAt": "2018-11-02T11:00:09Z",
+        "author": "The Freedonia Cooperative",
+        "description": "Cardano has had a big April so far - up more than 30% in USD value in just the first two weeks of April. This helped it hit the kind of 2019 success other coins",
+        "publishedAt": "2019-04-15T23:53:10Z",
         "source": Object {
           "id": null,
-          "name": "Dailydot.com",
+          "name": "Seekingalpha.com",
         },
-        "title": "Far-right conspiracy vloggers have a new home",
-        "url": "https://www.dailydot.com/upstream/bitchute/",
-        "urlToImage": "https://www.dailydot.com/wp-content/uploads/2018/11/bitchute-1024x512.jpg",
+        "title": "April Outlook For Cardano ADA On Bitcoin Pair Trading",
+        "url": "https://seekingalpha.com/article/4254599-april-outlook-cardano-ada-bitcoin-pair-trading",
+        "urlToImage": "https://static1.seekingalpha.com/uploads/2019/4/15/2346101-15553368330130804.png",
       },
       Object {
-        "author": "Omkar Godbole",
-        "description": "A trendline rising from 2011 lows has become the level to beat for the bitcoin bears.",
-        "publishedAt": "2018-11-02T11:00:04Z",
-        "source": Object {
-          "id": null,
-          "name": "Coindesk.com",
-        },
-        "title": "Bitcoin Sees New Price Support From 7-Year-Long Rising Trendline",
-        "url": "https://www.coindesk.com/bitcoin-sees-new-price-support-from-7-year-long-rising-trendline/",
-        "urlToImage": "https://media.coindesk.com/uploads/2018/03/BTC-and-chart.jpg",
-      },
-      Object {
-        "author": "Cheryl Wischhover",
-        "description": "Adaptogenic dusts, oils, and pills are a wellness craze, but there’s little scientific basis.",
-        "publishedAt": "2018-11-02T11:00:02Z",
-        "source": Object {
-          "id": null,
-          "name": "Vox.com",
-        },
-        "title": "Adaptogens, the mysterious herbs that supposedly alleviate your stress, explained",
-        "url": "https://www.vox.com/the-goods/2018/11/2/18026400/adaptogens-moon-juice-amanda-chantal-bacon-ashwagandha",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/KqxpcokC5SNCBdCnOrZb3GJsj1w=/0x553:4885x3111/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13337911/GettyImages_771493345.jpg",
-      },
-      Object {
-        "author": "Matthew Beedham",
-        "description": "Now, about that money. Rapper T.I. is being taken to court and sued by his investors after peddling a cryptocurrency that turned out to be nothing more than a get-rich-quick scheme – for him. It was all a trap! Big shit poppin’ indeed. The cryptocurrency toke…",
-        "publishedAt": "2018-11-02T10:36:48Z",
-        "source": Object {
-          "id": "the-next-web",
-          "name": "The Next Web",
-        },
-        "title": "We used T.I. songs to describe the lawsuit against his failed cryptocurrency",
-        "url": "https://thenextweb.com/hardfork/2018/11/02/ti-sued-failed-cryptocurrency/",
-        "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F11%2Fti-bitcoin-flik-cryptocurrency-fake-scam-felton-ponzi.jpg&signature=f10fcc4cc14a495628cee2192b06c1ea",
-      },
-      Object {
-        "author": "soyacincau",
-        "description": "As bitcoin and token exchanges become widely accepted globally, Malaysia is looking to position itself as a relevant player in a growing yet highly experimental form of decentralised currency. To this end, the Government will be looking at developing a framew…",
-        "publishedAt": "2018-11-02T10:35:22Z",
-        "source": Object {
-          "id": null,
-          "name": "Soyacincau.com",
-        },
-        "title": "Malaysian Budget 2019: Government to set standards for sale of bitcoin and token exchanges in Malaysia",
-        "url": "https://www.soyacincau.com/2018/11/02/malaysian-budget-2019-government-to-set-standards-for-sale-of-bitcoin-and-token-exchanges-in-malaysia/",
-        "urlToImage": "https://www.soyacincau.com/wp-content/uploads/2018/11/20181102-Belanjawan2019-Bitcoin.jpg",
-      },
-      Object {
-        "author": "PTI",
-        "description": "Nine Asian countries, including India, have a high-level of pirated software loaded on personal computers.",
-        "publishedAt": "2018-11-02T10:33:02Z",
-        "source": Object {
-          "id": "the-times-of-india",
-          "name": "The Times of India",
-        },
-        "title": "Microsoft tests show 91% new PCs from India loaded with pirated software",
-        "url": "https://economictimes.indiatimes.com/tech/software/microsoft-tests-show-91-new-pcs-from-india-loaded-with-pirated-software/articleshow/66475487.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-66475532,width-1070,height-580,imgsize-475260,overlay-economictimes/photo.jpg",
-      },
-      Object {
-        "author": "Sponsored",
-        "description": "This is a submitted sponsored story. CCN urges readers to conduct their own research with due diligence into the company, product or service mentioned in the content below. Unique combination of crypto technology and Whisky tradition Since the inception of Bi…",
-        "publishedAt": "2018-11-02T10:16:15Z",
+        "author": "P. H. Madore",
+        "description": "Blockchain.com, one of the oldest non-custodial wallet services on the web, has decided to #delistBSV. While the official note on the subject offers no justification or reasoning, Blockchain CEO Peter Smith posted a few Tweets earlier today which indicate the…",
+        "publishedAt": "2019-04-15T23:07:43Z",
         "source": Object {
           "id": "crypto-coins-news",
           "name": "Crypto Coins News",
         },
-        "title": "WHISKY TOKEN Starts an Asset-Backed Crypto Revolution- ICO Launches December 1st",
-        "url": "https://www.ccn.com/whisky-token-starts-an-asset-backed-crypto-revolution-ico-launches-december-1st/",
-        "urlToImage": "https://www.ccn.com/wp-content/uploads/2017/10/Rocket-launch.jpg",
+        "title": "Blockchain.com Wallet Latest to #DelistBSV",
+        "url": "https://www.ccn.com/blockchain-com-wallet-latest-to-delistbsv",
+        "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/0415blockchainbsv.jpg",
       },
       Object {
-        "author": "Will Baird",
-        "description": "Like the internet, blockchain will not solve all problems. But the technology will surely have a lasting impact through uses beyond just cryptocurrencies.",
-        "publishedAt": "2018-11-02T10:00:51Z",
+        "author": null,
+        "description": "Date: Thursday, May 16, 2019 Time: 02:00 PM Eastern Daylight Time Duration: 1 hour Cryptominers are built to turn computing power into revenue. To make cryptomining a profitable venture, cyber criminals are writing and distributing malware to steal comput",
+        "publishedAt": "2019-04-15T22:16:49Z",
         "source": Object {
           "id": null,
-          "name": "Aei.org",
+          "name": "Itprotoday.com",
         },
-        "title": "Is blockchain the new tech bubble set to burst? - Is blockchain the new tech bubble set to burst?",
-        "url": "http://www.aei.org/publication/is-blockchain-the-new-tech-bubble-set-to-burst/",
-        "urlToImage": "http://www.aei.org/wp-content/uploads/2018/11/twenty20_69272502-ca42-4ead-82de-ee13920943cf-e1541124481902.jpg",
+        "title": "How to Detect Cryptomining in your Environment",
+        "url": "https://www.itprotoday.com/business-resources/how-detect-cryptomining-your-environment-0",
+        "urlToImage": "https://www.itprotoday.com/sites/itprotoday.com/files/mktg-Security.jpg",
+      },
+      Object {
+        "author": "Nicole Grinstead",
+        "description": "By CCN: Tax season has once again come and (almost) gone, and so have many hard-earned dollars that once lined your wallet and bank account. But just because you’ve been paying federal taxes for as long as you’ve been earning an income doesn’t mean you have t…",
+        "publishedAt": "2019-04-15T22:04:29Z",
+        "source": Object {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News",
+        },
+        "title": "Tax Day Blues? Move to Puerto Rico for Epic IRS Loophole",
+        "url": "https://www.ccn.com/tax-day-blues-move-to-puerto-rico-for-epic-irs-loophole",
+        "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/irs-tax-code-loophole-shutterstock.jpg",
       },
       Object {
         "author": "Cole Petersen",
-        "description": "Financial advisory firm, DeVere, has officially launched an actively managed crypto investment fund that is geared towards experienced investors who are looking to capitalize from future growth in the cryptocurrency markets. DeVere’s chief, Nigel Green, spoke…",
-        "publishedAt": "2018-11-02T10:00:38Z",
+        "description": "Over the past couple of weeks Bitcoin SV – the Bitcoin Cash hard fork that is the brain-child of Craig Wright and Calvin Ayre – has been embroiled in controversy, mainly due to the legal action being brought about by BSV’s champions against popular figures wi…",
+        "publishedAt": "2019-04-15T22:00:19Z",
         "source": Object {
           "id": null,
           "name": "Newsbtc.com",
         },
-        "title": "Consultancy Giant DeVere Launches Actively Managed Crypto Fund",
-        "url": "https://www.newsbtc.com/2018/11/02/consultancy-giant-devere-launches-actively-managed-crypto-fund/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/11/02080350/shutterstock_149072456.jpg",
+        "title": "Biggest Winner of Binance’s Bitcoin SV Delisting is Bitcoin Cash: Surges 15%",
+        "url": "https://www.newsbtc.com/2019/04/15/bitcoin-sv-bsv-plummets-after-binance-delisting-leading-bitcoin-cash-to-skyrocket/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/04/shutterstock_1338426002.jpg",
       },
       Object {
-        "author": "Nathaniel Popper | NYT",
-        "description": "Jeffrey Berns imagines a sort of experimental community spread over about a hundred square miles, where houses, schools, commercial districts and production studios will be built",
-        "publishedAt": "2018-11-02T09:56:00Z",
+        "author": "The Freedonia Cooperative",
+        "description": "Monero has stayed nearly even with Bitcoin in 2019, though other altcoins have outpaced it with news of tech upgrades and partnerships. Bugs have held Monero ba",
+        "publishedAt": "2019-04-15T21:28:53Z",
         "source": Object {
           "id": null,
-          "name": "Business-standard.com",
+          "name": "Seekingalpha.com",
         },
-        "title": "How a cryptocurrency millionaire intends to build a utopia in US' Nevada",
-        "url": "https://www.business-standard.com/article/international/how-a-cryptocurrency-millionaire-intends-to-build-a-utopia-in-us-nevada-118110200847_1.html",
-        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-11/02/full/1541151654-5742.jpg",
+        "title": "April Outlook For Monero XMR On Bitcoin Trading",
+        "url": "https://seekingalpha.com/article/4254581-april-outlook-monero-xmr-bitcoin-trading",
+        "urlToImage": "https://static.seekingalpha.com/uploads/2019/4/15/2346101-15553362494334707_origin.png",
       },
       Object {
         "author": null,
-        "description": "Microsoft purchased the personal computers between May and July this year, and then tested them, which showed that more 83 percent of them acquired from the nine countries were loaded with pirate software, according to the analysis of newly purchased systems.",
-        "publishedAt": "2018-11-02T09:55:06Z",
+        "description": "By CCN: Iceland has been a hotbed for bitcoin mining for years, fueled by its cheap geothermal power. However, the Nordic island nation is pumping the brakes on more crypto mining as it seeks to thwart accelerating energy demand. Last year, Icelandic authorit…",
+        "publishedAt": "2019-04-15T21:26:07Z",
         "source": Object {
           "id": null,
-          "name": "Moneycontrol.com",
+          "name": "Yahoo.com",
         },
-        "title": "Microsoft tests show 91% new PCs from India loaded with pirated software",
-        "url": "https://www.moneycontrol.com/news/business/microsoft-tests-show-91-new-pcs-from-india-loaded-with-pirated-software-3123421.html",
-        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2018/09/Microsoft-770x433.jpg",
+        "title": "Bitcoin Miners Unphased by Iceland’s Cold Shoulder as Energy Demand Mounts",
+        "url": "https://finance.yahoo.com/news/bitcoin-miners-unphased-iceland-cold-212607014.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5dn2lWsIXTLUq.__q881fA--~B/aD02Njc7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/ccn_656/b115acbf533f7b33f38206c1cd8d59aa",
       },
       Object {
-        "author": null,
-        "description": "Experts observed two sextortion campaigns relying on the notorious Necurs botnet. The scammers are targeting victims whose data has previously been leaked. Two new sextortion campaigns being distributed via the notorious Necurs botnet have recently been ident…",
-        "publishedAt": "2018-11-02T09:49:00Z",
+        "author": "David Hundeyin",
+        "description": "By CCN: Iceland has been a hotbed for bitcoin mining for years, fueled by its cheap geothermal power. However, the Nordic island nation is pumping the brakes on more crypto mining as it seeks to thwart accelerating energy demand. Last year, Icelandic authorit…",
+        "publishedAt": "2019-04-15T21:26:07Z",
+        "source": Object {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News",
+        },
+        "title": "Bitcoin Miners Unphased by Iceland’s Cold Shoulder as Energy Demand Mounts",
+        "url": "https://www.ccn.com/bitcoin-miners-unphased-iceland-cold-shoulder",
+        "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/Iceland-bitcoin-miner.jpg",
+      },
+      Object {
+        "author": "Shaun Williams",
+        "description": "Last week France decided to push forward rules and regulations involving Bitcoin and other cryptocurrencies that aims to provide a framework for people to create and trade cryptos. Of course, the new rules would allow the French to tax the profits of anyone i…",
+        "publishedAt": "2019-04-15T21:07:59Z",
         "source": Object {
           "id": null,
-          "name": "Cyware.com",
+          "name": "Wccftech.com",
         },
-        "title": "New Necurs sextortion campaign raked in over $145,000 in bitcoins",
-        "url": "https://cyware.com/news/new-necurs-sextortion-campaign-raked-in-over-145000-in-bitcoins-479551d5/",
-        "urlToImage": "https://cystory-images.s3.amazonaws.com/shutterstock_413686570.jpg",
+        "title": "France Urges E.U. To Adopt Same Cryptocurrency Regulation Laws",
+        "url": "https://wccftech.com/france-urges-e-u-to-adopt-same-cryptocurrency-regulation-laws/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2019/04/bitcoin-blockchain-cryptocurrency-france-amf.png",
       },
       Object {
-        "author": null,
-        "description": "TOKYO, Nov. 2, 2018 /PRNewswire/ -- Global digital asset platform Liquid today announced it has teamed up with U.S. digital asset exchange Gemini Trust Company, LLC (\\"Gemini\\") to bring much-needed liquidity and stability to the cryptocurrency space. The two h…",
-        "publishedAt": "2018-11-02T09:36:23Z",
+        "author": "Kate Fazzini",
+        "description": "Frauds that involve convincing taxpayers to pay fraudsters steep tax bills, which often start with a series of bothersome robocalls to a victim's cell phone, rose 242% in 2018.",
+        "publishedAt": "2019-04-15T21:04:00Z",
         "source": Object {
-          "id": null,
-          "name": "Sys-con.com",
+          "id": "cnbc",
+          "name": "CNBC",
         },
-        "title": "Liquid to list Gemini dollar to strengthen crypto sector",
-        "url": "http://news.sys-con.com/node/4340651",
-        "urlToImage": "",
+        "title": "It's not your imagination — tax extortion scams are up, and they might get worse after filing day",
+        "url": "https://www.cnbc.com/2019/04/15/tax-extortion-scams-are-skyrocketing-says-fbi.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/06/105047047-hmm.1910x1000.jpg",
       },
       Object {
-        "author": "Yogita Khatri",
-        "description": "U.K.-based financial advisory firm deVere Group has launched an actively managed fund offering investors exposure to cryptocurrencies.",
-        "publishedAt": "2018-11-02T09:32:33Z",
-        "source": Object {
-          "id": null,
-          "name": "Coindesk.com",
-        },
-        "title": "DeVere Group Targets Arbitrage With New Crypto Fund",
-        "url": "https://www.coindesk.com/devere-group-targets-arbitrage-with-new-crypto-fund/",
-        "urlToImage": "https://media.coindesk.com/uploads/2018/09/London-city.jpg",
-      },
-      Object {
-        "author": "Aayush Jindal",
-        "description": "Key Points Bitcoin price gained traction and moved above the $6,335 and $6,350 resistances against the US Dollar. There was a break above a key bearish trend line with resistance at $6,345 on the hourly chart of the BTC/USD pair (data feed from Kraken). The p…",
-        "publishedAt": "2018-11-02T09:28:30Z",
+        "author": "Rick D.",
+        "description": "A Twitter user has received a mysterious message via the Blockstream satellite detailing a hunt for $1 million in Bitcoin. According to the correspondence, hunters must find 400 of 1,000 cryptographic keys to unlock the treasure. Each of the first three keys …",
+        "publishedAt": "2019-04-15T21:00:19Z",
         "source": Object {
           "id": null,
           "name": "Newsbtc.com",
         },
-        "title": "Bitcoin Price Watch: BTC/USD Targets Fresh High Above $6,400",
-        "url": "https://www.newsbtc.com/2018/11/02/bitcoin-price-watch-btc-usd-targets-fresh-high-above-6400/",
-        "urlToImage": "https://s3.amazonaws.com/main-newsbtc-images/2018/08/23144803/techanalysis-btc8.jpg",
+        "title": "Mysterious Message From Space Leaves Clues to $1 Million Bitcoin Bounty",
+        "url": "https://www.newsbtc.com/2019/04/15/mysterious-1-million-bitcoin/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/04/bitcoin-scavenger-hunt.jpg",
       },
       Object {
-        "author": "Ian Morris",
-        "description": "Facebook claims there has not been a hack but that people have installed malicious software which is leaking their data to hackers",
-        "publishedAt": "2018-11-02T09:24:54Z",
-        "source": Object {
-          "id": "mirror",
-          "name": "Mirror",
-        },
-        "title": "Facebook private messages for sale online from 81,000 hacked accounts",
-        "url": "https://www.mirror.co.uk/tech/facebook-private-messages-sale-online-13521723",
-        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article8567710.ece/ALTERNATES/s1200/4_Facebook-Privacy-Flaw-Exposes-Private-Photos.jpg",
-      },
-      Object {
-        "author": "Quoine",
-        "description": "TOKYO, Nov. 2, 2018 /PRNewswire/ -- Global digital asset platform Liquid today announced it has teamed up with U.S. digital asset exchange Gemini Trust Company, LLC (\\"Gemini\\") to bring much-needed liquidity and stability to the cryptocurrency space. The two h…",
-        "publishedAt": "2018-11-02T09:10:00Z",
+        "author": "Esther Kim",
+        "description": "Bitcoin price remaining above $5000 resulted in new trading highs for several countries worldwide last week, the latest data shows. Mexico, Venezuela Post Record Localbitcoins Volumes According to monitoring resource Coin Dance, which tracks trading volumes o…",
+        "publishedAt": "2019-04-15T21:00:09Z",
         "source": Object {
           "id": null,
-          "name": "Prnewswire.com",
+          "name": "Bitcoinist.com",
         },
-        "title": "Liquid to list Gemini dollar to strengthen crypto sector",
-        "url": "https://www.prnewswire.com/news-releases/liquid-to-list-gemini-dollar-to-strengthen-crypto-sector-300742978.html",
-        "urlToImage": "https://mma.prnewswire.com/media/779003/liquid_gemini.jpg?p=facebook",
+        "title": "Mexico Sets New Bitcoin Volume Record After Trump’s Remittance Threat",
+        "url": "https://bitcoinist.com/mexico-sets-new-bitcoin-volume-record-after-trump-threatens-remittances/",
+        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2019/04/shutterstock_521559409.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "LedgerX is looking to dive into the market for physically-delivered futures as it makes a big push into retail crypto trading.The post LedgerX looks to join bitcoin futures party as it makes a big push towards retail appeared first on The Block.",
+        "publishedAt": "2019-04-15T20:58:14Z",
+        "source": Object {
+          "id": null,
+          "name": "Yahoo.com",
+        },
+        "title": "LedgerX looks to join bitcoin futures party as it makes a big push towards retail",
+        "url": "https://finance.yahoo.com/news/ledgerx-looks-join-bitcoin-futures-205814651.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BGMn6_c9Pt9JtVaJau5pTA--~B/aD0zMzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/the_block_83/6fa5bbe4876f644097b00c06154af270",
+      },
+      Object {
+        "author": "Pierluigi Paganini",
+        "description": "The popular hacker Gnosticplayers made the headlines again, he is offering for sale on the dark web the fifth round of hacked accounts. The popular hacker Gnosticplayers is offering for sale on the dark web the fifth round of hacked accounts. Between February…",
+        "publishedAt": "2019-04-15T20:38:29Z",
+        "source": Object {
+          "id": null,
+          "name": "Securityaffairs.co",
+        },
+        "title": "Gnosticplayers round 5 – 65 Million+ fresh accounts from 8 security breaches available for sale",
+        "url": "https://securityaffairs.co/wordpress/83904/data-breach/gnosticplayers-fifth-round.html",
+        "urlToImage": "https://i1.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2019/04/Gnosticplayers-offer.png?resize=300%2C300&ssl=1",
+      },
+      Object {
+        "author": "Colin Harper",
+        "description": "A treasure hunt for $1 million worth of bitcoin is officially underway. In a cryptic, rambling message broadcasted to the Blockstream Satellite on April 13, 2019, an anonymous user challenged the rest of the Bitcoin community to a million dollar hunt for what…",
+        "publishedAt": "2019-04-15T20:28:06Z",
+        "source": Object {
+          "id": null,
+          "name": "Bitcoinmagazine.com",
+        },
+        "title": "Satoshi’s Treasure: The Chase Is on for a $1 Million Bitcoin Prize",
+        "url": "https://bitcoinmagazine.com/articles/satoshis-treasure-the-chase-is-on-for-a-1-million-bitcoin-prize/",
+        "urlToImage": "https://fs.bitcoinmagazine.com/img/images/Project_-_Sketch_1_149.max-800x800.jpg",
+      },
+      Object {
+        "author": "Darryn Pollock, Contributor, Darryn Pollock, Contributor https://www.forbes.com/sites/darrynpollock/",
+        "description": "Europe remains fairly faceless with regards to one country running with the blockchain baton. Could it be that France, with meetups and now major summits taking place, is the sleeping giant of a potential blockchain boom?",
+        "publishedAt": "2019-04-15T20:27:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Forbes.com",
+        },
+        "title": "Is France The Sleeping Giant Of European Blockchain And Cryptocurrency?",
+        "url": "https://www.forbes.com/sites/darrynpollock/2019/04/15/is-france-the-sleeping-giant-of-european-blockchain-and-cryptocurrency/",
+        "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1069146440%2F960x0.jpg%3Ffit%3Dscale",
+      },
+      Object {
+        "author": null,
+        "description": "Following last week’s threat to do so, Binance has officially announced that Bitcoin SV will no longer trade on its popular platform as of April 22nd. Withdrawals must be made from the platform by July 22nd, according to an official post. The reasons cited by…",
+        "publishedAt": "2019-04-15T20:15:56Z",
+        "source": Object {
+          "id": null,
+          "name": "Yahoo.com",
+        },
+        "title": "Binance and ShapeShift #DelistBSV; Kraken and Others Under Pressure",
+        "url": "https://finance.yahoo.com/news/binance-shapeshift-delistbsv-kraken-others-201556556.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/srFLvz36zNMtys0BPuCNDw--~B/aD02Njc7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/ccn_656/7f6f1c2800e776b441abadc8a63e8b37",
+      },
+      Object {
+        "author": "P. H. Madore",
+        "description": "Following last week’s threat to do so, Binance has officially announced that Bitcoin SV will no longer trade on its popular platform as of April 22nd. Withdrawals must be made from the platform by July 22nd, according to an official post. The reasons cited by…",
+        "publishedAt": "2019-04-15T20:15:56Z",
+        "source": Object {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News",
+        },
+        "title": "Binance and ShapeShift #DelistBSV; Kraken and Others Under Pressure",
+        "url": "https://www.ccn.com/binance-and-shapeshift-delistbsv-kraken-and-others-under-pressure",
+        "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/0415bsv.jpg",
       },
     ],
   },
@@ -290,7 +290,7 @@ Object {
       },
       Object {
         "id": "AOA",
-        "name": "Aurora",
+        "name": "Angolan Kwanza",
       },
       Object {
         "id": "ARS",
@@ -658,7 +658,7 @@ Object {
       },
       Object {
         "id": "MTL",
-        "name": "Metal",
+        "name": "Maltese Lira",
       },
       Object {
         "id": "MUR",
@@ -766,7 +766,7 @@ Object {
       },
       Object {
         "id": "SBD",
-        "name": "Steem Dollars",
+        "name": "Solomon Islands Dollar",
       },
       Object {
         "id": "SCR",
@@ -873,6 +873,10 @@ Object {
         "name": "Venezuelan Bolívar",
       },
       Object {
+        "id": "VES",
+        "name": "Venezuelan Bolívar Soberano",
+      },
+      Object {
         "id": "VND",
         "name": "Vietnamese Đồng",
       },
@@ -957,31 +961,31 @@ Object {
         },
         Object {
           "currency": "AFN",
-          "value": 74.95,
+          "value": 77.8,
         },
         Object {
           "currency": "ALL",
-          "value": 109.66,
+          "value": 109.74,
         },
         Object {
           "currency": "AMD",
-          "value": 487.31,
+          "value": 485.17,
         },
         Object {
           "currency": "ANG",
-          "value": 1.77,
+          "value": 1.87,
         },
         Object {
           "currency": "AOA",
-          "value": 309.3515,
+          "value": 319.44,
         },
         Object {
           "currency": "ARS",
-          "value": 35.66,
+          "value": 41.62,
         },
         Object {
           "currency": "AUD",
-          "value": 1.38,
+          "value": 1.39,
         },
         Object {
           "currency": "AWG",
@@ -993,7 +997,11 @@ Object {
         },
         Object {
           "currency": "BAM",
-          "value": 1.71,
+          "value": 1.73,
+        },
+        Object {
+          "currency": "BAT",
+          "value": 3.42493904,
         },
         Object {
           "currency": "BBD",
@@ -1001,15 +1009,15 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.00236066,
+          "value": 0.00318878,
         },
         Object {
           "currency": "BDT",
-          "value": 83.84,
+          "value": 84.39,
         },
         Object {
           "currency": "BGN",
-          "value": 1.71,
+          "value": 1.73,
         },
         Object {
           "currency": "BHD",
@@ -1017,7 +1025,7 @@ Object {
         },
         Object {
           "currency": "BIF",
-          "value": 1816,
+          "value": 1831,
         },
         Object {
           "currency": "BMD",
@@ -1025,51 +1033,55 @@ Object {
         },
         Object {
           "currency": "BND",
-          "value": 1.46,
+          "value": 1.35,
         },
         Object {
           "currency": "BOB",
-          "value": 6.93,
+          "value": 6.91,
         },
         Object {
           "currency": "BRL",
-          "value": 3.7,
+          "value": 3.87,
         },
         Object {
           "currency": "BSD",
           "value": 1,
         },
         Object {
+          "currency": "BSV",
+          "value": 0.01642848,
+        },
+        Object {
           "currency": "BTC",
-          "value": 0.000158,
+          "value": 0.000199,
         },
         Object {
           "currency": "BTN",
-          "value": 73.42,
+          "value": 69.41,
         },
         Object {
           "currency": "BWP",
-          "value": 10.67,
+          "value": 10.57,
         },
         Object {
           "currency": "BYN",
-          "value": 2.12,
+          "value": 2.1,
         },
         Object {
           "currency": "BYR",
-          "value": 21191,
+          "value": 21035,
         },
         Object {
           "currency": "BZD",
-          "value": 2.01,
+          "value": 2.02,
         },
         Object {
           "currency": "CAD",
-          "value": 1.31,
+          "value": 1.34,
         },
         Object {
           "currency": "CDF",
-          "value": 1610,
+          "value": 1645.78,
         },
         Object {
           "currency": "CHF",
@@ -1077,27 +1089,27 @@ Object {
         },
         Object {
           "currency": "CLF",
-          "value": 0.0234,
+          "value": 0.024,
         },
         Object {
           "currency": "CLP",
-          "value": 688,
+          "value": 661,
         },
         Object {
           "currency": "CNH",
-          "value": 6.87,
+          "value": 6.71,
         },
         Object {
           "currency": "CNY",
-          "value": 6.88,
+          "value": 6.71,
         },
         Object {
           "currency": "COP",
-          "value": 3196.3,
+          "value": 3116.33,
         },
         Object {
           "currency": "CRC",
-          "value": 612.89,
+          "value": 600.14,
         },
         Object {
           "currency": "CUC",
@@ -1105,11 +1117,11 @@ Object {
         },
         Object {
           "currency": "CVE",
-          "value": 97.38,
+          "value": 97.88,
         },
         Object {
           "currency": "CZK",
-          "value": 22.54,
+          "value": 22.68,
         },
         Object {
           "currency": "DJF",
@@ -1117,15 +1129,15 @@ Object {
         },
         Object {
           "currency": "DKK",
-          "value": 6.52,
+          "value": 6.6,
         },
         Object {
           "currency": "DOP",
-          "value": 49.81,
+          "value": 50.55,
         },
         Object {
           "currency": "DZD",
-          "value": 118.95,
+          "value": 118.98,
         },
         Object {
           "currency": "EEK",
@@ -1133,7 +1145,7 @@ Object {
         },
         Object {
           "currency": "EGP",
-          "value": 17.92,
+          "value": 17.34,
         },
         Object {
           "currency": "ERN",
@@ -1141,19 +1153,19 @@ Object {
         },
         Object {
           "currency": "ETB",
-          "value": 28.05,
+          "value": 28.72,
         },
         Object {
           "currency": "ETC",
-          "value": 0.11086475,
+          "value": 0.16516641,
         },
         Object {
           "currency": "ETH",
-          "value": 0.00503956,
+          "value": 0.00626017,
         },
         Object {
           "currency": "EUR",
-          "value": 0.87,
+          "value": 0.88,
         },
         Object {
           "currency": "FJD",
@@ -1161,123 +1173,123 @@ Object {
         },
         Object {
           "currency": "FKP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "GBP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "GEL",
-          "value": 2.45,
+          "value": 2.69,
         },
         Object {
           "currency": "GGP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "GHS",
-          "value": 4.85,
+          "value": 5.13,
         },
         Object {
           "currency": "GIP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "GMD",
-          "value": 49.48,
+          "value": 49.54,
         },
         Object {
           "currency": "GNF",
-          "value": 9125,
+          "value": 9134,
         },
         Object {
           "currency": "GTQ",
-          "value": 7.72,
+          "value": 7.64,
         },
         Object {
           "currency": "GYD",
-          "value": 208.78,
+          "value": 209.62,
         },
         Object {
           "currency": "HKD",
-          "value": 7.83,
+          "value": 7.84,
         },
         Object {
           "currency": "HNL",
-          "value": 24.24,
+          "value": 24.45,
         },
         Object {
           "currency": "HRK",
-          "value": 6.5,
+          "value": 6.58,
         },
         Object {
           "currency": "HTG",
-          "value": 72.19,
+          "value": 84.42,
         },
         Object {
           "currency": "HUF",
-          "value": 281,
+          "value": 283,
         },
         Object {
           "currency": "IDR",
-          "value": 14939.25,
+          "value": 14060.25,
         },
         Object {
           "currency": "ILS",
-          "value": 3.69,
+          "value": 3.56,
         },
         Object {
           "currency": "IMP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "INR",
-          "value": 72.55,
+          "value": 69.45,
         },
         Object {
           "currency": "IQD",
-          "value": 1191,
+          "value": 1193.836,
         },
         Object {
           "currency": "ISK",
-          "value": 121,
+          "value": 120,
         },
         Object {
           "currency": "JEP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "JMD",
-          "value": 128.18,
+          "value": 129.03,
         },
         Object {
           "currency": "JOD",
-          "value": 0.71,
+          "value": 0.709,
         },
         Object {
           "currency": "JPY",
-          "value": 113,
+          "value": 112,
         },
         Object {
           "currency": "KES",
-          "value": 101.4,
+          "value": 101.01,
         },
         Object {
           "currency": "KGS",
-          "value": 68.68,
+          "value": 68.69,
         },
         Object {
           "currency": "KHR",
-          "value": 4061,
+          "value": 4045.54,
         },
         Object {
           "currency": "KMF",
-          "value": 432,
+          "value": 436,
         },
         Object {
           "currency": "KRW",
-          "value": 1115,
+          "value": 1135,
         },
         Object {
           "currency": "KWD",
@@ -1289,31 +1301,31 @@ Object {
         },
         Object {
           "currency": "KZT",
-          "value": 371.02,
+          "value": 379.66,
         },
         Object {
           "currency": "LAK",
-          "value": 8555,
+          "value": 8655.15,
         },
         Object {
           "currency": "LBP",
-          "value": 1512.75,
+          "value": 1508.75,
         },
         Object {
           "currency": "LKR",
-          "value": 174.32,
+          "value": 174.68,
         },
         Object {
           "currency": "LRD",
-          "value": 156.63,
+          "value": 164.8,
         },
         Object {
           "currency": "LSL",
-          "value": 14.4,
+          "value": 13.95,
         },
         Object {
           "currency": "LTC",
-          "value": 0.01978239,
+          "value": 0.01280902,
         },
         Object {
           "currency": "LTL",
@@ -1325,35 +1337,35 @@ Object {
         },
         Object {
           "currency": "LYD",
-          "value": 1.397,
+          "value": 1.391,
         },
         Object {
           "currency": "MAD",
-          "value": 9.5,
+          "value": 9.59,
         },
         Object {
           "currency": "MDL",
-          "value": 17.12,
+          "value": 17.65,
         },
         Object {
           "currency": "MGA",
-          "value": 3520,
+          "value": 3615.6,
         },
         Object {
           "currency": "MKD",
-          "value": 53.84,
+          "value": 54.48,
         },
         Object {
           "currency": "MMK",
-          "value": 1602.25,
+          "value": 1517.76,
         },
         Object {
           "currency": "MNT",
-          "value": 2489.22,
+          "value": 2513.59,
         },
         Object {
           "currency": "MOP",
-          "value": 8.06,
+          "value": 8.08,
         },
         Object {
           "currency": "MRO",
@@ -1361,55 +1373,55 @@ Object {
         },
         Object {
           "currency": "MTL",
-          "value": 0.683738,
+          "value": 0.68,
         },
         Object {
           "currency": "MUR",
-          "value": 34.8,
+          "value": 34.75,
         },
         Object {
           "currency": "MVR",
-          "value": 15.45,
+          "value": 15.41,
         },
         Object {
           "currency": "MWK",
-          "value": 727.29,
+          "value": 728.15,
         },
         Object {
           "currency": "MXN",
-          "value": 19.97,
+          "value": 18.87,
         },
         Object {
           "currency": "MYR",
-          "value": 4.18,
+          "value": 4.12,
         },
         Object {
           "currency": "MZN",
-          "value": 60.7,
+          "value": 64.45,
         },
         Object {
           "currency": "NAD",
-          "value": 14.66,
+          "value": 13.95,
         },
         Object {
           "currency": "NGN",
-          "value": 363.5,
+          "value": 360.44,
         },
         Object {
           "currency": "NIO",
-          "value": 32.26,
+          "value": 32.85,
         },
         Object {
           "currency": "NOK",
-          "value": 8.33,
+          "value": 8.49,
         },
         Object {
           "currency": "NPR",
-          "value": 117.46,
+          "value": 111.08,
         },
         Object {
           "currency": "NZD",
-          "value": 1.5,
+          "value": 1.48,
         },
         Object {
           "currency": "OMR",
@@ -1421,19 +1433,19 @@ Object {
         },
         Object {
           "currency": "PEN",
-          "value": 3.37,
+          "value": 3.3,
         },
         Object {
           "currency": "PGK",
-          "value": 3.36,
+          "value": 3.38,
         },
         Object {
           "currency": "PHP",
-          "value": 53.11,
+          "value": 51.66,
         },
         Object {
           "currency": "PKR",
-          "value": 132.75,
+          "value": 141.73,
         },
         Object {
           "currency": "PLN",
@@ -1441,7 +1453,7 @@ Object {
         },
         Object {
           "currency": "PYG",
-          "value": 5993,
+          "value": 6210,
         },
         Object {
           "currency": "QAR",
@@ -1449,19 +1461,19 @@ Object {
         },
         Object {
           "currency": "RON",
-          "value": 4.07,
+          "value": 4.21,
         },
         Object {
           "currency": "RSD",
-          "value": 103.48,
+          "value": 104.33,
         },
         Object {
           "currency": "RUB",
-          "value": 65.8,
+          "value": 64.34,
         },
         Object {
           "currency": "RWF",
-          "value": 876,
+          "value": 905,
         },
         Object {
           "currency": "SAR",
@@ -1469,23 +1481,23 @@ Object {
         },
         Object {
           "currency": "SBD",
-          "value": 8.01799,
+          "value": 8.16,
         },
         Object {
           "currency": "SCR",
-          "value": 13.64,
+          "value": 13.66,
         },
         Object {
           "currency": "SEK",
-          "value": 9.02,
+          "value": 9.27,
         },
         Object {
           "currency": "SGD",
-          "value": 1.37,
+          "value": 1.35,
         },
         Object {
           "currency": "SHP",
-          "value": 0.77,
+          "value": 0.76,
         },
         Object {
           "currency": "SLL",
@@ -1493,7 +1505,7 @@ Object {
         },
         Object {
           "currency": "SOS",
-          "value": 581,
+          "value": 578.82,
         },
         Object {
           "currency": "SRD",
@@ -1513,51 +1525,51 @@ Object {
         },
         Object {
           "currency": "SZL",
-          "value": 14.3,
+          "value": 13.95,
         },
         Object {
           "currency": "THB",
-          "value": 32.88,
+          "value": 31.81,
         },
         Object {
           "currency": "TJS",
-          "value": 9.42,
+          "value": 9.43,
         },
         Object {
           "currency": "TMT",
-          "value": 3.51,
+          "value": 3.5,
         },
         Object {
           "currency": "TND",
-          "value": 2.848,
+          "value": 3.006,
         },
         Object {
           "currency": "TOP",
-          "value": 2.3,
+          "value": 2.26,
         },
         Object {
           "currency": "TRY",
-          "value": 5.48,
+          "value": 5.81,
         },
         Object {
           "currency": "TTD",
-          "value": 6.74,
+          "value": 6.78,
         },
         Object {
           "currency": "TWD",
-          "value": 30.53,
+          "value": 30.87,
         },
         Object {
           "currency": "TZS",
-          "value": 2290.94,
+          "value": 2316.2,
         },
         Object {
           "currency": "UAH",
-          "value": 28.08,
+          "value": 26.78,
         },
         Object {
           "currency": "UGX",
-          "value": 3743,
+          "value": 3741,
         },
         Object {
           "currency": "USD",
@@ -1569,23 +1581,27 @@ Object {
         },
         Object {
           "currency": "UYU",
-          "value": 32.68,
+          "value": 34.14,
         },
         Object {
           "currency": "UZS",
-          "value": 8230,
+          "value": 8454.99,
         },
         Object {
           "currency": "VEF",
-          "value": 248471.73,
+          "value": 248487.64,
+        },
+        Object {
+          "currency": "VES",
+          "value": 3312.51,
         },
         Object {
           "currency": "VND",
-          "value": 23243,
+          "value": 23204,
         },
         Object {
           "currency": "VUV",
-          "value": 112,
+          "value": 111,
         },
         Object {
           "currency": "WST",
@@ -1593,7 +1609,7 @@ Object {
         },
         Object {
           "currency": "XAF",
-          "value": 574,
+          "value": 580,
         },
         Object {
           "currency": "XAG",
@@ -1612,8 +1628,12 @@ Object {
           "value": 1,
         },
         Object {
+          "currency": "XLM",
+          "value": 8.9040059,
+        },
+        Object {
           "currency": "XOF",
-          "value": 574,
+          "value": 580,
         },
         Object {
           "currency": "XPD",
@@ -1621,19 +1641,27 @@ Object {
         },
         Object {
           "currency": "XPF",
-          "value": 104,
+          "value": 106,
         },
         Object {
           "currency": "XPT",
           "value": 0,
         },
         Object {
+          "currency": "XRP",
+          "value": 3.147128,
+        },
+        Object {
           "currency": "YER",
-          "value": 250.3,
+          "value": 250.25,
         },
         Object {
           "currency": "ZAR",
-          "value": 14.35,
+          "value": 14.05,
+        },
+        Object {
+          "currency": "ZEC",
+          "value": 0.0148214,
         },
         Object {
           "currency": "ZMK",
@@ -1641,11 +1669,11 @@ Object {
         },
         Object {
           "currency": "ZMW",
-          "value": 11.85,
+          "value": 12.41,
         },
         Object {
           "currency": "ZRX",
-          "value": 1.20481928,
+          "value": 3.25065826,
         },
         Object {
           "currency": "ZWL",
@@ -1670,7 +1698,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 6349.52,
+        "amount": 5027.695,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1678,7 +1706,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 423.53,
+        "amount": 313.6,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1686,7 +1714,15 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 198.43,
+        "amount": 87.45,
+        "base": "BSV",
+        "code": "BSV",
+        "color": "white",
+        "currency": "USD",
+        "name": "UNKNOWN",
+      },
+      Object {
+        "amount": 159.74,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1694,7 +1730,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 9.02,
+        "amount": 6.0545,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -1702,7 +1738,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 50.57,
+        "amount": 78.07,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1710,7 +1746,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.83,
+        "amount": 0.30763,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -1726,7 +1762,39 @@ Object {
         "name": "USD Coin",
       },
       Object {
-        "amount": 1.14,
+        "amount": 0.291976,
+        "base": "BAT",
+        "code": "BAT",
+        "color": "rgb(237, 93, 42)",
+        "currency": "USD",
+        "name": "Basic Attention Token",
+      },
+      Object {
+        "amount": 67.47,
+        "base": "ZEC",
+        "code": "ZEC",
+        "color": "rgb(228, 179, 89)",
+        "currency": "USD",
+        "name": "Zcash",
+      },
+      Object {
+        "amount": 0.31775,
+        "base": "XRP",
+        "code": "XRP",
+        "color": "#222222",
+        "currency": "USD",
+        "name": "XRP",
+      },
+      Object {
+        "amount": 0.112309,
+        "base": "XLM",
+        "code": "XLM",
+        "color": "#FFFFFF",
+        "currency": "USD",
+        "name": "Stellar Lumens",
+      },
+      Object {
+        "amount": 1.13,
         "base": "EUR",
         "code": "EUR",
         "color": "#FFFFFF",
@@ -1734,7 +1802,7 @@ Object {
         "name": "Euro",
       },
       Object {
-        "amount": 1.3,
+        "amount": 1.31,
         "base": "GBP",
         "code": "GBP",
         "color": "#FFFFFF",
@@ -1742,7 +1810,7 @@ Object {
         "name": "British Pound",
       },
       Object {
-        "amount": 0.77,
+        "amount": 0.75,
         "base": "CAD",
         "code": "CAD",
         "color": "#FFFFFF",
@@ -1759,124 +1827,64 @@ Object {
   "data": Object {
     "topHeadlines": Array [
       Object {
-        "author": null,
-        "description": "The Washington Post reports President Trump made an average of 30 false or misleading claims in the weeks leading up to the midterm elections.",
-        "publishedAt": "2018-11-02T12:08:42.2446157Z",
+        "author": "Ryan Prior",
+        "description": "A \\"forest\\" of wooden latticework inside Notre Dame Cathedral fueled the fire that consumed the iconic church.",
+        "publishedAt": "2019-04-15T22:00:01Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "WaPo: Trump had 1,100 lies, mistruths in 7 weeks - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/11/02/trump-false-misleading-claims-wapo-report-newday-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181102064622-01-trump-missouri-1101-super-tease.jpg",
+        "title": "The entire wooden interior of Notre Dame Cathedral is feared destroyed",
+        "url": "http://us.cnn.com/style/article/nortre-dame-fire-oak-wood-trnd/index.html",
+        "urlToImage": "http://cdn.cnn.com/cnnnext/dam/assets/190415161946-04-notre-dame-architecture-super-tease.jpg",
       },
       Object {
-        "author": "Greg Krieg, CNN",
-        "description": "Democrats in Florida and Georgia are trying to make history on Election Day. Four days out, in the midst of an onslaught by President Donald Trump, they are getting a boost from someone who knows a thing or two about it.",
-        "publishedAt": "2018-11-02T10:00:07Z",
+        "author": "Emanuella Grinberg, CNN",
+        "description": "The cathedral of Notre Dame in Paris is home to numerous artifacts, works of art and religious relics that each tell a story. As a devastating fire tore through the cathedral on Monday, toppling its spire, many feared those items will be lost.",
+        "publishedAt": "2019-04-15T21:13:54Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Obama will campaign for Gillum and Abrams as Trump picks up attacks",
-        "url": "http://us.cnn.com/2018/11/02/politics/barack-obama-florida-georgia-gillum-abrams/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170305143551-trump-obama-split-super-tease.jpg",
+        "title": "What's inside Notre Dame cathedral that could be lost in the fire",
+        "url": "http://us.cnn.com/2019/04/15/europe/notre-dame-artifacts/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190415160425-04-notre-dame-rose-window-super-tease.jpg",
       },
       Object {
-        "author": "Analysis by Stephen Collinson, CNN",
-        "description": "President Donald Trump is slamming the constitutionally protected provision of birthright citizenship as a \\"crazy, lunatic policy\\" in an incendiary endgame to the midterm election campaign, which could save the Senate but risks putting the House beyond reach.",
-        "publishedAt": "2018-11-02T05:44:06Z",
+        "author": "Michelle Lou and Brandon Griggs, CNN",
+        "description": "Thibaud Binétruy was walking home Monday when he saw smoke rising in the distance. The Notre Dame cathedral, the beloved landmark in the heart of Paris, was engulfed in flames.",
+        "publishedAt": "2019-04-15T20:43:10Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Trump slams 'crazy, lunatic' constitutional amendment in midterm endgame",
-        "url": "http://us.cnn.com/2018/11/02/politics/donald-trump-immigration-midterms-missouri/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101162039-trump-immigration-screengrab-1101-super-tease.jpg",
-      },
-      Object {
-        "author": null,
-        "description": "During a town hall in Iowa, Republican Rep. Steve King erupts at a comparison to the accused Pittsburgh synagogue shooter who killed 11 people.",
-        "publishedAt": "2018-11-02T03:38:15.8979926Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Steve King erupts at comparison to shooter - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/11/02/steve-king-town-hall-pittsburgh-shooter-question-cooper-sot-vpx-ac360.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101212854-steve-king-11-1-super-tease.jpg",
+        "title": "Parisians watched in tears and stunned silence as their beloved landmark burned",
+        "url": "http://us.cnn.com/2019/04/15/world/notre-dame-cathedral-fire-reactions-trnd/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190415150009-19-notre-dame-fire-0415-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "CNN's Don Lemon lists all the things President Trump doesn't want people talking about in the days leading up to the 2018 midterm elections.",
-        "publishedAt": "2018-11-02T03:38:10.7896385Z",
+        "description": "A devastating fire engulfed the iconic Notre Dame cathedral in Paris on Monday, April 15, just days before Easter Sunday.",
+        "publishedAt": "2019-04-15T20:26:34Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Lemon: Trump is distracting you from this - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2018/11/02/dons-take-trump-immigration-ctn-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101225320-dons-take-11-1-2018-super-tease.jpg",
+        "title": "In pictures: Fire engulfs Notre Dame cathedral",
+        "url": "http://us.cnn.com/2019/04/15/world/gallery/notre-dame-cathedral-fire/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190415160311-01b-notre-dame-fire-unfurled-super-tease.jpg",
       },
       Object {
-        "author": "Emma Lacey-Bordeaux, Geneva Sands, Ryan Browne, Marshall Cohen and Christina Walker, CNN",
-        "description": "In a speech on Thursday afternoon, the President made a series of assertions about a group of Central American migrants traveling north together in a caravan toward the US-Mexico border. We dug into a handful of his claims to check their veracity.",
-        "publishedAt": "2018-11-02T02:56:45Z",
+        "author": null,
+        "description": "Police in Paris say the Notre Dame cathedral is on fire. Follow for live updates.",
+        "publishedAt": "2019-04-15T17:40:31Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Fact-checking Trump's immigration speech",
-        "url": "http://us.cnn.com/2018/11/01/politics/fact-checking-trumps-immigration-speech/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101203832-02-trump-immigration-1101-super-tease.jpg",
-      },
-      Object {
-        "author": "Caroline Kelly and Betsy Klein, CNN",
-        "description": "President Donald Trump lamented on Thursday that last week's two domestic terror incidents had stopped Republican momentum ahead of the midterm elections.",
-        "publishedAt": "2018-11-02T02:37:09Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Trump laments that 'two maniacs' stopped GOP momentum in midterms",
-        "url": "http://us.cnn.com/2018/11/01/politics/trump-maniacs-midterm-momentum-missouri/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101200309-trump-missouri-screengrab-1101-super-tease.jpg",
-      },
-      Object {
-        "author": "Caroline Kelly, CNN",
-        "description": "Former Obama-era Secretary of Defense and Nebraska Sen. Chuck Hagel on Thursday blasted President Donald Trump's decision to move thousands of US troops to the southern border.",
-        "publishedAt": "2018-11-02T00:41:18Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Ex-Defense Secretary Hagel: Trump sending troops to border is 'folly'",
-        "url": "http://us.cnn.com/2018/11/01/politics/chuck-hagel-border-troops-cnntv/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101201942-chuck-hagel-migrant-caravan-super-tease.jpg",
-      },
-      Object {
-        "author": "Alice Driver",
-        "description": "Alice Driver writes that this migrant caravan is made up of grandparents, parents and children, of individuals fleeing such a level of violence and poverty that they are ready to walk thousands of miles in hopes of finding better lives.",
-        "publishedAt": "2018-11-02T00:37:10Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "We have nothing to fear from the migrant march",
-        "url": "http://us.cnn.com/2018/11/01/opinions/faces-of-migrant-caravan-alice-driver/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181101120143-baby-sleeping-caravan-super-tease.jpg",
-      },
-      Object {
-        "author": "Sarah Westwood, Kevin Liptak and Jeff Zeleny, CNN",
-        "description": "President Donald Trump on Thursday claimed he would sign an executive order \\"next week\\" aimed at restricting US asylum rules, as he seeks to use a group of Central American migrants heading for the US border as part of his midterm election closing argument.",
-        "publishedAt": "2018-11-01T23:47:24Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Trump says he will restrict asylum, claims troops will shoot at rock throwers",
-        "url": "http://us.cnn.com/2018/11/01/politics/trump-immigration-speech-asylum/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181031214447-01-trump-tease-1026-super-tease.jpg",
+        "title": "Live updates: Fire at Notre Dame - CNN",
+        "url": "http://us.cnn.com/world/live-news/notre-dame-fire/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190415131804-02-notre-dame-fire-0415-super-tease.jpg",
       },
     ],
   },
