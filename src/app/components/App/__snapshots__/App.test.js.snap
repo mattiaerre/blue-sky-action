@@ -103,103 +103,7 @@ Array [
               <h5
                 className="card-title"
               >
-                Kuala Lumpur
-              </h5>
-              <p
-                className="card-text"
-              >
-                Mon, Jan 01 08:00
-                 
-                +16
-              </p>
-            </div>
-          </div>
-        </div>
-        <div
-          className="col-lg-3 col-md-6 col-sm-12 mb-4"
-        >
-          <div
-            className="card text-light bg-secondary"
-          >
-            <div
-              className="card-body"
-            >
-              <h5
-                className="card-title"
-              >
-                Chiang Mai
-              </h5>
-              <p
-                className="card-text"
-              >
-                Mon, Jan 01 07:00
-                 
-                +15
-              </p>
-            </div>
-          </div>
-        </div>
-        <div
-          className="col-lg-3 col-md-6 col-sm-12 mb-4"
-        >
-          <div
-            className="card text-light bg-secondary"
-          >
-            <div
-              className="card-body"
-            >
-              <h5
-                className="card-title"
-              >
-                Hanoi
-              </h5>
-              <p
-                className="card-text"
-              >
-                Mon, Jan 01 07:00
-                 
-                +15
-              </p>
-            </div>
-          </div>
-        </div>
-        <div
-          className="col-lg-3 col-md-6 col-sm-12 mb-4"
-        >
-          <div
-            className="card text-light bg-secondary"
-          >
-            <div
-              className="card-body"
-            >
-              <h5
-                className="card-title"
-              >
                 Turin
-              </h5>
-              <p
-                className="card-text"
-              >
-                Mon, Jan 01 01:00
-                 
-                +9
-              </p>
-            </div>
-          </div>
-        </div>
-        <div
-          className="col-lg-3 col-md-6 col-sm-12 mb-4"
-        >
-          <div
-            className="card text-light bg-secondary"
-          >
-            <div
-              className="card-body"
-            >
-              <h5
-                className="card-title"
-              >
-                Valencia
               </h5>
               <p
                 className="card-text"
@@ -231,30 +135,6 @@ Array [
                 Mon, Jan 01 00:00
                  
                 +8
-              </p>
-            </div>
-          </div>
-        </div>
-        <div
-          className="col-lg-3 col-md-6 col-sm-12 mb-4"
-        >
-          <div
-            className="card text-light bg-secondary"
-          >
-            <div
-              className="card-body"
-            >
-              <h5
-                className="card-title"
-              >
-                Buenos Aires
-              </h5>
-              <p
-                className="card-text"
-              >
-                Sun, Dec 31 21:00
-                 
-                +5
               </p>
             </div>
           </div>
