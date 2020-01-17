@@ -5,6 +5,18 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
+        "author": "adam@letstalkbitcoin.com (The LTB Network), The LTB Network",
+        "description": "Yan Pritzker, author of Inventing Bitcoin and cofounder/CTO of Swan Bitcoin, joins me to talk about his background, the money red pill that bitcoin serves up to us, bitcoin tech and his book. Citizen Bitcoin on Twitter Citizen Bitcoin Podcast Citizen Bitcoin …",
+        "publishedAt": "2020-01-17T01:57:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Letstalkbitcoin.com",
+        },
+        "title": "Citizen Bitcoin - Yan Pritzker: The Money Red Pill, Bitcoin Tech and Swan Bitcoin",
+        "url": "https://letstalkbitcoin.com/blog/post/citizen-bitcoin-yan-pritzker-money-bitcoin-tech-swan-bitcoin?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheDailyBitcoinShow+%28Let%27s+Talk+Bitcoin+Network+Feed%29",
+        "urlToImage": "https://letstalkbitcoin.com/files/blogs/8382-3e60a38512437d203dc1103d345884354ed4f981ceb404faed5b8d0e72685159.jpg",
+      },
+      Object {
         "author": "Thomas Delahunty",
         "description": "Despite successful shows of force from CME Group and Bakkt’s Bitcoin options offerings, the majority of volume still goes through Deribit. This squashes fears that the new offerings would be in direct competition with the European firm, and highlights the fac…",
         "publishedAt": "2020-01-17T01:54:06Z",
@@ -231,18 +243,6 @@ Object {
         "title": "Is Russia’s New Prime Minister Good for Bitcoin?",
         "url": "https://bitcoinist.com/is-russias-new-prime-minister-good-for-bitcoin/",
         "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/01/Mikhail-Mishustin-1920x1066.jpg",
-      },
-      Object {
-        "author": "Peter Edwards - Staff Reporter",
-        "description": "A Sûreté du Québec police spokesperson said the case involves dozens of victims and investigators in Canada and the U.S. regarding a “SIM swapping” scheme.",
-        "publishedAt": "2020-01-16T20:54:56Z",
-        "source": Object {
-          "id": null,
-          "name": "Thestar.com",
-        },
-        "title": "Teen charged after hackers target Toronto cybersecurity experts in $50-million scam",
-        "url": "https://www.thestar.com/news/gta/2020/01/16/teen-charged-after-hackers-target-toronto-cybersecurity-experts-in-50-million-scam.html",
-        "urlToImage": "https://images.thestar.com/hmQkBsMGHhkYSPlRwl7FYbijXWQ=/1200x799/smart/filters:cb(1579208096597)/https://www.thestar.com/content/dam/thestar/news/gta/2020/01/16/teen-charged-after-hackers-target-toronto-cybersecurity-experts-in-50-million-scam/hacker.jpg",
       },
     ],
   },
@@ -981,15 +981,15 @@ Object {
         },
         Object {
           "currency": "ARS",
-          "value": 59.89,
+          "value": 59.881981,
         },
         Object {
           "currency": "ATOM",
-          "value": 0.20298386278290875,
+          "value": 0.1985505807604487,
         },
         Object {
           "currency": "AUD",
-          "value": 1.4494,
+          "value": 1.44878,
         },
         Object {
           "currency": "AWG",
@@ -1005,7 +1005,7 @@ Object {
         },
         Object {
           "currency": "BAT",
-          "value": 4.634092088677986,
+          "value": 4.631194801946954,
         },
         Object {
           "currency": "BBD",
@@ -1013,7 +1013,7 @@ Object {
         },
         Object {
           "currency": "BCH",
-          "value": 0.003065744899366924,
+          "value": 0.00303789777473988,
         },
         Object {
           "currency": "BDT",
@@ -1045,7 +1045,7 @@ Object {
         },
         Object {
           "currency": "BRL",
-          "value": 4.184,
+          "value": 4.1846,
         },
         Object {
           "currency": "BSD",
@@ -1053,11 +1053,11 @@ Object {
         },
         Object {
           "currency": "BSV",
-          "value": 0.0031980328432300973,
+          "value": 0.0032204782131066262,
         },
         Object {
           "currency": "BTC",
-          "value": 0.0001148633786258779,
+          "value": 0.00011455363888225432,
         },
         Object {
           "currency": "BTN",
@@ -1081,7 +1081,7 @@ Object {
         },
         Object {
           "currency": "CAD",
-          "value": 1.3043,
+          "value": 1.304355,
         },
         Object {
           "currency": "CDF",
@@ -1089,7 +1089,7 @@ Object {
         },
         Object {
           "currency": "CHF",
-          "value": 0.964621,
+          "value": 0.964633,
         },
         Object {
           "currency": "CLF",
@@ -1097,19 +1097,19 @@ Object {
         },
         Object {
           "currency": "CLP",
-          "value": 777.898902,
+          "value": 778.000825,
         },
         Object {
           "currency": "CNH",
-          "value": 6.873393,
+          "value": 6.86953,
         },
         Object {
           "currency": "CNY",
-          "value": 6.8732,
+          "value": 6.8673,
         },
         Object {
           "currency": "COP",
-          "value": 3305.792727,
+          "value": 3305.246304,
         },
         Object {
           "currency": "CRC",
@@ -1125,15 +1125,15 @@ Object {
         },
         Object {
           "currency": "CZK",
-          "value": 22.586,
+          "value": 22.5811,
         },
         Object {
           "currency": "DAI",
-          "value": 1.0015403690876568,
+          "value": 1.0020506967509006,
         },
         Object {
           "currency": "DASH",
-          "value": 0.008082342909562624,
+          "value": 0.008035129586552408,
         },
         Object {
           "currency": "DJF",
@@ -1141,7 +1141,7 @@ Object {
         },
         Object {
           "currency": "DKK",
-          "value": 6.70783,
+          "value": 6.707201,
         },
         Object {
           "currency": "DOP",
@@ -1157,11 +1157,11 @@ Object {
         },
         Object {
           "currency": "EGP",
-          "value": 15.8269,
+          "value": 15.8245,
         },
         Object {
           "currency": "EOS",
-          "value": 0.2610625244746117,
+          "value": 0.25936973155232784,
         },
         Object {
           "currency": "ERN",
@@ -1173,15 +1173,15 @@ Object {
         },
         Object {
           "currency": "ETC",
-          "value": 0.12056181807221654,
+          "value": 0.12018508503094767,
         },
         Object {
           "currency": "ETH",
-          "value": 0.006076072426783327,
+          "value": 0.006048874909266876,
         },
         Object {
           "currency": "EUR",
-          "value": 0.89761,
+          "value": 0.89754,
         },
         Object {
           "currency": "FJD",
@@ -1189,11 +1189,11 @@ Object {
         },
         Object {
           "currency": "FKP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "GBP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "GEL",
@@ -1201,7 +1201,7 @@ Object {
         },
         Object {
           "currency": "GGP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "GHS",
@@ -1209,7 +1209,7 @@ Object {
         },
         Object {
           "currency": "GIP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "GMD",
@@ -1229,7 +1229,7 @@ Object {
         },
         Object {
           "currency": "HKD",
-          "value": 7.77145,
+          "value": 7.771755,
         },
         Object {
           "currency": "HNL",
@@ -1237,7 +1237,7 @@ Object {
         },
         Object {
           "currency": "HRK",
-          "value": 6.684434,
+          "value": 6.683115,
         },
         Object {
           "currency": "HTG",
@@ -1245,11 +1245,11 @@ Object {
         },
         Object {
           "currency": "HUF",
-          "value": 300.407879,
+          "value": 300.3625,
         },
         Object {
           "currency": "IDR",
-          "value": 13648.1,
+          "value": 13641.2,
         },
         Object {
           "currency": "ILS",
@@ -1257,11 +1257,11 @@ Object {
         },
         Object {
           "currency": "IMP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "INR",
-          "value": 70.979992,
+          "value": 70.959101,
         },
         Object {
           "currency": "IQD",
@@ -1269,11 +1269,11 @@ Object {
         },
         Object {
           "currency": "ISK",
-          "value": 122.990005,
+          "value": 122.959996,
         },
         Object {
           "currency": "JEP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "JMD",
@@ -1285,7 +1285,7 @@ Object {
         },
         Object {
           "currency": "JPY",
-          "value": 110.19593707,
+          "value": 110.18336617,
         },
         Object {
           "currency": "KES",
@@ -1305,7 +1305,7 @@ Object {
         },
         Object {
           "currency": "KRW",
-          "value": 1157.64,
+          "value": 1157.535,
         },
         Object {
           "currency": "KWD",
@@ -1329,7 +1329,7 @@ Object {
         },
         Object {
           "currency": "LINK",
-          "value": 0.3936488691452112,
+          "value": 0.3886611982036079,
         },
         Object {
           "currency": "LKR",
@@ -1345,7 +1345,7 @@ Object {
         },
         Object {
           "currency": "LTC",
-          "value": 0.01732051615138131,
+          "value": 0.017185083347654236,
         },
         Object {
           "currency": "LTL",
@@ -1409,11 +1409,11 @@ Object {
         },
         Object {
           "currency": "MXN",
-          "value": 18.775335,
+          "value": 18.774997,
         },
         Object {
           "currency": "MYR",
-          "value": 4.0655,
+          "value": 4.0626,
         },
         Object {
           "currency": "MZN",
@@ -1433,7 +1433,7 @@ Object {
         },
         Object {
           "currency": "NOK",
-          "value": 8.888761,
+          "value": 8.887928,
         },
         Object {
           "currency": "NPR",
@@ -1441,7 +1441,7 @@ Object {
         },
         Object {
           "currency": "NZD",
-          "value": 1.504891,
+          "value": 1.504302,
         },
         Object {
           "currency": "OMR",
@@ -1449,7 +1449,7 @@ Object {
         },
         Object {
           "currency": "OXT",
-          "value": 3.305238803503553,
+          "value": 3.252032520325203,
         },
         Object {
           "currency": "PAB",
@@ -1465,7 +1465,7 @@ Object {
         },
         Object {
           "currency": "PHP",
-          "value": 50.94655,
+          "value": 50.8655,
         },
         Object {
           "currency": "PKR",
@@ -1473,7 +1473,7 @@ Object {
         },
         Object {
           "currency": "PLN",
-          "value": 3.807266,
+          "value": 3.806758,
         },
         Object {
           "currency": "PYG",
@@ -1485,7 +1485,7 @@ Object {
         },
         Object {
           "currency": "REP",
-          "value": 0.06367398917542184,
+          "value": 0.06422607578676942,
         },
         Object {
           "currency": "RON",
@@ -1493,7 +1493,7 @@ Object {
         },
         Object {
           "currency": "RSD",
-          "value": 105.535,
+          "value": 105.48,
         },
         Object {
           "currency": "RUB",
@@ -1505,7 +1505,7 @@ Object {
         },
         Object {
           "currency": "SAI",
-          "value": 1.0015403690876568,
+          "value": 1.0020506967509006,
         },
         Object {
           "currency": "SAR",
@@ -1521,15 +1521,15 @@ Object {
         },
         Object {
           "currency": "SEK",
-          "value": 9.48963,
+          "value": 9.488848,
         },
         Object {
           "currency": "SGD",
-          "value": 1.34648,
+          "value": 1.346324,
         },
         Object {
           "currency": "SHP",
-          "value": 0.764851,
+          "value": 0.764567,
         },
         Object {
           "currency": "SLL",
@@ -1561,7 +1561,7 @@ Object {
         },
         Object {
           "currency": "THB",
-          "value": 30.468905,
+          "value": 30.460502,
         },
         Object {
           "currency": "TJS",
@@ -1581,7 +1581,7 @@ Object {
         },
         Object {
           "currency": "TRY",
-          "value": 5.860503,
+          "value": 5.86079,
         },
         Object {
           "currency": "TTD",
@@ -1589,7 +1589,7 @@ Object {
         },
         Object {
           "currency": "TWD",
-          "value": 29.927,
+          "value": 29.922498,
         },
         Object {
           "currency": "TZS",
@@ -1629,7 +1629,7 @@ Object {
         },
         Object {
           "currency": "VND",
-          "value": 23211.125263,
+          "value": 23208.325065,
         },
         Object {
           "currency": "VUV",
@@ -1641,15 +1641,15 @@ Object {
         },
         Object {
           "currency": "XAF",
-          "value": 588.793348,
+          "value": 588.747876,
         },
         Object {
           "currency": "XAG",
-          "value": 0.05562516,
+          "value": 0.05561278,
         },
         Object {
           "currency": "XAU",
-          "value": 0.00064406,
+          "value": 0.0006436,
         },
         Object {
           "currency": "XCD",
@@ -1661,31 +1661,31 @@ Object {
         },
         Object {
           "currency": "XLM",
-          "value": 18.747480807266523,
+          "value": 18.71415070505563,
         },
         Object {
           "currency": "XOF",
-          "value": 588.793348,
+          "value": 588.747876,
         },
         Object {
           "currency": "XPD",
-          "value": 0.0004302,
+          "value": 0.00042994,
         },
         Object {
           "currency": "XPF",
-          "value": 107.113326,
+          "value": 107.105054,
         },
         Object {
           "currency": "XPT",
-          "value": 0.00099158,
+          "value": 0.00099123,
         },
         Object {
           "currency": "XRP",
-          "value": 4.386926957666154,
+          "value": 4.365858982754857,
         },
         Object {
           "currency": "XTZ",
-          "value": 0.6878288681775974,
+          "value": 0.6884681583476765,
         },
         Object {
           "currency": "YER",
@@ -1693,11 +1693,11 @@ Object {
         },
         Object {
           "currency": "ZAR",
-          "value": 14.415775,
+          "value": 14.404697,
         },
         Object {
           "currency": "ZEC",
-          "value": 0.020052135552436335,
+          "value": 0.019902477858493382,
         },
         Object {
           "currency": "ZMK",
@@ -1709,7 +1709,7 @@ Object {
         },
         Object {
           "currency": "ZRX",
-          "value": 3.927876334741477,
+          "value": 3.9394428839873465,
         },
         Object {
           "currency": "ZWL",
@@ -1734,7 +1734,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 8735.775,
+        "amount": 8728.615,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1742,7 +1742,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 329.14,
+        "amount": 327.695,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1750,7 +1750,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 313.495718221,
+        "amount": 313.410225248,
         "base": "BSV",
         "code": "BSV",
         "color": "#EAB300",
@@ -1758,7 +1758,7 @@ Object {
         "name": "Bitcoin SV",
       },
       Object {
-        "amount": 165.43,
+        "amount": 165.05,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1766,7 +1766,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 8.333,
+        "amount": 8.316,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -1774,7 +1774,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 58.235,
+        "amount": 58.1,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1782,7 +1782,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.254142,
+        "amount": 0.253922,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -1798,7 +1798,7 @@ Object {
         "name": "USD Coin",
       },
       Object {
-        "amount": 0.2164425,
+        "amount": 0.217279,
         "base": "BAT",
         "code": "BAT",
         "color": "#FF5000",
@@ -1806,7 +1806,7 @@ Object {
         "name": "Basic Attention Token",
       },
       Object {
-        "amount": 2.574445,
+        "amount": 2.57126,
         "base": "LINK",
         "code": "LINK",
         "color": "#295AD9",
@@ -1814,7 +1814,7 @@ Object {
         "name": "Chainlink",
       },
       Object {
-        "amount": 0.9979535,
+        "amount": 0.9982215,
         "base": "DAI",
         "code": "DAI",
         "color": "#F8AF1B",
@@ -1822,7 +1822,7 @@ Object {
         "name": "Dai",
       },
       Object {
-        "amount": 1.002705013,
+        "amount": 1.00425083368,
         "base": "SAI",
         "code": "SAI",
         "color": "#FFC927",
@@ -1830,7 +1830,7 @@ Object {
         "name": "Single Collateral Dai",
       },
       Object {
-        "amount": 50.23,
+        "amount": 50.06,
         "base": "ZEC",
         "code": "ZEC",
         "color": "#EBB244",
@@ -1838,7 +1838,7 @@ Object {
         "name": "Zcash",
       },
       Object {
-        "amount": 0.2295,
+        "amount": 0.22915,
         "base": "XRP",
         "code": "XRP",
         "color": "#222222",
@@ -1846,7 +1846,7 @@ Object {
         "name": "XRP",
       },
       Object {
-        "amount": 15.585,
+        "amount": 15.93,
         "base": "REP",
         "code": "REP",
         "color": "#553580",
@@ -1854,7 +1854,7 @@ Object {
         "name": "Augur",
       },
       Object {
-        "amount": 0.053458,
+        "amount": 0.0534715,
         "base": "XLM",
         "code": "XLM",
         "color": "#FFFFFF",
@@ -1862,7 +1862,7 @@ Object {
         "name": "Stellar Lumens",
       },
       Object {
-        "amount": 3.852,
+        "amount": 3.8545,
         "base": "EOS",
         "code": "EOS",
         "color": "#000000",
@@ -1870,7 +1870,7 @@ Object {
         "name": "EOS",
       },
       Object {
-        "amount": 1.4522,
+        "amount": 1.4538,
         "base": "XTZ",
         "code": "XTZ",
         "color": "#2D7DF7",
@@ -1878,7 +1878,7 @@ Object {
         "name": "Tezos",
       },
       Object {
-        "amount": 124.086,
+        "amount": 124.055,
         "base": "DASH",
         "code": "DASH",
         "color": "#008CE7",
@@ -1886,7 +1886,7 @@ Object {
         "name": "Dash",
       },
       Object {
-        "amount": 5.0365,
+        "amount": 5.0155,
         "base": "ATOM",
         "code": "ATOM",
         "color": "#2D3147",
@@ -1894,7 +1894,7 @@ Object {
         "name": "Cosmos",
       },
       Object {
-        "amount": 0.3075,
+        "amount": 0.3091,
         "base": "OXT",
         "code": "OXT",
         "color": "#5E44BA",

@@ -1,31 +1,11 @@
 {
-  "kuala-lumpur": {
-    "name": "Kuala Lumpur",
-    "tzid": "Asia/Kuala_Lumpur"
-  },
-  "chiang-mai": {
-    "name": "Chiang Mai",
-    "tzid": "Asia/Bangkok"
-  },
-  "hanoi": {
-    "name": "Hanoi",
-    "tzid": "Asia/Ho_Chi_Minh"
-  },
   "turin": {
     "name": "Turin",
     "tzid": "Europe/Rome"
   },
-  "valencia": {
-    "name": "Valencia",
-    "tzid": "Europe/Madrid"
-  },
   "london": {
     "name": "London",
     "tzid": "Europe/London"
-  },
-  "buenos-aires": {
-    "name": "Buenos Aires",
-    "tzid": "America/Argentina/Buenos_Aires"
   },
   "new-york": {
     "name": "New York",
