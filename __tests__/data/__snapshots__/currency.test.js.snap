@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`validate 1`] = `
+Object {
+  "key": "ATOM",
+  "name": "Cosmos",
+}
+`;
+
+exports[`validate 2`] = `
+Object {
+  "key": "BAT",
+  "name": "Basic Attention Token",
+}
+`;
+
+exports[`validate 3`] = `
+Object {
+  "key": "BCH",
+  "name": "Bitcoin Cash",
+}
+`;
+
+exports[`validate 4`] = `
+Object {
+  "key": "BTC",
+  "name": "Bitcoin",
+}
+`;
+
+exports[`validate 5`] = `
+Object {
+  "key": "BSV",
+  "name": "Bitcoin SV",
+}
+`;
+
+exports[`validate 6`] = `
+Object {
+  "key": "CAD",
+  "name": "Canadian Dollar",
+}
+`;
+
+exports[`validate 7`] = `
+Object {
+  "key": "DAI",
+  "name": "Dai",
+}
+`;
+
+exports[`validate 8`] = `
+Object {
+  "key": "DASH",
+  "name": "Dash",
+}
+`;
+
+exports[`validate 9`] = `
+Object {
+  "key": "EOS",
+  "name": "EOS",
+}
+`;
+
+exports[`validate 10`] = `
+Object {
+  "key": "ETC",
+  "name": "Ethereum Classic",
+}
+`;
+
+exports[`validate 11`] = `
+Object {
+  "key": "ETH",
+  "name": "Ethereum",
+}
+`;
+
+exports[`validate 12`] = `
+Object {
+  "key": "EUR",
+  "name": "Euro",
+}
+`;
+
+exports[`validate 13`] = `
+Object {
+  "key": "GBP",
+  "name": "British Pound",
+}
+`;
+
+exports[`validate 14`] = `
+Object {
+  "key": "JPY",
+  "name": "Japanese Yen",
+}
+`;
+
+exports[`validate 15`] = `
+Object {
+  "key": "LINK",
+  "name": "Chainlink",
+}
+`;
+
+exports[`validate 16`] = `
+Object {
+  "key": "LTC",
+  "name": "Litecoin",
+}
+`;
+
+exports[`validate 17`] = `
+Object {
+  "key": "OXT",
+  "name": "Orchid",
+}
+`;
+
+exports[`validate 18`] = `
+Object {
+  "key": "REP",
+  "name": "Augur",
+}
+`;
+
+exports[`validate 19`] = `
+Object {
+  "key": "SAI",
+  "name": "Single Collateral Dai",
+}
+`;
+
+exports[`validate 20`] = `
+Object {
+  "key": "USDC",
+  "name": "USD Coin",
+}
+`;
+
+exports[`validate 21`] = `
+Object {
+  "key": "XLM",
+  "name": "Stellar Lumens",
+}
+`;
+
+exports[`validate 22`] = `
+Object {
+  "key": "XRP",
+  "name": "XRP",
+}
+`;
+
+exports[`validate 23`] = `
+Object {
+  "key": "XTZ",
+  "name": "Tezos",
+}
+`;
+
+exports[`validate 24`] = `
+Object {
+  "key": "ZEC",
+  "name": "Zcash",
+}
+`;
+
+exports[`validate 25`] = `
+Object {
+  "key": "ZRX",
+  "name": "0x",
+}
+`;
