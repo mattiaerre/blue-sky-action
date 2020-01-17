@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`to match snapshot 1`] = `
+Array [
+  Object {
+    "base": "BTC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BCH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BSV",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ETH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ETC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LTC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZRX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "USDC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BAT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LINK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DAI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SAI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZEC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XRP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "REP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XLM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EOS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XTZ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DASH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ATOM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OXT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EUR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GBP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CAD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "JPY",
+    "currency": "USD",
+  },
+]
+`;
