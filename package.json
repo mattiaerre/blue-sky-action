@@ -94,8 +94,8 @@
   },
   "homepage": "https://github.com/mattiaerre/blue-sky-action#readme",
   "engines": {
-    "node": "8",
-    "npm": "5"
+    "node": ">=12",
+    "npm": ">=6"
   },
   "lint-staged": {
     "*.{js,json,scss}": [
