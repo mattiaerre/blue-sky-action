@@ -23,22 +23,6 @@ describe('graphql middleware', () => {
       `
     },
     {
-      description: 'query BuyPrice',
-      propertyMatchers: { data: { buyPrice: { amount: expect.any(Number) } } },
-      query: `
-      query BuyPrice {
-        buyPrice(currencyPair: "BTC-USD") {
-          amount
-          base
-          code
-          color
-          currency
-          name
-        }
-      }
-      `
-    },
-    {
       description: 'query Currencies',
       query: `
       query Currencies {

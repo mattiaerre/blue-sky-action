@@ -5,9 +5,13 @@ I'd love to build a mobile website.
 ## DX
 
 ```bash
+nvm use
+
 yarn
 
 yarn bundle:watch
+
+yarn style
 
 yarn start:dev
 ```

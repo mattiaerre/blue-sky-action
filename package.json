@@ -11,6 +11,7 @@
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
     "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www",
+    "style": "node-sass src/public/stylesheets/ -o src/public/stylesheets/ --source-map true",
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
@@ -49,7 +50,6 @@
     "moment-timezone": "^0.5.23",
     "morgan": "^1.9.0",
     "node-fetch": "^2.3.0",
-    "node-sass-middleware": "^0.11.0",
     "npm-run-all": "^4.1.5",
     "numeral": "^2.0.6",
     "pg": "^7.9.0",
@@ -73,6 +73,7 @@
     "husky": "^1.3.1",
     "jest": "^24.7.1",
     "lint-staged": "^8.1.5",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.18.11",
     "prettier": "^1.17.0",
     "webpack-cli": "^3.3.0"

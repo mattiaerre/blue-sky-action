@@ -129,7 +129,7 @@
     "id": "blasting-news-br",
     "name": "Blasting News (BR)",
     "description": "Descubra a seção brasileira da Blasting News, a primeira revista feita pelo  público, com notícias globais e vídeos independentes. Junte-se a nós e torne- se um repórter.",
-    "url": "http://br.blastingnews.com",
+    "url": "https://br.blastingnews.com",
     "category": "general",
     "language": "pt",
     "country": "br"
@@ -243,15 +243,6 @@
     "country": "us"
   },
   {
-    "id": "daily-mail",
-    "name": "Daily Mail",
-    "description": "All the latest news, sport, showbiz, science and health stories from around the world from the Daily Mail and Mail on Sunday newspapers.",
-    "url": "http://www.dailymail.co.uk/home/index.html",
-    "category": "entertainment",
-    "language": "en",
-    "country": "gb"
-  },
-  {
     "id": "der-tagesspiegel",
     "name": "Der Tagesspiegel",
     "description": "Nachrichten, News und neueste Meldungen aus dem Inland und dem Ausland - aktuell präsentiert von tagesspiegel.de.",
@@ -322,15 +313,6 @@
     "category": "business",
     "language": "en",
     "country": "ca"
-  },
-  {
-    "id": "financial-times",
-    "name": "Financial Times",
-    "description": "The latest UK and international business, finance, economic and political news, comment and analysis from the Financial Times on FT.com.",
-    "url": "http://www.ft.com/home/uk",
-    "category": "business",
-    "language": "en",
-    "country": "gb"
   },
   {
     "id": "focus",
@@ -552,7 +534,7 @@
     "id": "il-sole-24-ore",
     "name": "Il Sole 24 Ore",
     "description": "Notizie di economia, cronaca italiana ed estera, quotazioni borsa in tempo reale e di finanza, norme e tributi, fondi e obbligazioni, mutui, prestiti e lavoro a cura de Il Sole 24 Ore.",
-    "url": "http://www.ilsole24ore.com",
+    "url": "https://www.ilsole24ore.com",
     "category": "business",
     "language": "it",
     "country": "it"
@@ -579,7 +561,7 @@
     "id": "info-money",
     "name": "InfoMoney",
     "description": "No InfoMoney você encontra tudo o que precisa sobre dinheiro. Ações, investimentos, bolsas de valores e muito mais. Aqui você encontra informação que vale dinheiro!",
-    "url": "http://www.infomoney.com.br",
+    "url": "https://www.infomoney.com.br",
     "category": "business",
     "language": "pt",
     "country": "br"
@@ -669,7 +651,7 @@
     "id": "mashable",
     "name": "Mashable",
     "description": "Mashable is a global, multi-platform media and entertainment company.",
-    "url": "http://mashable.com",
+    "url": "https://mashable.com",
     "category": "entertainment",
     "language": "en",
     "country": "us"
@@ -682,24 +664,6 @@
     "category": "health",
     "language": "en",
     "country": "us"
-  },
-  {
-    "id": "metro",
-    "name": "Metro",
-    "description": "News, Sport, Showbiz, Celebrities from Metro - a free British newspaper.",
-    "url": "http://metro.co.uk",
-    "category": "general",
-    "language": "en",
-    "country": "gb"
-  },
-  {
-    "id": "mirror",
-    "name": "Mirror",
-    "description": "All the latest news, sport and celebrity gossip at Mirror.co.uk. Get all the big headlines, pictures, analysis, opinion and video on the stories that matter to you.",
-    "url": "http://www.mirror.co.uk/",
-    "category": "general",
-    "language": "en",
-    "country": "gb"
   },
   {
     "id": "msnbc",
@@ -786,7 +750,7 @@
     "id": "newsweek",
     "name": "Newsweek",
     "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
-    "url": "http://www.newsweek.com",
+    "url": "https://www.newsweek.com",
     "category": "general",
     "language": "en",
     "country": "us"
@@ -858,7 +822,7 @@
     "id": "rbc",
     "name": "RBC",
     "description": "Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru.",
-    "url": "http://www.rbc.ru",
+    "url": "https://www.rbc.ru",
     "category": "general",
     "language": "ru",
     "country": "ru"
@@ -948,7 +912,7 @@
     "id": "t3n",
     "name": "T3n",
     "description": "Das Online-Magazin bietet Artikel zu den Themen E-Business, Social Media, Startups und Webdesign.",
-    "url": "http://t3n.de",
+    "url": "https://t3n.de",
     "category": "technology",
     "language": "de",
     "country": "de"
@@ -999,15 +963,6 @@
     "country": "us"
   },
   {
-    "id": "the-economist",
-    "name": "The Economist",
-    "description": "The Economist offers authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them.",
-    "url": "http://www.economist.com",
-    "category": "business",
-    "language": "en",
-    "country": "gb"
-  },
-  {
     "id": "the-globe-and-mail",
     "name": "The Globe And Mail",
     "description": "The Globe and Mail offers the most authoritative news in Canada, featuring national and international news.",
@@ -1015,24 +970,6 @@
     "category": "general",
     "language": "en",
     "country": "ca"
-  },
-  {
-    "id": "the-guardian-au",
-    "name": "The Guardian (AU)",
-    "description": "Latest news, sport, comment, analysis and reviews from Guardian Australia",
-    "url": "https://www.theguardian.com/au",
-    "category": "general",
-    "language": "en",
-    "country": "au"
-  },
-  {
-    "id": "the-guardian-uk",
-    "name": "The Guardian (UK)",
-    "description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice.",
-    "url": "https://www.theguardian.com/uk",
-    "category": "general",
-    "language": "en",
-    "country": "gb"
   },
   {
     "id": "the-hill",
@@ -1083,19 +1020,10 @@
     "id": "the-lad-bible",
     "name": "The Lad Bible",
     "description": "The LAD Bible is one of the largest community for guys aged 16-30 in the world. Send us your funniest pictures and videos!",
-    "url": "http://www.theladbible.com",
+    "url": "https://www.theladbible.com",
     "category": "entertainment",
     "language": "en",
     "country": "gb"
-  },
-  {
-    "id": "the-new-york-times",
-    "name": "The New York Times",
-    "description": "The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more at nytimes.com.",
-    "url": "http://www.nytimes.com",
-    "category": "general",
-    "language": "en",
-    "country": "us"
   },
   {
     "id": "the-next-web",
@@ -1110,17 +1038,8 @@
     "id": "the-sport-bible",
     "name": "The Sport Bible",
     "description": "TheSPORTbible is one of the largest communities for sports fans across the world. Send us your sporting pictures and videos!",
-    "url": "http://www.thesportbible.com",
+    "url": "https://www.thesportbible.com",
     "category": "sports",
-    "language": "en",
-    "country": "gb"
-  },
-  {
-    "id": "the-telegraph",
-    "name": "The Telegraph",
-    "description": "Latest news, business, sport, comment, lifestyle and culture from the Daily Telegraph and Sunday Telegraph newspapers and video from Telegraph TV.",
-    "url": "http://www.telegraph.co.uk",
-    "category": "general",
     "language": "en",
     "country": "gb"
   },

@@ -17,6 +17,7 @@ const currency = {
   EUR: { color: '#FFFFFF', foregroundColor: 'black', name: 'Euro' },
   GBP: { color: '#FFFFFF', foregroundColor: 'black', name: 'British Pound' },
   JPY: { color: '#FFFFFF', foregroundColor: 'black', name: 'Japanese Yen' },
+  KNC: { color: '#2C8C92', foregroundColor: 'white', name: 'Kyber Network' },
   LINK: { color: '#295AD9', foregroundColor: 'white', name: 'Chainlink' },
   LTC: { color: '#B5B5B5', foregroundColor: 'black', name: 'Litecoin' },
   OXT: { color: '#5E44BA', foregroundColor: 'white', name: 'Orchid' },
