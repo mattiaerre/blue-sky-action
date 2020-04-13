@@ -309,7 +309,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 6907.73,
+        "amount": 6882.385,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -317,7 +317,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 233.49,
+        "amount": 232.55,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -325,7 +325,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 193.437657097,
+        "amount": 192.460945383,
         "base": "BSV",
         "code": "BSV",
         "color": "#EAB300",
@@ -333,7 +333,7 @@ Object {
         "name": "Bitcoin SV",
       },
       Object {
-        "amount": 158.815,
+        "amount": 157.75,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -341,7 +341,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 5.3375,
+        "amount": 5.3135,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -349,7 +349,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 42.045,
+        "amount": 41.71,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -357,7 +357,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.1685355,
+        "amount": 0.1681025,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -373,7 +373,7 @@ Object {
         "name": "USD Coin",
       },
       Object {
-        "amount": 0.160845,
+        "amount": 0.159085,
         "base": "BAT",
         "code": "BAT",
         "color": "#FF5000",
@@ -381,7 +381,7 @@ Object {
         "name": "Basic Attention Token",
       },
       Object {
-        "amount": 0.47505,
+        "amount": 0.47325,
         "base": "KNC",
         "code": "KNC",
         "color": "#2C8C92",
@@ -389,7 +389,7 @@ Object {
         "name": "Kyber Network",
       },
       Object {
-        "amount": 3.428315,
+        "amount": 3.406645,
         "base": "LINK",
         "code": "LINK",
         "color": "#295AD9",
@@ -397,7 +397,7 @@ Object {
         "name": "Chainlink",
       },
       Object {
-        "amount": 1.017127,
+        "amount": 1.0168195,
         "base": "DAI",
         "code": "DAI",
         "color": "#F8AF1B",
@@ -405,7 +405,7 @@ Object {
         "name": "Dai",
       },
       Object {
-        "amount": 1.01020283534,
+        "amount": 1.00674413196,
         "base": "SAI",
         "code": "SAI",
         "color": "#FFC927",
@@ -413,7 +413,7 @@ Object {
         "name": "Single Collateral Dai",
       },
       Object {
-        "amount": 36.455,
+        "amount": 36.21,
         "base": "ZEC",
         "code": "ZEC",
         "color": "#EBB244",
@@ -421,7 +421,7 @@ Object {
         "name": "Zcash",
       },
       Object {
-        "amount": 0.18955,
+        "amount": 0.18825,
         "base": "XRP",
         "code": "XRP",
         "color": "#222222",
@@ -429,7 +429,7 @@ Object {
         "name": "XRP",
       },
       Object {
-        "amount": 9.775,
+        "amount": 9.74,
         "base": "REP",
         "code": "REP",
         "color": "#553580",
@@ -437,7 +437,7 @@ Object {
         "name": "Augur",
       },
       Object {
-        "amount": 0.0490345,
+        "amount": 0.048276,
         "base": "XLM",
         "code": "XLM",
         "color": "#FFFFFF",
@@ -445,7 +445,7 @@ Object {
         "name": "Stellar Lumens",
       },
       Object {
-        "amount": 2.506,
+        "amount": 2.473,
         "base": "EOS",
         "code": "EOS",
         "color": "#000000",
@@ -453,7 +453,7 @@ Object {
         "name": "EOS",
       },
       Object {
-        "amount": 2.002,
+        "amount": 1.98555,
         "base": "XTZ",
         "code": "XTZ",
         "color": "#2D7DF7",
@@ -461,7 +461,7 @@ Object {
         "name": "Tezos",
       },
       Object {
-        "amount": 74.326,
+        "amount": 73.811,
         "base": "DASH",
         "code": "DASH",
         "color": "#008CE7",
@@ -469,7 +469,7 @@ Object {
         "name": "Dash",
       },
       Object {
-        "amount": 2.3035,
+        "amount": 2.285,
         "base": "ATOM",
         "code": "ATOM",
         "color": "#2D3147",
@@ -477,7 +477,7 @@ Object {
         "name": "Cosmos",
       },
       Object {
-        "amount": 0.16375,
+        "amount": 0.1639,
         "base": "OXT",
         "code": "OXT",
         "color": "#5E44BA",
