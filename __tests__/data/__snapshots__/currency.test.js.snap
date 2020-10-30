@@ -100,75 +100,82 @@ Object {
 
 exports[`validate 15`] = `
 Object {
+  "key": "KNC",
+  "name": "Kyber Network",
+}
+`;
+
+exports[`validate 16`] = `
+Object {
   "key": "LINK",
   "name": "Chainlink",
 }
 `;
 
-exports[`validate 16`] = `
+exports[`validate 17`] = `
 Object {
   "key": "LTC",
   "name": "Litecoin",
 }
 `;
 
-exports[`validate 17`] = `
+exports[`validate 18`] = `
 Object {
   "key": "OXT",
   "name": "Orchid",
 }
 `;
 
-exports[`validate 18`] = `
+exports[`validate 19`] = `
 Object {
   "key": "REP",
   "name": "Augur",
 }
 `;
 
-exports[`validate 19`] = `
+exports[`validate 20`] = `
 Object {
   "key": "SAI",
   "name": "Single Collateral Dai",
 }
 `;
 
-exports[`validate 20`] = `
+exports[`validate 21`] = `
 Object {
   "key": "USDC",
   "name": "USD Coin",
 }
 `;
 
-exports[`validate 21`] = `
+exports[`validate 22`] = `
 Object {
   "key": "XLM",
   "name": "Stellar Lumens",
 }
 `;
 
-exports[`validate 22`] = `
+exports[`validate 23`] = `
 Object {
   "key": "XRP",
   "name": "XRP",
 }
 `;
 
-exports[`validate 23`] = `
+exports[`validate 24`] = `
 Object {
   "key": "XTZ",
   "name": "Tezos",
 }
 `;
 
-exports[`validate 24`] = `
+exports[`validate 25`] = `
 Object {
   "key": "ZEC",
   "name": "Zcash",
 }
 `;
 
-exports[`validate 25`] = `
+exports[`validate 26`] = `
 Object {
   "key": "ZRX",
   "name": "0x",

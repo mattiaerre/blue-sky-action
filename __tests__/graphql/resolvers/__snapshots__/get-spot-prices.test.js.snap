@@ -39,6 +39,10 @@ Array [
     "currency": "USD",
   },
   Object {
+    "base": "KNC",
+    "currency": "USD",
+  },
+  Object {
     "base": "LINK",
     "currency": "USD",
   },

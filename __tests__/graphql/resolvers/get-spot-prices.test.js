@@ -7,9 +7,9 @@ test('to match snapshot', async () => {
     config: { coinbase: { baseUrl: 'https://api.coinbase.com' } }
   };
 
-  const spotPrices = (await getSpotPrices(null, args, context)).map(
-    ({ amount, ...rest }) => ({ ...rest })
-  );
+  const spotPrices = (
+    await getSpotPrices(null, args, context)
+  ).map(({ amount, ...rest }) => ({ ...rest }));
 
   expect(spotPrices).toMatchSnapshot();
 

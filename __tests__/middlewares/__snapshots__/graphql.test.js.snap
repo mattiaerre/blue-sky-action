@@ -5,261 +5,249 @@ Object {
   "data": Object {
     "articles": Array [
       Object {
-        "author": "adam@letstalkbitcoin.com (The LTB Network), The LTB Network",
-        "description": "Yan Pritzker, author of Inventing Bitcoin and cofounder/CTO of Swan Bitcoin, joins me to talk about his background, the money red pill that bitcoin serves up to us, bitcoin tech and his book. Citizen Bitcoin on Twitter Citizen Bitcoin Podcast Citizen Bitcoin …",
-        "publishedAt": "2020-01-17T01:57:00Z",
+        "author": "Justin O'Connell, Contributor, Justin O'Connell, Contributor https://www.forbes.com/sites/justinoconnell/",
+        "description": "Muneeb Ali, founder of Blockstack PBC: Bitcoin is the reserve currency of a unified digital society.",
+        "publishedAt": "2020-04-12T23:40:09Z",
         "source": Object {
           "id": null,
-          "name": "Letstalkbitcoin.com",
+          "name": "Forbes.com",
         },
-        "title": "Citizen Bitcoin - Yan Pritzker: The Money Red Pill, Bitcoin Tech and Swan Bitcoin",
-        "url": "https://letstalkbitcoin.com/blog/post/citizen-bitcoin-yan-pritzker-money-bitcoin-tech-swan-bitcoin?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheDailyBitcoinShow+%28Let%27s+Talk+Bitcoin+Network+Feed%29",
-        "urlToImage": "https://letstalkbitcoin.com/files/blogs/8382-3e60a38512437d203dc1103d345884354ed4f981ceb404faed5b8d0e72685159.jpg",
+        "title": "How Bitcoin Could Anchor Web 3.0",
+        "url": "https://www.forbes.com/sites/justinoconnell/2020/04/12/how-bitcoin-could-anchor-web-30/",
+        "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e939dcc01879f0006d2779b%2F0x0.jpg",
       },
       Object {
-        "author": "Thomas Delahunty",
-        "description": "Despite successful shows of force from CME Group and Bakkt’s Bitcoin options offerings, the majority of volume still goes through Deribit. This squashes fears that the new offerings would be in direct competition with the European firm, and highlights the fac…",
-        "publishedAt": "2020-01-17T01:54:06Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Existing Bitcoin Exchange Dwarfs Institutional Volume: Are CME and Bakkt Overhyped?",
-        "url": "https://www.newsbtc.com/2020/01/17/existing-bitcoin-exchange-dwarfs-institutional-volume-are-cme-and-bakkt-overhyped/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/01/shutterstock_450844810-1200x780.jpg",
-      },
-      Object {
-        "author": "Cole Petersen",
-        "description": "Bitcoin has been holding steady around the $8,700 region after facing an influx of selling pressure that forced it to lose its previously held position within the $8,800 region. Data suggests that this selling pressure was quite massive, despite BTC only seei…",
-        "publishedAt": "2020-01-17T01:00:05Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "This Single Factor Suggests Bitcoin’s 2020 Rally is Far From Over",
-        "url": "https://www.newsbtc.com/2020/01/17/this-single-factor-suggests-bitcoins-2020-rally-is-far-from-over/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/01/shutterstock_1013892577-1200x780.jpg",
-      },
-      Object {
-        "author": "Sebastian Sinclair",
-        "description": "Global provider of professional trading software Trading Technologies announced Wednesday it would provide connectivity to leading derivatives exchange, Deribit",
-        "publishedAt": "2020-01-17T00:54:03Z",
-        "source": Object {
-          "id": null,
-          "name": "Coindesk.com",
-        },
-        "title": "Deribit Takes On New Trading Tools to Capture ‘Exploding’ Options Market",
-        "url": "https://www.coindesk.com/deribit-takes-on-new-trading-tools-to-capture-exploding-options-market",
-        "urlToImage": "https://static.coindesk.com/wp-content/uploads/2018/12/tools.jpg",
-      },
-      Object {
-        "author": null,
-        "description": "Sextortion campaigns are nothing new, but their effects can be terrifying for the unprepared. Just the idea that someone is watching your intimate moments is nothing short of bone-chilling, which is why its the perfect threat for money-hungry hackers and frau…",
-        "publishedAt": "2020-01-17T00:44:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Komando.com",
-        },
-        "title": "Scary sextortion scam is on the rise – and hackers have a new target",
-        "url": "https://www.komando.com/news/sextortion-scam-targets-google-nest/701990/",
-        "urlToImage": "https://www.komando.com/wp-content/uploads/2020/01/dreamstime_m_80690291-1.jpg",
-      },
-      Object {
-        "author": "Ali",
-        "description": "According to the US House Financial Services Committee, the nature of Bitcoin and other cryptocurrencies allows Nazis and domestic terrorists to fund their activities. US officials voice concerns over Bitcoin terrorist financing This Wednesday, a US House Fin…",
-        "publishedAt": "2020-01-17T00:00:02Z",
-        "source": Object {
-          "id": null,
-          "name": "Bitcoinist.com",
-        },
-        "title": "Nazis are Using Bitcoin, US Gov’t Officials Warn",
-        "url": "https://bitcoinist.com/nazis-are-using-bitcoin-us-govt-officials-warn/",
-        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/01/GettyImages-86037076-1920x1280.jpg",
-      },
-      Object {
-        "author": "Contributing Author",
-        "description": "Why is the United Nations looking for “Disarmament Officers” in the U.S.?",
-        "publishedAt": "2020-01-16T23:30:34Z",
-        "source": Object {
-          "id": null,
-          "name": "Shtfplan.com",
-        },
-        "title": "The United Nations Job Application That Should Alarm EVERYONE!",
-        "url": "https://www.shtfplan.com/headline-news/the-united-nations-job-application-that-should-alarm-everyone_01162020",
-        "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2020/01/unjobdisarmament-e1579179361822.jpg",
-      },
-      Object {
-        "author": "David H. Lerner",
-        "description": "I'm not a natural bear, in fact I'm still bullish overall.I have been pulling in risk and generating cash. Starting yesterday I began to get more aggressive by betting against Beyond Meat. So far that has not been fun.The market can continue going higher long…",
-        "publishedAt": "2020-01-16T23:15:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Seekingalpha.com",
-        },
-        "title": "It's Lonely In Shortsville, Sentiment Is Very Optimistic: I'm Not Covering Yet, Here's Why",
-        "url": "https://seekingalpha.com/article/4317432-lonely-in-shortsville-sentiment-is-optimistic-not-covering-yet-why",
-        "urlToImage": "https://static.seekingalpha.com/uploads/2020/1/16/saupload_9abH-irHJShqGG88Jj8eMmriZ_Bglbp-yYzSrY64wIjXRxsdQIUIP82cpXi502gTuA-byfkC2YYmNmFzlf5-OnhISc2BtVhcbwlbAbSmyiUL73jd1CZdZGZIUjAToftb6WdKVw-t.png",
-      },
-      Object {
-        "author": "Anatol Antonovici",
-        "description": "About one-third of US-based small and medium-sized enterprises (SMEs) accept cryptocurrency as a payment for their goods and services, according to a survey commissioned by American insurer Hartford Steam Boiler (HSB), a subsidiary of German Munich Re. Newer …",
-        "publishedAt": "2020-01-16T23:00:48Z",
-        "source": Object {
-          "id": null,
-          "name": "Bitcoinist.com",
-        },
-        "title": "36% of U.S SMEs Now Accept Cryptocurrency Payments",
-        "url": "https://bitcoinist.com/36-of-u-s-smes-accept-cryptocurrency-payments/",
-        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/01/shutterstock_1006904248.jpg",
-      },
-      Object {
-        "author": "Cole Petersen",
-        "description": "Bitcoin has begun showing some signs of topping out as the crypto inches lower from its previous consolidation region around $8,800. BTC’s move towards $8,600 has led some analysts to believe that its recent highs of $8,900 will mark a mid-term top. One valua…",
-        "publishedAt": "2020-01-16T23:00:35Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Bitcoin Could Soon Tumble Lower as Its Funding Rate Begins Flipping Positive",
-        "url": "https://www.newsbtc.com/2020/01/16/bitcoin-could-soon-tumble-lower-as-its-funding-rate-begins-flipping-positive/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/01/shutterstock_1170951868-1200x780.jpg",
-      },
-      Object {
-        "author": null,
-        "description": "ExtAnalysis is a Web Browser Extension Analysis Framework that will Scan, Analyse Chrome or Mozilla firefox extensions for vulnerabilities and intels. Generally most online users install extension to make web browsing easier and more convenient. Some plugins …",
-        "publishedAt": "2020-01-16T22:50:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Sectechno.com",
-        },
-        "title": "ExtAnalysis – Browser Extension Analysis Framework",
-        "url": "https://sectechno.com/extanalysis-browser-extension-analysis-framework/",
-        "urlToImage": "https://sectechno.com/wp-content/uploads/2020/01/ExtAnalysis-1024x719.png",
-      },
-      Object {
-        "author": "Danny Nelson",
-        "description": "Patrick McDonnell was sentenced to 33 months in federal prison and ordered to pay victims $225,000 after pleading guilty to charges he defrauded investors in his crypto trading platform, CabbageTech.",
-        "publishedAt": "2020-01-16T22:41:25Z",
-        "source": Object {
-          "id": null,
-          "name": "Coindesk.com",
-        },
-        "title": "CabbageTech CEO Sentenced to 33 Months in Prison After Pleading Guilty in Fraud Case",
-        "url": "https://www.coindesk.com/cabbagetech-ceo-sentenced-to-33-months-in-prison-after-pleading-guilty-in-fraud-case",
-        "urlToImage": "https://static.coindesk.com/wp-content/uploads/2018/07/EDNY1-e1531280480274.jpg",
-      },
-      Object {
-        "author": "Rick D.",
-        "description": "The taxation of crypto assets may well be hindering their adoption in the United States. Deemed a commodity by the CFTC and property by the IRS, each time an individual makes a purchase with a digital currency, they are almost certainly creating a taxable eve…",
-        "publishedAt": "2020-01-16T22:00:28Z",
-        "source": Object {
-          "id": null,
-          "name": "Newsbtc.com",
-        },
-        "title": "Why This New Act of Congress Could Drive Crypto Adoption",
-        "url": "https://www.newsbtc.com/2020/01/16/congress-crypto-adoption/",
-        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/01/shutterstock_111061541-1200x780.jpg",
-      },
-      Object {
-        "author": "Leigh Cuen",
-        "description": "Cryptocurrencies could be at the heart of a new Cold War, at least according to some investors at the Crypto Finance Conference in St. Moritz.",
-        "publishedAt": "2020-01-16T22:00:01Z",
-        "source": Object {
-          "id": null,
-          "name": "Coindesk.com",
-        },
-        "title": "Currency ‘Cold War’ Takes Center Stage at Pre-Davos Crypto Confab",
-        "url": "https://www.coindesk.com/currency-cold-war-takes-center-stage-at-pre-davos-crypto-confab",
-        "urlToImage": "https://static.coindesk.com/wp-content/uploads/2020/01/Young-Sohn-Kavita-Gupta-and-Cameron-Winklevoss.jpg",
-      },
-      Object {
-        "author": "OTC Markets Group - News, Filings & Corporate Actions",
-        "description": "Get Stock & Bond Quotes, Trade Prices, Charts, Financials and Company News & Information for OTCQX, OTCQB and Pink Securities.",
-        "publishedAt": "2020-01-16T22:00:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Otcmarkets.com",
-        },
-        "title": "Grayscale Bitcoin Trust (BTC) (GBTC: OTCQX U.S.) | Grayscale Bitcoin Trust Amendment to Trust Agreement",
-        "url": "https://www.otcmarkets.com/stock/GBTC/news?id=251488",
-        "urlToImage": null,
-      },
-      Object {
-        "author": "Octavio Mares",
-        "description": "One of the main reasons why governments and financial institutions refuse to accept virtual asset transactions is their potential use for illicit purposes. Cybersecurity firm Chainalysis shows this in its annual cybercrime report, in which it claims that crim…",
-        "publishedAt": "2020-01-16T21:30:00Z",
-        "source": Object {
-          "id": null,
-          "name": "Securitynewspaper.com",
-        },
-        "title": "How criminals laundered $2.8 billion USD using Bitcoin in 2019",
-        "url": "https://www.securitynewspaper.com/2020/01/16/how-criminals-laundered-2-8-billion-usd-using-bitcoin-in-2019/",
-        "urlToImage": "https://www.securitynewspaper.com/snews-up/2018/08/exchange.jpg",
-      },
-      Object {
-        "author": "Cointelegraph By Andrew Calderaro",
-        "description": "Venture capital firm Grayscale Investments banked a stellar 2019 to surpass the $1 billion mark in total investments",
-        "publishedAt": "2020-01-16T21:18:00Z",
+        "author": "Cointelegraph By Marcel Pechman",
+        "description": "Following a set of simple trading rules can be the difference between a growing portfolio and a liquidated account. Here’s 10 rules to consider",
+        "publishedAt": "2020-04-12T23:04:00Z",
         "source": Object {
           "id": null,
           "name": "Cointelegraph.com",
         },
-        "title": "VC Giant Grayscale Investments Reports Record-Breaking Year",
-        "url": "https://cointelegraph.com/news/vc-giant-grayscale-investments-reports-record-breaking-year",
-        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mNmI2ZjY4YWE0M2UwN2JhZWRlYTI5NTBkMzIyNTllMi5qcGc=.jpg",
+        "title": "10 Tips to Keep Your Crypto Portfolio Profitable During a Crisis",
+        "url": "https://cointelegraph.com/news/10-tips-to-keep-your-crypto-portfolio-profitable-during-a-crisis",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZTc4OTBlMTdmZTI1ZDAyZGQxM2NlOTE4YmM2NzJiYi5qcGc=.jpg",
       },
       Object {
-        "author": "Danny Nelson",
-        "description": "House Representatives’ bipartisan legislation would exempt realized crypto gains under $200 from taxation.",
-        "publishedAt": "2020-01-16T21:15:15Z",
+        "author": "Nick Chong",
+        "description": "Crypto data provider Messari shared in a recent post that Ripple’s XRP was one of the worst-performing cryptocurrencies in Q1 of 2020, underperforming players like Bitcoin and Ethereum by a long shot. But, analysts are observing that the cryptocurrency is sta…",
+        "publishedAt": "2020-04-12T23:00:33Z",
         "source": Object {
           "id": null,
-          "name": "Coindesk.com",
+          "name": "Newsbtc.com",
         },
-        "title": "US Lawmakers Try Again on Tax Relief for Small Crypto Payments",
-        "url": "https://www.coindesk.com/us-lawmakers-try-again-on-tax-relief-for-small-crypto-payments",
-        "urlToImage": "https://static.coindesk.com/wp-content/uploads/2020/01/5487251988_05fc4ce4cd_k.jpg",
+        "title": "Ripple’s XRP Is Forming a Textbook Bottom Pattern: Will It Play Out?",
+        "url": "https://www.newsbtc.com/2020/04/12/ripples-xrp-is-forming-a-textbook-bottom-pattern-will-it-play-out/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/04/emiel-schalck-zxanvsT62cc-unsplash-1200x780.jpg",
       },
       Object {
-        "author": "Tyler Durden",
-        "description": "Huge Short-Squeeze Sparks New Record Stock Highs As FX Vol Crashes To Record Low Another day, another short-squeeze, and another record high... This four-day squeeze is now of the size that has historically led to a reversal... Source: Bloomberg US equity mar…",
-        "publishedAt": "2020-01-16T21:01:28Z",
+        "author": "Cointelegraph By Samuel Haig",
+        "description": "Coinbase identifies derivative arbitrage and stablecoin speculation opportunities created amid the recent crash",
+        "publishedAt": "2020-04-12T22:00:00Z",
         "source": Object {
           "id": null,
-          "name": "Zerohedge.com",
+          "name": "Cointelegraph.com",
         },
-        "title": "Huge Short-Squeeze Sparks New Record Stock Highs As FX Vol Crashes To Record Low",
-        "url": "https://www.zerohedge.com/markets/huge-short-squeeze-sparks-new-record-stock-highs-dollar-bond-yields-jump",
-        "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-01/2020-01-16_11-27-51.jpg?itok=b12UfbFM",
+        "title": "Coinbase: Crypto Crash Created Rare Opportunities for Savvy Traders",
+        "url": "https://cointelegraph.com/news/coinbase-crypto-crash-created-rare-opportunities-for-savvy-traders",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNTU1YmYyMjlkNjU4NGFkYjc5ZTA4ODQ3ZjA4ZmQ5OC5qcGc=.jpg",
       },
       Object {
-        "author": "Anatol Antonovici",
-        "description": "Cryptocurrency is not money, while operations with it should be taxed – this and other statements were previously made by Mikhail Mishustin, who is now Russia’s new Prime Minister. Russia to Become a Digital Platform Nevertheless, despite the fact that Mishus…",
-        "publishedAt": "2020-01-16T21:00:18Z",
+        "author": "Cointelegraph By Samuel Haig",
+        "description": "Academic & economist John Vaz believes economic mismanagement could result in BTC functioning like cigarettes in prison amid financial crisis",
+        "publishedAt": "2020-04-12T21:30:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Bitcoin Could Become Like ‘Prison Cigarettes’ Amid Deepening Financial Crisis",
+        "url": "https://cointelegraph.com/news/bitcoin-could-become-like-prison-cigarettes-amid-deepening-financial-crisis",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lOThhZDUyZDVjM2QyZjdiOWE4ZmUwMjk4ZjgwOWZlMi5qcGc=.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "Boots on the ground looks more like fingertips on the keyboard for some members of the North Carolina National Guard as the threat of cyberattacks continues to grow.",
+        "publishedAt": "2020-04-12T21:01:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Stripes.com",
+        },
+        "title": "Cybersecurity efforts by NC Guard responders help protect elections, governments and residents",
+        "url": "https://www.stripes.com/news/us/cybersecurity-efforts-by-nc-guard-responders-help-protect-elections-governments-and-residents-1.625843?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+starsandstripes%2Fgeneral+%28Stars+and+Stripes%29",
+        "urlToImage": "https://www.stripes.com/polopoly_fs/1.625844.1586725146!/image/image.jpg_gen/derivatives/landscape_490/image.jpg",
+      },
+      Object {
+        "author": "Cole Petersen",
+        "description": "As Bitcoin attempts to gain a foothold above $7,000, analysts are noting that data shows large players within the market are currently foraying back into Bitcoin, which could be a sign that further volatility is imminent in the days and weeks ahead. Traders d…",
+        "publishedAt": "2020-04-12T21:00:43Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Large Players are Hopping Back into Bitcoin as Analysts Eye More Blood",
+        "url": "https://www.newsbtc.com/2020/04/12/large-players-are-hopping-back-into-bitcoin-as-analysts-eye-more-blood/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/04/simon-migaj-VjIm5-UkvfY-unsplash-1200x780.jpg",
+      },
+      Object {
+        "author": "Cointelegraph By Thomas Simms",
+        "description": "Bitcoin drops to a key level, Jack Dorsey pledges $1 billion to fight the coronavirus, and how blockchain is being used to fight fake news in the age of COVID-19",
+        "publishedAt": "2020-04-12T21:00:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Bitcoin Shaky, Dorsey Donates, CoinMarketCap Attacked, Royal Scam: Hodler’s Digest, April 6–April 12",
+        "url": "https://cointelegraph.com/news/bitcoin-shaky-dorsey-donates-coinmarketcap-attacked-royal-scam-hodlers-digest-april-6april-12",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZjJiOTExODY5NGQ5OGIzMWMwMTM3MmJiZjk0ZGVhZC5qcGc=.jpg",
+      },
+      Object {
+        "author": "Opportunity Trader",
+        "description": "The price of Bitcoin has fluctuated substantially in the previous years.
+        Following the upward momentum can create massive returns on investments.
+        Managing downside risk is key when trading crypto assets.
+        A simple trend following strate…",
+        "publishedAt": "2020-04-12T20:58:57Z",
+        "source": Object {
+          "id": null,
+          "name": "Seekingalpha.com",
+        },
+        "title": "Following The Trend In Bitcoin",
+        "url": "https://seekingalpha.com/article/4337139-following-trend-in-bitcoin",
+        "urlToImage": "https://static.seekingalpha.com/uploads/2020/4/9/936334-15864631145947847_origin.png",
+      },
+      Object {
+        "author": "Cointelegraph By Keith Wareing",
+        "description": "Bitcoin mining difficulty is rising as a mass exodus of Bitcoin Cash miners swap networks to mine BTC ahead of the May 2020 halving",
+        "publishedAt": "2020-04-12T20:44:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Are Bitcoin Cash Miners Driving Up the Price of Bitcoin?",
+        "url": "https://cointelegraph.com/news/are-bitcoin-cash-miners-driving-up-the-price-of-bitcoin",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZjYwNGY0MmI1Yzg4ZmI4ODhiOWQ3NWJlZmE5MTVkZS5qcGc=.jpg",
+      },
+      Object {
+        "author": "Cointelegraph By Trent Lapinski",
+        "description": "If even a good thing falls into the wrong hands, there may be disaster: Blockchain tech might help to build a Brave New World instead of promised decentralization",
+        "publishedAt": "2020-04-12T20:00:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Will Blockchain Technology Be Used to Build Evil Social Credit Systems?",
+        "url": "https://cointelegraph.com/news/will-blockchain-technology-be-used-to-build-evil-social-credit-systems",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MDc5YjMwYzkwNzI2ZTU3ZTYxZmY4ZDRmYzEwM2U3My5qcGc=.jpg",
+      },
+      Object {
+        "author": "Cointelegraph By Joseph Young",
+        "description": "Sentiment among top Bitcoin traders remains mixed after BTC surged 5% to reach the $7,200 resistance level",
+        "publishedAt": "2020-04-12T19:18:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Bitcoin Price Surges to $7,200 — Here’s What Top Traders Think Is Next",
+        "url": "https://cointelegraph.com/news/bitcoin-price-surges-to-7-200-heres-what-top-traders-think-is-next",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYmQ2NjFjYTMxMjFhZTVjNjI1ZDQ3YzM5MWY3Y2QwZi5qcGc=.jpg",
+      },
+      Object {
+        "author": "Cole Petersen",
+        "description": "Chainlink’s immense bullishness seen throughout 2019 spilled into 2020, with the market-wide uptrend in January and February sending the crypto to fresh all-time highs. Even in the face of intense bearishness over the past few weeks, LINK has been able to inc…",
+        "publishedAt": "2020-04-12T18:30:33Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "This Top Crypto’s Grim Pattern Shows a Massive Decline May Be Imminent",
+        "url": "https://www.newsbtc.com/2020/04/12/this-top-cryptos-grim-pattern-shows-a-massive-decline-may-be-imminent/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/04/yuri-bodrikhin-wdLi8hlF3pg-unsplash-1200x780.jpg",
+      },
+      Object {
+        "author": null,
+        "description": "These attacks began reemerging in May 2018 following the Trump administration’s unilateral withdrawal from the Joint Comprehensive Plan of Action (JCPOA), also known as the Iran Nuclear Deal. Until that moment, Iran-aligned hackers had significantly reduced t…",
+        "publishedAt": "2020-04-12T18:01:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Nationalcybersecurity.com",
+        },
+        "title": "How Iran Could Wage a Cyber War Against America | #espionage | #surveillance | #ceo | #businesssecurity | #",
+        "url": "https://nationalcybersecurity.com/how-iran-could-wage-a-cyber-war-against-america-espionage-surveillance-ceo-businesssecurity/",
+        "urlToImage": "https://i2.wp.com/nationalcybersecurity.com/wp-content/uploads/2020-03-26T225224Z_575922471_RC2YRF9HRIXM_RTRMADP_3_HEALTH-CORONAVIRUS-USA.JPG.jpg?fit=2000%2C1333&ssl=1",
+      },
+      Object {
+        "author": "Cointelegraph By Samuel Haig",
+        "description": "Peter Schiff has again taken aim at the crypto community, predicting that gold will “moon” while Bitcoin crashes in coming years",
+        "publishedAt": "2020-04-12T17:54:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Peter Schiff Predicts Gold Will ‘Moon’ While Bitcoin Crashes",
+        "url": "https://cointelegraph.com/news/peter-schiff-predicts-gold-will-moon-while-bitcoin-crashes",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yY2M3NGI2MDdhZTVmY2UzMDQ4NTI4NWI0NjcxMmRjMy5qcGc=.jpg",
+      },
+      Object {
+        "author": "ACCESSWIRE",
+        "description": "NEW YORK, NY / ACCESSWIRE / April 12, 2020 / The Klein Law Firm announces that class action complaints have been filed on behalf of shareholders of the following companies. There is no cost to participate ...",
+        "publishedAt": "2020-04-12T17:25:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Yahoo.com",
+        },
+        "title": "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of BDX, CAN and INO",
+        "url": "https://ca.sports.yahoo.com/news/klein-law-firm-reminds-investors-172500312.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      },
+      Object {
+        "author": "Cointelegraph By Samuel Haig",
+        "description": "The self-styled ‘SkyScanner’ for Bitcoin trading Oobit Hunter appears to host 10 affiliate links and facilitate P2P trading between customers and Oobit’s CEO",
+        "publishedAt": "2020-04-12T17:00:00Z",
+        "source": Object {
+          "id": null,
+          "name": "Cointelegraph.com",
+        },
+        "title": "Oobit's ‘SkyScanner for Bitcoin Trading’ Fails to Meet Expectations",
+        "url": "https://cointelegraph.com/news/oobits-skyscanner-for-bitcoin-trading-fails-to-meet-expectations",
+        "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYzhhZGY5Y2RjZDI1YzZmN2RlNjg1OTQ3NDlkNDUzOS5qcGc=.jpg",
+      },
+      Object {
+        "author": "Trevor Smith",
+        "description": "More analysts than ever are encouraging young people to take advantage of the current market dip and begin investing in Bitcoin for retirement. Whereas this idea is nothing new, current forces in the legacy financial space are making it more appealing. At lea…",
+        "publishedAt": "2020-04-12T16:30:53Z",
         "source": Object {
           "id": null,
           "name": "Bitcoinist.com",
         },
-        "title": "Is Russia’s New Prime Minister Good for Bitcoin?",
-        "url": "https://bitcoinist.com/is-russias-new-prime-minister-good-for-bitcoin/",
-        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/01/Mikhail-Mishustin-1920x1066.jpg",
+        "title": "Is Bitcoin The Best Retirement Investment Option? Many Now Believe So",
+        "url": "https://bitcoinist.com/bitcoin-best-retirement-investment/",
+        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/04/12-April-2-e1586708413789.jpeg",
+      },
+      Object {
+        "author": "Nick Chong",
+        "description": "Ahead of the weekly candle close in approximately eight hours, Bitcoin has embarked on a slight rally higher, retaking $7,000 just minutes ago as of the time of this article’s writing. With this, the cryptocurrency has rallied some 3.5% from the weekend low, …",
+        "publishedAt": "2020-04-12T16:13:50Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Why Bitcoin Price Just Surged to $7,000 Ahead of Weekly Close",
+        "url": "https://www.newsbtc.com/2020/04/12/why-bitcoin-price-just-surged-to-7000-ahead-of-weekly-close/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/04/alexander-popov-3InMDrsuYrk-unsplash-1200x780.jpg",
+      },
+      Object {
+        "author": "Cole Petersen",
+        "description": "Ethereum has seen a slight upswing overnight that has allowed it to navigate into the $160 region following a period of overt weakness seen throughout the past couple of days. This slight rise has come about concurrently with that seen by Bitcoin and most oth…",
+        "publishedAt": "2020-04-12T16:00:35Z",
+        "source": Object {
+          "id": null,
+          "name": "Newsbtc.com",
+        },
+        "title": "Ethereum Moves to Shatter Bearish Trendline as “Killer Long” Opportunity Nears",
+        "url": "https://www.newsbtc.com/2020/04/12/ethereum-moves-to-shatter-bearish-trendline-as-killer-long-opportunity-nears/",
+        "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/04/alex-king-lbwjS4QdpNU-unsplash-1200x780.jpg",
       },
     ],
-  },
-}
-`;
-
-exports[`graphql middleware query BuyPrice 1`] = `
-Object {
-  "data": Object {
-    "buyPrice": Object {
-      "amount": Any<Number>,
-      "base": "BTC",
-      "code": "BTC",
-      "color": "#FFB119",
-      "currency": "USD",
-      "name": "Bitcoin",
-    },
   },
 }
 `;
@@ -267,1457 +255,44 @@ Object {
 exports[`graphql middleware query Currencies 1`] = `
 Object {
   "data": Object {
-    "currencies": Array [
-      Object {
-        "id": "AED",
-        "name": "United Arab Emirates Dirham",
-      },
-      Object {
-        "id": "AFN",
-        "name": "Afghan Afghani",
-      },
-      Object {
-        "id": "ALL",
-        "name": "Albanian Lek",
-      },
-      Object {
-        "id": "AMD",
-        "name": "Armenian Dram",
-      },
-      Object {
-        "id": "ANG",
-        "name": "Netherlands Antillean Gulden",
-      },
-      Object {
-        "id": "AOA",
-        "name": "Angolan Kwanza",
-      },
-      Object {
-        "id": "ARS",
-        "name": "Argentine Peso",
-      },
-      Object {
-        "id": "AUD",
-        "name": "Australian Dollar",
-      },
-      Object {
-        "id": "AWG",
-        "name": "Aruban Florin",
-      },
-      Object {
-        "id": "AZN",
-        "name": "Azerbaijani Manat",
-      },
-      Object {
-        "id": "BAM",
-        "name": "Bosnia and Herzegovina Convertible Mark",
-      },
-      Object {
-        "id": "BBD",
-        "name": "Barbadian Dollar",
-      },
-      Object {
-        "id": "BDT",
-        "name": "Bangladeshi Taka",
-      },
-      Object {
-        "id": "BGN",
-        "name": "Bulgarian Lev",
-      },
-      Object {
-        "id": "BHD",
-        "name": "Bahraini Dinar",
-      },
-      Object {
-        "id": "BIF",
-        "name": "Burundian Franc",
-      },
-      Object {
-        "id": "BMD",
-        "name": "Bermudian Dollar",
-      },
-      Object {
-        "id": "BND",
-        "name": "Brunei Dollar",
-      },
-      Object {
-        "id": "BOB",
-        "name": "Bolivian Boliviano",
-      },
-      Object {
-        "id": "BRL",
-        "name": "Brazilian Real",
-      },
-      Object {
-        "id": "BSD",
-        "name": "Bahamian Dollar",
-      },
-      Object {
-        "id": "BTN",
-        "name": "Bhutanese Ngultrum",
-      },
-      Object {
-        "id": "BWP",
-        "name": "Botswana Pula",
-      },
-      Object {
-        "id": "BYN",
-        "name": "Belarusian Ruble",
-      },
-      Object {
-        "id": "BYR",
-        "name": "Belarusian Ruble",
-      },
-      Object {
-        "id": "BZD",
-        "name": "Belize Dollar",
-      },
-      Object {
-        "id": "CAD",
-        "name": "Canadian Dollar",
-      },
-      Object {
-        "id": "CDF",
-        "name": "Congolese Franc",
-      },
-      Object {
-        "id": "CHF",
-        "name": "Swiss Franc",
-      },
-      Object {
-        "id": "CLF",
-        "name": "Unidad de Fomento",
-      },
-      Object {
-        "id": "CLP",
-        "name": "Chilean Peso",
-      },
-      Object {
-        "id": "CNH",
-        "name": "Chinese Renminbi Yuan Offshore",
-      },
-      Object {
-        "id": "CNY",
-        "name": "Chinese Renminbi Yuan",
-      },
-      Object {
-        "id": "COP",
-        "name": "Colombian Peso",
-      },
-      Object {
-        "id": "CRC",
-        "name": "Costa Rican Colón",
-      },
-      Object {
-        "id": "CUC",
-        "name": "Cuban Convertible Peso",
-      },
-      Object {
-        "id": "CVE",
-        "name": "Cape Verdean Escudo",
-      },
-      Object {
-        "id": "CZK",
-        "name": "Czech Koruna",
-      },
-      Object {
-        "id": "DJF",
-        "name": "Djiboutian Franc",
-      },
-      Object {
-        "id": "DKK",
-        "name": "Danish Krone",
-      },
-      Object {
-        "id": "DOP",
-        "name": "Dominican Peso",
-      },
-      Object {
-        "id": "DZD",
-        "name": "Algerian Dinar",
-      },
-      Object {
-        "id": "EEK",
-        "name": "Estonian Kroon",
-      },
-      Object {
-        "id": "EGP",
-        "name": "Egyptian Pound",
-      },
-      Object {
-        "id": "ERN",
-        "name": "Eritrean Nakfa",
-      },
-      Object {
-        "id": "ETB",
-        "name": "Ethiopian Birr",
-      },
-      Object {
-        "id": "EUR",
-        "name": "Euro",
-      },
-      Object {
-        "id": "FJD",
-        "name": "Fijian Dollar",
-      },
-      Object {
-        "id": "FKP",
-        "name": "Falkland Pound",
-      },
-      Object {
-        "id": "GBP",
-        "name": "British Pound",
-      },
-      Object {
-        "id": "GEL",
-        "name": "Georgian Lari",
-      },
-      Object {
-        "id": "GGP",
-        "name": "Guernsey Pound",
-      },
-      Object {
-        "id": "GHS",
-        "name": "Ghanaian Cedi",
-      },
-      Object {
-        "id": "GIP",
-        "name": "Gibraltar Pound",
-      },
-      Object {
-        "id": "GMD",
-        "name": "Gambian Dalasi",
-      },
-      Object {
-        "id": "GNF",
-        "name": "Guinean Franc",
-      },
-      Object {
-        "id": "GTQ",
-        "name": "Guatemalan Quetzal",
-      },
-      Object {
-        "id": "GYD",
-        "name": "Guyanese Dollar",
-      },
-      Object {
-        "id": "HKD",
-        "name": "Hong Kong Dollar",
-      },
-      Object {
-        "id": "HNL",
-        "name": "Honduran Lempira",
-      },
-      Object {
-        "id": "HRK",
-        "name": "Croatian Kuna",
-      },
-      Object {
-        "id": "HTG",
-        "name": "Haitian Gourde",
-      },
-      Object {
-        "id": "HUF",
-        "name": "Hungarian Forint",
-      },
-      Object {
-        "id": "IDR",
-        "name": "Indonesian Rupiah",
-      },
-      Object {
-        "id": "ILS",
-        "name": "Israeli New Sheqel",
-      },
-      Object {
-        "id": "IMP",
-        "name": "Isle of Man Pound",
-      },
-      Object {
-        "id": "INR",
-        "name": "Indian Rupee",
-      },
-      Object {
-        "id": "IQD",
-        "name": "Iraqi Dinar",
-      },
-      Object {
-        "id": "ISK",
-        "name": "Icelandic Króna",
-      },
-      Object {
-        "id": "JEP",
-        "name": "Jersey Pound",
-      },
-      Object {
-        "id": "JMD",
-        "name": "Jamaican Dollar",
-      },
-      Object {
-        "id": "JOD",
-        "name": "Jordanian Dinar",
-      },
-      Object {
-        "id": "JPY",
-        "name": "Japanese Yen",
-      },
-      Object {
-        "id": "KES",
-        "name": "Kenyan Shilling",
-      },
-      Object {
-        "id": "KGS",
-        "name": "Kyrgyzstani Som",
-      },
-      Object {
-        "id": "KHR",
-        "name": "Cambodian Riel",
-      },
-      Object {
-        "id": "KMF",
-        "name": "Comorian Franc",
-      },
-      Object {
-        "id": "KRW",
-        "name": "South Korean Won",
-      },
-      Object {
-        "id": "KWD",
-        "name": "Kuwaiti Dinar",
-      },
-      Object {
-        "id": "KYD",
-        "name": "Cayman Islands Dollar",
-      },
-      Object {
-        "id": "KZT",
-        "name": "Kazakhstani Tenge",
-      },
-      Object {
-        "id": "LAK",
-        "name": "Lao Kip",
-      },
-      Object {
-        "id": "LBP",
-        "name": "Lebanese Pound",
-      },
-      Object {
-        "id": "LKR",
-        "name": "Sri Lankan Rupee",
-      },
-      Object {
-        "id": "LRD",
-        "name": "Liberian Dollar",
-      },
-      Object {
-        "id": "LSL",
-        "name": "Lesotho Loti",
-      },
-      Object {
-        "id": "LTL",
-        "name": "Lithuanian Litas",
-      },
-      Object {
-        "id": "LVL",
-        "name": "Latvian Lats",
-      },
-      Object {
-        "id": "LYD",
-        "name": "Libyan Dinar",
-      },
-      Object {
-        "id": "MAD",
-        "name": "Moroccan Dirham",
-      },
-      Object {
-        "id": "MDL",
-        "name": "Moldovan Leu",
-      },
-      Object {
-        "id": "MGA",
-        "name": "Malagasy Ariary",
-      },
-      Object {
-        "id": "MKD",
-        "name": "Macedonian Denar",
-      },
-      Object {
-        "id": "MMK",
-        "name": "Myanmar Kyat",
-      },
-      Object {
-        "id": "MNT",
-        "name": "Mongolian Tögrög",
-      },
-      Object {
-        "id": "MOP",
-        "name": "Macanese Pataca",
-      },
-      Object {
-        "id": "MRO",
-        "name": "Mauritanian Ouguiya",
-      },
-      Object {
-        "id": "MTL",
-        "name": "Maltese Lira",
-      },
-      Object {
-        "id": "MUR",
-        "name": "Mauritian Rupee",
-      },
-      Object {
-        "id": "MVR",
-        "name": "Maldivian Rufiyaa",
-      },
-      Object {
-        "id": "MWK",
-        "name": "Malawian Kwacha",
-      },
-      Object {
-        "id": "MXN",
-        "name": "Mexican Peso",
-      },
-      Object {
-        "id": "MYR",
-        "name": "Malaysian Ringgit",
-      },
-      Object {
-        "id": "MZN",
-        "name": "Mozambican Metical",
-      },
-      Object {
-        "id": "NAD",
-        "name": "Namibian Dollar",
-      },
-      Object {
-        "id": "NGN",
-        "name": "Nigerian Naira",
-      },
-      Object {
-        "id": "NIO",
-        "name": "Nicaraguan Córdoba",
-      },
-      Object {
-        "id": "NOK",
-        "name": "Norwegian Krone",
-      },
-      Object {
-        "id": "NPR",
-        "name": "Nepalese Rupee",
-      },
-      Object {
-        "id": "NZD",
-        "name": "New Zealand Dollar",
-      },
-      Object {
-        "id": "OMR",
-        "name": "Omani Rial",
-      },
-      Object {
-        "id": "PAB",
-        "name": "Panamanian Balboa",
-      },
-      Object {
-        "id": "PEN",
-        "name": "Peruvian Sol",
-      },
-      Object {
-        "id": "PGK",
-        "name": "Papua New Guinean Kina",
-      },
-      Object {
-        "id": "PHP",
-        "name": "Philippine Peso",
-      },
-      Object {
-        "id": "PKR",
-        "name": "Pakistani Rupee",
-      },
-      Object {
-        "id": "PLN",
-        "name": "Polish Złoty",
-      },
-      Object {
-        "id": "PYG",
-        "name": "Paraguayan Guaraní",
-      },
-      Object {
-        "id": "QAR",
-        "name": "Qatari Riyal",
-      },
-      Object {
-        "id": "RON",
-        "name": "Romanian Leu",
-      },
-      Object {
-        "id": "RSD",
-        "name": "Serbian Dinar",
-      },
-      Object {
-        "id": "RUB",
-        "name": "Russian Ruble",
-      },
-      Object {
-        "id": "RWF",
-        "name": "Rwandan Franc",
-      },
-      Object {
-        "id": "SAR",
-        "name": "Saudi Riyal",
-      },
-      Object {
-        "id": "SBD",
-        "name": "Solomon Islands Dollar",
-      },
-      Object {
-        "id": "SCR",
-        "name": "Seychellois Rupee",
-      },
-      Object {
-        "id": "SEK",
-        "name": "Swedish Krona",
-      },
-      Object {
-        "id": "SGD",
-        "name": "Singapore Dollar",
-      },
-      Object {
-        "id": "SHP",
-        "name": "Saint Helenian Pound",
-      },
-      Object {
-        "id": "SLL",
-        "name": "Sierra Leonean Leone",
-      },
-      Object {
-        "id": "SOS",
-        "name": "Somali Shilling",
-      },
-      Object {
-        "id": "SRD",
-        "name": "Surinamese Dollar",
-      },
-      Object {
-        "id": "SSP",
-        "name": "South Sudanese Pound",
-      },
-      Object {
-        "id": "STD",
-        "name": "São Tomé and Príncipe Dobra",
-      },
-      Object {
-        "id": "SVC",
-        "name": "Salvadoran Colón",
-      },
-      Object {
-        "id": "SZL",
-        "name": "Swazi Lilangeni",
-      },
-      Object {
-        "id": "THB",
-        "name": "Thai Baht",
-      },
-      Object {
-        "id": "TJS",
-        "name": "Tajikistani Somoni",
-      },
-      Object {
-        "id": "TMT",
-        "name": "Turkmenistani Manat",
-      },
-      Object {
-        "id": "TND",
-        "name": "Tunisian Dinar",
-      },
-      Object {
-        "id": "TOP",
-        "name": "Tongan Paʻanga",
-      },
-      Object {
-        "id": "TRY",
-        "name": "Turkish Lira",
-      },
-      Object {
-        "id": "TTD",
-        "name": "Trinidad and Tobago Dollar",
-      },
-      Object {
-        "id": "TWD",
-        "name": "New Taiwan Dollar",
-      },
-      Object {
-        "id": "TZS",
-        "name": "Tanzanian Shilling",
-      },
-      Object {
-        "id": "UAH",
-        "name": "Ukrainian Hryvnia",
-      },
-      Object {
-        "id": "UGX",
-        "name": "Ugandan Shilling",
-      },
-      Object {
-        "id": "USD",
-        "name": "United States Dollar",
-      },
-      Object {
-        "id": "UYU",
-        "name": "Uruguayan Peso",
-      },
-      Object {
-        "id": "UZS",
-        "name": "Uzbekistan Som",
-      },
-      Object {
-        "id": "VEF",
-        "name": "Venezuelan Bolívar",
-      },
-      Object {
-        "id": "VES",
-        "name": "Venezuelan Bolívar Soberano",
-      },
-      Object {
-        "id": "VND",
-        "name": "Vietnamese Đồng",
-      },
-      Object {
-        "id": "VUV",
-        "name": "Vanuatu Vatu",
-      },
-      Object {
-        "id": "WST",
-        "name": "Samoan Tala",
-      },
-      Object {
-        "id": "XAF",
-        "name": "Central African Cfa Franc",
-      },
-      Object {
-        "id": "XAG",
-        "name": "Silver (Troy Ounce)",
-      },
-      Object {
-        "id": "XAU",
-        "name": "Gold (Troy Ounce)",
-      },
-      Object {
-        "id": "XCD",
-        "name": "East Caribbean Dollar",
-      },
-      Object {
-        "id": "XDR",
-        "name": "Special Drawing Rights",
-      },
-      Object {
-        "id": "XOF",
-        "name": "West African Cfa Franc",
-      },
-      Object {
-        "id": "XPD",
-        "name": "Palladium",
-      },
-      Object {
-        "id": "XPF",
-        "name": "Cfp Franc",
-      },
-      Object {
-        "id": "XPT",
-        "name": "Platinum",
-      },
-      Object {
-        "id": "YER",
-        "name": "Yemeni Rial",
-      },
-      Object {
-        "id": "ZAR",
-        "name": "South African Rand",
-      },
-      Object {
-        "id": "ZMK",
-        "name": "Zambian Kwacha",
-      },
-      Object {
-        "id": "ZMW",
-        "name": "Zambian Kwacha",
-      },
-      Object {
-        "id": "ZWL",
-        "name": "Zimbabwean Dollar",
-      },
-    ],
+    "currencies": null,
   },
+  "errors": Array [
+    Object {
+      "locations": Array [
+        Object {
+          "column": 9,
+          "line": 3,
+        },
+      ],
+      "message": "Unexpected error value: { code: \\"UNABLE_TO_GET_ISSUER_CERT_LOCALLY\\" }",
+      "path": Array [
+        "currencies",
+      ],
+    },
+  ],
 }
 `;
 
 exports[`graphql middleware query ExchangeRates 1`] = `
 Object {
   "data": Object {
-    "exchangeRates": Object {
-      "currency": "USD",
-      "rates": Array [
-        Object {
-          "currency": "AED",
-          "value": 3.6732,
-        },
-        Object {
-          "currency": "AFN",
-          "value": 77.995655,
-        },
-        Object {
-          "currency": "ALL",
-          "value": 109.681047,
-        },
-        Object {
-          "currency": "AMD",
-          "value": 479.138061,
-        },
-        Object {
-          "currency": "ANG",
-          "value": 1.688412,
-        },
-        Object {
-          "currency": "AOA",
-          "value": 489.3875,
-        },
-        Object {
-          "currency": "ARS",
-          "value": 59.881981,
-        },
-        Object {
-          "currency": "ATOM",
-          "value": 0.1985505807604487,
-        },
-        Object {
-          "currency": "AUD",
-          "value": 1.44878,
-        },
-        Object {
-          "currency": "AWG",
-          "value": 1.8,
-        },
-        Object {
-          "currency": "AZN",
-          "value": 1.7025,
-        },
-        Object {
-          "currency": "BAM",
-          "value": 1.756037,
-        },
-        Object {
-          "currency": "BAT",
-          "value": 4.631194801946954,
-        },
-        Object {
-          "currency": "BBD",
-          "value": 2,
-        },
-        Object {
-          "currency": "BCH",
-          "value": 0.00303789777473988,
-        },
-        Object {
-          "currency": "BDT",
-          "value": 84.873693,
-        },
-        Object {
-          "currency": "BGN",
-          "value": 1.755408,
-        },
-        Object {
-          "currency": "BHD",
-          "value": 0.37701,
-        },
-        Object {
-          "currency": "BIF",
-          "value": 1885.155152,
-        },
-        Object {
-          "currency": "BMD",
-          "value": 1,
-        },
-        Object {
-          "currency": "BND",
-          "value": 1.345367,
-        },
-        Object {
-          "currency": "BOB",
-          "value": 6.913253,
-        },
-        Object {
-          "currency": "BRL",
-          "value": 4.1846,
-        },
-        Object {
-          "currency": "BSD",
-          "value": 1,
-        },
-        Object {
-          "currency": "BSV",
-          "value": 0.0032204782131066262,
-        },
-        Object {
-          "currency": "BTC",
-          "value": 0.00011455363888225432,
-        },
-        Object {
-          "currency": "BTN",
-          "value": 70.77259,
-        },
-        Object {
-          "currency": "BWP",
-          "value": 10.738704,
-        },
-        Object {
-          "currency": "BYN",
-          "value": 2.1257,
-        },
-        Object {
-          "currency": "BYR",
-          "value": 21257,
-        },
-        Object {
-          "currency": "BZD",
-          "value": 2.015186,
-        },
-        Object {
-          "currency": "CAD",
-          "value": 1.304355,
-        },
-        Object {
-          "currency": "CDF",
-          "value": 1686.060772,
-        },
-        Object {
-          "currency": "CHF",
-          "value": 0.964633,
-        },
-        Object {
-          "currency": "CLF",
-          "value": 0.028112,
-        },
-        Object {
-          "currency": "CLP",
-          "value": 778.000825,
-        },
-        Object {
-          "currency": "CNH",
-          "value": 6.86953,
-        },
-        Object {
-          "currency": "CNY",
-          "value": 6.8673,
-        },
-        Object {
-          "currency": "COP",
-          "value": 3305.246304,
-        },
-        Object {
-          "currency": "CRC",
-          "value": 566.424799,
-        },
-        Object {
-          "currency": "CUC",
-          "value": 1,
-        },
-        Object {
-          "currency": "CVE",
-          "value": 99.375,
-        },
-        Object {
-          "currency": "CZK",
-          "value": 22.5811,
-        },
-        Object {
-          "currency": "DAI",
-          "value": 1.0020506967509006,
-        },
-        Object {
-          "currency": "DASH",
-          "value": 0.008035129586552408,
-        },
-        Object {
-          "currency": "DJF",
-          "value": 178,
-        },
-        Object {
-          "currency": "DKK",
-          "value": 6.707201,
-        },
-        Object {
-          "currency": "DOP",
-          "value": 53.08074,
-        },
-        Object {
-          "currency": "DZD",
-          "value": 119.471618,
-        },
-        Object {
-          "currency": "EEK",
-          "value": 14.613691,
-        },
-        Object {
-          "currency": "EGP",
-          "value": 15.8245,
-        },
-        Object {
-          "currency": "EOS",
-          "value": 0.25936973155232784,
-        },
-        Object {
-          "currency": "ERN",
-          "value": 14.999636,
-        },
-        Object {
-          "currency": "ETB",
-          "value": 32.077604,
-        },
-        Object {
-          "currency": "ETC",
-          "value": 0.12018508503094767,
-        },
-        Object {
-          "currency": "ETH",
-          "value": 0.006048874909266876,
-        },
-        Object {
-          "currency": "EUR",
-          "value": 0.89754,
-        },
-        Object {
-          "currency": "FJD",
-          "value": 2.1632,
-        },
-        Object {
-          "currency": "FKP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "GBP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "GEL",
-          "value": 2.875,
-        },
-        Object {
-          "currency": "GGP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "GHS",
-          "value": 5.682241,
-        },
-        Object {
-          "currency": "GIP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "GMD",
-          "value": 51.1,
-        },
-        Object {
-          "currency": "GNF",
-          "value": 9550.585194,
-        },
-        Object {
-          "currency": "GTQ",
-          "value": 7.712427,
-        },
-        Object {
-          "currency": "GYD",
-          "value": 209.187943,
-        },
-        Object {
-          "currency": "HKD",
-          "value": 7.771755,
-        },
-        Object {
-          "currency": "HNL",
-          "value": 24.674753,
-        },
-        Object {
-          "currency": "HRK",
-          "value": 6.683115,
-        },
-        Object {
-          "currency": "HTG",
-          "value": 99.223817,
-        },
-        Object {
-          "currency": "HUF",
-          "value": 300.3625,
-        },
-        Object {
-          "currency": "IDR",
-          "value": 13641.2,
-        },
-        Object {
-          "currency": "ILS",
-          "value": 3.4549,
-        },
-        Object {
-          "currency": "IMP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "INR",
-          "value": 70.959101,
-        },
-        Object {
-          "currency": "IQD",
-          "value": 1196.106909,
-        },
-        Object {
-          "currency": "ISK",
-          "value": 122.959996,
-        },
-        Object {
-          "currency": "JEP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "JMD",
-          "value": 133.258514,
-        },
-        Object {
-          "currency": "JOD",
-          "value": 0.709,
-        },
-        Object {
-          "currency": "JPY",
-          "value": 110.18336617,
-        },
-        Object {
-          "currency": "KES",
-          "value": 101.15,
-        },
-        Object {
-          "currency": "KGS",
-          "value": 69.659199,
-        },
-        Object {
-          "currency": "KHR",
-          "value": 4062.74546,
-        },
-        Object {
-          "currency": "KMF",
-          "value": 442.349576,
-        },
-        Object {
-          "currency": "KRW",
-          "value": 1157.535,
-        },
-        Object {
-          "currency": "KWD",
-          "value": 0.303539,
-        },
-        Object {
-          "currency": "KYD",
-          "value": 0.833113,
-        },
-        Object {
-          "currency": "KZT",
-          "value": 378.236163,
-        },
-        Object {
-          "currency": "LAK",
-          "value": 8894.501365,
-        },
-        Object {
-          "currency": "LBP",
-          "value": 1515.100286,
-        },
-        Object {
-          "currency": "LINK",
-          "value": 0.3886611982036079,
-        },
-        Object {
-          "currency": "LKR",
-          "value": 181.593356,
-        },
-        Object {
-          "currency": "LRD",
-          "value": 191.49999,
-        },
-        Object {
-          "currency": "LSL",
-          "value": 14.388683,
-        },
-        Object {
-          "currency": "LTC",
-          "value": 0.017185083347654236,
-        },
-        Object {
-          "currency": "LTL",
-          "value": 3.224845,
-        },
-        Object {
-          "currency": "LVL",
-          "value": 0.656261,
-        },
-        Object {
-          "currency": "LYD",
-          "value": 1.401899,
-        },
-        Object {
-          "currency": "MAD",
-          "value": 9.596538,
-        },
-        Object {
-          "currency": "MDL",
-          "value": 17.340126,
-        },
-        Object {
-          "currency": "MGA",
-          "value": 3721.477261,
-        },
-        Object {
-          "currency": "MKD",
-          "value": 55.219594,
-        },
-        Object {
-          "currency": "MMK",
-          "value": 1472.800161,
-        },
-        Object {
-          "currency": "MNT",
-          "value": 2703.658536,
-        },
-        Object {
-          "currency": "MOP",
-          "value": 8.021962,
-        },
-        Object {
-          "currency": "MRO",
-          "value": 357,
-        },
-        Object {
-          "currency": "MTL",
-          "value": 0.683738,
-        },
-        Object {
-          "currency": "MUR",
-          "value": 36.449998,
-        },
-        Object {
-          "currency": "MVR",
-          "value": 15.46,
-        },
-        Object {
-          "currency": "MWK",
-          "value": 737.883848,
-        },
-        Object {
-          "currency": "MXN",
-          "value": 18.774997,
-        },
-        Object {
-          "currency": "MYR",
-          "value": 4.0626,
-        },
-        Object {
-          "currency": "MZN",
-          "value": 62.394,
-        },
-        Object {
-          "currency": "NAD",
-          "value": 14.388813,
-        },
-        Object {
-          "currency": "NGN",
-          "value": 361.94,
-        },
-        Object {
-          "currency": "NIO",
-          "value": 33.79977,
-        },
-        Object {
-          "currency": "NOK",
-          "value": 8.887928,
-        },
-        Object {
-          "currency": "NPR",
-          "value": 113.23583,
-        },
-        Object {
-          "currency": "NZD",
-          "value": 1.504302,
-        },
-        Object {
-          "currency": "OMR",
-          "value": 0.385017,
-        },
-        Object {
-          "currency": "OXT",
-          "value": 3.252032520325203,
-        },
-        Object {
-          "currency": "PAB",
-          "value": 1,
-        },
-        Object {
-          "currency": "PEN",
-          "value": 3.330295,
-        },
-        Object {
-          "currency": "PGK",
-          "value": 3.458403,
-        },
-        Object {
-          "currency": "PHP",
-          "value": 50.8655,
-        },
-        Object {
-          "currency": "PKR",
-          "value": 154.979406,
-        },
-        Object {
-          "currency": "PLN",
-          "value": 3.806758,
-        },
-        Object {
-          "currency": "PYG",
-          "value": 6519.937503,
-        },
-        Object {
-          "currency": "QAR",
-          "value": 3.641,
-        },
-        Object {
-          "currency": "REP",
-          "value": 0.06422607578676942,
-        },
-        Object {
-          "currency": "RON",
-          "value": 4.2899,
-        },
-        Object {
-          "currency": "RSD",
-          "value": 105.48,
-        },
-        Object {
-          "currency": "RUB",
-          "value": 61.671298,
-        },
-        Object {
-          "currency": "RWF",
-          "value": 950.865114,
-        },
-        Object {
-          "currency": "SAI",
-          "value": 1.0020506967509006,
-        },
-        Object {
-          "currency": "SAR",
-          "value": 3.751358,
-        },
-        Object {
-          "currency": "SBD",
-          "value": 8.301042,
-        },
-        Object {
-          "currency": "SCR",
-          "value": 13.69911,
-        },
-        Object {
-          "currency": "SEK",
-          "value": 9.488848,
-        },
-        Object {
-          "currency": "SGD",
-          "value": 1.346324,
-        },
-        Object {
-          "currency": "SHP",
-          "value": 0.764567,
-        },
-        Object {
-          "currency": "SLL",
-          "value": 7488.043446,
-        },
-        Object {
-          "currency": "SOS",
-          "value": 579.560898,
-        },
-        Object {
-          "currency": "SRD",
-          "value": 7.458,
-        },
-        Object {
-          "currency": "SSP",
-          "value": 130.26,
-        },
-        Object {
-          "currency": "STD",
-          "value": 21560.79,
-        },
-        Object {
-          "currency": "SVC",
-          "value": 8.747732,
-        },
-        Object {
-          "currency": "SZL",
-          "value": 14.388813,
-        },
-        Object {
-          "currency": "THB",
-          "value": 30.460502,
-        },
-        Object {
-          "currency": "TJS",
-          "value": 9.713736,
-        },
-        Object {
-          "currency": "TMT",
-          "value": 3.5,
-        },
-        Object {
-          "currency": "TND",
-          "value": 2.8095,
-        },
-        Object {
-          "currency": "TOP",
-          "value": 2.296572,
-        },
-        Object {
-          "currency": "TRY",
-          "value": 5.86079,
-        },
-        Object {
-          "currency": "TTD",
-          "value": 6.755034,
-        },
-        Object {
-          "currency": "TWD",
-          "value": 29.922498,
-        },
-        Object {
-          "currency": "TZS",
-          "value": 2311.648298,
-        },
-        Object {
-          "currency": "UAH",
-          "value": 24.163606,
-        },
-        Object {
-          "currency": "UGX",
-          "value": 3682.120603,
-        },
-        Object {
-          "currency": "USD",
-          "value": 1,
-        },
-        Object {
-          "currency": "USDC",
-          "value": 1,
-        },
-        Object {
-          "currency": "UYU",
-          "value": 37.348049,
-        },
-        Object {
-          "currency": "UZS",
-          "value": 9559.059816,
-        },
-        Object {
-          "currency": "VEF",
-          "value": 248487.642241,
-        },
-        Object {
-          "currency": "VES",
-          "value": 33474.855,
-        },
-        Object {
-          "currency": "VND",
-          "value": 23208.325065,
-        },
-        Object {
-          "currency": "VUV",
-          "value": 115.618283,
-        },
-        Object {
-          "currency": "WST",
-          "value": 2.628749,
-        },
-        Object {
-          "currency": "XAF",
-          "value": 588.747876,
-        },
-        Object {
-          "currency": "XAG",
-          "value": 0.05561278,
-        },
-        Object {
-          "currency": "XAU",
-          "value": 0.0006436,
-        },
-        Object {
-          "currency": "XCD",
-          "value": 2.70255,
-        },
-        Object {
-          "currency": "XDR",
-          "value": 0.723577,
-        },
-        Object {
-          "currency": "XLM",
-          "value": 18.71415070505563,
-        },
-        Object {
-          "currency": "XOF",
-          "value": 588.747876,
-        },
-        Object {
-          "currency": "XPD",
-          "value": 0.00042994,
-        },
-        Object {
-          "currency": "XPF",
-          "value": 107.105054,
-        },
-        Object {
-          "currency": "XPT",
-          "value": 0.00099123,
-        },
-        Object {
-          "currency": "XRP",
-          "value": 4.365858982754857,
-        },
-        Object {
-          "currency": "XTZ",
-          "value": 0.6884681583476765,
-        },
-        Object {
-          "currency": "YER",
-          "value": 250.349961,
-        },
-        Object {
-          "currency": "ZAR",
-          "value": 14.404697,
-        },
-        Object {
-          "currency": "ZEC",
-          "value": 0.019902477858493382,
-        },
-        Object {
-          "currency": "ZMK",
-          "value": 5253.075255,
-        },
-        Object {
-          "currency": "ZMW",
-          "value": 14.55267,
-        },
-        Object {
-          "currency": "ZRX",
-          "value": 3.9394428839873465,
-        },
-        Object {
-          "currency": "ZWL",
-          "value": 322.000001,
+    "exchangeRates": null,
+  },
+  "errors": Array [
+    Object {
+      "locations": Array [
+        Object {
+          "column": 9,
+          "line": 3,
         },
       ],
+      "message": "Unexpected error value: { code: \\"UNABLE_TO_GET_ISSUER_CERT_LOCALLY\\" }",
+      "path": Array [
+        "exchangeRates",
+      ],
     },
-  },
+  ],
 }
 `;
 
@@ -1734,7 +309,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 8728.615,
+        "amount": 6882.385,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -1742,7 +317,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 327.695,
+        "amount": 232.55,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -1750,7 +325,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 313.410225248,
+        "amount": 192.460945383,
         "base": "BSV",
         "code": "BSV",
         "color": "#EAB300",
@@ -1758,7 +333,7 @@ Object {
         "name": "Bitcoin SV",
       },
       Object {
-        "amount": 165.05,
+        "amount": 157.75,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -1766,7 +341,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 8.316,
+        "amount": 5.3135,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -1774,7 +349,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 58.1,
+        "amount": 41.71,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -1782,7 +357,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.253922,
+        "amount": 0.1681025,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -1798,7 +373,7 @@ Object {
         "name": "USD Coin",
       },
       Object {
-        "amount": 0.217279,
+        "amount": 0.159085,
         "base": "BAT",
         "code": "BAT",
         "color": "#FF5000",
@@ -1806,7 +381,15 @@ Object {
         "name": "Basic Attention Token",
       },
       Object {
-        "amount": 2.57126,
+        "amount": 0.47325,
+        "base": "KNC",
+        "code": "KNC",
+        "color": "#2C8C92",
+        "currency": "USD",
+        "name": "Kyber Network",
+      },
+      Object {
+        "amount": 3.406645,
         "base": "LINK",
         "code": "LINK",
         "color": "#295AD9",
@@ -1814,7 +397,7 @@ Object {
         "name": "Chainlink",
       },
       Object {
-        "amount": 0.9982215,
+        "amount": 1.0168195,
         "base": "DAI",
         "code": "DAI",
         "color": "#F8AF1B",
@@ -1822,7 +405,7 @@ Object {
         "name": "Dai",
       },
       Object {
-        "amount": 1.00425083368,
+        "amount": 1.00674413196,
         "base": "SAI",
         "code": "SAI",
         "color": "#FFC927",
@@ -1830,7 +413,7 @@ Object {
         "name": "Single Collateral Dai",
       },
       Object {
-        "amount": 50.06,
+        "amount": 36.21,
         "base": "ZEC",
         "code": "ZEC",
         "color": "#EBB244",
@@ -1838,7 +421,7 @@ Object {
         "name": "Zcash",
       },
       Object {
-        "amount": 0.22915,
+        "amount": 0.18825,
         "base": "XRP",
         "code": "XRP",
         "color": "#222222",
@@ -1846,7 +429,7 @@ Object {
         "name": "XRP",
       },
       Object {
-        "amount": 15.93,
+        "amount": 9.74,
         "base": "REP",
         "code": "REP",
         "color": "#553580",
@@ -1854,7 +437,7 @@ Object {
         "name": "Augur",
       },
       Object {
-        "amount": 0.0534715,
+        "amount": 0.048276,
         "base": "XLM",
         "code": "XLM",
         "color": "#FFFFFF",
@@ -1862,7 +445,7 @@ Object {
         "name": "Stellar Lumens",
       },
       Object {
-        "amount": 3.8545,
+        "amount": 2.473,
         "base": "EOS",
         "code": "EOS",
         "color": "#000000",
@@ -1870,7 +453,7 @@ Object {
         "name": "EOS",
       },
       Object {
-        "amount": 1.4538,
+        "amount": 1.98555,
         "base": "XTZ",
         "code": "XTZ",
         "color": "#2D7DF7",
@@ -1878,7 +461,7 @@ Object {
         "name": "Tezos",
       },
       Object {
-        "amount": 124.055,
+        "amount": 73.811,
         "base": "DASH",
         "code": "DASH",
         "color": "#008CE7",
@@ -1886,7 +469,7 @@ Object {
         "name": "Dash",
       },
       Object {
-        "amount": 5.0155,
+        "amount": 2.285,
         "base": "ATOM",
         "code": "ATOM",
         "color": "#2D3147",
@@ -1894,7 +477,7 @@ Object {
         "name": "Cosmos",
       },
       Object {
-        "amount": 0.3091,
+        "amount": 0.1639,
         "base": "OXT",
         "code": "OXT",
         "color": "#5E44BA",
@@ -1902,7 +485,7 @@ Object {
         "name": "Orchid",
       },
       Object {
-        "amount": 1.11,
+        "amount": 1.09,
         "base": "EUR",
         "code": "EUR",
         "color": "#FFFFFF",
@@ -1910,7 +493,7 @@ Object {
         "name": "Euro",
       },
       Object {
-        "amount": 1.31,
+        "amount": 1.25,
         "base": "GBP",
         "code": "GBP",
         "color": "#FFFFFF",
@@ -1918,7 +501,7 @@ Object {
         "name": "British Pound",
       },
       Object {
-        "amount": 0.77,
+        "amount": 0.72,
         "base": "CAD",
         "code": "CAD",
         "color": "#FFFFFF",
@@ -1943,124 +526,124 @@ Object {
   "data": Object {
     "topHeadlines": Array [
       Object {
-        "author": "Marshall Cohen",
-        "description": "Lev Parnas, an associate of Rudy Giuliani, told CNN that he witnessed President Donald Trump telling a top aide that the US ambassador to Ukraine should be fired.",
-        "publishedAt": "2020-01-17T01:36:10Z",
+        "author": "Opinion by Richard Galant, CNN",
+        "description": "Covid-19 is taking a brutal toll. More than 100,000 have died around the world and more than 18,000 in the US. Still, while the mourning proceeds, many are looking for signs of hope.",
+        "publishedAt": "2020-04-12T23:35:42Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Lev Parnas says he watched Trump fire the US ambassador to Ukraine",
-        "url": "https://www.cnn.com/2020/01/16/politics/lev-parnas-ukraine-cnn-interview/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200116035307-lev-parnas-2020-trump-biden-investigation-ukraine-anderson-cooper-intv-ac360-vpx-00002521-super-tease.jpg",
+        "title": "Don't lose hope now",
+        "url": "http://us.cnn.com/2020/04/12/opinions/looking-for-hope-amid-tragedy-opinion-weekly-column-galant/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200411123124-01-easter-bunny-coronavirus-0410-super-tease.jpg",
+      },
+      Object {
+        "author": "Clare Duffy and Sarah Jorgensen, CNN",
+        "description": "Stanley Chera, the prominent New York City real estate developer and Republican donor who co-founded Crown Acquisitions, has died of complications related to Covid-19, a source close to Chera confirmed to CNN Sunday. He was in his late 70s.",
+        "publishedAt": "2020-04-12T21:22:03Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "New York real estate mogul and Trump friend Stanley Chera died of coronavirus complications",
+        "url": "http://us.cnn.com/2020/04/12/business/stanley-chera-coronavirus-trump/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200411212848-stanley-chera-file-2018-restricted-super-tease.jpg",
+      },
+      Object {
+        "author": "Jessica Dean and Paul LeBlanc, CNN",
+        "description": "Former Vice President Joe Biden called for widespread testing and a continuation of social distancing in a New York Times op-ed published Sunday that lays out his plan to \\"safely\\" reopen the country amid the novel coronavirus pandemic.",
+        "publishedAt": "2020-04-12T20:45:22Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Biden lays out plan 'safely' reopen country amid coronavirus pandemic",
+        "url": "http://us.cnn.com/2020/04/12/politics/biden-coronavirus-plan-opinion-editorial-coronavirus/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200318131928-joe-biden-delantera-sanders-carrera-democrata-presidente-juan-carlos-lopez-pkg-00001418-super-tease.jpg",
+      },
+      Object {
+        "author": "Danielle Wiener-Bronner, CNN Business",
+        "description": "One of the country's largest pork processing facilities is closing until further notice as employees fall ill with Covid-19. The closure puts the country's meat supply at risk, said the CEO of Smithfield, which operates the plant.",
+        "publishedAt": "2020-04-12T16:42:18Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "One of the largest pork processing facilities in the US is closing until further notice",
+        "url": "http://us.cnn.com/2020/04/12/business/meat-plant-closures-smithfield/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200412120744-01-sioux-falls-smithfield-0408-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "After President Trump said that he didn't know Rudy Giuliani associate Lev Parnas, Parnas' attorney Joseph Bondy released a video that shows the two together in a group of people at Mar-a-Lago.",
-        "publishedAt": "2020-01-17T00:23:27.8364138Z",
+        "description": "CNN's Jake Tapper responds to President Donald Trump's reactions to journalists who ask questions he does not like during press briefings about the novel coronavirus pandemic.",
+        "publishedAt": "2020-04-12T15:08:06.0725446Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Parnas' attorney posted this video after Trump said he didn't know him - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2020/01/16/lev-parnas-president-trump-video-tsr-sot-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200116190524-trump-lev-parnas-video-super-tease.jpg",
+        "title": "Jake Tapper: Mr President, these questions need answers - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2020/04/12/trump-jake-tapper-coronavirus-covid-19-journalists-plan-sotu-vpx.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200412103412-jake-tapper-04122020-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "CNN's Manu Raju discusses Sen. Martha McSally (R-AZ) insulting him while trying to ask a basic question.",
-        "publishedAt": "2020-01-17T00:09:59.5844676Z",
+        "description": "CNN's Jake Tapper asks Dr. Anthony Fauci about the United States' initial response to the novel coronavirus pandemic.",
+        "publishedAt": "2020-04-12T14:23:19.7948563Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Wolf Blitzer slams lawmaker's smear of CNN reporter: Disgusting - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2020/01/16/martha-mcsally-manu-raju-liberal-hack-tsr-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200116183027-martha-mcsally-manu-raju-liberal-hack-tsr-vpx-00000000-super-tease.jpg",
+        "title": "Jake Tapper asks Dr. Anthony Fauci: Do you think lives could have been saved? - CNN Video",
+        "url": "http://us.cnn.com/videos/politics/2020/04/12/anthony-fauci-coronavirus-covid-19-shutdown-tapper-sotu-vpx.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200412095311-jake-tapper-anthony-fauci-split-super-tease.jpg",
+      },
+      Object {
+        "author": "Analysis by Maeve Reston, CNN",
+        "description": "As President Donald Trump leans in to his fervent desire to reopen the nation's economy by May 1, there is a major obstacle standing in his path: the nation's governors and mayors who hold the power to enforce closures and who have often taken a far more aggr…",
+        "publishedAt": "2020-04-12T12:30:18Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Trump wants to reopen country soon. But power really lies with governors",
+        "url": "http://us.cnn.com/2020/04/12/politics/governors-trump-coronavirus-response/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200316150908-trump-governor-cuomo-split-super-tease.jpg",
+      },
+      Object {
+        "author": "John Blake, CNN",
+        "description": "It's too early to know how many Americans with HIV are dying of coronavirus. But the prospect of both incurable diseases racing through black neighborhoods has some black activists and health officials terrified.",
+        "publishedAt": "2020-04-12T10:29:41Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "Black Americans are being hammered by a double pandemic",
+        "url": "http://us.cnn.com/2020/04/12/health/black-americans-hiv-coronavirus-blake/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200408165337-04-black-americans-double-pandemic-super-tease.jpg",
+      },
+      Object {
+        "author": "By <a href=\\"/profiles/amir-vera\\">Amir Vera</a>, <a href=\\"/profiles/fernando-alfonso-iii\\">Fernando Alfonso III</a>, <a href=\\"/profiles/james-griffiths\\">James Griffiths</a> and <a href=\\"/profiles/jenni-marsh-profile\\">Jenni Marsh</a>, CNN",
+        "description": "The novel coronavirus has killed more than 102,000 people worldwide. Follow here for live updates",
+        "publishedAt": "2020-04-12T00:56:51Z",
+        "source": Object {
+          "id": "cnn",
+          "name": "CNN",
+        },
+        "title": "US overtakes Italy as country with highest number of coronavirus deaths - CNN",
+        "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-12-20/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg",
       },
       Object {
         "author": null,
-        "description": "Anderson Cooper discusses his exclusive interview with Lev Parnas, who says he was asked by Rudy Giuliani to pressure the Ukrainian government to announce they were investigating the Bidens. Watch \\"Full Circle\\" weeknights at 5 p.m. ET.",
-        "publishedAt": "2020-01-17T00:09:48.8131122Z",
+        "description": "CNN's Dr. Sanjay Gupta explains why the US has so many coronavirus deaths when compared with the rest of the world.",
+        "publishedAt": "2020-04-09T20:38:23.6739845Z",
         "source": Object {
           "id": "cnn",
           "name": "CNN",
         },
-        "title": "Parnas outlines the quid pro quo he says Giuliani requested - CNN Video",
-        "url": "http://us.cnn.com/videos/politics/2020/01/16/parnas-trump-giuliani-toobin-impeachment-acfc-full-episode-vpx.cnn",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200116171621-cooper-parnas-split-super-tease.jpg",
-      },
-      Object {
-        "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-        "description": "On Thursday, it became official: The Senate impeachment trial into President Donald Trump is underway.",
-        "publishedAt": "2020-01-16T23:52:58Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "8 senators to watch in the impeachment trial",
-        "url": "http://us.cnn.com/2020/01/16/politics/senate-impeachment-romney-murkowski-collins/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200116141450-02-senate-sworn-in-0116-super-tease.jpg",
-      },
-      Object {
-        "author": "Marshall Cohen, CNN",
-        "description": "Republican Sen. Susan Collins, a pivotal swing vote in the fight over whether to allow new witnesses during the Senate's impeachment trial, appears much less interested in considering new evidence from indicted Ukrainian-American businessman Lev Parnas.",
-        "publishedAt": "2020-01-16T23:47:17Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Fact-checking Republican Sen. Susan Collins' confusing comments about the new documents from Lev Parnas",
-        "url": "http://us.cnn.com/2020/01/16/politics/susan-collins-ukraine-documents-fact-check/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191217123743-susan-collins-1211-restricted-super-tease.jpg",
-      },
-      Object {
-        "author": "Opinion by Michael Bociurkiw",
-        "description": "The report on Thursday by the Government Accountability Office that the White House broke the law by temporarily withholding $400 million in military aid to Ukraine will rank as one of the biggest bombshells, writes Michael Bociurkiw.",
-        "publishedAt": "2020-01-16T22:05:40Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Trump can't dodge the GAO report bombshell",
-        "url": "http://us.cnn.com/2020/01/16/opinions/trump-gao-report-bombshell-military-aid-ukraine-illegal-bociurkiw/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200113222144-trump-juicio-politico-washington-congreso-presidente-recuento-futuro-pkg-gabriela-matute-urdaneta-00001229-super-tease.jpg",
-      },
-      Object {
-        "author": "Jennifer Hansler, CNN",
-        "description": "Secretary of State Mike Pompeo has maintained a persistent silence as stunning new evidence has emerged suggesting the former ambassador to Ukraine may have been illegally surveilled before she was forced out of her job by President Donald Trump.",
-        "publishedAt": "2020-01-16T21:48:58Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Pompeo stonewalls as evidence emerges of possible surveillance of ex-Ukraine ambassador",
-        "url": "http://us.cnn.com/2020/01/16/politics/pompeo-state-department-silence-new-evidence/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/171006124306-lead-image-mike-pompeo-may-2017-super-tease.jpg",
-      },
-      Object {
-        "author": "Kevin Liptak and Erica Orden, CNN",
-        "description": "President Donald Trump continues to insist he doesn't know Lev Parnas, an associate of Trump's personal attorney who now says the President was aware of efforts to surface dirt on political rivals.",
-        "publishedAt": "2020-01-16T20:58:36Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Trump continues to insist he doesn't know Giuliani associate Parnas",
-        "url": "http://us.cnn.com/2020/01/16/politics/donald-trump-lev-parnas-ukraine/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191010183348-trump-parnas-super-tease.jpg",
-      },
-      Object {
-        "author": "Devan Cole, CNN",
-        "description": "The top Republican on the House Intelligence Committee admitted Wednesday to speaking on the phone with a key figure in the Ukraine scandal after previously saying such a conversation would have been \\"very unlikely.\\"",
-        "publishedAt": "2020-01-16T20:48:03Z",
-        "source": Object {
-          "id": "cnn",
-          "name": "CNN",
-        },
-        "title": "Nunes now says he talked to key Ukraine figure, after suggesting he hadn't",
-        "url": "http://us.cnn.com/2020/01/16/politics/devin-nunes-lev-parnas-phone-calls/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191120114258-24-impeachment-hearing-1120-nunes-super-tease.jpg",
+        "title": "Dr. Gupta: Here's why US has so many coronavirus deaths - CNN Video",
+        "url": "http://us.cnn.com/videos/health/2020/04/09/us-coronavirus-deaths-gupta-lead-vpx.cnn",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200409161934-sanjay-gupta-tapper-us-virus-deaths-super-tease.jpg",
       },
     ],
   },
