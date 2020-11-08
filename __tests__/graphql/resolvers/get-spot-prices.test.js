@@ -1,5 +1,5 @@
 const getSpotPrices = require('../../../src/graphql/resolvers/get-spot-prices');
-// const currency = require('../../../src/data/currency');
+const currency = require('../../../src/data/currency');
 
 test('to match snapshot', async () => {
   const args = { currency: 'USD' };
@@ -13,5 +13,5 @@ test('to match snapshot', async () => {
 
   expect(spotPrices).toMatchSnapshot();
 
-  // console.log(spotPrices.filter(price => currency[price.base] === undefined));
+  console.log(spotPrices.filter(price => currency[price.base] === undefined));
 });

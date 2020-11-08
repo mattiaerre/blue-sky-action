@@ -2,180 +2,306 @@
 
 exports[`validate 1`] = `
 Object {
+  "key": "ALGO",
+  "name": "Algorand",
+}
+`;
+
+exports[`validate 2`] = `
+Object {
   "key": "ATOM",
   "name": "Cosmos",
 }
 `;
 
-exports[`validate 2`] = `
+exports[`validate 3`] = `
+Object {
+  "key": "BAND",
+  "name": "Band Protocol",
+}
+`;
+
+exports[`validate 4`] = `
 Object {
   "key": "BAT",
   "name": "Basic Attention Token",
 }
 `;
 
-exports[`validate 3`] = `
+exports[`validate 5`] = `
+Object {
+  "key": "BAL",
+  "name": "Balancer",
+}
+`;
+
+exports[`validate 6`] = `
 Object {
   "key": "BCH",
   "name": "Bitcoin Cash",
 }
 `;
 
-exports[`validate 4`] = `
+exports[`validate 7`] = `
 Object {
   "key": "BTC",
   "name": "Bitcoin",
 }
 `;
 
-exports[`validate 5`] = `
+exports[`validate 8`] = `
 Object {
   "key": "BSV",
   "name": "Bitcoin SV",
 }
 `;
 
-exports[`validate 6`] = `
+exports[`validate 9`] = `
 Object {
   "key": "CAD",
   "name": "Canadian Dollar",
 }
 `;
 
-exports[`validate 7`] = `
+exports[`validate 10`] = `
+Object {
+  "key": "CGLD",
+  "name": "Celo",
+}
+`;
+
+exports[`validate 11`] = `
+Object {
+  "key": "COMP",
+  "name": "Compound",
+}
+`;
+
+exports[`validate 12`] = `
+Object {
+  "key": "CVC",
+  "name": "Civic",
+}
+`;
+
+exports[`validate 13`] = `
 Object {
   "key": "DAI",
   "name": "Dai",
 }
 `;
 
-exports[`validate 8`] = `
+exports[`validate 14`] = `
 Object {
   "key": "DASH",
   "name": "Dash",
 }
 `;
 
-exports[`validate 9`] = `
+exports[`validate 15`] = `
+Object {
+  "key": "DNT",
+  "name": "district0x",
+}
+`;
+
+exports[`validate 16`] = `
 Object {
   "key": "EOS",
   "name": "EOS",
 }
 `;
 
-exports[`validate 10`] = `
+exports[`validate 17`] = `
 Object {
   "key": "ETC",
   "name": "Ethereum Classic",
 }
 `;
 
-exports[`validate 11`] = `
+exports[`validate 18`] = `
 Object {
   "key": "ETH",
   "name": "Ethereum",
 }
 `;
 
-exports[`validate 12`] = `
+exports[`validate 19`] = `
 Object {
   "key": "EUR",
   "name": "Euro",
 }
 `;
 
-exports[`validate 13`] = `
+exports[`validate 20`] = `
 Object {
   "key": "GBP",
   "name": "British Pound",
 }
 `;
 
-exports[`validate 14`] = `
+exports[`validate 21`] = `
 Object {
   "key": "JPY",
   "name": "Japanese Yen",
 }
 `;
 
-exports[`validate 15`] = `
+exports[`validate 22`] = `
 Object {
   "key": "KNC",
   "name": "Kyber Network",
 }
 `;
 
-exports[`validate 16`] = `
+exports[`validate 23`] = `
 Object {
   "key": "LINK",
   "name": "Chainlink",
 }
 `;
 
-exports[`validate 17`] = `
+exports[`validate 24`] = `
+Object {
+  "key": "LRC",
+  "name": "Loopring",
+}
+`;
+
+exports[`validate 25`] = `
 Object {
   "key": "LTC",
   "name": "Litecoin",
 }
 `;
 
-exports[`validate 18`] = `
+exports[`validate 26`] = `
+Object {
+  "key": "MANA",
+  "name": "Decentraland",
+}
+`;
+
+exports[`validate 27`] = `
+Object {
+  "key": "MKR",
+  "name": "Maker",
+}
+`;
+
+exports[`validate 28`] = `
+Object {
+  "key": "NMR",
+  "name": "Numeraire",
+}
+`;
+
+exports[`validate 29`] = `
+Object {
+  "key": "OMG",
+  "name": "OMG Network",
+}
+`;
+
+exports[`validate 30`] = `
 Object {
   "key": "OXT",
   "name": "Orchid",
 }
 `;
 
-exports[`validate 19`] = `
+exports[`validate 31`] = `
+Object {
+  "key": "REN",
+  "name": "Ren",
+}
+`;
+
+exports[`validate 32`] = `
 Object {
   "key": "REP",
   "name": "Augur",
 }
 `;
 
-exports[`validate 20`] = `
+exports[`validate 33`] = `
+Object {
+  "key": "REPV2",
+  "name": "REPv2",
+}
+`;
+
+exports[`validate 34`] = `
 Object {
   "key": "SAI",
   "name": "Single Collateral Dai",
 }
 `;
 
-exports[`validate 21`] = `
+exports[`validate 35`] = `
+Object {
+  "key": "UMA",
+  "name": "UMA",
+}
+`;
+
+exports[`validate 36`] = `
+Object {
+  "key": "UNI",
+  "name": "Uniswap",
+}
+`;
+
+exports[`validate 37`] = `
 Object {
   "key": "USDC",
   "name": "USD Coin",
 }
 `;
 
-exports[`validate 22`] = `
+exports[`validate 38`] = `
+Object {
+  "key": "WBTC",
+  "name": "Wrapped Bitcoin",
+}
+`;
+
+exports[`validate 39`] = `
 Object {
   "key": "XLM",
   "name": "Stellar Lumens",
 }
 `;
 
-exports[`validate 23`] = `
+exports[`validate 40`] = `
 Object {
   "key": "XRP",
   "name": "XRP",
 }
 `;
 
-exports[`validate 24`] = `
+exports[`validate 41`] = `
 Object {
   "key": "XTZ",
   "name": "Tezos",
 }
 `;
 
-exports[`validate 25`] = `
+exports[`validate 42`] = `
+Object {
+  "key": "YFI",
+  "name": "yearn.finance",
+}
+`;
+
+exports[`validate 43`] = `
 Object {
   "key": "ZEC",
   "name": "Zcash",
 }
 `;
 
-exports[`validate 26`] = `
+exports[`validate 44`] = `
 Object {
   "key": "ZRX",
   "name": "0x",
