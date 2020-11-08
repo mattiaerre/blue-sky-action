@@ -7,24 +7,28 @@ const makeModel = require('./make-model');
 const router = express.Router();
 
 async function render(req, res, withArticles) {
-  const { url } = req;
-  let articles = [];
-  if (withArticles === true) {
-    const { source } = req.params;
-    articles = await makeArticles(source);
-  }
-  const ip = getIpAddress(req);
-  const datetime = await fetchDatetime(ip);
+  try {
+    const { url } = req;
+    let articles = [];
+    if (withArticles === true) {
+      const { source } = req.params;
+      articles = await makeArticles(source);
+    }
+    const ip = getIpAddress(req);
+    const datetime = await fetchDatetime(ip);
 
-  const model = await makeModel({
-    articles,
-    baseUrl: `${
-      process.env.ENVIRONMENT === 'local' ? req.protocol : 'https'
-    }://${req.get('host')}`,
-    datetime,
-    url
-  });
-  res.render('index', model);
+    const model = await makeModel({
+      articles,
+      baseUrl: `${
+        process.env.ENVIRONMENT === 'local' ? req.protocol : 'https'
+      }://${req.get('host')}`,
+      datetime,
+      url
+    });
+    res.render('index', model);
+  } catch (error) {
+    console.log('error:', error);
+  }
 }
 
 router.get('/', render);
