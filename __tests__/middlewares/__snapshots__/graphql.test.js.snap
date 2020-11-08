@@ -309,7 +309,7 @@ Object {
   "data": Object {
     "spotPrices": Array [
       Object {
-        "amount": 14885.55,
+        "amount": 14883.06,
         "base": "BTC",
         "code": "BTC",
         "color": "#FFB119",
@@ -317,7 +317,7 @@ Object {
         "name": "Bitcoin",
       },
       Object {
-        "amount": 254.36,
+        "amount": 254.43,
         "base": "BCH",
         "code": "BCH",
         "color": "#8DC451",
@@ -325,7 +325,7 @@ Object {
         "name": "Bitcoin Cash",
       },
       Object {
-        "amount": 162.65393394243543,
+        "amount": 162.39021759214873,
         "base": "BSV",
         "code": "BSV",
         "color": "#EAB300",
@@ -333,7 +333,7 @@ Object {
         "name": "Bitcoin SV",
       },
       Object {
-        "amount": 436.25,
+        "amount": 437.35,
         "base": "ETH",
         "code": "ETH",
         "color": "#6F7CBA",
@@ -341,7 +341,7 @@ Object {
         "name": "Ethereum",
       },
       Object {
-        "amount": 5.139,
+        "amount": 5.15,
         "base": "ETC",
         "code": "ETC",
         "color": "#59D4AF",
@@ -349,7 +349,7 @@ Object {
         "name": "Ethereum Classic",
       },
       Object {
-        "amount": 59.27,
+        "amount": 59.4,
         "base": "LTC",
         "code": "LTC",
         "color": "#B5B5B5",
@@ -357,7 +357,7 @@ Object {
         "name": "Litecoin",
       },
       Object {
-        "amount": 0.351443,
+        "amount": 0.352973,
         "base": "ZRX",
         "code": "ZRX",
         "color": "#302C2C",
@@ -373,7 +373,7 @@ Object {
         "name": "USD Coin",
       },
       Object {
-        "amount": 0.19210008713108,
+        "amount": 0.19188634379484,
         "base": "BAT",
         "code": "BAT",
         "color": "#FF5000",
@@ -381,7 +381,7 @@ Object {
         "name": "Basic Attention Token",
       },
       Object {
-        "amount": 0.07499035256735,
+        "amount": 0.07499651344172,
         "base": "MANA",
         "code": "MANA",
         "color": "#FF2D55",
@@ -389,7 +389,7 @@ Object {
         "name": "Decentraland",
       },
       Object {
-        "amount": 0.7906,
+        "amount": 0.791,
         "base": "KNC",
         "code": "KNC",
         "color": "#2C8C92",
@@ -397,7 +397,7 @@ Object {
         "name": "Kyber Network",
       },
       Object {
-        "amount": 11.80324,
+        "amount": 11.85293,
         "base": "LINK",
         "code": "LINK",
         "color": "#295AD9",
@@ -405,7 +405,7 @@ Object {
         "name": "Chainlink",
       },
       Object {
-        "amount": 0.02827352566439,
+        "amount": 0.02828715611499,
         "base": "DNT",
         "code": "DNT",
         "color": "#2C398F",
@@ -413,7 +413,7 @@ Object {
         "name": "district0x",
       },
       Object {
-        "amount": 517.0791,
+        "amount": 519.6665,
         "base": "MKR",
         "code": "MKR",
         "color": "#35AB9B",
@@ -421,7 +421,7 @@ Object {
         "name": "Maker",
       },
       Object {
-        "amount": 0.04234470970092,
+        "amount": 0.04216213297433,
         "base": "CVC",
         "code": "CVC",
         "color": "#3AB03E",
@@ -429,7 +429,7 @@ Object {
         "name": "Civic",
       },
       Object {
-        "amount": 3.0915,
+        "amount": 3.1066,
         "base": "OMG",
         "code": "OMG",
         "color": "#0F0F0F",
@@ -437,7 +437,7 @@ Object {
         "name": "OMG Network",
       },
       Object {
-        "amount": 1.009242,
+        "amount": 1.009494,
         "base": "DAI",
         "code": "DAI",
         "color": "#F8AF1B",
@@ -445,7 +445,7 @@ Object {
         "name": "Dai",
       },
       Object {
-        "amount": 57.27292313348389,
+        "amount": 57.29877731921349,
         "base": "ZEC",
         "code": "ZEC",
         "color": "#EBB244",
@@ -469,7 +469,7 @@ Object {
         "name": "Augur",
       },
       Object {
-        "amount": 0.080259,
+        "amount": 0.080329,
         "base": "XLM",
         "code": "XLM",
         "color": "#FFFFFF",
@@ -477,7 +477,7 @@ Object {
         "name": "Stellar Lumens",
       },
       Object {
-        "amount": 2.504,
+        "amount": 2.509,
         "base": "EOS",
         "code": "EOS",
         "color": "#000000",
@@ -485,7 +485,7 @@ Object {
         "name": "EOS",
       },
       Object {
-        "amount": 2.027,
+        "amount": 2.0363,
         "base": "XTZ",
         "code": "XTZ",
         "color": "#2D7DF7",
@@ -493,7 +493,7 @@ Object {
         "name": "Tezos",
       },
       Object {
-        "amount": 0.258,
+        "amount": 0.2578,
         "base": "ALGO",
         "code": "ALGO",
         "color": "#FFFFFF",
@@ -501,7 +501,7 @@ Object {
         "name": "Algorand",
       },
       Object {
-        "amount": 66.774,
+        "amount": 66.837,
         "base": "DASH",
         "code": "DASH",
         "color": "#008CE7",
@@ -509,7 +509,7 @@ Object {
         "name": "Dash",
       },
       Object {
-        "amount": 4.626,
+        "amount": 4.644,
         "base": "ATOM",
         "code": "ATOM",
         "color": "#2D3147",
@@ -517,7 +517,7 @@ Object {
         "name": "Cosmos",
       },
       Object {
-        "amount": 0.2161,
+        "amount": 0.2165,
         "base": "OXT",
         "code": "OXT",
         "color": "#5E44BA",
@@ -525,7 +525,7 @@ Object {
         "name": "Orchid",
       },
       Object {
-        "amount": 93.73,
+        "amount": 93.77,
         "base": "COMP",
         "code": "COMP",
         "color": "#070A0E",
@@ -541,7 +541,7 @@ Object {
         "name": "REPv2",
       },
       Object {
-        "amount": 5.1744,
+        "amount": 5.2036,
         "base": "BAND",
         "code": "BAND",
         "color": "#516FFA",
@@ -565,7 +565,7 @@ Object {
         "name": "Celo",
       },
       Object {
-        "amount": 6.885,
+        "amount": 6.901,
         "base": "UMA",
         "code": "UMA",
         "color": "#F54A4A",
@@ -573,7 +573,7 @@ Object {
         "name": "UMA",
       },
       Object {
-        "amount": 0.1438,
+        "amount": 0.1439,
         "base": "LRC",
         "code": "LRC",
         "color": "#2042FF",
@@ -581,7 +581,7 @@ Object {
         "name": "Loopring",
       },
       Object {
-        "amount": 13456.53,
+        "amount": 13576,
         "base": "YFI",
         "code": "YFI",
         "color": "#2365D0",
@@ -589,7 +589,7 @@ Object {
         "name": "yearn.finance",
       },
       Object {
-        "amount": 2.5051,
+        "amount": 2.5245,
         "base": "UNI",
         "code": "UNI",
         "color": "#F5007A",
@@ -597,7 +597,7 @@ Object {
         "name": "Uniswap",
       },
       Object {
-        "amount": 9.79518,
+        "amount": 9.86122,
         "base": "BAL",
         "code": "BAL",
         "color": "#1D282A",
@@ -605,7 +605,7 @@ Object {
         "name": "Balancer",
       },
       Object {
-        "amount": 0.2883,
+        "amount": 0.2901,
         "base": "REN",
         "code": "REN",
         "color": "#051E3D",
@@ -613,7 +613,7 @@ Object {
         "name": "Ren",
       },
       Object {
-        "amount": 14890.01,
+        "amount": 14873.32,
         "base": "WBTC",
         "code": "WBTC",
         "color": "#282138",

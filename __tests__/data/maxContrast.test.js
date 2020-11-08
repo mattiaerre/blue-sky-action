@@ -17,8 +17,8 @@ const scenarios = [
     foreground: BLACK
   },
   {
-    background: '#302C2C',
-    descrition: '',
+    background: '#4CAF50',
+    descrition: 'white on green',
     foreground: WHITE
   }
 ];
