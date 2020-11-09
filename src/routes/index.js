@@ -27,7 +27,11 @@ async function render(req, res, withArticles) {
   res.render('index', model);
 }
 
-router.get('/', render);
+router.get('/', (req, res) => {
+  // eslint-disable-next-line global-require
+  const model = require('./model.json');
+  res.render('index', model);
+});
 
 router.get('/blog', render);
 
