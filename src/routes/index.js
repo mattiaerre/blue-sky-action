@@ -14,9 +14,7 @@ async function render(req, res, withArticles) {
     articles = await makeArticles(source);
   }
   const ip = getIpAddress(req);
-  console.log('ip:', ip);
   const datetime = await fetchDatetime(ip);
-  console.log('datetime:', datetime);
 
   const model = await makeModel({
     articles,
@@ -26,7 +24,6 @@ async function render(req, res, withArticles) {
     datetime,
     url
   });
-  console.log('model:', model);
   res.render('index', model);
 }
 

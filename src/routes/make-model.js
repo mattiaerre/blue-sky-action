@@ -10,17 +10,16 @@ const GB = 'gb';
 const US = 'us';
 
 async function makeModel({ articles, baseUrl, datetime, url }) {
-  const now = moment().format();
-  /*
+  let now = moment().format();
   try {
     const pool = new Pool({ connectionString: process.env.DATABASE_URL });
     const { rows } = await pool.query('SELECT NOW()');
     now = moment(rows[0].now).format();
     pool.end();
   } catch (error) {
+    console.log('error:', error);
     debug(error);
   }
-  */
 
   let nowClient;
   if (datetime) {
