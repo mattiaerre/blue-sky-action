@@ -14,7 +14,9 @@ async function render(req, res, withArticles) {
     articles = await makeArticles(source);
   }
   const ip = getIpAddress(req);
+  console.log('ip:', ip);
   const datetime = await fetchDatetime(ip);
+  console.log('datetime:', datetime);
 
   const model = await makeModel({
     articles,
@@ -24,14 +26,11 @@ async function render(req, res, withArticles) {
     datetime,
     url
   });
+  console.log('model:', model);
   res.render('index', model);
 }
 
-router.get('/', (req, res) => {
-  // eslint-disable-next-line global-require
-  const model = require('./model.json');
-  res.render('index', model);
-});
+router.get('/', render);
 
 router.get('/blog', render);
 
