@@ -17,7 +17,6 @@ async function makeModel({ articles, baseUrl, datetime, url }) {
     now = moment(rows[0].now).format();
     pool.end();
   } catch (error) {
-    console.log('error:', error);
     debug(error);
   }
 
