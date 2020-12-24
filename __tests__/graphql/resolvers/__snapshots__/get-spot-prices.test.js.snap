@@ -39,6 +39,10 @@ Array [
     "currency": "USD",
   },
   Object {
+    "base": "MANA",
+    "currency": "USD",
+  },
+  Object {
     "base": "KNC",
     "currency": "USD",
   },
@@ -47,11 +51,23 @@ Array [
     "currency": "USD",
   },
   Object {
-    "base": "DAI",
+    "base": "DNT",
     "currency": "USD",
   },
   Object {
-    "base": "SAI",
+    "base": "MKR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CVC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OMG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DAI",
     "currency": "USD",
   },
   Object {
@@ -79,6 +95,10 @@ Array [
     "currency": "USD",
   },
   Object {
+    "base": "ALGO",
+    "currency": "USD",
+  },
+  Object {
     "base": "DASH",
     "currency": "USD",
   },
@@ -88,6 +108,54 @@ Array [
   },
   Object {
     "base": "OXT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "COMP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "REPV2",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BAND",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NMR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CGLD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "UMA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LRC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "YFI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "UNI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BAL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "REN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WBTC",
     "currency": "USD",
   },
   Object {
