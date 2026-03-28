@@ -11,7 +11,7 @@
     "postinstall": "npm run bundle",
     "start": "node ./src/bin/www",
     "start:dev": "DEBUG=blue-sky-action:* nodemon ./src/bin/www",
-    "style": "node-sass src/public/stylesheets/ -o src/public/stylesheets/ --source-map true",
+    "style": "sass src/public/stylesheets/:src/public/stylesheets/ --source-map",
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
@@ -74,7 +74,7 @@
     "husky": "^4.3.0",
     "jest": "^26.6.3",
     "lint-staged": "^10.5.1",
-    "node-sass": "^5.0.0",
+    "sass": "^1.0.0",
     "nodemon": "^2.0.6",
     "prettier": "^2.1.2",
     "webpack-cli": "^3.3.12"

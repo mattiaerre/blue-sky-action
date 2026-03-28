@@ -1,52 +1,67 @@
 body {
-  font-family: 'Inconsolata', monospace; }
+  font-family: "Inconsolata", monospace;
+}
 
 h2,
 h3 {
-  color: #0047b0; }
+  color: #0047b0;
+}
 
 .navbar {
-  background: #ea2381; }
+  background: #ea2381;
+}
 
 .coinbase,
 .error {
-  padding: 2rem; }
+  padding: 2rem;
+}
 
 div.card-body.weather {
-  padding: 0; }
-  div.card-body.weather div.react-open-weather-map {
-    background-color: rgba(255, 255, 255, 0.5);
-    padding: 1.25rem; }
-    div.card-body.weather div.react-open-weather-map div.main-heading {
-      color: #0047b0;
-      font-weight: bold; }
+  padding: 0;
+}
+div.card-body.weather div.react-open-weather-map {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 1.25rem;
+}
+div.card-body.weather div.react-open-weather-map div.main-heading {
+  color: #0047b0;
+  font-weight: bold;
+}
 
 .Price .card-body {
   align-items: center;
   display: flex;
-  flex-direction: column; }
-  .Price .card-body span {
-    align-items: center;
-    display: flex; }
-    .Price .card-body span span:first-child {
-      font-size: 2rem; }
-    .Price .card-body span span:nth-child(2) {
-      font-size: 3rem; }
-    .Price .card-body span span:last-child {
-      font-size: 2rem; }
+  flex-direction: column;
+}
+.Price .card-body span {
+  align-items: center;
+  display: flex;
+}
+.Price .card-body span span:first-child {
+  font-size: 2rem;
+}
+.Price .card-body span span:nth-child(2) {
+  font-size: 3rem;
+}
+.Price .card-body span span:last-child {
+  font-size: 2rem;
+}
 
 .Everything__autocomplete ul {
   margin: 0 0.5rem;
   padding: 0;
   position: absolute;
-  z-index: 10; }
-  .Everything__autocomplete ul li {
-    background-color: white;
-    border-color: rgba(0, 0, 0, 0.15);
-    border-style: solid;
-    border-width: 0 1px 1px 1px;
-    padding: 0.25rem 0.5rem; }
-    .Everything__autocomplete ul li:last-child {
-      border-radius: 0 0 5px 5px; }
+  z-index: 10;
+}
+.Everything__autocomplete ul li {
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-style: solid;
+  border-width: 0 1px 1px 1px;
+  padding: 0.25rem 0.5rem;
+}
+.Everything__autocomplete ul li:last-child {
+  border-radius: 0 0 5px 5px;
+}
 
 /*# sourceMappingURL=style.css.map */

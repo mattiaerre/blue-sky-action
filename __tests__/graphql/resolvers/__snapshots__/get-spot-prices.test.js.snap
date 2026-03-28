@@ -3,107 +3,19 @@
 exports[`to match snapshot 1`] = `
 Array [
   Object {
-    "base": "BTC",
+    "base": "C98",
     "currency": "USD",
   },
   Object {
-    "base": "BCH",
+    "base": "CLANKER",
     "currency": "USD",
   },
   Object {
-    "base": "BSV",
+    "base": "BNT",
     "currency": "USD",
   },
   Object {
-    "base": "ETH",
-    "currency": "USD",
-  },
-  Object {
-    "base": "ETC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "LTC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "ZRX",
-    "currency": "USD",
-  },
-  Object {
-    "base": "USDC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "BAT",
-    "currency": "USD",
-  },
-  Object {
-    "base": "MANA",
-    "currency": "USD",
-  },
-  Object {
-    "base": "KNC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "LINK",
-    "currency": "USD",
-  },
-  Object {
-    "base": "DNT",
-    "currency": "USD",
-  },
-  Object {
-    "base": "MKR",
-    "currency": "USD",
-  },
-  Object {
-    "base": "CVC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "OMG",
-    "currency": "USD",
-  },
-  Object {
-    "base": "DAI",
-    "currency": "USD",
-  },
-  Object {
-    "base": "ZEC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "XRP",
-    "currency": "USD",
-  },
-  Object {
-    "base": "REP",
-    "currency": "USD",
-  },
-  Object {
-    "base": "XLM",
-    "currency": "USD",
-  },
-  Object {
-    "base": "EOS",
-    "currency": "USD",
-  },
-  Object {
-    "base": "XTZ",
-    "currency": "USD",
-  },
-  Object {
-    "base": "ALGO",
-    "currency": "USD",
-  },
-  Object {
-    "base": "DASH",
-    "currency": "USD",
-  },
-  Object {
-    "base": "ATOM",
+    "base": "BOBA",
     "currency": "USD",
   },
   Object {
@@ -111,35 +23,103 @@ Array [
     "currency": "USD",
   },
   Object {
+    "base": "REP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ACH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DOGINME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "POND",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SYRUP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WMTX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XTZ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CTX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GMT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "JUPITER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RARI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TRUST",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AKT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ASTER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ELA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GFI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "L3",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LQTY",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ONDO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "USELESS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BNKR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BOBBOB",
+    "currency": "USD",
+  },
+  Object {
     "base": "COMP",
     "currency": "USD",
   },
   Object {
-    "base": "REPV2",
+    "base": "FET",
     "currency": "USD",
   },
   Object {
-    "base": "BAND",
-    "currency": "USD",
-  },
-  Object {
-    "base": "NMR",
-    "currency": "USD",
-  },
-  Object {
-    "base": "CGLD",
-    "currency": "USD",
-  },
-  Object {
-    "base": "UMA",
-    "currency": "USD",
-  },
-  Object {
-    "base": "LRC",
-    "currency": "USD",
-  },
-  Object {
-    "base": "YFI",
+    "base": "FUN1",
     "currency": "USD",
   },
   Object {
@@ -147,19 +127,171 @@ Array [
     "currency": "USD",
   },
   Object {
-    "base": "BAL",
+    "base": "WCT",
     "currency": "USD",
   },
   Object {
-    "base": "REN",
+    "base": "WLD",
     "currency": "USD",
   },
   Object {
-    "base": "WBTC",
+    "base": "EDGE",
     "currency": "USD",
   },
   Object {
-    "base": "EUR",
+    "base": "AAVE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ABT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AERGO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ERA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FLOW",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NOICE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BERA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DASH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KERNEL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LSETH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MOG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "QNT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FIGHT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MAGIC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PEPE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SEAM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TRAC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AXL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OSMO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PAX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PERP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ARKM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "COSMOSDYDX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DBR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ETH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GODS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LIGHTER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "REQ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SHPING",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FORTH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "JITOSOL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PIRATE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TOSHI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TURBO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "VARA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALLO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DOGE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EUL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FLOKI",
     "currency": "USD",
   },
   Object {
@@ -167,11 +299,1279 @@ Array [
     "currency": "USD",
   },
   Object {
-    "base": "CAD",
+    "base": "GWEI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IRYS",
     "currency": "USD",
   },
   Object {
     "base": "JPY",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MANA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AMP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ELSA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HOPR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KAITO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ROBO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ROSE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "STRK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CORECHAIN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "INX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MON",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SUKU",
+    "currency": "USD",
+  },
+  Object {
+    "base": "THQ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XPL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZETA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ATOM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CVC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GNO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LINK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "S",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SEI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SENT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZEN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ANKR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AST",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AVAX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CBETH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DAI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TRIA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "UP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CTSI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BIRB",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CRV",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NKN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RECALL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "B3",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BCH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DEGEN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FLUID",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PNUT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RONIN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SUPER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TRU",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AIOZ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "COTI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GRT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HNT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SYND",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XLM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GTC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IDEX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KAVA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "POL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PRL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PYR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RAD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "T",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IMX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KARRAT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MATH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DOOD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BLZ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FLOCK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MSOL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TAO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LRC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DEXT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FARM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FORT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LDO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RLC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "USDT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZKP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HONEY",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NOM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SUP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TROLL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "VET",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZORA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EUR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FIDA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LINEA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PRIME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PYUSD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SXT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TIA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TREE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ADA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CGLD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ENS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FIS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "INJ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "JASMY",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SHDW",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SOL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "COW",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SPA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TRB",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZAMA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FIL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "INV",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LCX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PLUME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PROVE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XAN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AUDIO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MNDE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SPELL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XSGD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALGO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BICO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EGLD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HOME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MOODENG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SQD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZEC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZKC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BLUR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GLM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "VELO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XYO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ARB",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LPT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "POPCAT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TOWNS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "2Z",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BRL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RAVE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RLS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AERO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AGLD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HYPE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "METIS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SKR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "STORJ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALEPH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "G",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MPLX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PRO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RPL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PENDLE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PNG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TNSR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TON",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ETHFI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MLN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SGD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "USD1",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CAD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CRO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XCN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZRO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AUD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LAYER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "USDS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "APT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BLAST",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SAFE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SAPIEN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "USDC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "00",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GIGA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GST",
+    "currency": "USD",
+  },
+  Object {
+    "base": "POLS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DOLO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MET",
+    "currency": "USD",
+  },
+  Object {
+    "base": "VVV",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WAL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WLFI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "APR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BAND",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BONK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KAT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KITE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MDT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NMR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SHIB",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ESP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HFT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ICP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ILV",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SNX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "UMA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "XRP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALCX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AVT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BAT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BTRST",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FARTCOIN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OPN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "POWR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "QI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "APE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AURORA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AXS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FAI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "JTO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NEAR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OGN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PRCL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "A8",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IMU",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KRL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "REZ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RSR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "STG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SUI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SUSHI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BEAM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RARE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RAY",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SPX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WET",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZETACHAIN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALEO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALICE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "COOKIE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EIGEN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OCEAN",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RNBW",
+    "currency": "USD",
+  },
+  Object {
+    "base": "VOXEL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BIO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FLR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PUMP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WELL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AUCTION",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AZTEC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CHZ",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HIGH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "YFI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ETC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ORCA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PLU",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PROMPT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RENDER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SAND",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TIME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ASM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ATH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BNB",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DEEP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "FOX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KMNO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KSM",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RSC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KEYCAT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DNT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ALT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ARPA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CFG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DIMO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HYPER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SPK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MASK",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BREV",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DIA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "EURC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ICNT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IOTX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SKY",
+    "currency": "USD",
+  },
+  Object {
+    "base": "VTHO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LMTS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LTC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ACX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BARD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BIGTIME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "STX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "W",
+    "currency": "USD",
+  },
+  Object {
+    "base": "YB",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CVX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DOT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ENA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "HBAR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ME",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZRX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "API3",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CELR",
+    "currency": "USD",
+  },
+  Object {
+    "base": "GHST",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KNC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MINA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SWELL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BAL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BTC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "DRIFT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "LRDS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NEON",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NEWT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "OMNI",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PUNDIX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "1INCH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ACS",
+    "currency": "USD",
+  },
+  Object {
+    "base": "BADGER",
+    "currency": "USD",
+  },
+  Object {
+    "base": "CAKE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "INDEX",
+    "currency": "USD",
+  },
+  Object {
+    "base": "IO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "KTA",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MAMO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AUDD",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PYTH",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SKL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WAXL",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MANTLE",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PENGU",
+    "currency": "USD",
+  },
+  Object {
+    "base": "SWFTC",
+    "currency": "USD",
+  },
+  Object {
+    "base": "TRUMP",
+    "currency": "USD",
+  },
+  Object {
+    "base": "AVNT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "MORPHO",
+    "currency": "USD",
+  },
+  Object {
+    "base": "NCT",
+    "currency": "USD",
+  },
+  Object {
+    "base": "PAXG",
+    "currency": "USD",
+  },
+  Object {
+    "base": "RED",
+    "currency": "USD",
+  },
+  Object {
+    "base": "WIF",
+    "currency": "USD",
+  },
+  Object {
+    "base": "ZK",
     "currency": "USD",
   },
 ]
