@@ -30,10 +30,12 @@ class Articles extends Component {
     loading: true
   };
 
-  componentWillReceiveProps(props) {
+  componentDidUpdate(prevProps) {
     // info: https://stackoverflow.com/questions/32261441/component-does-not-remount-when-route-parameters-change
-    this.setState({ loading: true });
-    this.getArticles(props.baseUrl, props.match.params.source);
+    if (prevProps.match.params.source !== this.props.match.params.source) {
+      this.setState({ loading: true });
+      this.getArticles(this.props.baseUrl, this.props.match.params.source);
+    }
   }
 
   getArticles = (baseUrl, source) => {

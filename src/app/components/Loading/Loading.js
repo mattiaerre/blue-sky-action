@@ -2,11 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const getWidth = loading => {
-  const data = [25, 50, 75];
-  if (loading) {
-    return data[Math.floor(Math.random() * data.length)];
-  }
-  return 100;
+  return loading ? 25 : 100;
 };
 
 const Loading = ({ loading }) => {
